@@ -230,11 +230,3 @@ Ka-dara shares a connection with [Soletud](../sectors/soletud.md) — an ancient
 - [Galactic Atlas](../../reference/atlas/galactic_atlas.md) — Ka-dara listed as MRZ AI/autonomous entity sector
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-KAD1: What caused the Ka-raviam empire's decline?
-- ⏸️ Q-KAD2: The "elusive plant" from HRZ — does it have a name?
-- ✅ ~~Q-KAD3: Gate Garrison~~ → Formidable bounty-hunter collective from HRZ. See `gate_garrison.md`
-- ⏸️ Q-KAD4: Ka-raviam species — what did they look like? Are they related to any known species?
-- ⏸️ Q-KAD5: The resurrected entity — is this confirmed canon or deliberate rumor?

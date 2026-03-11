@@ -183,17 +183,6 @@ The Swamp Lords' Onato box site — a sacred artifact — is the most sensitive 
 - [Named Characters](../meta/named_characters.md) — Ondara Valel, Muumaan Jura, Selkora Scarka
 
 ---
-
-## 🔮 Open Questions
-
-- **What do the Sealed Chapters contain?** — The galaxy's most tantalizing cultural mystery. If they contradict official ONI history, what truth do they preserve? The answer could reshape Mierese political identity
-- **Ondara's successor** — Is Selkora Scarka being groomed for the Chief position? If so, will the Sealed Chapters survive the transition, or will a new Chief decide to unseal?
-- **The Hikibashi endgame** — Has the Undertow penetrated any of the three successor positions? If a Hikibashi mole learns the Sealed Chapters, does the information go to ONI leadership — or stay buried?
-- **The Chapter of Silence** — Seven Chapters have been lost to history. Could any be reconstructed from the Scriptorium's written records? Would the Keepers accept reconstructed knowledge as legitimate?
-- **Onato's full significance** — Do the Keepers know things about the Swamp Lords' sacred artifact that the Lords themselves do not? And if so, what obligation — spiritual or political — does that knowledge create?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -159,11 +159,3 @@ Different species have natural advantages in HRZ environments:
 - Core Saga (Polei reference) — `canon/narratives/` (TBD)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-MAT1: Full list of manufacturer specializations beyond Gria (warping) and Pierce (firepower)?
-- ⏸️ Q-MAT2: How does the Polei component from the Core Saga relate to Tufa-derived materials?
-- ⏸️ Q-MAT3: Are there metagenic materials NOT derived from Tufas? (e.g., Living Factories technology, Ustur cybernetic materials)
-- ⏸️ Q-MAT4: What synthesis skills are required? Is this tied to crew member species or training?
-- ⏸️ Q-MAT5: Can metagenic materials be traded between players, or are they soulbound on acquisition?

@@ -101,11 +101,3 @@ Planet Etira is the **last capital of the Black Market Auction House (BMAH)** an
 - Bluvael — `canon/geography/sectors/bluvael.md` (Photoli illusion — parallel manipulation)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ETI1: What species IS the Dreamer Below? Pre-Convergence? Ancient?
-- ⏸️ Q-ETI2: Full details from the "Never Alone" story (Creator to share)
-- ⏸️ Q-ETI3: What exactly is the silver gem Bah looted from the Dreamer's corpse?
-- ⏸️ Q-ETI4: Has the Dreamer's destruction ended all psychic influence on Yuldun Waste, or does residual energy linger?
-- ⏸️ Q-ETI5: Is Etira now permanently abandoned, or will new inhabitants claim it?

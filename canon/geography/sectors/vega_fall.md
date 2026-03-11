@@ -103,9 +103,3 @@ Vega Fall is a **grim chapter** in the annals of Sogmian history. A tale so hear
 - Convergence War — `canon/history/convergence_war.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-VEG1: Name of the House Outro journalist?
-- ⏸️ Q-VEG2: Did Lutavira discover anything significant when reforming the citadel?
-- ⏸️ Q-VEG3: Named Lutavira leaders currently operating from Vega Fall?

@@ -102,9 +102,3 @@ Known only by a select few with high-level access. Can shift faction-level decis
 - Iris / The Cataclysm — referenced in Rank X example (`canon/geography/the_cataclysm.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-SDU1: Are SDUs physical objects, digital tokens, or conceptual classifications?
-- ⏸️ Q-SDU2: Can SDU ranks change over time? (e.g., an S-rank secret becomes B-rank after it's publicly exposed)
-- ⏸️ Q-SDU3: Who are the primary Data Runners in the galaxy? Is that a formal profession?

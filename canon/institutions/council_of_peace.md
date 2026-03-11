@@ -110,10 +110,3 @@ Leadership rotates every **galactic cycle (~5 Old Earth years)**. Each faction a
 - Pergamos Offensive — `canon/geography/sectors/pergamos.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-COP1: Full structure~~ ✅ RESOLVED: 3 branches (Executive/Legislative/Legal), rotational leadership.
-- ~~Q-COP2: Faction relationships~~ ✅ RESOLVED: Scarka (militarist) vs Opos (pacifist) vs Charon (silent diplomat).
-- ~~Q-COP3: Golden Era policies~~ ✅ PARTIALLY: Starpath gates (~2526 construction start), Cradle (~2526 construction start), trade regulation, peacekeeping. Details TBD.
-- ~~Q-COP4: ECOS membership~~ ✅ RESOLVED: ~2527, admitted as non-voting member after MUD lobby blocked major faction status.

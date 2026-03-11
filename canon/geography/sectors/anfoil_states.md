@@ -129,12 +129,3 @@ The Anfoil States stand as a testament to **ideological divergence**. Governed b
 - The Seed / Uru's Watch — `canon/factions/anfoil_state.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ANF1: Specific technological specializations of each planet? *(deferred — faction session TBD)*
-- ⏸️ Q-ANF2: How does the Anfoil ritual (emotion/core suppression) work technically?
-- ⏸️ Q-ANF3: Did Ponel's plan to seize the Seed succeed or fail?
-- ⏸️ Q-ANF4: What is inside Uru's Watch?
-- ⏸️ Q-ANF5: Population and planet count *(deferred — faction session TBD)*
-- ⏸️ Q-ANF6: What happened to Armi.eldr? *(mystery — TBD)*

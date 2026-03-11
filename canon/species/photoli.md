@@ -131,11 +131,3 @@ Photoli society lacks a central government. They are highly self-sufficient.
 - **Ka-dara**: `canon/geography/sectors/ka_dara.md` (Dark Photoli fight in Om's youth led to Lumikir encounter)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-PH8: ONI Paradox~~ ✅ RESOLVED: Hidden Agenda (Long game for Iris).
-- ~~Q-PH9: Dawnbreak Survival~~ ✅ RESOLVED: Hidden in HRZ, but outside Cataclysm (no access to Iris yet).
-- ~~Q-PH10: Dark Photoli Cabal?~~ ✅ RESOLVED: No, arrogant loners.
-- ~~Q-PH11: Ascension Mechanics~~ ✅ RESOLVED: Gradual transmutation.
-- ~~Q-PH12: Inter-species Essence Trading~~ ✅ RESOLVED: Possible but inefficient/costly.

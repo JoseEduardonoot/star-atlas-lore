@@ -100,10 +100,3 @@ Everstorm stands as a testament to the profound power of Galia's galactic ecosys
 - Navigation hazards — comparable to Perpetual Belt (`canon/geography/sectors/perpetual_belt.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-EVE1: Names of the 9 Nimbus Spheres?
-- ⏸️ Q-EVE2: What rare resources does Everstorm produce? (Deferred — Creator will detail)
-- ⏸️ Q-EVE3: Is the Iris influence growing or stable?
-- ⏸️ Q-EVE4: Fimbul's fuller history as a neutral MRZ manufacturer

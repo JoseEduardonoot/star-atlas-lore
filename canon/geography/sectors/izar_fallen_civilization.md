@@ -61,10 +61,3 @@ Long before the factions of Galia Expanse turned their eyes to the stars, an **a
 - Soletud — another sector with ancient ruins (distinct civilization)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-IFC1: Did the Izar civilization have contact with the Ka-raviam or other ancient powers?
-- ⏸️ Q-IFC2: Were their gravitational experiments intentional weapons research or peaceful science gone wrong?
-- ⏸️ Q-IFC3: Do any artifacts or technology fragments survive in the underground depths?
-- ⏸️ Q-IFC4: What species were they? Any relation to known Galia species?

@@ -262,18 +262,3 @@ Chior's centuries of diplomatic work have woven Zenith Door into a web of relati
 - Faction Classification — `canon/meta/faction_power_classification.md` (T2 — Sector Power)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-ZEN1: Species/rank~~ → **Ustur Elder** (confirmed via `ustur.md`)
-- ✅ ~~Q-ZEN2: Chior.eldr full character deep-dive~~ → Full timeline compiled from birth (~2391) through COP crisis (~2623). Trained by Armi.eldr, twin pupil with Ponel.eldr
-- ✅ ~~Q-ZEN3: Iris Academy full structure and research areas~~ → Council of Professors, AI overseer, Project Starpath, Carvum details. Further department-level detail deferred for Creator
-- ✅ ~~Q-ZEN4: Dawn Vanguard — fleet composition, commander?~~ → C11 capital ship, Sogmian commander, missile barrages, tractor beams. Commander's name still unknown
-- ✅ ~~Q-ZEN5: Prof. Exfeheros — species, background?~~ → **Punaab**. Full name "Exfeheros Platinum Bar". Greatest scientist in Galia. Developed Weeping Nebula exploration tech
-- ⏸️ Q-ZEN6: COP invasions full timeline and details (partially enriched — Pergamos + Frenir confirmed, Scarka's truce milestones added)
-- ⏸️ Q-ZEN7: Dawn Vanguard commander's name?
-- ⏸️ Q-ZEN8: Does Chior know the full truth of what Herdus became? (Church of the Dreamer Below, BMAH)
-- ⏸️ Q-ZEN9: How does Chior feel about the Dawn Vanguard stationed in his sector?
-- ⏸️ Q-ZEN10: How many worlds/stations does Zenith Door have beyond Carvum? (Phase 2 — World Sheets)
-- ⏸️ Q-ZEN11: What is the sector's economy beyond the Iris Academy?
-- ⏸️ Q-ZEN12: What other factions operate in or pass through Zenith Door?

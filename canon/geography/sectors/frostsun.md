@@ -110,11 +110,3 @@ Frostsun is a sector locked in an **eternal wintry embrace**. Its star was **har
 - Lt. Wenn Saga — storyline TBD (connects to Lost Scouts)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-FRO1: Identity of the ancient star-farming civilization?
-- ⏸️ Q-FRO2: Lt. Wenn Saga — full storyline (deferred)
-- ⏸️ Q-FRO3: Semi-sentient native creatures — species, culture, abilities (deferred — **TO CREATE**)
-- ⏸️ Q-FRO4: How many underground cities exist in Frostsun?
-- ⏸️ Q-FRO5: What happens when the star finally dies? Evacuation plan?

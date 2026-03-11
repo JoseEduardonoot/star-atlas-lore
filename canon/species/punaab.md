@@ -184,11 +184,3 @@
 - Cross-species financial haven
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-P1 through Q-P7~~ ✅ ALL RESOLVED
-- ⏸️ Q-P8: Saand / "Never Alone" — TABLED (separate story, escapes Punaab scope)
-- ~~Q-P9: Denebula~~ ✅ RESOLVED — see `canon/geography/denebula_utopia.md`
-- ~~Q-P10: Professor Exfeheros / Iris Academy~~ ✅ Cross-referenced in `anfoil_state.md`
-- ~~Q-P11: God of the Mist~~ ✅ RESOLVED — colossal squid, 99.9% sleeping in Sea of Mist

@@ -109,12 +109,3 @@ The anomalies manifest in capricious, unpredictable ways:
 - Yuldun Waste — `canon/geography/sectors/yuldun_waste.md` (planned fence location)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-ZAV1: Convergence War connection?~~ → Not the war itself. HRZ relic hunters stole a Tufa Titan artifact and activated it accidentally in Zavijava.
-- ⏸️ Q-ZAV2: Vortex Watchers — any named leaders or notable researchers?
-- ⏸️ Q-ZAV3: Has anyone ever been "unfrozen" from stasis and reported what they experienced?
-- ✅ ~~Q-ZAV4: Anomalies getting worse or fading?~~ → Stable but weakening. Artifact energy depleting with no recharge source.
-- ⏸️ Q-ZAV5: What happened to the original relic hunters? Dead? Frozen in time? Scattered?
-- ⏸️ Q-ZAV6: Does Bklok know the artifact is in Zavijava?

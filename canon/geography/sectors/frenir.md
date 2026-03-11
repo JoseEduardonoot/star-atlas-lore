@@ -183,11 +183,3 @@ Before the COP intervention, Frenir suffered one of the most devastating **ecolo
 - Chapter 2 Holosim — `canon/history/chapter2_holosim_balifa_campaign.md` (Frenir trauma drives ONI campaign)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-FRE1: Full backstory of Patrah~~ → Documented in `sons_of_patrah.md`
-- ✅ ~~Q-FRE2: Order of Patrah structure~~ → Documented in `sons_of_patrah.md` (Hearth System, three branches)
-- ⏸️ Q-FRE3: Where exactly is Yuldun Waste? MRZ? HRZ?
-- ⏸️ Q-FRE4: Vaor Skarca — species, background, political motives
-- ⏸️ Q-FRE5: Named warlords who escaped?

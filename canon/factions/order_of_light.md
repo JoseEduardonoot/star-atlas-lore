@@ -185,18 +185,6 @@ This silence is the Order's most powerful asset. If the Photoli denied the Order
 - [Master Timeline](../meta/master_timeline.md) — Pre-Convergence War founding
 
 ---
-
-## 🔮 Open Questions
-
-- **Fah's relationship to Ahr** — Does Fah know Ahr? Are they connected? Did Fah witness Ahr's interaction with humanity — and is the Order a continuation of Ahr's mission, or an exploitation of it?
-- **The army** — Does it exist? Soldiers empowered by esoteric rituals tapping into Fah's essence would represent a paradigm no conventional military can counter. Evidence remains elusive — but the structural indicators are consistent
-- **The upper tiers** — What happens above Tier 5? What knowledge do the Ascended possess? If the esoteric rituals are real, what do they grant — and at what cost?
-- **The Church's response** — How long before the Holy Servants escalate from theological condemnation to political or military action? The Church controls Verzan's establishment, but the Order is winning the people
-- **MUD's breaking point** — How long before MUD decides the ancient contract is less important than the security risk? A military operation against Bilguese — a holy site inside MUD's spiritual capital — would create galactic outcry
-- **The Photoli silence** — Why won't the mainstream Photoli species address the Order? Strategic indifference? Embarrassment? Or does a Photoli faction benefit from the Order's existence?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

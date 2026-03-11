@@ -222,9 +222,3 @@ The playable timeline of Star Atlas. The galaxy's political tensions, faction ri
 - Everstorm creatures: `canon/geography/sectors/everstorm.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ERA1: Exact date boundaries for the Foundation Era — when did each species reach spacefaring status?
-- ⏸️ Q-ERA2: Are there named eras within Ustur, Mierese, or Punaab histories that align with this framework?
-- ⏸️ Q-ERA3: When exactly does the "playable" Current Age start in gameplay terms?

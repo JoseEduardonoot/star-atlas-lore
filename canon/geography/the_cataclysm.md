@@ -44,10 +44,3 @@ The **Cataclysm** is a territory within the **High-Risk Zone (HRZ)** where **Iri
 - Treaty of Peace — `canon/institutions/council_of_peace.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-CAT1: Iris nature~~ ✅ RESOLVED: Sentient planet, fractured mind.
-- ~~Q-CAT2: Reality influence~~ ✅ RESOLVED: Cosmic currents = paranoid mind manifestations.
-- ~~Q-CAT3: Tufa value~~ ✅ RESOLVED: **Genesium** inside bodies (rarest material).
-- ~~Q-CAT4: Sealed access~~ ✅ RESOLVED: Illegal by COP law, tech guarded.

@@ -90,11 +90,3 @@ This altruistic ethos magnetizes countless souls from diverse origins, each aspi
 - Slavers of Frenir — `canon/factions/slavers_of_frenir.md` (primary enemy target)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-EOL1: Who leads Eol-Garadar?~~ → **Grand Master Zagah** (Ustur Elder) leads via DAC governance. See `garadar_dac.md`
-- ✅ ~~Q-EOL2: Species composition?~~ → Truly multi-species: Ustur monks, MUD settlers, Sogmian laborers, Mierese scouts, Punaab traders
-- ✅ ~~Q-EOL3: Military structure?~~ → Legions (500-2,000 multi-species), Gravity Patrols (20-50), Scout Wings, Matel Guard. See `garadar_dac.md`
-- ⏸️ Q-EOL4: Relationship with Chior.eldr / Zenith Door? (Both seek peace but through different means — Chior via diplomacy, Zagah via action)
-- ✅ ~~Q-EOL5: Specific slaver factions?~~ → Slavers of Frenir (remnants), Jorvik criminal networks. Active border patrols in Frenir (~2624+)

@@ -108,11 +108,3 @@ The Kamec Sector, presided over by the **Democratic Order of Kamec**, is a basti
 - Potential crisis — parallel to Free Harbors powder keg (`canon/geography/sectors/free_harbors.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-KAM1: Which collapsed HRZ empire created the clone technology?
-- ⏸️ Q-KAM2: Are the clones developing independent consciousness or just drifting algorithmically?
-- ⏸️ Q-KAM3: What specific materials/crystals does Kamec produce? (Deferred)
-- ⏸️ Q-KAM4: Has any faction attempted espionage to audit the Kamec system?
-- ⏸️ Q-KAM5: What would the clones do if exposed — resist? Negotiate? War?

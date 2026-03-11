@@ -119,16 +119,6 @@ The COP has been told — politely, firmly, and repeatedly — to leave. Bluvael
 | [COP](../institutions/council_of_peace.md) | Told to leave — repeatedly |
 
 ---
-
-## 🔮 Open Questions
-
-- **What generates the illusion?** — Natural phenomenon or ancient technology? The answer could redefine the sector's significance from "mining colony" to "archaeological site"
-- **The Dead Zone** — What lies below the dark water? The Iris Academy expedition will either answer this question or add to the list of expeditions that vanished trying
-- **The Bluvael Blues** — Psychosomatic or genuine? If the compulsion to dive is real — if something is calling — what is it, and why does it want people to descend?
-- **The Consortium's future** — Frontier governance works when populations are small. At 50,000 and growing, how long before Bluvael needs institutions its founders explicitly rejected?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

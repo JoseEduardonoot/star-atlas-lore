@@ -76,9 +76,3 @@ The spectacle draws diverse crowds:
 - SDU System — `canon/systems/sdu_classification.md` (retired captains as knowledge sources)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-DRM1: How frequent is the Ephemeral Nebula?~~ → Every six months, lasts one day.
-- ✅ ~~Q-DRM2: Medicinal flora specifics?~~ → Yes, many exist. To be explored in a future deep dive.
-- ⏸️ Q-DRM3: Is there a formal institution (hospital, retreat center, academy) for the psyche/healing traditions?

@@ -197,17 +197,6 @@ The scavenger population is the galaxy's largest proof of concept and its most m
 - [Master Timeline](../meta/master_timeline.md) — ~2523 Bekalu's vengeance, ~2550 Flotsam Exchange
 
 ---
-
-## 🔮 Open Questions
-
-- **The Maw** — What is in the deepest tier of the Akalma Deep? No crew has completed a full run. The Cosmic Current effect there is unknown. The cries at Deep tier already address scavengers by name — what happens deeper?
-- **The Memory Core evidence** — If the Sogmian Memory Core proves Akalma's innocence, who framed them? And what happens to the Sogmian species when they discover Bekalu's vengeance was committed against the innocent?
-- **The Void Anchor** — Is it a Living Factories artifact? If so, why was it in a Cosmic Current cavity? The intersection of Iris's cosmic fabric and Living Factories technology suggests connections no one has mapped
-- **The Izarian near-contact** — Scavengers discovered an underground city with active defenses on Izar-248. The Izarians don't know the galaxy exists. What happens when someone penetrates deep enough for first contact?
-- **The scavenger paradox resolution** — If the Malkabaets succeed and the COP authorizes HRZ colonization, the scavengers lose their livelihood. Would they resist? Adapt? Or has a generation of HRZ survival already made them the galaxy's best frontier settlers?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

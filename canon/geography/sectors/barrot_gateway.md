@@ -144,11 +144,3 @@ The wormhole is a gateway to a **pocket dimension in the HRZ** controlled by a *
 - COP jurisdiction in MRZ — `canon/institutions/council_of_peace.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-BAR1: Is the Photoli game master a Dark Photoli or mainstream? Named character?
-- ⏸️ Q-BAR2: House Xictus — is this a known Sogmian house or needs to be added to the canon? (Current canon: 6 named houses + House Gray = 7)
-- ⏸️ Q-BAR3: Does the temporal pendant work only for the wormhole or does it have broader applications?
-- ⏸️ Q-BAR4: Who are the major casino operators? (Deferred — Creator will develop later)
-- ⏸️ Q-BAR5: Are there any Galian authorities who suspect the true nature of the wormhole?

@@ -157,17 +157,6 @@ Both Fimbul ECOS and Fimbul BYOS employ Sogmian engineers from **House Busan**: 
 - [Master Timeline](../meta/master_timeline.md) — ~2530s schism, ~2623 Pergamos raids
 
 ---
-
-## 🔮 Open Questions
-
-- **The Prince bid** — Will Torben succeed? The Jorvik connection is his greatest liability — but Albiron made his fortune in wartime arms distribution and was accepted. Is the standard hypocrisy or is there a genuine line?
-- **The Busan hedge** — Are House Busan's placements across all three Fimbul branches deliberate? If so, what is the House's endgame? Sogmian Houses don't place talent randomly
-- **COP escalation** — The Pergamos raids disrupted operations but didn't shut BYOS down. If COP pushes harder — specifically targeting the Jorvik supply chain — could they force Torben to choose between the Pirate King's ATLAS and the Merchant Princes' approval?
-- **The Dalla pipeline** — Dalla "D" Vickers is a former Jorvik pirate managing the supply pipeline. If COP flips her — through prosecution threats or financial incentive — the entire BYOS-Jorvik relationship becomes exposed. Is Dalla loyal to Torben, or loyal to the highest bidder?
-- **Snap-lock proliferation** — The snap-lock system is so effective that captured BYOS ships can be reverse-engineered. If the technology spreads to unauthorized manufacturers, BYOS loses its competitive moat. Is Torben protecting the IP, or has he already lost control?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -125,10 +125,3 @@ The Free Harbors stand as the **informal heart of the medium zone**, embodying t
 - DAO governance — parallel to Frenir (`canon/geography/sectors/frenir.md`) but organic, not COP-imposed
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-FRH1: How many docks/harbors exist? Named docks?
-- ⏸️ Q-FRH2: Named founding figures from the Convergence War era?
-- ⏸️ Q-FRH3: Which dock(s) are most associated with Jorvik activity?
-- ⏸️ Q-FRH4: What specific inter-dock disputes are currently simmering?

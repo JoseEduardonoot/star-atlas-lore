@@ -72,10 +72,3 @@ The sector's unique properties gave birth to the **Relic Barons** — a group of
 - ATLAS — investment currency for exploration
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-HAR1: What is the precise connection between The Living Factory and Harkend?
-- ⏸️ Q-HAR2: How do the mechanical life forms on Harkend's moons behave? Hostile, neutral, or welcoming?
-- ⏸️ Q-HAR3: What specific relics have the Relic Barons discovered?
-- ⏸️ Q-HAR4: What triggered Harkend's appearance at the end of the Convergence War specifically?

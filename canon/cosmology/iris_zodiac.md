@@ -221,11 +221,3 @@ Events may trigger cosmic current effects. They can also occur **randomly** or f
 - **Reality distortion** at Tier 5 = endgame-level content
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-IRI1: The Oxir Tribe — who are they? Species? Culture? HRZ location?
-- ⏸️ Q-IRI2: Why do Beast and Dusk have non-Oxian names (Avatena, Vinfid)?
-- ⏸️ Q-IRI3: Current aspect cycle — what aspect is "active" in the current timeline?
-- ⏸️ Q-IRI4: How do the aspects interact with The Cataclysm?
-- ⏸️ Q-IRI5: Do specific sectors have "fixed" aspects or do they all cycle?

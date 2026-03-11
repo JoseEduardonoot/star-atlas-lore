@@ -283,13 +283,3 @@
 | **Etira** | Former criminal capital | Former BMAH capital planet | [BMAH](../factions/black_market_auction_house.md) (scattered) | Herdus.soul's base of operations until death (~2624) |
 
 ---
-
-## Open Questions
-
-- ⏸️ Q-PLN1: Full planet list for Exodus system (5 planets — only capital named)
-- ⏸️ Q-PLN2: Named worlds in Abyd sector beyond territories (how many systems total?)
-- ⏸️ Q-PLN3: Individual planet names for the 6 Bluvael tomb worlds
-- ⏸️ Q-PLN4: Planet names within Pavo Passage beyond Crushspire and Okuto
-- ⏸️ Q-PLN5: Hanging Gardens — planet count and named worlds per grove
-- ⏸️ Q-PLN6: Free Harbors — individual harbor system names
-- ⏸️ Q-PLN7: Eternity system — full planetary manifest beyond Eternity Prime and Vestigios

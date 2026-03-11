@@ -174,17 +174,6 @@ Both claims are true. Neither is comforting.
 - [Named Characters](../meta/named_characters.md) — Kessler, Eko, Rallisa, Pullaraakenn, Crova.doer
 
 ---
-
-## 🔮 Open Questions
-
-- **What does the COP know?** — The movement's most dangerous question. If the COP is forced to disclose its classified HRZ intelligence, what happens? Does the data vindicate the Malkabaets or destroy them?
-- **The threshold** — At what percentage of Assembly seats does the movement become a governing majority? How close are they — and what would push moderates over the line?
-- **Kessler's endgame** — Is he a true believer or a politician using the movement for personal advancement? His background as a colonial administrator suggests experience, but also ambition
-- **The first colony** — If the Malkabaets succeed, where would the first HRZ colony be established? The answer reveals whether the movement is serious about systematic colonization or opportunistic resource extraction
-- **The scavenger paradox** — The Exile Scavengers' success supports the Malkabaets argument, but the scavengers themselves oppose organized colonization. If the government enters the HRZ, the scavengers lose their monopoly on HRZ salvage
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

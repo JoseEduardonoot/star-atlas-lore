@@ -82,11 +82,3 @@ Upon their arrival in this sector, the Ustur grappled with capturing the essence
 - Everstorm — `canon/geography/sectors/everstorm.md` (another extreme-environment MRZ sector)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-SUM1: Names of major underground settlements?
-- ⏸️ Q-SUM2: What specific gaseous deposits does the vegetation convert?
-- ⏸️ Q-SUM3: Population — Ustur-dominant or multi-species?
-- ⏸️ Q-SUM4: Economic output — what does Summer Sea export?
-- ⏸️ Q-SUM5: Governance structure?

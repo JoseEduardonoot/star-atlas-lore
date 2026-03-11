@@ -106,11 +106,3 @@ When the gravitational catastrophe of **~1965** shattered the moons and devastat
 - Paclets — unique underground plant (no parallel in known canon)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ISV1: What physical/mental changes did centuries underground cause?
-- ⏸️ Q-ISV2: Do any modern factions know the survivors exist?
-- ⏸️ Q-ISV3: Are the Paclets found anywhere else in Galia?
-- ⏸️ Q-ISV4: How many survived the genesium monster attacks?
-- ⏸️ Q-ISV5: Is there any connection between the underground survivors and the surface "deformed creatures" mentioned in the sector file?

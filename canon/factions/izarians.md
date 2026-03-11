@@ -173,18 +173,6 @@ The surface bears no sign of the civilization beneath — the moon debris pulver
 - [Master Timeline](../meta/master_timeline.md) — ~1965 catastrophe through ~2598 horror
 
 ---
-
-## 🔮 Open Questions
-
-- **The genesium-gravity link** — Did the ancestral civilization use genesium to power their gravitational experiments? If so, the catastrophe that destroyed them was caused by the same substance the Dark Photoli later weaponized. The cycle repeats
-- **Physical adaptation** — What have centuries underground done to the Izarian people? Are they still recognizably related to their ancestors — or has the deep crust created something new?
-- **The sealed Gate Locks** — What lies behind the permanently sealed blast doors? Some were sealed during the Descent. Others were sealed against the Genesium Horror. Whatever is behind either set of doors has been undisturbed for centuries
-- **The Nimrod connection** — The Trackers interact with Keeper councils for hunt permissions. This is the closest thing to outside contact the Izarians have. Have the Trackers reported upward — and if so, who knows?
-- **Genesium monster intelligence** — The monsters specifically sought the underground populations. How did they sense them? If genesium is the ancestral civilization's legacy material, perhaps the monsters are drawn to the Ancestor Machines — technology built from the same substance
-- **The Exile Scavengers** — They discovered an underground city with active defenses but never penetrated deep enough for contact. What happens when someone does?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

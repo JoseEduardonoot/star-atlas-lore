@@ -149,11 +149,3 @@ Creatures native to the Coral Nebula **feed on the prismatic corals** and **acqu
 - MRZ fauna — comparable to other sector wildlife hazards
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-COR1: What are the major pharma corporations operating in Coral Nebula? (Deferred — factions TBD)
-- ⏸️ Q-COR2: Are there named coral-feeding monster species?
-- ⏸️ Q-COR3: Has anyone survived a black coral encounter and reported it?
-- ⏸️ Q-COR4: Is the Coral Nebula's unique property related to Iris remnants or something else?
-- 🟡 Q-COR5: Color spectrum mapping — **PENDING CREATOR APPROVAL** of proposed table above

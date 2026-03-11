@@ -125,11 +125,3 @@ The discovery of the Cataclysm turned MUD's unity into an arena:
 - **Photoli Interaction**: `canon/species/photoli.md` (Ahr is one of them)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-H1: Leadership~~ ✅ RESOLVED: Gotti Lineage.
-- ~~Q-H4: Earth Exodus~~ ✅ RESOLVED: **God Ahr** (Photoli) -> Meteor Doom -> Solar Punk Stagnation vs Survival.
-- ~~Q-H5: Human Superpower~~ ✅ RESOLVED: **Divine Fervor + Adaptability**.
-- ~~Q-H6: ECOS Origin~~ ✅ RESOLVED: Rejected "Alien Domination" and resource stripping.
-- ~~Q-H7: Who is God Ahr?~~ ✅ RESOLVED: **Photoli Traveler**.

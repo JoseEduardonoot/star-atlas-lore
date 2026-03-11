@@ -131,12 +131,3 @@ Glowhaven is far more than a luminous frontier. On the surface: a sector where *
 - Coral Nebula — parallel bio-reactive phenomenon (`canon/geography/sectors/coral_nebula.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-GLO1: How can the box be opened? Any clues discovered?
-- ⏸️ Q-GLO2: **Name and character details of the female explorer** *(creator session TBD)*
-- ⏸️ Q-GLO3: What has the Iris Academy discovered at Anchorage so far?
-- ⏸️ Q-GLO4: Is the mineral luminescence connected to Onato, Iris, or both? *("Talvez...")*
-- ⏸️ Q-GLO5: Is the Iris Academy a broader institution or specific to Glowhaven?
-- ⏸️ Q-GLO6: Named nocturnal creatures unique to Glowhaven?

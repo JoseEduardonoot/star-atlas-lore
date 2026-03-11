@@ -182,17 +182,6 @@ The system works — TAPP has never experienced a leadership cult or a director 
 - [Velloris](../geography/worlds/velloris.md) — Proof/credential dependency
 
 ---
-
-## 🔮 Open Questions
-
-- **Who are the directors?** — TAPP's anonymous leadership prevents public accountability. Has the system been compromised by any faction without the Conclave's knowledge?
-- **The Order of Seasons' influence** — Elias Dorn steers Conclave appointments, which steers TAPP directors. How deep does the Order's indirect control over toll infrastructure go?
-- **The Quota Office power** — Could TAPP use extraction quotas as economic warfare against the Crumon Dynasty? Has this already happened quietly?
-- **The next Crushspire** — TAPP's enforcement overreach in the Lockdown damaged its legitimacy. If a similar situation arises, does TAPP restrain itself — or escalate?
-- **Slot auction manipulation** — MTC's Synod backing gives it persistent bidding advantages. At what point does unfair bidding destabilize the auction system itself?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

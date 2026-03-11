@@ -120,15 +120,6 @@ The [Garadar DAC](../factions/garadar_dac.md) has sent legions repeatedly to Fre
 | [Malkabaets](../factions/malkabaets.md) | Use Frenir as argument for COP expansion |
 
 ---
-
-## 🔮 Open Questions
-
-- **Who funded the Slavers?** — A warlord class does not seize a sector without capital and weapons. Who provided the initial backing — and did they profit from ninety-one years of slave labor?
-- **Frenir's children** — What happens to the generation born free after liberation? They carry no personal trauma of enslavement but grow up in a society defined by it
-- **The embedded remnants** — How deep do former Slaver networks run in the MRZ underworld? Are they rebuilding quietly, or have they fragmented beyond recovery?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

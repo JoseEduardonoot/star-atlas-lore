@@ -293,16 +293,3 @@ The **foundation** of Mierese society.
 | **Mevertrase** | TBD | Mierese representative | Joined Ayevat's Denebula finance kingdom |
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-M1: Hikibashi~~ ✅ RESOLVED — elite special forces unit (assassin-spies), NOT a title
-- ~~Q-M2: ECOS connection~~ ✅ RESOLVED — **FALSE, deleted from canon.** Vaor Scarka is ONI leader, NOT ECOS
-- ⏸️ Q-M3: Benevolent alien explorers — TABLED for future development
-- ⏸️ Q-M4: Convergence War — partially revealed via Maharog. Mierese were *"hammered thin by ordinances they did not vote for"*. Mierese contribution to ONI: **prowess** — *"Driven by Mierese prowess"*
-- ⏸️ Q-M5: Notable Lore Keepers — none created yet, can develop later
-
-> [!CAUTION]
-> **KI ARTIFACT ERROR**: The `master_lore.md` KI artifact incorrectly listed Vaor Scarka as ECOS leader.
-> This has been corrected in canon. Vaor Scarka = ONI leader + COP Prime Minister.
-> Andreza was also incorrectly listed as "ECOS activist" — removed pending clarification.

@@ -182,17 +182,6 @@ The Brenneth-Virtin channel is the most significant bridge in the Fimbul schism 
 - [Master Timeline](../meta/master_timeline.md) — ~2530s schism, ~2590 project start, ~2615 reveal, ~2623 COP scrutiny
 
 ---
-
-## 🔮 Open Questions
-
-- **The COP flashpoint** — If COP pushes into the Hanging Gardens, the Superphoenix stands ready. A Superphoenix-vs-COP armada confrontation could ignite another galactic war. How far will COP's MRZ incursion go?
-- **The Brenneth bridge** — If Brenneth's secret collaboration with Virtin is discovered, both Harkon and Leygos would react violently. But if it succeeds, the reunified Fimbul would be the galaxy's most powerful shipbuilder. The question is whether reconciliation is possible while Harkon remains an ECOS ideologue
-- **The sentient planet question** — If ECOS's claim of planetary communication (~2477) is genuine, then the Superphoenix — a ship with living biological systems — may itself be approaching sentience. What happens when a warship wakes up?
-- **MUD's reach** — ECOS survives because MUD can't reach the Hanging Gardens. What happens if MUD develops the political or military capability to project force into Ustur space? The Superphoenix is the deterrent — but it's one ship
-- **The genesium core** — The Superphoenix runs on a genesium resonance engine. Genesium is the substance that created the [Izar catastrophe](../geography/sectors/izar.md) and the [Dark Photoli's](../factions/dark_photoli.md) monsters. Who supplied it, and what are the long-term risks of running a living ship on reality-warping material?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

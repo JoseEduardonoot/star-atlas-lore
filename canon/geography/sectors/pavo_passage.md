@@ -194,16 +194,6 @@ The sector exists in **managed imbalance**:
 > *"In Pavo Passage, success looks like: nothing burning today."*
 
 ---
-
-## Open Questions (Resolved)
-
-- ~~Q-PAV1: What is "Dusk" as an Iris aspect?~~ ✅ Resolved — 7th aspect, cosmic current period
-- ~~Q-PAV2: Who leads the Order of Season?~~ ✅ Priestess Delura (Mierese)
-- ~~Q-PAV3: Are surviving Pavo family members active?~~ ✅ Ike Pavo (Crushspire), Varn Crathis (Cathris)
-- ~~Q-PAV4: Who actually controls behind the façade?~~ ✅ 6-seat Conclave + TAPP + MTC/VHE competition
-- ~~Q-PAV5: What species mix?~~ ✅ Crumon (native), MUD majority, Ustur presence, Mierese (Delura)
-- ~~Q-PAV6: Military presence?~~ ✅ Winter Fist Path (Ustur sect), Conclave militia, MTC/VHE security
-
 ## Remaining Open Questions
 
 - ⏸️ Q-PAV7: Tollhaven world details (World Sheet pending)

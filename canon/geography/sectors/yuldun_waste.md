@@ -96,10 +96,3 @@ Yet while its surface seems vacant, the sector isn't entirely desolate. Some pla
 - Gate Garrison — `canon/geography/sectors/xianyang.md` (HRZ bounty hunters may pass through here)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-YUL1: Ancient station origins?~~ → Flavor text for now, no deep lore yet.
-- ✅ ~~Q-YUL2: Governance?~~ → Legitimate planets follow Ustur domain; criminal ops coordinated by BMAH.
-- ✅ ~~Q-YUL3: Salvage yards?~~ → Everything disassembled + reassembled for resale.
-- ✅ ~~Q-YUL4: BMAH connection?~~ → Yes, BMAH coordinates the criminal side of Yuldun Waste.

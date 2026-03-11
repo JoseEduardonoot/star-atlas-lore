@@ -90,11 +90,3 @@ In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds
 - Rapid-cycle biology — potential link to Coral Nebula pharma research (`canon/geography/sectors/coral_nebula.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-PER1: True origin of the gravitational harmony (deferred — unknown in-universe)
-- ⏸️ Q-PER2: Named colonies or settlements?
-- ⏸️ Q-PER3: Unique resources from rapid-cycle biology?
-- ⏸️ Q-PER4: Psychological effects on inhabitants — altered sense of time *(Creator wants to explore)*
-- ⏸️ Q-PER5: Named predator species?

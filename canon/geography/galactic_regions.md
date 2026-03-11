@@ -82,9 +82,3 @@ The retreat left the **Medium** and **High Risk Zones** abandoned.
 - **Minor Factions**: `canon/factions/` (Pending creation).
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ **Q-GEO1**: List of Minor Factions (besides ECOS/Jorvik)?
-- ⏸️ **Q-GEO2**: Specific names of MRZ Regional Powers (Warlords/Trade Barons)?
-- ~~Q-GEO3: Location of specific ex-colonies (Redam, Mycenas)~~ ✅ RESOLVED: Both are MRZ sectors with detailed canon files

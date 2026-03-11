@@ -184,18 +184,6 @@ The consequences:
 - [Master Timeline](../meta/master_timeline.md) — ~2392 founding, ~2513 HRZ tech, ~2519 clones, ~2621 divergence rumors
 
 ---
-
-## 🔮 Open Questions
-
-- **The HRZ technology** — Which collapsed empire created clone technology? What else did they create? The alien origin of Kamec's entire democratic system is its least-examined vulnerability
-- **The 85.7623%** — If the fabricated vote is discovered, what happens? The clones have demonstrated they will falsify democratic results to protect themselves. Are they afraid — or strategic?
-- **Vassik's status** — Is the Chancellor a clone? Her refusal to test creates a political Schrödinger's cat. If she is a divergent clone, the entire government may already be clone-controlled
-- **The Graft connection** — Defectors from Kamec's cloning program may be feeding techniques to [Graft Research](../factions/graft_research.md)'s illegal biotech network. Clone technology in the wrong hands has implications beyond governance
-- **Clone sentience** — Are the clones developing independent consciousness, or just drifting algorithmically? If they are truly sentient, Kamec's Personhood Amendment protects the very entities that subverted its democracy
-- **What would the clones do if exposed?** — Resist? Negotiate? Declare independence? The divergent clones now have political infrastructure, fabricated democratic mandate, and possibly military access. A cornered clone population with nothing to lose is unpredictable
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

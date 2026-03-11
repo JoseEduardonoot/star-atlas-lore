@@ -33,18 +33,6 @@ The Oxir are a **native species of the High Risk Zone (HRZ)**, one of the few kn
 - **~2503**: Oxir tribes meet the galactic factions for the first time — they **steer away from them**, choosing isolation over engagement
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-OX1: Oxir biology — what do they look like? Physical characteristics?
-- ⏸️ Q-OX2: Population size and societal structure?
-- ⏸️ Q-OX3: How do the Oxir interface with cosmic currents? Technology, biology, or spirituality?
-- ⏸️ Q-OX4: Relationship with other HRZ denizens (Dark Photoli, Tufa Titans)?
-- ⏸️ Q-OX5: Did the Oxir share their cosmic current knowledge with other species?
-- ⏸️ Q-OX6: How did the Cult of Iris change Oxir society?
-
----
-
 ## Cross-References
 
 - Tufa — `canon/species/tufa.md` (Cult of Iris origin ~2460)

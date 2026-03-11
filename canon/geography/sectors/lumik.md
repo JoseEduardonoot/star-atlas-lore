@@ -180,12 +180,3 @@ As gratitude, Om imbued the Lumikir with **wisdom and profound clarity** — a g
 - CARY Farming / Exodus — referenced in Rank C SDU example
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-LUM1: What is the "due price" for knowledge?~~ → Depends on SDU Rank (D-X). Paid in ATLAS, knowledge trade, or missions. See `canon/systems/sdu_classification.md`
-- ✅ ~~Q-LUM2: What was the Photoli Om crisis the Lumikir helped with?~~ → Young Om fought a Dark Photoli, nearly died, crashed in Lumikir system. They nursed him.
-- ✅ ~~Q-LUM3: Lumikir physical description?~~ → Twitch-like (LoL), slightly bulkier, four arms and four legs.
-- ✅ ~~Q-LUM4: Relationship between Scriptorium and Iris Academy?~~ → Cooperation agreement. Lumikir store, Academy researches.
-- ⏸️ Q-LUM5: Population — is Lumik exclusively Lumikir or multi-species?
-- ⏸️ Q-LUM6: Erruts — force size, command structure, notable operations?

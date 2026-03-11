@@ -188,17 +188,6 @@ If Pergamos falls to the same pattern as Pavo Passage, the Synod will control tw
 - [Named Characters](../meta/named_characters.md) — Talia Vrenn, Gideon Harker, Vera Korrin, Alina Morcant, Silas Wren
 
 ---
-
-## 🔮 Open Questions
-
-- **Harker's true identity** — Who is Gideon Harker? Is he a single individual or a rotating Synod position? No one in Pavo Passage has ever met him in person
-- **Morcant's awakening** — If Alina Morcant discovers she has been serving the Synod unknowingly, does she rebel or rationalize? Her reaction could destabilize the Conclave
-- **The third seat** — MTC controls two seats. The Synod's endgame almost certainly requires a third. Which seat do they target, and how do VHE and the Crumon respond?
-- **Pergamos timeline** — The Synod's playbook took 30+ years in Pavo Passage. Can it work in 10 years on the more desperate Pergamos? Or does the accelerated timeline create vulnerabilities?
-- **VHE counterplay** — VHE's civic employment strategy builds grassroots loyalty that MTC cannot buy. Is this enough to prevent full Synod capture, or merely enough to delay it?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

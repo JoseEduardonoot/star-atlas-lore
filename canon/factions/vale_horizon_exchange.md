@@ -186,17 +186,6 @@ The result is a **permanent rivalry** — each company constraining the other, p
 - [Named Characters](../meta/named_characters.md) — Seraphine Vale, Graham Mercer, Dr. Evelyn Hart, Calder Briggs, Nora Voss
 
 ---
-
-## 🔮 Open Questions
-
-- **Vale's succession** — Seraphine Vale built this company on personal trust. Can the institution survive her retirement or death? Is there a successor who carries the same credibility?
-- **The Ustur price** — Regency support comes without visible strings. But the Ustur do nothing without strategic purpose. What will the Regency ask for when it decides to collect?
-- **Automation pressure** — How long can VHE sustain civic employment against accelerating automation? If margins compress below viability, does the civic model survive — or does VHE become the thing it was built to prevent?
-- **Mara Vance's dual loyalty** — Her alignment to both VHE and Ustur goals works while those interests align. When they diverge, which side does she choose?
-- **The people's uprising** — If MTC ever moves to eliminate VHE directly, 12,000 workers and their families become a political force. Has VHE planned for this scenario — not as a company but as a movement?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

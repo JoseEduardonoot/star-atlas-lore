@@ -190,11 +190,3 @@ The most significant shadow operation in Denebula's history: **Ostentati.soul's*
 - [Faction Power Classification](../../meta/faction_power_classification.md) — T2 classification (single-sector dominance)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-DEN1: Names and details of the worker planets?
-- ⏸️ Q-DEN2: How many castes exist and what are their names?
-- ⏸️ Q-DEN3: What specific etiquette rules define Denebula society?
-- ⏸️ Q-DEN4: How does the elite guard enforce aesthetic standards? (Penalties for non-compliance?)
-- ⏸️ Q-DEN5: What is Ayevat's current political stance in the Golden Era?

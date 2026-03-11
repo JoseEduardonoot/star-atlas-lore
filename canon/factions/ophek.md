@@ -200,17 +200,6 @@ The key heir is **The Whisperer** — whoever controls Whisper Station and, by e
 - [Named Characters](../meta/named_characters.md) — Ophek Revel, the Revel Heirs
 
 ---
-
-## 🔮 Open Questions
-
-- **The Information Database** — Does it exist? Which heir controls it? How extensive is the compromising material?
-- **The Whisperer** — Who is this heir, and do they hold de facto control of the entire Oasis through information leverage?
-- **Graft Research Pipeline** — How deep does the bio-enhancement intermediation go? Are illegal modifications performed on Oasis territory through shell clinics?
-- **Succession Stability** — Can the consortium survive a dispute between heirs, or will the Oasis fragment into competing entertainment fiefdoms?
-- **Revel's Death** — Natural causes or assassination? If murdered, by whom — and did the information database fail to protect him, or did the killer have leverage the database couldn't counter?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

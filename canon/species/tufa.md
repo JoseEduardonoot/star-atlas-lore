@@ -117,9 +117,3 @@
 - **Convergence War**: `canon/history/convergence_war.md`
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-T5: Escaped Titan~~ ✅ RESOLVED: **Thionae**. Mythical sentient planet/asteroid.
-- ~~Q-T6: Chalbok Motive~~ ✅ RESOLVED: Sensed raw energy in Pool (substitute for Iris).
-- ~~Q-T7: SAGE/Star Atlas Immunity~~ ✅ RESOLVED: **Photoli-enhanced**. Immune to infestation. **Archon Inference**: Photoli deliberately designed this immunity to eventually access Iris energy through Star Atlas — but Star Atlas is sentient and currently does not consent to being used this way.

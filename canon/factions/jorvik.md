@@ -59,15 +59,6 @@ The Pirate King is a paradox: a leader of anarchists, a commander who despises c
 ### Charismatic Authority
 
 Under his leadership, the Jorvik achieved a unity unprecedented for a pirate organization. Captains who would normally fight each other over scraps have developed deep personal loyalty to him â€” not because he demands it, but because he earned it through decades of shared danger, fair dealing, and unshakeable conviction.
-
-### The Open Question
-
-Every intelligence agency in the galaxy asks the same question: **will the Jorvik survive the Pirate King's death?** His personal charisma holds the organization together. The Creed provides philosophical unity, but philosophy without a living symbol tends to fragment.
-
-Some analysts believe the Jorvik will splinter into dozens of independent crews â€” a return to the pre-Pirate King status quo. Others argue that the Creed has become self-sustaining â€” that the ideology will outlive the man. The [Sorkof Pirates](../factions/sorkof_pirates.md) already represent one possible future: a Jorvik without the Creed's moral constraints.
-
----
-
 ## The Jorvik Creed
 
 Four rules â€” violation punishable by death, no exceptions, no appeals:

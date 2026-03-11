@@ -156,17 +156,6 @@ House Akalma's return from the HRZ creates a political crisis for every Sogmian 
 - [Master Timeline](../meta/master_timeline.md) — Vega Fall (~2423), Paizul assassination (~2523), Oxir encounter (~2544), Jefos birth (~2600)
 
 ---
-
-## 🔮 Open Questions
-
-- **Who killed Paizul?** — The most explosive unanswered question in Sogmian history. If Akalma was framed, then the Shattering was built on a lie. Who benefits from that lie persisting?
-- **The Oxir** — What are they? What did they ask for in exchange for sheltering Akalma for 80 years? And why did Jefos leave their protection?
-- **The cosmic storm** — Was Jefos's birth genuinely marked by a prophetic event, or is the story shaped by a desperate people's need for a messiah?
-- **The third path's viability** — Can a 21-year-old prince hold together Old Guard retributionists and Reformist pragmatists? History suggests schisms consume young movements before they mature
-- **The return** — Where is Jefos going? The Medium Zone is vast, and a wandering Sogmian prince with a crimson banner will draw attention from every power that has reason to care about Sogmian politics
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

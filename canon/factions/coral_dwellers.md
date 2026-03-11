@@ -121,16 +121,6 @@ The recovery (~2533) proved that the Rule of 1000 works: settlements that strict
 | [Scriptorium](../factions/scriptorium_of_the_lumikir.md) | Catholk-ix Chronicler embedded for long-term mapping |
 
 ---
-
-## 🔮 Open Questions
-
-- **What is the coral?** — Psycho-reactive organism? Sentient ecosystem? Cosmic entity fragmented across a nebula? The Iris Academy's expeditions have not answered the fundamental question
-- **Vega's knowledge** — How did Vega identify the 1000-person threshold? Did he calculate it, or did he know something about the coral that the Dwellers do not?
-- **The black coral's origin** — Was The Dying a natural cycle, or was it triggered? If triggered, by whom — and can it happen again?
-- **White opal's nature** — The rarest coral type. If it represents all emotions in balance, does it have properties that transcend the other types? Could it be cultivated — and should it?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

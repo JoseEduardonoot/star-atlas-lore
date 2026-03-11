@@ -108,12 +108,3 @@ Hanging Gardens is the **largest ECOS settlement outside Earth-Prime** and the p
 - Chior.eldr — opposes COP aggression (`canon/geography/sectors/zenith_door.md`)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-HNG1: CARY~~ → Civil branch of Calico (MUD manufacturer). Details TBD.
-- ✅ ~~Q-HNG4: High Garden~~ → IS Hanging Gardens (corrected in Old Grove)
-- ⏸️ Q-HNG2: Fimbul ECOS Superphoenix — capabilities, crew size?
-- ⏸️ Q-HNG3: ECOS political structure within Hanging Gardens — who governs?
-- ⏸️ Q-HNG4: Population and planet count?
-- ⏸️ Q-HNG5: CARY vs Hanging Gardens — specific trade routes/products?

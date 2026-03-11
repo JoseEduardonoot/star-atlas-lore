@@ -42,16 +42,6 @@ The Star Atlas created two key entities/systems to interact with the galaxy:
 - **Benevolent God-figure**: Worshipped by some as a deity due to its protective nature.
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-SA1: SAGE connection~~ ✅ RESOLVED: AGI daughter/guide.
-- ~~Q-SA2: Sentience origin~~ ✅ RESOLVED: Vignus oracles + HRZ materials.
-- ~~Q-SA3: ATLAS/POLIS relationship~~ — Tabled.
-- ~~Q-SA4: Worship~~ ✅ RESOLVED: Worshipped as benevolent god-figure.
-
----
-
 ## 🔴 Cross-References
 
 - Heralds of Vignus — `canon/factions/heralds_of_vignus.md` (Awakening origin — Vignus oracles infused HRZ materials)
