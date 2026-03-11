@@ -1,5 +1,5 @@
 site_name: Star Atlas Lore Wiki
-site_description: Fan-created encyclopedia of Star Atlas lore — factions, species, history, and more
+site_description: Official Star Atlas Lore Encyclopedia — factions, species, history, and more (Alpha)
 site_url: https://joseeduardonoot.github.io/star-atlas-lore/
 repo_url: https://github.com/JoseEduardonoot/star-atlas-lore
 repo_name: star-atlas-lore
@@ -66,8 +66,8 @@ extra:
   generator: false
 
 copyright: >
-  Fan-created lore wiki — Not official Star Atlas content.
-  Star Atlas is a trademark of ATMTA, Inc. This site is an independent fan project.
+  ⚠️ Alpha Version — This wiki is under active development. Content is being refined and may change.
+  Star Atlas is a trademark of ATMTA, Inc.
 
 nav:
   - Home: index.md
