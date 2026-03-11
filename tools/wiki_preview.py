@@ -23,7 +23,9 @@ def sync_files():
     mappings = [
         ("canon/factions", "docs/factions"),
         ("canon/species", "docs/species"),
+        ("canon/geography", "docs/geography"),
         ("canon/geography/sectors", "docs/geography/sectors"),
+        ("canon/geography/worlds", "docs/geography/worlds"),
     ]
     for src_dir, dst_dir in mappings:
         src_path = os.path.join(ROOT, src_dir)

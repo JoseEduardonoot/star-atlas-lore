@@ -235,6 +235,18 @@ nav:
       - Zenith Door: geography/sectors/zenith_door.md
     - Worlds:
       - geography/worlds/index.md
+      - Cathris: geography/worlds/cathris.md
+      - Crushspire: geography/worlds/crushspire.md
+      - Etira: geography/worlds/etira.md
+      - Okuto: geography/worlds/okuto.md
+      - Tollhaven: geography/worlds/tollhaven.md
+      - Velloris: geography/worlds/velloris.md
+      - Veshmora: geography/worlds/veshmora.md
+    - Articles:
+      - Eternity System: geography/eternity_system.md
+      - Galactic Regions: geography/galactic_regions.md
+      - Ka-dara Sector: geography/ka_dara_sector.md
+      - The Cataclysm: geography/the_cataclysm.md
   - History:
     - history/index.md
   - Narratives:
