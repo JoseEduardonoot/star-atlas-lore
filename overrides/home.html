@@ -1,0 +1,86 @@
+{% extends "main.html" %}
+
+{% block content %}
+<style>
+  /* Hide the page title for the landing page */
+  .md-content .md-typeset h1:first-child { display: none; }
+</style>
+
+<div class="disclaimer-banner">
+  <strong>⚠️ Fan-Created Content</strong> — This wiki is an independent fan project.
+  Not affiliated with or endorsed by ATMTA, Inc. or Star Atlas.
+</div>
+
+<div class="hero-section">
+  <h1>✦ Star Atlas Lore Wiki</h1>
+  <p>A comprehensive encyclopedia of the Star Atlas universe — factions, species, history, and more.</p>
+</div>
+
+<div class="category-grid">
+  <a class="category-card" href="{{ 'species/' | url }}">
+    <h3>🧬 Species</h3>
+    <p>The intelligent species of Star Atlas — Ustur, Sogmian, Mierese, Punaab, Photoli, and Humans.</p>
+    <div class="card-count">8+ species documented</div>
+  </a>
+
+  <a class="category-card" href="{{ 'factions/' | url }}">
+    <h3>⚔️ Factions</h3>
+    <p>Governments, military orders, corporations, sects, and criminal organizations that shape galactic politics.</p>
+    <div class="card-count">50+ factions documented</div>
+  </a>
+
+  <a class="category-card" href="{{ 'geography/' | url }}">
+    <h3>🌌 Geography</h3>
+    <p>Sectors, star systems, and worlds — from safe MUD space to the lawless HRZ frontier.</p>
+    <div class="card-count">15+ locations documented</div>
+  </a>
+
+  <a class="category-card" href="{{ 'history/' | url }}">
+    <h3>📜 History</h3>
+    <p>The major eras that shaped the galaxy — from the Convergence War to the present day.</p>
+    <div class="card-count">Major timeline documented</div>
+  </a>
+
+  <a class="category-card" href="{{ 'narratives/' | url }}">
+    <h3>📖 Narratives</h3>
+    <p>Campaign stories and quest lines — including the Never Alone saga.</p>
+    <div class="card-count">Active storylines</div>
+  </a>
+
+  <a class="category-card" href="{{ 'reference/' | url }}">
+    <h3>📚 Reference</h3>
+    <p>Master character lists, species encyclopedia, naming conventions, and cross-reference documents.</p>
+    <div class="card-count">700+ named characters</div>
+  </a>
+</div>
+
+<hr>
+
+<h2>About This Wiki</h2>
+
+<p>This wiki documents the lore of <strong>Star Atlas</strong>, a grand strategy game set in a distant future where three galactic factions — <strong>MUD</strong> (humans), <strong>ONI</strong> (alien consortium), and <strong>Ustur</strong> (sentient androids) — vie for resources, influence, and survival.</p>
+
+<p>The content is organized from <strong>creator-provided canon sources</strong> (official lore sheets, in-game narratives, and published materials), supplemented by <strong>fan-curated analysis and synthesis</strong> that connects disparate lore elements into a cohesive universe.</p>
+
+<h3>Quick Links</h3>
+
+<table>
+  <thead>
+    <tr><th>Resource</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="{{ 'meta/named_characters/' | url }}"><strong>Named Characters</strong></a></td><td>Every named character in the canon (700+)</td></tr>
+    <tr><td><a href="{{ 'species/species_encyclopedia/' | url }}"><strong>Species Encyclopedia</strong></a></td><td>Comparative overview of all species</td></tr>
+    <tr><td><a href="{{ 'species/naming_conventions/' | url }}"><strong>Naming Conventions</strong></a></td><td>How each species names its members</td></tr>
+    <tr><td><a href="{{ 'meta/master_timeline/' | url }}"><strong>Master Timeline</strong></a></td><td>Chronological history of the galaxy</td></tr>
+  </tbody>
+</table>
+
+<hr>
+
+<div class="disclaimer-banner">
+  Star Atlas™ is a trademark of ATMTA, Inc. All game-related content belongs to its respective owners.
+  This wiki is maintained by fans for educational and community purposes.
+</div>
+
+{% endblock %}

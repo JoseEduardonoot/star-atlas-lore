@@ -1,0 +1,54 @@
+# 🌌 Canon Document: WEEPING NEBULA SECTOR (MRZ-10)
+
+**Status**: 🟢 Canon (User Input, Feb 2026)
+**Type**: Medium Risk Zone (MUD-influenced — Hazardous / Crystal Mining)
+
+---
+
+## Overview
+
+- **~2483**: The Weeping Nebula is discovered in MRZ-10 — the beautiful but deadly environmental phenomenon initially makes research in the sector impossible
+
+The **Weeping Nebula** owes its evocative name to a singular molecular cloud cradling its expanse — a cloud that produces **ceaseless, ethereal rain** across all planets.
+
+## Key Lore
+
+### The Eternal Rain
+
+- The molecular cloud exhibits a **unique equilibrium**: heats → expands → cools → contracts (rhythmic gravitational dance).
+- Precipitates a never-ending rain that blankets all system planets.
+- **Extremely toxic** to most known life forms.
+
+### Crystal Harvest
+
+- The toxic rain serves as a crucible for the birth of **intricate crystals**.
+- Occasionally the skies shimmer as crystals cascade down — creating a wealth of **colorful minerals**.
+- **Archon Confirmed**: These crystals are a recognized **rare resource** in the galactic economy.
+- **No known species is immune** to the rain — not even Ustur (android) or Tufa (metagenic). Collection is universally dangerous.
+
+### Navigation
+
+- Cloud dynamics make navigation **perilous**.
+- Only the most seasoned spacefarers dare traverse its tumultuous weather patterns.
+- Those who brave it are rewarded with unique sights.
+
+### Iris Academy Exploration
+
+- **~2573**: Iris Academy professor **Exfeheros** (Punaab) develops specialized **equipment that allows exploration of the Weeping Nebula's toxic rain** — the first technological breakthrough to make research in the sector feasible
+- **~2576**: After several failed attempts, **Exfeheros and the Iris Academy** manage to establish a **small research settlement** to study the Weeping Nebula — marking the first permanent presence in the sector
+
+---
+
+## Political Influence
+
+- **Alignment**: Frontier (hazardous mining)
+
+---
+
+## Cross-References
+
+- Iris Academy / Exfeheros — `canon/geography/sectors/zenith_door.md`
+
+---
+
+## Systems & Locations (To be populated)

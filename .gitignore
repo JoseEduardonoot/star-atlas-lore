@@ -1,0 +1,38 @@
+# Dependencies
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build output
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# OpenClaw agent files
+.agent/
+.agents/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+
+# Qdrant data
+.qdrant_data/
+
+# Temp files
+*.txt
+build_wiki.py
+
+# Imports (raw source data)
+imports/

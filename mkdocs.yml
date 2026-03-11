@@ -1,0 +1,250 @@
+site_name: Star Atlas Lore Wiki
+site_description: Fan-created encyclopedia of Star Atlas lore — factions, species, history, and more
+site_url: https://joseeduardonoot.github.io/star-atlas-lore/
+repo_url: https://github.com/JoseEduardonoot/star-atlas-lore
+repo_name: star-atlas-lore
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/star-shooting
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JoseEduardonoot/star-atlas-lore
+  generator: false
+
+copyright: >
+  Fan-created lore wiki — Not official Star Atlas content.
+  Star Atlas is a trademark of ATMTA, Inc. This site is an independent fan project.
+
+nav:
+  - Home: index.md
+  - Species:
+    - species/index.md
+    - Ustur: species/ustur.md
+    - Sogmian: species/sogmian.md
+    - Mierese: species/mierese.md
+    - Punaab: species/punaab.md
+    - Photoli: species/photoli.md
+    - Human: species/human.md
+    - Naming Conventions: species/naming_conventions.md
+    - Species Encyclopedia: species/species_encyclopedia.md
+  - Factions:
+    - factions/index.md
+    - Superpowers:
+      - MUD: factions/mud.md
+      - ONI Consortium: factions/oni.md
+      - Ustur: factions/ustur.md
+      - Council of Peace: factions/council_of_peace.md
+    - Ustur Sects:
+      - Golden Star: factions/golden_star.md
+      - Resonant Forge: factions/resonant_forge.md
+      - Still Water Doctrine: factions/still_water_doctrine.md
+      - Living Resonance: factions/living_resonance.md
+      - Open Palm: factions/open_palm.md
+      - Dark Sects: factions/dark_sects.md
+    - Government & Institutional:
+      - Abyd Government: factions/abyd_government.md
+      - Anfoil State: factions/anfoil_state.md
+      - COP Administration: factions/cop_administration.md
+      - Frenir New Government: factions/frenir_new_government.md
+      - Hanging Gardens Government: factions/hanging_gardens_government.md
+      - Kamec Democracy: factions/kamec_democracy.md
+      - Mycenas Government: factions/mycenas_government.md
+      - Pergamos New Government: factions/pergamos_new_government.md
+      - Redam Government: factions/redam_government.md
+      - Ustur Regency Pavo: factions/ustur_regency_pavo.md
+      - Sogmian Sovereignty: factions/sogmian_sovereignty.md
+      - Kingdom of Evernat: factions/kingdom_of_evernat.md
+      - Xianyang Government: factions/xyanyang_government.md
+    - Military & Security:
+      - Gate Garrison: factions/gate_garrison.md
+      - Hikibashi: factions/hikibashi.md
+      - Nimrod Trackers: factions/nimrod_trackers.md
+      - Order of Seasons: factions/order_of_seasons.md
+      - Winter Fist Path: factions/winter_fist_path.md
+    - Commercial & Economic:
+      - Barrot Entertainment Company: factions/barrot_entertainment_company.md
+      - Bluevael Mining Colonies: factions/bluevael_mining_colonies.md
+      - Crumon Dynasty: factions/crumon_dynasty.md
+      - Fimbul Industries: factions/fimbul_industries.md
+      - Fimbul BYOS: factions/fimbul_byos.md
+      - Fimbul ECOS: factions/fimbul_ecos.md
+      - Galia Medical Union: factions/galia_medical_union.md
+      - Hopla Insurances: factions/hopla_insurances.md
+      - Jorvik: factions/jorvik.md
+      - Merchant Princes of Denebula: factions/merchant_princes_of_denebula.md
+      - Meridian Trading Company: factions/meridian_trading_company.md
+      - Pergamos Shadow Banks: factions/pergamos_shadow_banks.md
+      - Relic Barons: factions/relic_barons.md
+      - The Positive Union: factions/the_positive_union.md
+      - Toll Authority of Pavo Passage: factions/toll_authority_of_pavo_passage.md
+      - Vale Horizon Exchange: factions/vale_horizon_exchange.md
+    - Religious & Cultural:
+      - Church of the Dreamer Below: factions/church_of_the_dreamer_below.md
+      - Dark Photoli: factions/dark_photoli.md
+      - Heralds of Vignus: factions/heralds_of_vignus.md
+      - Iris Academy: factions/iris_academy.md
+      - Ka'Dara: factions/ka_dara.md
+      - Living Factories: factions/living_factories.md
+      - Malkabaets: factions/malkabaets.md
+      - Mierese Lore Keepers: factions/mierese_lore_keepers.md
+      - Ophek: factions/ophek.md
+      - Order of Light: factions/order_of_light.md
+      - Panemorfa: factions/panemorfa.md
+      - Sons of Patrah: factions/sons_of_patrah.md
+      - The Real Truth Network: factions/the_real_truth_network.md
+      - Scriptorium of the Lumikir: factions/scriptorium_of_the_lumikir.md
+      - The Collective Anarchy: factions/the_collective_anarchy.md
+      - Umbral Court: factions/umbral_court.md
+      - The Photoli: factions/the_photoli.md
+      - Mierese of Neuno: factions/mierese_of_neuno.md
+    - Pirate & Outlaw:
+      - Black Market Auction House: factions/black_market_auction_house.md
+      - Exile Scavengers: factions/exile_scavengers.md
+      - Sorkof Pirates: factions/sorkof_pirates.md
+      - Slavers of Frenir: factions/slavers_of_frenir.md
+    - Noble Houses & Clans:
+      - House Akalma: factions/house_akalma.md
+      - Sogmian Houses: factions/sogmian_houses.md
+      - Swamp Lords: factions/swamp_lords.md
+    - Research & Knowledge:
+      - Graft Research: factions/graft_research.md
+      - Earth Conscious Ontological Society: factions/earth_conscious_ontological_society.md
+    - Nature & Environment:
+      - Ashroot Grove: factions/ashroot_grove.md
+      - Balifa Grove: factions/balifa_grove.md
+      - Coral Dwellers: factions/coral_dwellers.md
+      - Deepwell Grove: factions/deepwell_grove.md
+      - Duskbloom Grove: factions/duskbloom_grove.md
+      - Izarians: factions/izarians.md
+      - Lumiro Grove: factions/lumiro_grove.md
+      - Thornveil Grove: factions/thornveil_grove.md
+      - Garadar DAC: factions/garadar_dac.md
+    - Other:
+      - Ruling Conclave: factions/ruling_conclave.md
+      - Stardust Collective: factions/stardust_collective.md
+      - Tufa Species Group: factions/tufa_species_group.md
+      - Xianyang Enforcers: factions/xianyang_enforcers.md
+  - Geography:
+    - geography/index.md
+    - Sectors:
+      - geography/sectors/index.md
+      - Abyd: geography/sectors/abyd.md
+      - Akalma Exile: geography/sectors/akalma_exile.md
+      - Amora: geography/sectors/amora.md
+      - Anfoil States: geography/sectors/anfoil_states.md
+      - Aurora: geography/sectors/aurora.md
+      - Azut: geography/sectors/azut.md
+      - Barrot Gateway: geography/sectors/barrot_gateway.md
+      - Bluvael: geography/sectors/bluvael.md
+      - Communion: geography/sectors/communion.md
+      - Coral Nebula: geography/sectors/coral_nebula.md
+      - Denebula Utopia: geography/sectors/denebula_utopia.md
+      - Dream Reach: geography/sectors/dream_reach.md
+      - Eol-Garadar: geography/sectors/eol_garadar.md
+      - Eternity: geography/sectors/eternity.md
+      - Evernat: geography/sectors/evernat.md
+      - Everstorm: geography/sectors/everstorm.md
+      - Exodus: geography/sectors/exodus.md
+      - Foy Fields: geography/sectors/foy_fields.md
+      - Free Harbors: geography/sectors/free_harbors.md
+      - Frenir: geography/sectors/frenir.md
+      - Frostsun: geography/sectors/frostsun.md
+      - Glowhaven: geography/sectors/glowhaven.md
+      - Hanging Gardens: geography/sectors/hanging_gardens.md
+      - Harkend: geography/sectors/harkend.md
+      - Ilidae: geography/sectors/ilidae.md
+      - Izar: geography/sectors/izar.md
+      - Ka-dara: geography/sectors/ka_dara.md
+      - Kamec: geography/sectors/kamec.md
+      - Lumik: geography/sectors/lumik.md
+      - Mycenas: geography/sectors/mycenas.md
+      - Neuno: geography/sectors/neuno.md
+      - Night Window: geography/sectors/night_window.md
+      - Old Grove: geography/sectors/old_grove.md
+      - Ophek Oasis: geography/sectors/ophek_oasis.md
+      - Pavo Passage: geography/sectors/pavo_passage.md
+      - Pergamos: geography/sectors/pergamos.md
+      - Perpetual Belt: geography/sectors/perpetual_belt.md
+      - Redam: geography/sectors/redam.md
+      - Segal: geography/sectors/segal.md
+      - Soletud: geography/sectors/soletud.md
+      - Summer Sea: geography/sectors/summer_sea.md
+      - Valiant: geography/sectors/valiant.md
+      - Vega Fall: geography/sectors/vega_fall.md
+      - Verbis Cluster: geography/sectors/verbis_cluster.md
+      - Verzan: geography/sectors/verzan.md
+      - Vostalgia: geography/sectors/vostalgia.md
+      - Weeping Nebula: geography/sectors/weeping_nebula.md
+      - Xianyang: geography/sectors/xianyang.md
+      - Yuldun Waste: geography/sectors/yuldun_waste.md
+      - Zavijava Zone: geography/sectors/zavijava_zone.md
+      - Zenith Door: geography/sectors/zenith_door.md
+    - Worlds:
+      - geography/worlds/index.md
+  - History:
+    - history/index.md
+  - Narratives:
+    - narratives/index.md
+  - Cosmology:
+    - cosmology/index.md
+  - Technology:
+    - technology/index.md
+  - Reference:
+    - reference/index.md
+    - Named Characters: meta/named_characters.md
+    - Master Timeline: meta/master_timeline.md
+    - Planets & Worlds: reference/atlas/planets.md

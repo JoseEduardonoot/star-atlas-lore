@@ -1,0 +1,397 @@
+/* ============================================
+   STAR ATLAS LORE WIKI — Custom Theme
+   Dark sci-fi aesthetic for MkDocs Material
+   ============================================ */
+
+/* --- Color Palette --- */
+:root {
+  --sa-bg-deep: #0a0e14;
+  --sa-bg-surface: #0d1117;
+  --sa-bg-card: #161b22;
+  --sa-bg-elevated: #1c2129;
+  --sa-border: #30363d;
+  --sa-text-primary: #e6edf3;
+  --sa-text-secondary: #8b949e;
+  --sa-accent-blue: #58a6ff;
+  --sa-accent-gold: #d4a843;
+  --sa-accent-green: #3fb950;
+  --sa-accent-red: #f85149;
+  --sa-accent-purple: #bc8cff;
+  --sa-glow: 0 0 20px rgba(88, 166, 255, 0.15);
+}
+
+/* --- Base Theme Overrides --- */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--sa-bg-surface);
+  --md-default-fg-color: var(--sa-text-primary);
+  --md-primary-fg-color: var(--sa-accent-blue);
+  --md-accent-fg-color: var(--sa-accent-gold);
+  --md-typeset-a-color: var(--sa-accent-blue);
+  --md-code-bg-color: var(--sa-bg-card);
+}
+
+/* --- Typography --- */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap');
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Rajdhani', 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--sa-text-primary);
+}
+
+.md-typeset h1 {
+  font-size: 2.2em;
+  border-bottom: 2px solid var(--sa-accent-gold);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+.md-typeset h2 {
+  font-size: 1.6em;
+  color: var(--sa-accent-blue);
+  margin-top: 2em;
+}
+
+.md-typeset h3 {
+  font-size: 1.25em;
+  color: var(--sa-accent-gold);
+}
+
+/* --- Header / Navigation --- */
+.md-header {
+  background: var(--sa-bg-deep) !important;
+  border-bottom: 1px solid var(--sa-border);
+  box-shadow: var(--sa-glow);
+}
+
+.md-tabs {
+  background: var(--sa-bg-deep) !important;
+  border-bottom: 1px solid var(--sa-border);
+}
+
+.md-tabs__link--active {
+  color: var(--sa-accent-gold) !important;
+  border-bottom: 2px solid var(--sa-accent-gold);
+}
+
+/* --- Sidebar --- */
+.md-sidebar {
+  background: var(--sa-bg-deep);
+  border-right: 1px solid var(--sa-border);
+}
+
+.md-nav__link--active {
+  color: var(--sa-accent-blue) !important;
+  font-weight: 600;
+}
+
+/* --- Tables --- */
+.md-typeset table:not([class]) {
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-border);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.85em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.md-typeset table:not([class]) thead {
+  background: var(--sa-bg-elevated);
+  border-bottom: 2px solid var(--sa-accent-blue);
+}
+
+.md-typeset table:not([class]) th {
+  color: var(--sa-accent-blue);
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9em;
+  padding: 12px 16px;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 10px 16px;
+  border-top: 1px solid var(--sa-border);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background: rgba(88, 166, 255, 0.05);
+}
+
+/* --- Blockquotes (Lore Quotes) --- */
+.md-typeset blockquote {
+  background: var(--sa-bg-card);
+  border-left: 4px solid var(--sa-accent-gold);
+  border-radius: 0 8px 8px 0;
+  padding: 16px 20px;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: var(--sa-text-secondary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.md-typeset blockquote em {
+  color: var(--sa-accent-gold);
+}
+
+/* --- Admonitions (for Open Questions) --- */
+.md-typeset .admonition,
+.md-typeset details {
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-border);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* --- Status Badges in Headers --- */
+.md-typeset strong:has(+ em) {
+  color: var(--sa-accent-green);
+}
+
+/* --- Code Blocks --- */
+.md-typeset code {
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-border);
+  border-radius: 4px;
+  padding: 2px 6px;
+  color: var(--sa-accent-purple);
+  font-size: 0.85em;
+}
+
+/* --- Horizontal Rules --- */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right,
+      transparent,
+      var(--sa-accent-blue),
+      var(--sa-accent-gold),
+      var(--sa-accent-blue),
+      transparent);
+  margin: 2.5em 0;
+}
+
+/* --- Footer --- */
+.md-footer {
+  background: var(--sa-bg-deep) !important;
+  border-top: 1px solid var(--sa-border);
+}
+
+.md-copyright {
+  color: var(--sa-text-secondary);
+  font-size: 0.75em;
+}
+
+/* --- Search --- */
+.md-search__form {
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-border);
+  border-radius: 8px;
+}
+
+/* --- Links --- */
+.md-typeset a {
+  color: var(--sa-accent-blue);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.md-typeset a:hover {
+  color: var(--sa-accent-gold);
+  text-decoration: underline;
+}
+
+/* --- Lists --- */
+.md-typeset li {
+  margin-bottom: 0.3em;
+}
+
+/* --- Bold text in tables = character names --- */
+.md-typeset table td strong {
+  color: var(--sa-text-primary);
+}
+
+/* --- "Canon" emoji badges --- */
+.md-typeset p:first-child {
+  line-height: 1.8;
+}
+
+/* --- Scrollbar --- */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--sa-bg-deep);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--sa-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sa-accent-blue);
+}
+
+/* --- Content max width --- */
+.md-content {
+  max-width: 1000px;
+}
+
+/* --- Hero Section (Landing Page) --- */
+.hero-section {
+  text-align: center;
+  padding: 4em 2em 3em;
+  background: linear-gradient(180deg, rgba(88, 166, 255, 0.05) 0%, transparent 100%);
+  border-bottom: 1px solid var(--sa-border);
+  margin-bottom: 2em;
+}
+
+.hero-section h1 {
+  font-size: 3em;
+  border: none;
+  background: linear-gradient(135deg, var(--sa-accent-blue), var(--sa-accent-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.3em;
+}
+
+.hero-section p {
+  font-size: 1.2em;
+  color: var(--sa-text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* --- Category Cards (Landing Page) --- */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.md-typeset .category-card,
+.category-card {
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-border);
+  border-radius: 12px;
+  padding: 1.5em;
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+  display: block;
+  color: inherit !important;
+  overflow: hidden;
+}
+
+.md-typeset .category-card:hover,
+.category-card:hover {
+  border-color: var(--sa-accent-blue);
+  box-shadow: var(--sa-glow);
+  transform: translateY(-2px);
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.md-typeset .category-card h3,
+.category-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: var(--sa-accent-blue) !important;
+  border: none;
+  font-size: 1.25em;
+}
+
+.md-typeset .category-card p,
+.category-card p {
+  color: var(--sa-text-secondary);
+  font-size: 0.9em;
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.md-typeset .category-card .card-count,
+.category-card .card-count {
+  color: var(--sa-accent-gold);
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  font-size: 0.85em;
+  margin-top: 0.5em;
+}
+
+/* --- Disclaimer Banner --- */
+.disclaimer-banner {
+  background: rgba(212, 168, 67, 0.08);
+  border: 1px solid rgba(212, 168, 67, 0.3);
+  border-radius: 8px;
+  padding: 12px 20px;
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--sa-text-secondary);
+  margin-bottom: 2em;
+}
+
+.disclaimer-banner strong {
+  color: var(--sa-accent-gold);
+}
+
+/* --- Infobox Sidebar --- */
+.infobox {
+  float: right;
+  width: 300px;
+  margin: 0 0 1.5em 1.5em;
+  background: var(--sa-bg-card);
+  border: 1px solid var(--sa-accent-gold);
+  border-radius: 8px;
+  padding: 1em 1.2em;
+  font-size: 0.85em;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.infobox table {
+  width: 100%;
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+}
+
+.infobox table td {
+  padding: 4px 0 !important;
+  border: none !important;
+  border-top: 1px solid rgba(48, 54, 61, 0.5) !important;
+  vertical-align: top;
+}
+
+.infobox table td:first-child {
+  color: var(--sa-accent-blue);
+  font-weight: 600;
+  width: 40%;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.infobox table tr:first-child td {
+  border-top: none !important;
+}
+
+/* --- Flavor Quote (Article Opener) --- */
+.md-typeset>blockquote:first-of-type {
+  border-left: 4px solid var(--sa-accent-gold);
+  background: linear-gradient(135deg, var(--sa-bg-card), rgba(212, 168, 67, 0.05));
+  font-size: 1.1em;
+  padding: 20px 24px;
+}
+
+@media (max-width: 768px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.5em 0;
+  }
+}

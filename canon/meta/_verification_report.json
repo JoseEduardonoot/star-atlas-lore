@@ -1,0 +1,556 @@
+{
+  "summary": {
+    "timeline_events": 323,
+    "files_scanned": 97,
+    "date_references": 791
+  },
+  "eras_ordering_errors": [],
+  "orphaned_years": [
+    {
+      "year": 2625,
+      "file": "factions\\frenir_new_government.md",
+      "line": 15,
+      "context": "> *\"Freedom was given to us by soldiers. Now we must learn to keep it ourselves \u2014 and that is a war "
+    },
+    {
+      "year": 2520,
+      "file": "factions\\galia_medical_union.md",
+      "line": 46,
+      "context": "- The **Convergence War** (~2520\u20132523) produced casualties on a scale the galaxy had never witnessed"
+    },
+    {
+      "year": 2500,
+      "file": "factions\\merchant_princes_of_denebula.md",
+      "line": 60,
+      "context": "### The Golden Age (~2500\u2013Present)"
+    },
+    {
+      "year": 2520,
+      "file": "factions\\mycenas_government.md",
+      "line": 45,
+      "context": "### The Shield (~2520s\u2013Present)"
+    },
+    {
+      "year": 2529,
+      "file": "geography\\sectors\\pergamos.md",
+      "line": 10,
+      "context": "Located at the heart of the MUD Medium Zone, **Pergamos** stands as a behemoth of economic prowess \u2014"
+    },
+    {
+      "year": 2529,
+      "file": "geography\\sectors\\xianyang.md",
+      "line": 10,
+      "context": "The most powerful ex-colony in terms of **military might**, **Xianyang-VI** survived post-war turmoi"
+    },
+    {
+      "year": 2287,
+      "file": "history\\eras_of_star_atlas.md",
+      "line": 48,
+      "context": "- **~2287**: The **Mierese** discover the **Volmik** stones \u2014 artifacts that amplify their natural a"
+    }
+  ],
+  "duplicates": [],
+  "chrono_errors": [
+    {
+      "file": "factions\\ecos.md",
+      "earlier_line": 103,
+      "earlier_year": 2542,
+      "later_line": 52,
+      "later_year": 2623
+    },
+    {
+      "file": "factions\\frenir_new_government.md",
+      "earlier_line": 83,
+      "earlier_year": 2358,
+      "later_line": 59,
+      "later_year": 2624
+    },
+    {
+      "file": "geography\\sectors\\frenir.md",
+      "earlier_line": 33,
+      "earlier_year": 2364,
+      "later_line": 27,
+      "later_year": 2533
+    },
+    {
+      "file": "geography\\sectors\\frenir.md",
+      "earlier_line": 104,
+      "earlier_year": 2421,
+      "later_line": 98,
+      "later_year": 2624
+    },
+    {
+      "file": "geography\\sectors\\ilidae.md",
+      "earlier_line": 23,
+      "earlier_year": 2471,
+      "later_line": 19,
+      "later_year": 2646
+    },
+    {
+      "file": "geography\\sectors\\pavo_passage.md",
+      "earlier_line": 54,
+      "earlier_year": 2524,
+      "later_line": 49,
+      "later_year": 2567
+    },
+    {
+      "file": "geography\\sectors\\zenith_door.md",
+      "earlier_line": 36,
+      "earlier_year": 2525,
+      "later_line": 17,
+      "later_year": 2539
+    },
+    {
+      "file": "institutions\\council_of_peace.md",
+      "earlier_line": 91,
+      "earlier_year": 2527,
+      "later_line": 53,
+      "later_year": 2617
+    },
+    {
+      "file": "species\\photoli.md",
+      "earlier_line": 101,
+      "earlier_year": 2080,
+      "later_line": 75,
+      "later_year": 2569
+    },
+    {
+      "file": "species\\sogmian.md",
+      "earlier_line": 167,
+      "earlier_year": 1461,
+      "later_line": 128,
+      "later_year": 2621
+    },
+    {
+      "file": "species\\sogmian.md",
+      "earlier_line": 180,
+      "earlier_year": 2363,
+      "later_line": 176,
+      "later_year": 2364
+    },
+    {
+      "file": "species\\ustur.md",
+      "earlier_line": 30,
+      "earlier_year": 2463,
+      "later_line": 29,
+      "later_year": 2486
+    }
+  ],
+  "contradictions": [
+    {
+      "keywords": [
+        "Catastrophe"
+      ],
+      "entries": [
+        {
+          "year": 2435,
+          "file": "factions\\ashroot_grove.md",
+          "context": "### The Catastrophe (~2435\u20132439)"
+        },
+        {
+          "year": 1965,
+          "file": "geography\\sectors\\izar_fallen_civilization.md",
+          "context": "## The Catastrophe (~1965)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Founded"
+      ],
+      "entries": [
+        {
+          "year": 2540,
+          "file": "factions\\barrot_entertainment_company.md",
+          "context": "| **Founded** | ~2540s (the legend dates to ~2495; the company is much younger) |"
+        },
+        {
+          "year": 2495,
+          "file": "factions\\barrot_entertainment_company.md",
+          "context": "| **Founded** | ~2540s (the legend dates to ~2495; the company is much younger) |"
+        },
+        {
+          "year": 2471,
+          "file": "factions\\fimbul_industries.md",
+          "context": "**Founded**: ~2471"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Barrot"
+      ],
+      "entries": [
+        {
+          "year": 2517,
+          "file": "factions\\barrot_entertainment_company.md",
+          "context": "- **~2517**: Barrot re-enters the gateway. He never returns. The portal becomes unapproachable"
+        },
+        {
+          "year": 2495,
+          "file": "geography\\sectors\\barrot_gateway.md",
+          "context": "- **~2495**: A strange portal opens in MRZ-14 \u2014 Barrot enters"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Discovery"
+      ],
+      "entries": [
+        {
+          "year": 2488,
+          "file": "factions\\bluevael_mining_colonies.md",
+          "context": "### The Discovery (~2488)"
+        },
+        {
+          "year": 2135,
+          "file": "geography\\worlds\\etira.md",
+          "context": "### Discovery (~2135)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Chior",
+        "Door",
+        "Herdus",
+        "Zenith"
+      ],
+      "entries": [
+        {
+          "year": 2559,
+          "file": "factions\\bmah.md",
+          "context": "- **~2559**: **Herdus.soul**, a former disciple of **Chior.eldr** (co-founder of Zenith Door), leave"
+        },
+        {
+          "year": 2539,
+          "file": "geography\\sectors\\zenith_door.md",
+          "context": "- **~2539**: **Chior.eldr** and his disciple **Herdus.soul** discover the **wrecked sector** of Zeni"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Academy",
+        "Chior",
+        "Door",
+        "Iris",
+        "Zenith"
+      ],
+      "entries": [
+        {
+          "year": 2545,
+          "file": "factions\\church_of_the_dreamer_below.md",
+          "context": "- **~2545**: Chior.eldr founds the **Iris Academy** at Zenith Door \u2014 Herdus is likely involved in th"
+        },
+        {
+          "year": 2525,
+          "file": "geography\\sectors\\zenith_door.md",
+          "context": "- Chior relocates the **Iris Academy** (founded ~2525) to Zenith Door, establishing it as the instit"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Rule"
+      ],
+      "entries": [
+        {
+          "year": 2399,
+          "file": "factions\\coral_dwellers.md",
+          "context": "### The Rule of 1000 (~2399)"
+        },
+        {
+          "year": 2399,
+          "file": "geography\\sectors\\coral_nebula.md",
+          "context": "- **~2399**: The **Rule of 1000** is established after settlements with over 1000 citizens see flora"
+        },
+        {
+          "year": 2433,
+          "file": "geography\\sectors\\coral_nebula.md",
+          "context": "- **~2433**: The Rule of 1000 is broken as settlers flock to the crescent market; corals spread out "
+        },
+        {
+          "year": 2399,
+          "file": "geography\\sectors\\coral_nebula.md",
+          "context": "### The Rule of 1000 (~2399)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "ECOS",
+        "Gardens",
+        "Hanging"
+      ],
+      "entries": [
+        {
+          "year": 2477,
+          "file": "factions\\ecos.md",
+          "context": "- **~2477**: In Hanging Gardens, ECOS refines terraforming and communing tech \u2014 reportedly succeeds "
+        },
+        {
+          "year": 2477,
+          "file": "geography\\sectors\\hanging_gardens.md",
+          "context": "- **~2477**: ECOS manages to refine their terraforming and communing technologies in Hanging Gardens"
+        },
+        {
+          "year": 2439,
+          "file": "geography\\sectors\\old_grove.md",
+          "context": "- **~2439**: ECOS gets overwhelmed and **flees to Hanging Gardens** (MRZ-16)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Established"
+      ],
+      "entries": [
+        {
+          "year": 2624,
+          "file": "factions\\frenir_new_government.md",
+          "context": "| **Established** | ~2624 (post-COP liberation) |"
+        },
+        {
+          "year": 2623,
+          "file": "factions\\pergamos_new_government.md",
+          "context": "| **Established** | ~2623 (post-COP intervention) |"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Prah",
+        "Punaab",
+        "Sogmian"
+      ],
+      "entries": [
+        {
+          "year": 2358,
+          "file": "factions\\frenir_new_government.md",
+          "context": "The ancient **Ki'Prah prison planet** \u2014 originally a Sogmian exile colony for oathbreakers (~2358), "
+        },
+        {
+          "year": 2364,
+          "file": "factions\\frenir_new_government.md",
+          "context": "The ancient **Ki'Prah prison planet** \u2014 originally a Sogmian exile colony for oathbreakers (~2358), "
+        },
+        {
+          "year": 2364,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2364**: Punaab-Sogmian cooperation begins (Ki'Prah prisoner exchange)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Origins"
+      ],
+      "entries": [
+        {
+          "year": 2600,
+          "file": "factions\\graft_research.md",
+          "context": "### Origins (~2600)"
+        },
+        {
+          "year": 2570,
+          "file": "factions\\the_collective_anarchy.md",
+          "context": "### Origins (~2570s)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Akalma",
+        "House",
+        "Sogmians",
+        "Vega"
+      ],
+      "entries": [
+        {
+          "year": 2399,
+          "file": "factions\\house_akalma.md",
+          "context": "- **~2399**: Vega becomes House Akalma leader; members from other houses flock to Akalma under his m"
+        },
+        {
+          "year": 2382,
+          "file": "species\\sogmian.md",
+          "context": "- **~2382**: Vega quickly rises through Akalma House ranks due to genius and combat prowess; his uni"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Pergamos"
+      ],
+      "entries": [
+        {
+          "year": 2542,
+          "file": "factions\\jorvik.md",
+          "context": "- **Pergamos** serves as a major harbor and trading post (~2542)"
+        },
+        {
+          "year": 2623,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2623**: **Pergamos's leading families banished** \u2014 new COP-compliant government formed"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Council",
+        "Peace"
+      ],
+      "entries": [
+        {
+          "year": 2623,
+          "file": "factions\\jorvik.md",
+          "context": "- Council of Peace \u2014 `canon/institutions/council_of_peace.md` (COP MRZ intervention ~2623)"
+        },
+        {
+          "year": 2571,
+          "file": "factions\\ophek.md",
+          "context": "- Council of Peace \u2014 `canon/institutions/council_of_peace.md` (recognized independence ~2571)"
+        },
+        {
+          "year": 2623,
+          "file": "factions\\pergamos_shadow_banks.md",
+          "context": "- Council of Peace \u2014 `canon/institutions/council_of_peace.md` (intervention ~2623)"
+        },
+        {
+          "year": 2623,
+          "file": "factions\\slavers_of_frenir.md",
+          "context": "- Council of Peace \u2014 `canon/institutions/council_of_peace.md` (intervention ~2623-24)"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Ingbus"
+      ],
+      "entries": [
+        {
+          "year": 2370,
+          "file": "factions\\ka_dara.md",
+          "context": "- **~2370**: Ingbus begins **kidnapping explorers** who venture into Ka-dara"
+        },
+        {
+          "year": 1940,
+          "file": "geography\\sectors\\ka_dara.md",
+          "context": "- **~1940\u20132100**: Ingbus begins researching resurrection, initially **preserving the moral principle"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Photoli"
+      ],
+      "entries": [
+        {
+          "year": 2511,
+          "file": "factions\\merchant_princes_of_denebula.md",
+          "context": "| **Gel** | Photoli | Co-founder; died ~2511 under **mysterious circumstances** |"
+        },
+        {
+          "year": 2507,
+          "file": "geography\\sectors\\bluvael.md",
+          "context": "- **~2507**: The colony expands into **minor settlements**; the galaxy now knows there is an **illus"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Oasis",
+        "Ophek"
+      ],
+      "entries": [
+        {
+          "year": 2602,
+          "file": "factions\\ophek.md",
+          "context": "- **~2602**: Ophek Oasis becomes the **biggest entertainment sector in the galaxy** \u2014 a title it has"
+        },
+        {
+          "year": 2602,
+          "file": "geography\\sectors\\ophek_oasis.md",
+          "context": "- **~2602**: Ophek Oasis becomes the **biggest \"entertainment\" sector in the galaxy** \u2014 its reputati"
+        },
+        {
+          "year": 2545,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2545**: Ophek renames sector **\"Ophek Oasis\"**"
+        },
+        {
+          "year": 2571,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2571**: Ophek Oasis formally recognized as **independent territory** by COP"
+        },
+        {
+          "year": 2602,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2602**: Ophek Oasis becomes biggest **entertainment sector** in the galaxy"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Ophek",
+        "Revel"
+      ],
+      "entries": [
+        {
+          "year": 2624,
+          "file": "factions\\ophek.md",
+          "context": "- **~2624**: **Ophek Revel dies** \u2014 the cause is unrecorded, though rumors range from natural causes"
+        },
+        {
+          "year": 2513,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2513**: Ophek Revel begins trading **HRZ information** during the war"
+        },
+        {
+          "year": 2624,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2624**: **Ophek Revel dies** \u2014 his children inherit, each ruling a different entertainment doma"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Scarka",
+        "Vaor"
+      ],
+      "entries": [
+        {
+          "year": 2623,
+          "file": "factions\\pergamos_new_government.md",
+          "context": "- **~2623**: COP forces under **Vaor Scarka's** executive leadership launch a military offensive"
+        },
+        {
+          "year": 2454,
+          "file": "history\\eras_of_star_atlas.md",
+          "context": "- **~2454**: **Vaor Scarka** born"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "Barons",
+        "Harkend",
+        "Relic"
+      ],
+      "entries": [
+        {
+          "year": 2486,
+          "file": "factions\\relic_barons.md",
+          "context": "- **~2486**: The Relic Barons begin exploring Harkend, discovering artifacts from an old civilizatio"
+        },
+        {
+          "year": 2550,
+          "file": "geography\\sectors\\harkend.md",
+          "context": "- **~2550**: The Relic Barons discover a **device that pacifies the automatons** of Harkend within a"
+        }
+      ]
+    }
+  ]
+}
