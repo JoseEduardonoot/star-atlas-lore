@@ -15,7 +15,7 @@
 | **Notable Member** | **Yacob** — representative who joined Ayevat's Denebula finance kingdom |
 | **Status** | Active — ONI's eyes on the frontier |
 
-**House Exinade** is the explorer house of the [Sogmian](../species/sogmian.md) Noble Houses — the vermilion arrow that flies furthest into the dark. Among the seven houses established by Segal the Wise, Exinade is the most carefree, the most restless, and the most likely to be found thousands of light-years from home charting systems that no other Sogmian has seen.
+**House Exinade** is the explorer house of the [Sogmian](../species/sogmian.md) Noble Houses — the vermilion arrow that flies furthest into the dark. Like all Sogmian houses, Exinade is a warrior house — every member trains with weapons from childhood and can fight with lethal efficiency. But among the seven houses established by Segal the Wise, Exinade is the most carefree, the most restless, and the most likely to be found thousands of light-years from home charting systems that no other Sogmian has seen.
 
 Their motto — *"To the Stars"* — is the shortest and most direct of any Noble House. It captures the Exinade spirit perfectly: no elaborate philosophy, no moral imperative, no metaphor about transcendence. Just a direction and a destination.
 

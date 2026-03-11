@@ -15,9 +15,9 @@
 | **Territory** | Stewardship of [Akalma Exile](../geography/sectors/akalma_exile.md) sector (awarded ~2423) |
 | **Status** | Active — ONI's humanitarian face and moral conscience |
 
-**House Outro** is the humanitarian house of the [Sogmian](../species/sogmian.md) Noble Houses — the snow-white shield that protects the defenseless rather than destroying the dangerous. In a warrior civilization defined by the [Du Prah](../species/sogmian.md) — absolute moral vows that demand violence only to cease violence — House Outro embodies the other half of that equation: the imperative to *provide shelter for those who seek it*.
+**House Outro** is the humanitarian house of the [Sogmian](../species/sogmian.md) Noble Houses — the snow-white shield that protects the defenseless rather than destroying the dangerous. Like all Sogmian houses, Outro is a warrior house — every member trains with weapons from childhood and can fight with lethal efficiency. But their specialization is service, not combat. In a warrior civilization defined by the [Du Prah](../species/sogmian.md) — absolute moral vows that demand violence only to cease violence — House Outro embodies the other half of that equation: the imperative to *provide shelter for those who seek it*.
 
-Where [House Xictus](../factions/house_xictus.md) is the sword, House Outro is the open hand. Their members run charities, hospitals, agricultural projects, and orphanages across Sogmian space and beyond. Their motto — *"One who does not live to serve does not serve to live"* — frames existence itself as an act of service.
+Where [House Xictus](../factions/house_xictus.md) leads the front lines, House Outro extends the open hand. Their members run charities, hospitals, agricultural projects, and orphanages across Sogmian space and beyond. Their motto — *"One who does not live to serve does not serve to live"* — frames existence itself as an act of service.
 
 Yet House Outro is arguably the most consequential house in modern Sogmian history. It was an **Outro reporter** who exposed Vega's crimes and triggered the civil war that banished [House Akalma](../factions/house_akalma.md). And it was Outro's authority that Bekalu violated in the [Akalma Reckoning](../factions/house_xictus.md) — an act that shattered the strongest alliance within the Noble Houses.
 
@@ -121,6 +121,6 @@ His legacy inspired the **[Sons of Patrah](../factions/sons_of_patrah.md)** — 
 
 | Index | Rating | Assessment |
 |-------|--------|------------|
-| **GFI** (Force) | 3 | Humanitarian house — every member is combat-trained, but Outro does not fight unless forced |
+| **GFI** (Force) | 5 | A warrior house like all Sogmian houses — every member is combat-trained and armed. Outro fights fiercely when forced, but their specialization is service, not the front lines |
 | **GWI** (Wealth) | 4 | Aid operations require significant resources. Outro's wealth is in goodwill and institutional infrastructure, not commerce |
 | **GPI** (Political) | 7 | The Vega Fall exposé made history. The Xictus–Outro rift shapes the Sov Arei vacancy. Outro's humanitarian networks generate disproportionate political influence across the MRZ |

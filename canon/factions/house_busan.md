@@ -15,7 +15,7 @@
 | **Notable Member** | **Paizul Busan** — Sov Arei, wife of Bekalu |
 | **Status** | Active — the shipwrights and engineers of ONI's fleet |
 
-**House Busan** is the builder house of the [Sogmian](../species/sogmian.md) Noble Houses — the burnt-umber forge that crafts everything from first wheels to Titan-class warships. In a civilization where every member carries a weapon, House Busan carries a hammer. Their motto — *"Your creations are your path to transcendence"* — expresses a philosophy rare among the Sogmians: that mortality can be defeated not through glory in battle, but through the things you leave behind.
+**House Busan** is the builder house of the [Sogmian](../species/sogmian.md) Noble Houses — the burnt-umber forge that crafts everything from first wheels to Titan-class warships. Like all Sogmian houses, Busan is a warrior house — every member trains with weapons from childhood and can fight alongside any [House Xictus](../factions/house_xictus.md) front-liner. But where other houses lead charges or command armies, House Busan carries a hammer alongside the blade. Their motto — *"Your creations are your path to transcendence"* — expresses a philosophy rare among the Sogmians: that mortality can be defeated not through glory in battle, but through the things you leave behind.
 
 Where [House Xictus](../factions/house_xictus.md) swings the blade and [House Garveil](../factions/house_garveil.md) designs its edge, House Busan forges both from raw metal. They are the native manufacturers of Sogmian civilization — the house that built the ships, the infrastructure, and the technology that carried an entire species from a single planet to galactic power.
 

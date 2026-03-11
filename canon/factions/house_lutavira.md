@@ -14,7 +14,7 @@
 | **Notable Trait** | Most fundamentalist interpreters of the Du Prah |
 | **Status** | Active — the political backbone and moral enforcers of Sogmian civilization |
 
-**House Lutavira** is the leader house of the [Sogmian](../species/sogmian.md) Noble Houses — the violet pillar that produces commanders, statesmen, and the most uncompromising enforcers of the [Du Prah](../species/sogmian.md). Where [House Xictus](../factions/house_xictus.md) fights and [House Outro](../factions/house_outro.md) serves, Lutavira **commands**. Their members are natural-born leaders, trained from childhood in the [Gray Citadel](../factions/sogmian_sovereignty.md) to organize, inspire, and govern.
+**House Lutavira** is the leader house of the [Sogmian](../species/sogmian.md) Noble Houses — the violet pillar that produces commanders, statesmen, and the most uncompromising enforcers of the [Du Prah](../species/sogmian.md). Like all Sogmian houses, Lutavira is a warrior house — every member trains with weapons from childhood and can fight alongside any [House Xictus](../factions/house_xictus.md) front-liner. But where Xictus leads the charge and [House Outro](../factions/house_outro.md) extends the hand, Lutavira **commands**. Their members are natural-born leaders, trained in the [Gray Citadel](../factions/sogmian_sovereignty.md) to organize, inspire, and govern.
 
 Their motto — *"Rise, win, conquer"* — captures an ambition that is explicitly hierarchical. Lutavira does not explore like [House Exinade](../factions/house_exinade.md) or build like [House Busan](../factions/house_busan.md). Lutavira ascends. Their members seek the highest ranks, the most demanding responsibilities, and the most visible positions within both the Noble Houses and the [ONI Consortium](../factions/oni.md).
 
@@ -100,6 +100,6 @@ No individual Lutavira members have been documented by name in the current canon
 
 | Index | Rating | Assessment |
 |-------|--------|------------|
-| **GFI** (Force) | 5 | Leaders, not front-line warriors — though every member is Citadel-trained and combat-capable |
+| **GFI** (Force) | 6 | A warrior house like all Sogmian houses — every member is a trained killer. Lutavira's strength is in commanding warriors rather than being the first to charge |
 | **GWI** (Wealth) | 4 | Political house, not commercial. Wealth comes through influence allocation, not trade |
 | **GPI** (Political) | 9 | The political spine of Sogmian civilization. Du Prah enforcement authority, diplomatic representation, and inter-house coordination make Lutavira disproportionately influential despite having no formal supreme authority |

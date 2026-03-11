@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | **Type** | [Sogmian](../species/sogmian.md) Noble House |
-| **Domain** | Warriors — front lines of the Sogmian armada |
+| **Domain** | Front-line warriors — the most war-oriented of the Noble Houses |
 | **Color** | Obsidian Black |
 | **Motto** | *"The brave only dies once. The coward dies every day."* |
 | **Homeworld** | [Segal Sector](../geography/sectors/segal.md) (ONI 4 — Safe Zone) |
@@ -17,17 +17,17 @@
 > *"When ONI fights, it fights with Sogmian discipline, Sogmian ships, and Sogmian honor."*
 > — From the [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) file
 
-**House Xictus** is the warrior house of the [Sogmian](../species/sogmian.md) Noble Houses — the obsidian-black shield that stands at the front lines of every Sogmian battle and provides the military command structure that the entire [ONI Consortium](../factions/oni.md) follows in wartime. Where [House Busan](../factions/house_busan.md) builds the ships and [House Garveil](../factions/house_garveil.md) sharpens the mind, House Xictus is the blade itself — the house that fights, bleeds, and dies first.
+**House Xictus** is the most war-oriented of the [Sogmian](../species/sogmian.md) Noble Houses — the obsidian-black shield that stands at the front lines of every Sogmian battle and provides the military command structure that the entire [ONI Consortium](../factions/oni.md) follows in wartime. All Sogmian houses are warrior houses — every Sogmian trains with weapons from childhood — but Xictus takes that martial foundation to its extreme. Where [House Busan](../factions/house_busan.md) builds the ships and [House Garveil](../factions/house_garveil.md) sharpens the mind, House Xictus is the blade itself — the house that charges first, bleeds first, and dies first.
 
 Its motto — *"The brave only dies once. The coward dies every day"* — is not merely a slogan. It is a battle cry etched into the hull of *The Last Stand*, the [Titan-class warship](../species/sogmian.md) that ended the [Convergence War](../history/eras_of_star_atlas.md) by its mere existence. House Xictus produced the warrior who built that Titan, forged the [ONI Consortium](../factions/oni.md), and then walked away from the highest office in Sogmian civilization pressed with guilt for what he had done.
 
 ---
 
-## The Warrior Tradition
+## The Front-Line Tradition
 
-House Xictus embodies the martial core of Sogmian identity. Every [Sogmian](../species/sogmian.md) trains with weapons from childhood in the [Gray Citadel](../factions/sogmian_sovereignty.md), but it is the graduates who choose — or are chosen by — House Xictus who become the professional soldiers, fleet commanders, and tactical minds of the species.
+All Sogmian houses are warrior houses. Every [Sogmian](../species/sogmian.md) — regardless of house — trains with weapons from childhood in the [Gray Citadel](../factions/sogmian_sovereignty.md) and commonly carries at least one weapon at all times. A House Garveil scholar can kill as readily as a House Xictus soldier. The difference is not whether they fight, but **where** they stand when the fighting starts.
 
-The house's domain is clear: **the front lines**. While other houses advise, research, explore, build, or serve — Xictus fights. Its members command the Sogmian armada and, by extension, the military wing of the [ONI Consortium](../factions/oni.md). When ONI's combined fleets operate in wartime, they follow Xictus command structure.
+House Xictus stands at the front. Its members are the professional soldiers, fleet commanders, and tactical minds who command the Sogmian armada and, by extension, the military wing of the [ONI Consortium](../factions/oni.md). When ONI's combined fleets operate in wartime, they follow Xictus command structure.
 
 This martial focus creates a paradox within the [Du Prah](../species/sogmian.md) — the absolute moral vows that govern all Sogmians. The Du Prah demands that violence be used *only* to cease previous violence. House Xictus bears the heaviest burden of this principle: they must be ready to fight at any moment, yet every fight must be a last resort. The tension between warrior readiness and moral restraint defines the house's character.
 

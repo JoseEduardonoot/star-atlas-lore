@@ -14,17 +14,17 @@
 | **Notable Achievement** | Unlocked the Titan's power source from Photoli knowledge |
 | **Status** | Active — the intellectual pillar of Sogmian civilization |
 
-**House Garveil** is the scholar house of the [Sogmian](../species/sogmian.md) Noble Houses — the azure flame that illuminates where [House Xictus](../factions/house_xictus.md) fights and [House Busan](../factions/house_busan.md) builds. In a warrior civilization that trains every member with weapons from childhood, House Garveil embodies the complementary truth that knowledge is as vital as strength. Their motto — *"Repetition is the mother of learning"* — reveals their character: methodical, patient, devoted to mastery through practice.
+**House Garveil** is the scholar house of the [Sogmian](../species/sogmian.md) Noble Houses — the azure flame that illuminates where [House Xictus](../factions/house_xictus.md) leads the charge and [House Busan](../factions/house_busan.md) builds. Like all Sogmian houses, Garveil is a warrior house — every member trains with weapons from childhood and carries at least one blade at all times. A Garveil scientist can kill as readily as any Xictus front-liner. But their true weapon is the mind, and their motto — *"Repetition is the mother of learning"* — reveals their character: methodical, patient, devoted to mastery through practice.
 
-Where other species might separate their warriors from their scholars, the Sogmians fuse them. A Garveil scientist carries a blade as readily as any Xictus soldier — but their true weapon is the mind. The house produces researchers, experimentalists, and systematic thinkers who have advanced Sogmian technology from first wheels to Titan-class warships.
+The house produces researchers, experimentalists, and systematic thinkers who have advanced Sogmian technology from first wheels to Titan-class warships.
 
 ---
 
-## The Scholar-Warrior Paradox
+## Scholar-Warriors
 
-The [Du Prah](../species/sogmian.md) — the absolute moral vows governing all Sogmians — makes no distinction between warrior and scholar. Every Sogmian trains in the [Gray Citadel](../factions/sogmian_sovereignty.md) before being chosen by a house. Those who join Garveil are no less dangerous than their Xictus peers — they simply channel their discipline toward understanding rather than combat.
+Every Sogmian is a warrior. The [Du Prah](../species/sogmian.md) and the [Gray Citadel](../factions/sogmian_sovereignty.md) ensure that — all houses share the same martial foundation. Those who join Garveil are no less dangerous than their Xictus peers — they simply channel their discipline toward understanding rather than front-line combat.
 
-This duality makes Garveil unique among galactic scholarly institutions. Where the [Iris Academy](../factions/iris_academy.md) produces civilian researchers and the [Mierese Lore Keepers](../factions/mierese_lore_keepers.md) preserve knowledge through oral tradition, House Garveil produces scientist-warriors who conduct research with the same intensity that Xictus brings to battle.
+This makes Garveil unique among galactic scholarly institutions. Where the [Iris Academy](../factions/iris_academy.md) produces civilian researchers and the [Mierese Lore Keepers](../factions/mierese_lore_keepers.md) preserve knowledge through oral tradition, House Garveil produces scientist-warriors who conduct research with the same intensity that Xictus brings to the front lines.
 
 The house works alongside the [Iris Academy](../factions/iris_academy.md), contributing the scientific expertise that balances Sogmian martial tradition within the broader [ONI Consortium](../factions/oni.md) framework.
 
