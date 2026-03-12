@@ -302,7 +302,11 @@ The following roles define the operational structure of House Outro:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Humanitarian pillar — runs ONI's aid operations and generates soft power |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — one of six active Noble Houses |
-| [House Xictus](../factions/house_xictus.md) | **Fractured** — Bekalu's Reckoning violated Outro's stewardship of Akalma Exile. Century-old rift persists |
+| [House Xictus](../factions/house_xictus.md) | **Fractured** — Bekalu's Reckoning violated Outro's stewardship of Akalma Exile. Seylith respects Gorvath personally but cannot forgive the house |
+| [House Garveil](../factions/house_garveil.md) | Quiet concern — Seylith senses Tessara carries a secret burden. Outro provides humanitarian cover for Garveil field research |
+| [House Lutavira](../factions/house_lutavira.md) | Generational alliance — Seylith and Veylan are the youngest Kur'faists, united in pushing for reform. But Seylith fears Veylan could become the next Vega |
+| [House Exinade](../factions/house_exinade.md) | Operational overlap — Outro aid convoys and Exinade scout teams sometimes meet in frontier zones. Rethann respects Seylith's Preemption Doctrine but finds it naïve without field experience |
+| [House Busan](../factions/house_busan.md) | Mutual respect — Furnok built the stations and ships that carry Outro humanitarian supplies across the galaxy. Seylith values his craftsmanship; Furnok values her dedication |
 | [House Akalma](../factions/house_akalma.md) | Complex — Outro exposed Vega's crimes but was also victim of the Reckoning that devastated Akalma's exile sector |
 | [Sons of Patrah](../factions/sons_of_patrah.md) | Spiritual legacy — Patrah's humanitarian work inspired this organization |
 | [Garadar DAC](../factions/garadar_dac.md) | Operational partner — shared anti-slavery, humanitarian mission |
@@ -328,6 +332,11 @@ The following roles define the operational structure of House Outro:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
+- [House Xictus](../factions/house_xictus.md) — Reckoning rift, Seylith respects Gorvath personally
+- [House Garveil](../factions/house_garveil.md) — Seylith senses Tessara's secret burden
+- [House Lutavira](../factions/house_lutavira.md) — Generational alliance with Veylan, cautious of his ambition
+- [House Exinade](../factions/house_exinade.md) — Frontier overlap, Rethann challenges Seylith's doctrine
+- [House Busan](../factions/house_busan.md) — Furnok builds the ships and stations that carry Outro supplies
 - [Sons of Patrah](../factions/sons_of_patrah.md) — Outro-inspired humanitarian order
 - [House Akalma](../factions/house_akalma.md) — The banished house
 

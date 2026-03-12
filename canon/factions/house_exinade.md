@@ -263,7 +263,11 @@ The following roles define the operational structure of House Exinade:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Forward reconnaissance — Exinade scouts map the frontier for ONI expansion |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — one of six active Noble Houses |
-| [House Lutavira](../factions/house_lutavira.md) | Philosophical tension — Exinade's pragmatism clashes with Lutavira's fundamentalism |
+| [House Xictus](../factions/house_xictus.md) | Mutual respect — Gorvath trusts Rethann more than any other Kur'faist. Exinade scouts provide intelligence for Xictus military operations |
+| [House Garveil](../factions/house_garveil.md) | Field support — Exinade scouts report frontier anomalies that Garveil researchers investigate. Kassev's unidentified energy signature remains unexplained |
+| [House Lutavira](../factions/house_lutavira.md) | Philosophical tension — Rethann's frontier pragmatism clashes with Lutavira's fundamentalism. Sothrek has flagged Rethann's field decisions more times than any other Kur'faist |
+| [House Outro](../factions/house_outro.md) | Operational overlap — Outro aid convoys and Exinade scout teams meet in frontier zones. Rethann respects Seylith's intentions but finds the Preemption Doctrine untested |
+| [House Busan](../factions/house_busan.md) | Builder–scout bond — Furnok builds the ships Exinade flies into the deep dark. Rethann has never returned his ship for maintenance; Furnok considers this the highest compliment |
 | [Merchant Princes of Denebula](../factions/merchant_princes_of_denebula.md) | Commercial presence — Yacob represents Sogmian interests in Ayevat's financial network |
 | [Exile Scavengers](../factions/exile_scavengers.md) | Operational contact — Exinade scouts encounter scavenger bands in the HRZ |
 
@@ -284,6 +288,11 @@ The following roles define the operational structure of House Exinade:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
+- [House Xictus](../factions/house_xictus.md) — Gorvath's most trusted alliance, intelligence partnership
+- [House Garveil](../factions/house_garveil.md) — Anomaly investigation support
+- [House Lutavira](../factions/house_lutavira.md) — Du Prah enforcement tension with frontier pragmatism
+- [House Outro](../factions/house_outro.md) — Frontier operational overlap with Seylith's aid convoys
+- [House Busan](../factions/house_busan.md) — Furnok's ships carry Exinade scouts into the deep dark
 - [Merchant Princes of Denebula](../factions/merchant_princes_of_denebula.md) — Yacob's alliance
 
 ---

@@ -282,8 +282,11 @@ The following roles define the operational structure of House Lutavira:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Political leadership — Lutavira structures ONI's governance and diplomacy |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — one of six active Noble Houses |
-| [House Xictus](../factions/house_xictus.md) | Complementary — military (Xictus) and political (Lutavira) command work in parallel |
-| [House Exinade](../factions/house_exinade.md) | Philosophical tension — Exinade's frontier pragmatism and Lutavira's fundamentalism occasionally clash |
+| [House Xictus](../factions/house_xictus.md) | Complementary — Gorvath's military command and Lutavira's political leadership work in parallel. Sothrek audits Xictus operations for Du Prah compliance |
+| [House Garveil](../factions/house_garveil.md) | Intellectual respect — Dessik and Fennok teach complementary courses at the Gray Citadel. Veylan values Tessara's analytical precision |
+| [House Outro](../factions/house_outro.md) | Generational alliance — Veylan and Seylith are the two youngest Kur'faists, pushing for reform. Seylith secretly fears Veylan could become the next Vega |
+| [House Busan](../factions/house_busan.md) | Quiet tension — Furnok asks Veylan "What have you built?" every time the Sov Arei vacancy is raised. Veylan has no answer |
+| [House Exinade](../factions/house_exinade.md) | Philosophical tension — Rethann's frontier pragmatism clashes with Lutavira's fundamentalism. Sothrek has flagged Rethann's decisions for review more times than any other Kur'faist |
 | [House Akalma](../factions/house_akalma.md) | Deep suspicion — Lutavira's fundamentalism resists Akalma's return on principle |
 | [COP](../institutions/council_of_peace.md) | Diplomatic presence — Lutavira members often represent Sogmian interests in COP proceedings |
 
@@ -303,6 +306,11 @@ The following roles define the operational structure of House Lutavira:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
+- [House Xictus](../factions/house_xictus.md) — Military counterpart, Gorvath's command partnership
+- [House Garveil](../factions/house_garveil.md) — Intellectual partner, Tessara's analytical precision
+- [House Outro](../factions/house_outro.md) — Generational alliance, Seylith and Veylan's reform bloc
+- [House Busan](../factions/house_busan.md) — Furnok's philosophical challenge to Veylan
+- [House Exinade](../factions/house_exinade.md) — Frontier pragmatism vs. fundamentalism
 - [House Akalma](../factions/house_akalma.md) — The returning banished house
 
 ---

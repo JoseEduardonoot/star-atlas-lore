@@ -275,10 +275,13 @@ The following roles define the operational structure of House Garveil:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Scientific pillar — provides research and analytical capabilities |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — one of six active Noble Houses |
-| [House Xictus](../factions/house_xictus.md) | Complementary — Garveil's science enables Xictus's military operations |
-| [House Busan](../factions/house_busan.md) | Deep collaboration — Garveil provided the Titan power source knowledge that Busan built into *The Last Stand* |
+| [House Xictus](../factions/house_xictus.md) | Complementary — Garveil's science enables Xictus's military operations. Tessara and Gorvath coordinate on the Titan |
+| [House Busan](../factions/house_busan.md) | Deep collaboration — Tessara maintains the Titan's power source; Furnok maintains everything else. Fifty years of shared maintenance cycles have built unshakeable trust |
+| [House Lutavira](../factions/house_lutavira.md) | Intellectual respect — Tessara questions the scope of Seylith's Preemption Doctrine. Dessik and Fennok teach complementary courses at the Gray Citadel |
+| [House Outro](../factions/house_outro.md) | Quiet concern — Seylith senses Tessara carries a secret burden. Tessara values Outro's humanitarian network but guards her privacy |
+| [House Exinade](../factions/house_exinade.md) | Field support — Garveil researchers investigate anomalies reported by Exinade scouts, including Durro's unexplained readings at Akalma Exile |
 | The Stranger | Unresolved mystery — an unidentified being gave Maerov the key to the Titan's power source. Species, identity, and motive remain unknown |
-| [Iris Academy](../factions/iris_academy.md) | Academic collaboration — complementary research institutions |
+| [Iris Academy](../factions/iris_academy.md) | Academic collaboration — Tessara is a professor of HRZ materials at Iris |
 | [Mierese Lore Keepers](../factions/mierese_lore_keepers.md) | Knowledge exchange — different methodologies (empirical vs. oral tradition) |
 
 ---
@@ -297,8 +300,12 @@ The following roles define the operational structure of House Garveil:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
-- [Iris Academy](../factions/iris_academy.md) — Academic partner
-- [House Busan](../factions/house_busan.md) — Engineering partner
+- [Iris Academy](../factions/iris_academy.md) — Academic partner, Tessara's professorship
+- [House Xictus](../factions/house_xictus.md) — Military partner, Titan coordination with Gorvath
+- [House Busan](../factions/house_busan.md) — Engineering partner, Titan maintenance with Furnok
+- [House Lutavira](../factions/house_lutavira.md) — Intellectual counterpart, Gray Citadel teaching partnership
+- [House Outro](../factions/house_outro.md) — Seylith's quiet concern for Tessara's burden
+- [House Exinade](../factions/house_exinade.md) — Frontier anomaly investigation support
 
 ---
 

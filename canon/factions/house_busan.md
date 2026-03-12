@@ -296,8 +296,11 @@ The following roles define the operational structure of House Busan:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Industrial backbone — Busan builds the fleet that projects ONI power |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — one of six active Noble Houses |
-| [House Xictus](../factions/house_xictus.md) | Deep bond — Paizul married Bekalu. Together they built the Titan and formed ONI |
-| [House Garveil](../factions/house_garveil.md) | Essential partnership — Garveil provided the Titan's power source specifications; Busan built it |
+| [House Xictus](../factions/house_xictus.md) | Deep bond — Paizul married Bekalu. Furnok's dockyards built the Titan that Gorvath commands. Gorvath trusts the old builder's judgment implicitly |
+| [House Garveil](../factions/house_garveil.md) | Essential partnership — Tessara maintains the Titan's power source; Furnok maintains everything else. Fifty years of shared maintenance cycles, built on mutual trust |
+| [House Lutavira](../factions/house_lutavira.md) | Quiet tension — Furnok asks Veylan "What have you built?" every time the Sov Arei vacancy is raised. Olkanna's ethical auditing philosophy parallels Lutavira's Du Prah enforcement |
+| [House Outro](../factions/house_outro.md) | Mutual respect — Busan builds the stations and ships that carry Outro humanitarian supplies. Seylith values Furnok's craftsmanship; Furnok values her dedication |
+| [House Exinade](../factions/house_exinade.md) | Builder–scout bond — Furnok builds the ships Rethann flies. Rethann has never returned his ship for maintenance; Furnok considers this the highest compliment |
 | Unknown Stranger | Indirect debt — an [unidentified stranger](../factions/house_garveil.md) gave Garveil the key; Busan turned it into reality |
 | [Fimbul Industries](../factions/fimbul_industries.md) | Competitor — [MUD](../factions/mud.md)'s premier ship manufacturer. Different philosophies: Fimbul optimizes for production scale; Busan imbues each creation with purpose |
 
@@ -317,8 +320,11 @@ The following roles define the operational structure of House Busan:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
-- [House Xictus](../factions/house_xictus.md) — Warrior partners, Paizul–Bekalu marriage
-- [House Garveil](../factions/house_garveil.md) — Titan power source partners
+- [House Xictus](../factions/house_xictus.md) — Warrior partners, Paizul–Bekalu marriage, Gorvath trusts Furnok
+- [House Garveil](../factions/house_garveil.md) — Titan maintenance partnership with Tessara
+- [House Lutavira](../factions/house_lutavira.md) — Furnok challenges Veylan's leadership credentials
+- [House Outro](../factions/house_outro.md) — Busan infrastructure carries Outro humanitarian operations
+- [House Exinade](../factions/house_exinade.md) — Furnok builds the ships Rethann flies into the frontier
 
 ### History
 

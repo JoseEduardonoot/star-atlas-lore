@@ -315,9 +315,11 @@ The following roles define the operational structure of House Xictus:
 |---------|-------------|
 | [ONI Consortium](../factions/oni.md) | Military backbone — Xictus command structure governs ONI's combined fleets in wartime |
 | [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) | Parent institution — Xictus is one of six active Noble Houses |
-| [House Busan](../factions/house_busan.md) | Deep bond — Paizul was of House Busan; together they forged the Titan |
-| [House Garveil](../factions/house_garveil.md) | Complementary — Garveil's science enabled the Titan's power source |
-| [House Outro](../factions/house_outro.md) | **Fractured** — the Akalma Reckoning violated Outro's authority and created a century-old rift |
+| [House Busan](../factions/house_busan.md) | Deep bond — Paizul married Bekalu. Furnok's dockyards built the Titan that Gorvath commands. Gorvath trusts the old builder's judgment implicitly |
+| [House Garveil](../factions/house_garveil.md) | Complementary — Garveil's science enabled the Titan's power source. Tessara maintains the energy matrix; Gorvath provides military oversight |
+| [House Lutavira](../factions/house_lutavira.md) | Cautious tension — Gorvath respects the Du Prah enforcement role but watches Veylan's Sov Arei campaign with wariness. Sothrek audits Xictus operations |
+| [House Outro](../factions/house_outro.md) | **Fractured** — the Akalma Reckoning violated Outro's stewardship. Seylith respects Gorvath personally but cannot forgive the house. Century-old rift persists |
+| [House Exinade](../factions/house_exinade.md) | Mutual respect — Gorvath trusts Rethann more than any other Kur'faist, precisely because Rethann wants nothing. Exinade scouts provide intelligence for Xictus operations |
 | [House Akalma](../factions/house_akalma.md) | Blood debt — Bekalu devastated their exile sector, then showed mercy |
 | [COP](../institutions/council_of_peace.md) | Co-founder — the Treaty of Peace was signed after Xictus-led forces ended the war |
 | [Tufa](../species/tufa.md) | Sacred obligation — Sogmians shielded the Tufa at the cost of near-extinction |
@@ -340,9 +342,11 @@ The following roles define the operational structure of House Xictus:
 
 - [Sogmian Sovereignty](../factions/sogmian_sovereignty.md) — Species-state overview
 - [ONI Consortium](../factions/oni.md) — Parent faction
-- [House Busan](../factions/house_busan.md) — Ship builders, Paizul's house
-- [House Garveil](../factions/house_garveil.md) — Scholars who unlocked the Titan
-- [House Outro](../factions/house_outro.md) — Humanitarian house, Reckoning rift
+- [House Busan](../factions/house_busan.md) — Ship builders, Paizul's house, Furnok maintains the Titan hull
+- [House Garveil](../factions/house_garveil.md) — Scholars who unlocked the Titan, Tessara keeps the power source running
+- [House Lutavira](../factions/house_lutavira.md) — Du Prah enforcers, Veylan campaigns for Sov Arei
+- [House Outro](../factions/house_outro.md) — Humanitarian house, Seylith's Reckoning rift with Gorvath
+- [House Exinade](../factions/house_exinade.md) — Frontier scouts, Rethann is Gorvath's most trusted Kur'faist
 - [House Akalma](../factions/house_akalma.md) — The banished house
 
 ---
