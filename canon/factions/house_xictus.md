@@ -76,11 +76,92 @@ The rift between Xictus and Outro has never fully healed. It manifests in inter-
 
 ---
 
+## Gorvath 𐏕 Xictus Kur'faist — The Obsidian Sentinel
+
+> *"I have killed more beings than I can name. Not one of them haunts me. What haunts me is the ones I could not reach in time."*
+> — **Gorvath**, after the memorial at the Gray Citadel (~2615)
+
+| | |
+|---|---|
+| **Full Name** | Gorvath 𐏕 Xictus Kur'faist |
+| **Species** | [Sogmian](../species/sogmian.md) |
+| **House** | Xictus (Obsidian Black) |
+| **Rank** | Kur'faist (House Leader) |
+| **Born** | ~2490 (Segal Sector) |
+| **Age** | ~130 (current era ~2620) |
+| **Era** | [Convergence War](../history/convergence_war.md) veteran → [Golden Era](../history/eras_of_star_atlas.md) leader |
+| **Status** | Active — current leader of House Xictus |
+
+### The Soldier
+
+Gorvath was born to the obsidian-black banner approximately sixty years before the galaxy tore itself apart. He entered the [Gray Citadel](../factions/sogmian_sovereignty.md) at the standard age, excelled in every martial discipline offered, and was chosen by House Xictus before his fourteenth year — the earliest selection in a generation. Where other recruits showed competence, Gorvath showed **hunger**. Not for rank. Not for glory. For the front line itself.
+
+By the time the [Convergence War](../history/convergence_war.md) erupted (~2512), Gorvath was a seasoned mid-rank officer — a **shield-captain** commanding a lance of Xictus warriors under the direct authority of **Kur Faist Bekalu**. He was present for every major phase of the conflict:
+
+- **The Shield**: Gorvath led boarding actions against "treaty ships" — the slave vessels carrying [Tufa](../species/tufa.md) to auction. His lance intercepted seven convoys in the first year alone. He saw what the galaxy did to the Tufa with his own eyes — and it burned a fury into him that has never cooled.
+
+- **The Retaliation**: When galactic powers besieged Sogmian systems, Gorvath fought in the defense of the [Segal Sector](../geography/sectors/segal.md) perimeter. His shield-wall held a corridor open for civilian evacuation when three MUD cruisers attempted to cut off retreat routes. He was injured twice. He did not withdraw.
+
+- **The Shattering**: Gorvath was off-world when **Sov Arei Paizul** was assassinated (2520-07-17). He received the news via emergency subspace burst — and later described the moment as *"the sound of every Sogmian heart breaking at once."* He rallied his lance and fought his way back to the main fleet.
+
+- **The Exile**: Gorvath followed Bekalu into the HRZ without question. During the formation of the [ONI Consortium](../factions/oni.md), he served as a security commander for the diplomatic missions to [Punaab](../species/punaab.md) and [Mierese](../species/mierese.md) settlements — *"guarding caravans, bringing bread, keeping weapons sheathed"* while Bekalu negotiated.
+
+- **The Reckoning**: Gorvath's lance was among the first to strike the [Akalma Exile](../geography/sectors/akalma_exile.md) sector. He carried out Bekalu's orders with absolute discipline — and absolute fury. He has **never spoken publicly** about what he did there. When asked, he says only: *"The Reckoning was Xictus at its truest. That is both our pride and our shame."*
+
+### The Weight
+
+Gorvath is not haunted by the men he killed. He is haunted by the men he *could not save*.
+
+The [Du Prah](../species/sogmian.md) demands that violence be used only to cease previous violence. Every kill Gorvath has made, he has measured against this standard — and by his own reckoning, every kill was justified. The Tufa slavers were committing violence. The besiegers were committing violence. Even the Akalma were operating violently in the Cataclysm region.
+
+But the Du Prah's other mandate — *"shelter those who cannot defend themselves"* — weighs heavier. For every convoy Gorvath intercepted, three more reached the auction blocks. For every corridor he held open, two others collapsed. Of the estimated 50,000 Sogmians alive at the war's start, only 10,000 survived. Gorvath carries each lost name like a stone in his chest.
+
+This is the Xictus flaw made flesh: **the warrior who cannot forgive himself for the limits of his own strength**. Every Xictus soldier knows the paradox — you train to be the best, you stand at the front, you fight harder than anyone, and **it is still not enough**. The galaxy is too large, the enemies too many, the innocents too scattered. House Xictus produces warriors who will die for their principles — and leaders who live long enough to learn that dying is easier than carrying the memory of everyone they couldn't reach.
+
+### The Leader
+
+After Bekalu's resignation (~2528), Gorvath rose through Xictus ranks over the following decades — not through ambition, but through the simple fact that he refused to stop serving. While others pursued peacetime careers, Gorvath continued training, continued patrolling, continued standing watch. By ~2580, he was elected **Kur'faist** — house leader of Xictus — by consensus of the house's senior warriors.
+
+As Kur'faist, Gorvath embodies the Xictus paradox:
+
+- **He is the most dangerous warrior alive** among the active Sogmian houses. His combat experience spans over a century. No living Sogmian has fought in more engagements, survived more injuries, or killed more enemies.
+- **He is the most reluctant to fight**. The Du Prah's restraint has deepened with age. Gorvath will not draw his weapon until every other option has been exhausted — and when he does draw, the engagement is already over. His patience is legendary among ONI commanders, who sometimes mistake it for weakness.
+- **He carries Bekalu's guilt without Bekalu's escape**. Bekalu resigned. Gorvath cannot. Someone must lead Xictus, and no one else has the moral weight to enforce the Du Prah's martial code while carrying the memory of every battle where that code was tested to its breaking point.
+- **He opposes the Sov Arei vacancy** — quietly, stubbornly, and without political maneuvering. He believes the Sogmians need a Supreme Leader again, but he will not claim the title himself. *"The Sov Arei must be extraordinary. I am merely old."*
+
+### Personality
+
+Gorvath speaks in short, clipped sentences — a habit from decades of battlefield communication. He does not waste words. He does not raise his voice. He does not need to. When Gorvath enters a room, the room adjusts. Not because of his rank — because of what he has survived.
+
+He is **unfailingly honest**, sometimes brutally so. He finds diplomatic euphemism intolerable and has clashed repeatedly with [House Lutavira](../factions/house_lutavira.md)'s political representatives, who prefer carefully constructed language. Gorvath's response to political speech is always the same: *"Say what you mean, or say nothing."*
+
+He has a deep, quiet respect for [House Outro](../factions/house_outro.md) — and a personal guilt about the Reckoning that he will never express publicly. He was there. He did what Bekalu ordered. And he knows — in the silence where the Du Prah lives — that what he did was the closest he has ever come to violating the Vows.
+
+On the question of [House Akalma](../factions/house_akalma.md)'s return: Gorvath has said only one thing, reported second-hand through Xictus officers: *"If the boy Jefos carries even half of what his name promises, then we owe him the chance to prove it. We owe them that much."*
+
+---
+
+## House Roles
+
+The following roles define the operational structure of House Xictus:
+
+| Role | Title | Function |
+|------|-------|----------|
+| **House Leader** | Kur'faist | Supreme commander of House Xictus. Leads all house affairs — military, political, and cultural. Currently held by **Gorvath** |
+| **Shield-Captain** | Mar'graf Kaa | Front-line combat officers. Command lances (squads) of 8–12 warriors. The backbone of the Xictus armada |
+| **Vow-Keeper** | Rat'Prah | Advisors who ensure that military operations comply with the [Du Prah](../species/sogmian.md). Every deployment must be vetted against the Vows |
+| **Gate-Watch** | Frei'har Sen | Free-nobility sentinels who guard strategic positions — sector gates, station perimeters, convoy routes. The first to see the enemy; the last to leave |
+| **Iron-Forge Instructor** | Her'graf Tahl | Gray Citadel trainers from House Xictus who prepare the next generation. Every Sogmian trains through the Citadel, but Xictus instructors shape the front-liners |
+| **Obsidian Hand** | Kur'faist Vek | The Kur'faist's personal guard — a lance of the most experienced warriors in the house. Gorvath's Obsidian Hand numbers seven veterans, all Convergence War survivors |
+
+---
+
 ## Named Characters
 
 | Name | Full Name | Role | Notes |
 |------|-----------|------|-------|
 | **Bekalu** | Bekalu 𐎌 Xictus Sov'arei | Kur Faist → Sov Arei (resigned ~2528) | Led exile, built the Titan, formed ONI. Resigned under guilt |
+| **Gorvath** | Gorvath 𐏕 Xictus Kur'faist | Current Kur'faist (~2580–present) | Convergence War veteran. The Obsidian Sentinel. Embodiment of Xictus virtues and flaws |
 
 ---
 
