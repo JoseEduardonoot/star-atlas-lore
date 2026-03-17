@@ -317,18 +317,18 @@ Tessendorf believes neither theory. He believes Pergamos can be rebuilt — but 
 
 ## Cross-References
 
-- Pergamos sector — `canon/geography/sectors/pergamos.md`
-- Pergamos Shadow Banks — `canon/factions/pergamos_shadow_banks.md` (predecessor regime, detailed history)
-- COP — `canon/institutions/council_of_peace.md` (intervention, Cradle deployment, Scarka)
-- MUD colonies — `canon/species/human.md` (~2426 expansion, ~2522 breakaway)
-- Timeline — `canon/meta/master_timeline.md` (~2529 merchant republic, ~2542 outlaw harbor, ~2574 Shadow Contracts, ~2623 intervention)
-- Redam Government — `canon/factions/redam_government.md` (regional partner, diplomatic mediation)
-- Abyd Government — `canon/factions/abyd_government.md` (Shadow Banks finance warlords from exile)
-- Hikibashi — `canon/factions/hikibashi.md` (Trill Yara, Pergamos Incident)
-- Fimbul BYOS — `canon/factions/fimbul_byos.md` (workshops raided during intervention)
-- Xianyang — `canon/geography/sectors/xianyang.md` (threatened to defy COP)
-- Mycenas Government — `canon/factions/mycenas_government.md` (threatened intervention)
-- Never Alone — `canon/narratives/never_alone_campaign.md` (BMAH three pillars)
-- Zenith Door — `canon/geography/sectors/zenith_door.md` (Chior opposes COP invasions)
-- MTC — `canon/factions/meridian_trading_company.md` (Synod pattern being replicated)
-- Named Characters — `canon/meta/named_characters.md`
+- Pergamos sector — [pergamos.md](../geography/sectors/pergamos.md)
+- Pergamos Shadow Banks — [pergamos_shadow_banks.md](./pergamos_shadow_banks.md) (predecessor regime, detailed history)
+- COP — [council_of_peace.md](../institutions/council_of_peace.md) (intervention, Cradle deployment, Scarka)
+- MUD colonies — [human.md](../species/human.md) (~2426 expansion, ~2522 breakaway)
+- Timeline — [master_timeline.md](../meta/master_timeline.md) (~2529 merchant republic, ~2542 outlaw harbor, ~2574 Shadow Contracts, ~2623 intervention)
+- Redam Government — [redam_government.md](./redam_government.md) (regional partner, diplomatic mediation)
+- Abyd Government — [abyd_government.md](./abyd_government.md) (Shadow Banks finance warlords from exile)
+- Hikibashi — [hikibashi.md](./hikibashi.md) (Trill Yara, Pergamos Incident)
+- Fimbul BYOS — [fimbul_byos.md](./fimbul_byos.md) (workshops raided during intervention)
+- Xianyang — [xianyang.md](../geography/sectors/xianyang.md) (threatened to defy COP)
+- Mycenas Government — [mycenas_government.md](./mycenas_government.md) (threatened intervention)
+- Never Alone — [never_alone_campaign.md](../narratives/never_alone_campaign.md) (BMAH three pillars)
+- Zenith Door — [zenith_door.md](../geography/sectors/zenith_door.md) (Chior opposes COP invasions)
+- MTC — [meridian_trading_company.md](./meridian_trading_company.md) (Synod pattern being replicated)
+- Named Characters — [named_characters.md](../meta/named_characters.md)

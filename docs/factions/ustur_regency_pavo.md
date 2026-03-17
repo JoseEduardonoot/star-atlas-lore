@@ -8,7 +8,7 @@
 | **Type** | External stabilizing influence / soft governance |
 | **Species** | [Ustur](../species/ustur.md) |
 | **Key Actors** | Ord.eldr (Regent/Overseer), Korin.tchr (Permits Chair on Conclave) |
-| **Parent Body** | Ustur Elder Order ([Ioki](../geography/sectors/ioki.md) homeworld) |
+| **Parent Body** | Ustur Elder Order (**Ioki** homeworld) |
 | **Theater** | [Pavo Passage](../geography/sectors/pavo_passage.md) |
 | **Method** | Audits, permits, reclassification, deniable alliances |
 | **Status** | Active — audit-based influence, not occupation |
@@ -136,24 +136,13 @@ This creates a strategic problem: the Regency's audit-based approach assumes rat
 ### Geography
 
 - [Pavo Passage](../geography/sectors/pavo_passage.md) — Theater of operations
-- [Ioki](../geography/sectors/ioki.md) — Ustur homeworld, parent authority
+- **Ioki** — Ustur homeworld, parent authority
 
 ### Meta
 
 - [Named Characters](../meta/named_characters.md) — Ord.eldr, Korin.tchr
 
 ---
-
-## 🔮 Open Questions
-
-- **Ord.eldr's age** — How long has this Elder occupied the Pavo Passage posting? Ustur Elders live extraordinarily long lives. Does Ord.eldr remember the Crumon Dynasty at its height?
-- **The intervention threshold** — At what point does the Regency decide MTC's soft capture has crossed the line? The red line is clear in principle but ambiguous in practice
-- **Korin.tchr's independence** — Does Korin.tchr follow Regency directive precisely, or has the Teacher-stage Ustur developed their own vision for how Pavo Passage should function?
-- **The VHE dependency** — If VHE collapses, the Regency loses its primary commercial proxy. Does the Regency have a backup plan — or is VHE's survival a strategic requirement with no fallback?
-- **Post-Conclave governance** — If the Conclave fails, does the Regency step in directly? And if so, does "temporary stabilization" become permanent occupation — repeating exactly the pattern the Ustur claim to reject?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

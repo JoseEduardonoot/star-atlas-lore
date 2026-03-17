@@ -1,7 +1,7 @@
-# 🔗 Canon Document: STAR ATLAS (The Sentient Blockchain)
+# Star Atlas (The Sentient Blockchain)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input via Sogmian/Maharog Q&A
+> Star Atlas is a sentient blockchain that governs the entire economy and commerce of the MRZ (Medium Risk Zone) and Safe Zone across Galia Expanse.
+
 
 ---
 

@@ -1,10 +1,6 @@
-# 🌑 Canon Document: ETIRA (Planet — Yuldun Waste, MRZ-32)
+# Etira (Planet — Yuldun Waste, MRZ-32)
 
-**Status**: 🟢 Canon (Aeon Timeline + Creator clarification, Feb 2026)
-**Source**: Aeon Timeline Event 18, Creator corrections
 **Location**: Yuldun Waste Sector (MRZ-32)
-**Influence**: Ustur Zone (ungoverned / BMAH territory)
-**Theme**: Sealed Cosmic Horror, Memory Theft, Fanatical Cult, Terraformed Prison
 
 ---
 
@@ -94,18 +90,10 @@ Planet Etira is the **last capital of the Black Market Auction House (BMAH)** an
 
 ## Cross-References
 
-- Yuldun Waste — [yuldun_waste.md](/geography/sectors/yuldun_waste.md) (host sector, BMAH coordination)
-- Photoli — [photoli.md](/species/photoli.md) (sealed the Dreamer, terraformed atmosphere)
+- Yuldun Waste — [yuldun_waste.md](../sectors/yuldun_waste.md) (host sector, BMAH coordination)
+- Photoli — [photoli.md](../../species/photoli.md) (sealed the Dreamer, terraformed atmosphere)
 - Black Market Auction House — BMAH, criminal institution
-- Night Window — [night_window.md](/geography/sectors/night_window.md) (Photoli star draining — parallel manipulation)
-- Bluvael — [bluvael.md](/geography/sectors/bluvael.md) (Photoli illusion — parallel manipulation)
+- Night Window — [night_window.md](../sectors/night_window.md) (Photoli star draining — parallel manipulation)
+- Bluvael — [bluvael.md](../sectors/bluvael.md) (Photoli illusion — parallel manipulation)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ETI1: What species IS the Dreamer Below? Pre-Convergence? Ancient?
-- ⏸️ Q-ETI2: Full details from the "Never Alone" story (Creator to share)
-- ⏸️ Q-ETI3: What exactly is the silver gem Bah looted from the Dreamer's corpse?
-- ⏸️ Q-ETI4: Has the Dreamer's destruction ended all psychic influence on Yuldun Waste, or does residual energy linger?
-- ⏸️ Q-ETI5: Is Etira now permanently abandoned, or will new inhabitants claim it?

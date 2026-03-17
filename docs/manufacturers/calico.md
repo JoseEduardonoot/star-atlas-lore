@@ -1,7 +1,7 @@
-# 🔧 Canon Document: CALICO INDUSTRIES
+# Calico Industries
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (MUD/ONI Collaboration)
+> Calico Industries emerged from a visionary union of MUD and ONI innovators who diverged from traditional militaristic paths to champion cultural integration, diplomacy, and cooperative growth.
+
 
 ---
 
@@ -32,8 +32,8 @@
 
 ## Cross-References
 
-- Pearce Corporation: Internal MUD military-industrial rival → [human.md](/species/human.md)
-- MUD Faction: Co-founder → [human.md](/species/human.md)
-- ONI Faction: Co-founder → [mierese.md](/species/mierese.md)
-- VZUS (Ustur manufacturer): [vzus.md](/manufacturers/vzus.md)
-- Opal (MUD/Ustur manufacturer): [opal.md](/manufacturers/opal.md)
+- Pearce Corporation: Internal MUD military-industrial rival → [human.md](../species/human.md)
+- MUD Faction: Co-founder → [human.md](../species/human.md)
+- ONI Faction: Co-founder → [mierese.md](../species/mierese.md)
+- VZUS (Ustur manufacturer): [vzus.md](./vzus.md)
+- Opal (MUD/Ustur manufacturer): [opal.md](./opal.md)

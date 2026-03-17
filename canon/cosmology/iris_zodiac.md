@@ -1,7 +1,5 @@
-# 🌀 Canon Document: IRIS ZODIAC — The Cosmic Currents
+# Iris Zodiac — The Cosmic Currents
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Iris Zodiac lore document
 **Category**: Cosmology / Game Mechanics / Lore Foundation
 **Related**: All sectors, all species, the Oxir Tribe (HRZ)
 

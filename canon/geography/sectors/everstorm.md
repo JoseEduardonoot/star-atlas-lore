@@ -1,10 +1,7 @@
-# ⚡ Canon Document: EVERSTORM (MRZ-25)
+# Everstorm (MRZ-25)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Everstorm lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-25)
-**Influence**: ONI
-**Theme**: Iris Influence, Perpetual Storms, Engineering Frontier, Democratic Oasis
+> Everstorm stands as a testament to the profound power of Galia's galactic ecosystem.
+
 
 ---
 

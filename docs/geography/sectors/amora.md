@@ -1,7 +1,4 @@
-# 🌌 Canon Document: AMORA SECTOR (MUD 5)
-
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (MUD 5)
+# Amora Sector (MUD 5)
 
 ---
 

@@ -1,7 +1,4 @@
-# 🌌 Canon Document: AURORA SECTOR (MUD 3)
-
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (MUD 3)
+# Aurora Sector (MUD 3)
 
 ---
 

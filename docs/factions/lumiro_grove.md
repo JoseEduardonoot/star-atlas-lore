@@ -211,12 +211,12 @@ Orra's political philosophy, distilled through decades of practice:
 
 ## Cross-References
 
-- ECOS — `canon/factions/earth_conscious_ontological_society.md` (parent faction, High Circle structure)
-- Hanging Gardens — `canon/factions/hanging_gardens_government.md` (Verdant Root, training pipeline)
-- Garadar DAC — `canon/factions/garadar_dac.md` (defining alliance, Moon Shattering rescue)
-- Eol-Garadar — `canon/geography/sectors/eol_garadar.md` (operational base sector)
-- Balifa Grove — `canon/factions/balifa_grove.md` (radical wing political rival)
-- Ashroot Grove — `canon/factions/ashroot_grove.md` (moderate wing political ally)
-- Deepwell Grove — `canon/factions/deepwell_grove.md` (research partnership)
-- Thornveil Grove — `canon/factions/thornveil_grove.md` (Coral Nebula joint operation)
-- Fimbul ECOS — `canon/factions/fimbul_ecos.md` (equipment supplier)
+- ECOS — [earth_conscious_ontological_society.md](./earth_conscious_ontological_society.md) (parent faction, High Circle structure)
+- Hanging Gardens — [hanging_gardens_government.md](./hanging_gardens_government.md) (Verdant Root, training pipeline)
+- Garadar DAC — [garadar_dac.md](./garadar_dac.md) (defining alliance, Moon Shattering rescue)
+- Eol-Garadar — [eol_garadar.md](../geography/sectors/eol_garadar.md) (operational base sector)
+- Balifa Grove — [balifa_grove.md](./balifa_grove.md) (radical wing political rival)
+- Ashroot Grove — [ashroot_grove.md](./ashroot_grove.md) (moderate wing political ally)
+- Deepwell Grove — [deepwell_grove.md](./deepwell_grove.md) (research partnership)
+- Thornveil Grove — [thornveil_grove.md](./thornveil_grove.md) (Coral Nebula joint operation)
+- Fimbul ECOS — [fimbul_ecos.md](./fimbul_ecos.md) (equipment supplier)

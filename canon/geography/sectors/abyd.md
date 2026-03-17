@@ -1,7 +1,7 @@
-# 🌌 Canon Document: ABYD-IX SECTOR (MRZ-3)
+# Abyd-ix Sector (MRZ-3)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD Ex-Colony — Civil War)
+> The last expansion of MUD's empire toward Iris in the medium zone, Abyd-IX remains a testament to hurried colonization — underdeveloped infrastructure and incomplete settlement.
+
 
 ---
 
@@ -66,5 +66,5 @@ During the **Convergence War**, the Abyd-IX system hosted a MUD military outpost
 - ECOS: Minor faction (eco-radicals) — `canon/factions/earth_conscious_ontological_society.md`
 - Council of Peace: `canon/institutions/council_of_peace.md`
 - Balifa Grove: `canon/factions/balifa_grove.md` (Ashlara-3 origin of Andreza Liora)
-- Deacon Howard Dawn: `canon/characters/deacon_howard_dawn.md` (C11 Bombardment, Ashlara-3)
+- Deacon Howard Dawn: characters/deacon_howard_dawn.md *(not yet created)* (C11 Bombardment, Ashlara-3)
 - Chapter 2 Holosim: `canon/history/chapter2_holosim_balifa_campaign.md`

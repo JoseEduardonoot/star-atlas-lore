@@ -1,7 +1,4 @@
-# 🌌 Canon Document: EXODUS SECTOR (MUD Capital)
-
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (MUD 1)
+# Exodus Sector (MUD Capital)
 
 ---
 

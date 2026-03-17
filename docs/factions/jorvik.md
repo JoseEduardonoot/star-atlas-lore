@@ -9,7 +9,7 @@
 | **Species** | Multi-species |
 | **Leader** | The Pirate King (Human/[Mierese](../species/mierese.md) hybrid) |
 | **HQ** | None â€” nomadic fleet |
-| **Origin** | [High-Risk Zone](../geography/sectors/hrz.md) (Convergence War era) |
+| **Origin** | **High-Risk Zone** (Convergence War era) |
 | **Territory** | HRZ â†’ MRZ â†’ Safe Zone harassment |
 | **Fleet** | Largest pirate fleet in the galaxy |
 | **Status** | Active â€” defeated at [Pergamos](../geography/sectors/pergamos.md) (~2623), regrouping |
@@ -18,7 +18,7 @@
 > *"He calls himself a king â€” not because he believes in kings, but because he understands what the word does to the people who do."*
 > â€” COP intelligence assessment of the Pirate King
 
-The **Jorvik** are the largest pirate organization in the [Galia Expanse](../geography/sectors/galia.md), having committed nearly every crime in the [Council of Peace](../institutions/council_of_peace.md) penal code. But they are not mere bandits. The Jorvik are ideological anarchists â€” their philosophy opposes centralized governance on principle, viewing laws and regulations as *"simply cowardice"* and institutions as *"structures of power dressed with the colors of legitimacy."*
+The **Jorvik** are the largest pirate organization in the **Galia Expanse**, having committed nearly every crime in the [Council of Peace](../institutions/council_of_peace.md) penal code. But they are not mere bandits. The Jorvik are ideological anarchists â€” their philosophy opposes centralized governance on principle, viewing laws and regulations as *"simply cowardice"* and institutions as *"structures of power dressed with the colors of legitimacy."*
 
 This ideology makes the Jorvik uniquely dangerous: they fight not for plunder alone, but for the destruction of order itself. And unlike most pirate groups that dissolve when their leader falls, the Jorvik's anarchist ideology gives them an identity that transcends any individual â€” even the Pirate King himself.
 
@@ -59,15 +59,6 @@ The Pirate King is a paradox: a leader of anarchists, a commander who despises c
 ### Charismatic Authority
 
 Under his leadership, the Jorvik achieved a unity unprecedented for a pirate organization. Captains who would normally fight each other over scraps have developed deep personal loyalty to him â€” not because he demands it, but because he earned it through decades of shared danger, fair dealing, and unshakeable conviction.
-
-### The Open Question
-
-Every intelligence agency in the galaxy asks the same question: **will the Jorvik survive the Pirate King's death?** His personal charisma holds the organization together. The Creed provides philosophical unity, but philosophy without a living symbol tends to fragment.
-
-Some analysts believe the Jorvik will splinter into dozens of independent crews â€” a return to the pre-Pirate King status quo. Others argue that the Creed has become self-sustaining â€” that the ideology will outlive the man. The [Sorkof Pirates](../factions/sorkof_pirates.md) already represent one possible future: a Jorvik without the Creed's moral constraints.
-
----
-
 ## The Jorvik Creed
 
 Four rules â€” violation punishable by death, no exceptions, no appeals:

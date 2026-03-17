@@ -1,10 +1,7 @@
-# ⏳ Canon Document: ZAVIJAVA ZONE (MRZ-34)
+# Zavijava Zone (MRZ-34)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-34)
-**Influence**: Ustur (monitored by COP)
-**Theme**: Temporal Anomalies, Stolen Artifact, Time Distortion, Gate Garrison Intrigue
+> The Zavijava Zone is an enigmatic sector where time doesn't always obey conventional rules.
+
 
 ---
 
@@ -103,18 +100,9 @@ The anomalies manifest in capricious, unpredictable ways:
 ## Cross-References
 
 - Tufa Titan Bklok — artifact stolen from one of Bklok's worlds
-- Gate Garrison — `canon/factions/gate_garrison.md` (secretly funds Vortex Watchers)
-- BMAH — `canon/geography/sectors/yuldun_waste.md` (original destination for the artifact)
+- Gate Garrison — [gate_garrison.md](../../factions/gate_garrison.md) (secretly funds Vortex Watchers)
+- BMAH — [yuldun_waste.md](./yuldun_waste.md) (original destination for the artifact)
 - Council of Peace — monitoring Zavijava (unaware of true cause)
-- Yuldun Waste — `canon/geography/sectors/yuldun_waste.md` (planned fence location)
+- Yuldun Waste — [yuldun_waste.md](./yuldun_waste.md) (planned fence location)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-ZAV1: Convergence War connection?~~ → Not the war itself. HRZ relic hunters stole a Tufa Titan artifact and activated it accidentally in Zavijava.
-- ⏸️ Q-ZAV2: Vortex Watchers — any named leaders or notable researchers?
-- ⏸️ Q-ZAV3: Has anyone ever been "unfrozen" from stasis and reported what they experienced?
-- ✅ ~~Q-ZAV4: Anomalies getting worse or fading?~~ → Stable but weakening. Artifact energy depleting with no recharge source.
-- ⏸️ Q-ZAV5: What happened to the original relic hunters? Dead? Frozen in time? Scattered?
-- ⏸️ Q-ZAV6: Does Bklok know the artifact is in Zavijava?

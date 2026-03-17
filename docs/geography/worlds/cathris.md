@@ -1,8 +1,5 @@
-# 👑 Canon Document: CATHRIS (Capital World of Pavo Passage)
+# Cathris (Capital World of Pavo Passage)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 01
-**Type**: Capital World
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Seat of governance, bureaucratic power center
 **Named after**: Queen Cathris (Crumon Dynasty), who disappeared during "The Night"
@@ -124,9 +121,9 @@ A discreet Winter Fist Path sanctuary corridor for mediation and emergency shelt
 
 ## Cross-References
 
-- Ruling Conclave — [ruling_conclave.md](/factions/ruling_conclave.md)
-- Crumon Dynasty — [crumon_dynasty.md](/factions/crumon_dynasty.md)
-- TAPP — [tapp.md](/factions/toll_authority_of_pavo_passage.md)
-- Winter Fist Path — [winter_fist_path.md](/factions/winter_fist_path.md) (Pale Band Shelter)
-- Queen Cathris — disappeared during "The Night" ([crumon_dynasty.md](/factions/crumon_dynasty.md))
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- Ruling Conclave — [ruling_conclave.md](../../factions/ruling_conclave.md)
+- Crumon Dynasty — [crumon_dynasty.md](../../factions/crumon_dynasty.md)
+- TAPP — [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md)
+- Winter Fist Path — [winter_fist_path.md](../../factions/winter_fist_path.md) (Pale Band Shelter)
+- Queen Cathris — disappeared during "The Night" ([crumon_dynasty.md](../../factions/crumon_dynasty.md))
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

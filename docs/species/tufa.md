@@ -1,7 +1,4 @@
-# 🦠 Canon Document: TUFA
-
-**Status**: 🟢 Canon (Lore Dump Integrated, Feb 2026)
-**Source**: Creator Input (Lore Dump + Season 0)
+# Tufa
 
 ---
 
@@ -112,14 +109,8 @@
 
 ## 🔴 Cross-References
 
-- **Iris/Cataclysm**: `canon/geography/the_cataclysm.md`
-- **Ustur Temple**: `canon/species/ustur.md`
-- **Convergence War**: `canon/history/convergence_war.md`
+- **Iris/Cataclysm**: [the_cataclysm.md](../geography/the_cataclysm.md)
+- **Ustur Temple**: [ustur.md](./ustur.md)
+- **Convergence War**: [convergence_war.md](../history/convergence_war.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-T5: Escaped Titan~~ ✅ RESOLVED: **Thionae**. Mythical sentient planet/asteroid.
-- ~~Q-T6: Chalbok Motive~~ ✅ RESOLVED: Sensed raw energy in Pool (substitute for Iris).
-- ~~Q-T7: SAGE/Star Atlas Immunity~~ ✅ RESOLVED: **Photoli-enhanced**. Immune to infestation. **Archon Inference**: Photoli deliberately designed this immunity to eventually access Iris energy through Star Atlas — but Star Atlas is sentient and currently does not consent to being used this way.

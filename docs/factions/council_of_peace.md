@@ -1,4 +1,4 @@
-# ⚖️ The Council of Peace
+# The Council of Peace
 
 > *"The COP is not peace. MUD is not order. Ustur is not progress. ONI is not unity. They are all the same cage with different paint. We are the open sky."*
 > — [The Collective Anarchy](../factions/the_collective_anarchy.md)

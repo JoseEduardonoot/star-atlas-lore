@@ -36,7 +36,7 @@ The experiment failed catastrophically.
 
 ECOS terraforming accelerated evolutionary processes beyond any ability to control. The native ecosystem — which included **at least one pre-existing civilization** — spiraled into hyper-growth. Organisms mutated faster than researchers could catalogue them. The native civilization was destroyed — whether by direct ECOS action or by the ecological cascade remains one of the faction's deepest, most contested shames.
 
-By ~2439, Old Grove had become a death trap. Enormous verdant monsters spawned from forest-engulfed ruins. ECOS could not contain what they had created. They abandoned the planet and fled — first to the [Hanging Gardens](../geography/sectors/hanging_gardens.md) in the MRZ, then to **Earth Prime** in the [High-Risk Zone](../geography/sectors/hrz.md).
+By ~2439, Old Grove had become a death trap. Enormous verdant monsters spawned from forest-engulfed ruins. ECOS could not contain what they had created. They abandoned the planet and fled — first to the [Hanging Gardens](../geography/sectors/hanging_gardens.md) in the MRZ, then to **Earth Prime** in the **High-Risk Zone**.
 
 They left behind a planet that was no longer a world, but a warning.
 
@@ -217,12 +217,12 @@ This conflict is not academic. When the High Circle votes on terraforming operat
 
 ## Cross-References
 
-- ECOS — `canon/factions/earth_conscious_ontological_society.md` (parent faction, High Circle structure)
-- Hanging Gardens — `canon/factions/hanging_gardens_government.md` (Verdant Root, Speaker, grove network)
-- Balifa Grove — `canon/factions/balifa_grove.md` (ideological enemy, Old Grove interpretation conflict)
-- Duskbloom Grove — `canon/factions/duskbloom_grove.md` (adjacent containment responsibility)
-- Deepwell Grove — `canon/factions/deepwell_grove.md` (research partnership, mutation analysis)
-- Lumiro Grove — `canon/factions/lumiro_grove.md` (political ally, moderate wing)
-- Nimrod Trackers — `canon/factions/nimrod_trackers.md` (standing joint protocol, Thornwalker Purge ~2588)
-- Old Grove Sector — `canon/geography/sectors/old_grove.md` (operational theater)
-- Fimbul ECOS — `canon/factions/fimbul_ecos.md` (equipment supplier)
+- ECOS — [earth_conscious_ontological_society.md](./earth_conscious_ontological_society.md) (parent faction, High Circle structure)
+- Hanging Gardens — [hanging_gardens_government.md](./hanging_gardens_government.md) (Verdant Root, Speaker, grove network)
+- Balifa Grove — [balifa_grove.md](./balifa_grove.md) (ideological enemy, Old Grove interpretation conflict)
+- Duskbloom Grove — [duskbloom_grove.md](./duskbloom_grove.md) (adjacent containment responsibility)
+- Deepwell Grove — [deepwell_grove.md](./deepwell_grove.md) (research partnership, mutation analysis)
+- Lumiro Grove — [lumiro_grove.md](./lumiro_grove.md) (political ally, moderate wing)
+- Nimrod Trackers — [nimrod_trackers.md](./nimrod_trackers.md) (standing joint protocol, Thornwalker Purge ~2588)
+- Old Grove Sector — [old_grove.md](../geography/sectors/old_grove.md) (operational theater)
+- Fimbul ECOS — [fimbul_ecos.md](./fimbul_ecos.md) (equipment supplier)

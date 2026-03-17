@@ -17,7 +17,7 @@
 > *"If Iris is dangerous, prove it with data. If it's not, then the COP is keeping the greatest resource in the galaxy locked away while billions struggle."*
 > — Senator Kessler, COP Assembly Address (~2619)
 
-The **Malkabaets** are an organized political movement within the [Council of Peace](../institutions/council_of_peace.md) that advocates for the abolition of [High-Risk Zone](../geography/sectors/hrz.md) access restrictions and the large-scale colonization of the HRZ — including, ultimately, [Iris](../cosmology/iris_zodiac.md) itself.
+The **Malkabaets** are an organized political movement within the [Council of Peace](../institutions/council_of_peace.md) that advocates for the abolition of **High-Risk Zone** access restrictions and the large-scale colonization of the HRZ — including, ultimately, [Iris](../cosmology/iris_zodiac.md) itself.
 
 They are not a fringe cult. They are elected representatives, appointed bureaucrats, career diplomats, and military officers from all three major factions who share a conviction: that the [Cataclysm](../geography/the_cataclysm.md) is either exaggerated or manageable, and that the HRZ represents the only viable solution to Galia's growing crises.
 
@@ -167,24 +167,13 @@ Both claims are true. Neither is comforting.
 
 ### Geography
 
-- [High-Risk Zone](../geography/sectors/hrz.md) — The territory the movement seeks to open
+- **High-Risk Zone** — The territory the movement seeks to open
 
 ### Meta
 
 - [Named Characters](../meta/named_characters.md) — Kessler, Eko, Rallisa, Pullaraakenn, Crova.doer
 
 ---
-
-## 🔮 Open Questions
-
-- **What does the COP know?** — The movement's most dangerous question. If the COP is forced to disclose its classified HRZ intelligence, what happens? Does the data vindicate the Malkabaets or destroy them?
-- **The threshold** — At what percentage of Assembly seats does the movement become a governing majority? How close are they — and what would push moderates over the line?
-- **Kessler's endgame** — Is he a true believer or a politician using the movement for personal advancement? His background as a colonial administrator suggests experience, but also ambition
-- **The first colony** — If the Malkabaets succeed, where would the first HRZ colony be established? The answer reveals whether the movement is serious about systematic colonization or opportunistic resource extraction
-- **The scavenger paradox** — The Exile Scavengers' success supports the Malkabaets argument, but the scavengers themselves oppose organized colonization. If the government enters the HRZ, the scavengers lose their monopoly on HRZ salvage
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

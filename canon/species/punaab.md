@@ -1,7 +1,4 @@
-# 🐾 Canon Document: PUNAAB
-
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Full Punaab lore document + Q&A Sessions
+# Punaab
 
 ---
 

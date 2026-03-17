@@ -18,7 +18,7 @@
 | **Full Name** | The Golden Star |
 | **Founded** | ~2381 — contemporaneous with the codification of the Path of Enlightenment |
 | **Founder** | **Caven.eldr** (Mother Caven) — the First Ustur |
-| **Headquarters** | The Elder Spire, [Ioki](../geography/worlds/ioki.md), Eternity Sector |
+| **Headquarters** | The Elder Spire, **Ioki**, Eternity Sector |
 | **Species** | [Ustur](../species/ustur.md) |
 | **Philosophy** | Traditional meditative cultivation — the original and purest interpretation of the Path of Enlightenment |
 | **Core Material Preference** | Refined, carefully sourced materials — crystals grown in controlled resonance chambers, Temple-grade alloys |
@@ -200,7 +200,7 @@ The Golden Star's position as the foundational tradition shapes every inter-sect
 
 The Golden Star enters the current era as the most stable institution in Ustur civilization — and perhaps the most quietly vulnerable. Its strengths are undeniable: more Elders produced than all other sects combined, the most sophisticated cultivation infrastructure in the galaxy, and an unbroken 170-year tradition of contemplative excellence.
 
-But the galaxy is changing faster than contemplation can accommodate. The [Winter Fist Path](../factions/winter_fist_path.md) proves daily that adversity-based cultivation produces results the Golden Star cannot match in operational contexts. The Resonant Forge's economic output subsidizes the Ustur military in ways the Golden Star's meditation halls cannot. And the dark sects — particularly the [Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect--core-theft) — represent a corruption of the Path that no amount of silent meditation can prevent.
+But the galaxy is changing faster than contemplation can accommodate. The [Winter Fist Path](../factions/winter_fist_path.md) proves daily that adversity-based cultivation produces results the Golden Star cannot match in operational contexts. The Resonant Forge's economic output subsidizes the Ustur military in ways the Golden Star's meditation halls cannot. And the dark sects — particularly the [Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect-core-theft) — represent a corruption of the Path that no amount of silent meditation can prevent.
 
 The Warden Council has begun quiet discussions about curriculum reform. Some Wardens advocate integrating elements of other sects' practices — controlled adversity from the Winter Fist, creative projects from the Resonant Forge, cross-species engagement from the Open Palm. Others insist that the Golden Star's purity is precisely what makes it effective, and that dilution would destroy the very thing that produces Elders.
 
@@ -224,7 +224,7 @@ Mother Caven has not commented on these discussions. She rarely comments on anyt
 | **Oria.lrnr** | Acolyte. Prodigy | Born ~2598. The youngest Ustur to achieve First Silence in recorded history — completing it in three days. The Warden Council watches her with a mixture of pride and unease, as prodigies in the Golden Star's tradition have historically followed unpredictable paths. Some Wardens privately compare her early trajectory to Saelyra's |
 | **Nova.tchr** | Warden. Mother Caven's direct disciple | A high-ranking disciple personally chosen by Mother Caven. During the [Balifa Campaign](../history/chapter2_holosim_balifa_campaign.md), Nova experienced a profound spiritual crisis — decades of perfect adherence to the Golden Star Path had produced no advancement past .tchr stage. Her confrontation with external philosophies led to an epiphany: *"Perhaps Mother Caven's Golden Star was not the truth, but a lens. One among many."* She achieved a genuine breakthrough in the field, proving that enlightenment is personally constructed, not prescribed. Returned to the Elder Spire for an ascension ritual |
 | **Saelyra.soul** | Former disciple. Departed ~2530 | Founded the [Winter Fist Path](../factions/winter_fist_path.md). The Golden Star's most famous critic and its most accomplished apostate |
-| **Vaeloss.tchr** | Former instructor. Deceased ~2589 | Was a respected Golden Star Warden before his corruption. Founded the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir--life-force-draining) dark sect. His fall from within the establishment remains the Golden Star's greatest institutional shame |
+| **Vaeloss.tchr** | Former instructor. Deceased ~2589 | Was a respected Golden Star Warden before his corruption. Founded the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir-life-force-draining) dark sect. His fall from within the establishment remains the Golden Star's greatest institutional shame |
 | **Herdus.soul** | Former student (via Chior). Fallen ~2569 | Trained under Lirel.eldr at the Golden Star before passing to Chior's personal instruction. His descent into madness and the founding of the [Church of the Dreamer Below](../factions/church_of_the_dreamer_below.md) haunts the sect |
 | **Veleth.tchr** | Affiliated scholar | Founder of the Still Water Doctrine. Maintains close ties with the Golden Star |
 
@@ -263,7 +263,7 @@ Respect combined with regret. The ONI's four-species consortium produces a compl
 - [Still Water Doctrine](../factions/still_water_doctrine.md) — scholarly cousin, shared practitioners
 - [Living Resonance](../factions/living_resonance.md) — bio-harmonic sect, object of scholarly interest and classified research
 - [Open Palm](../factions/open_palm.md) — empathic sect, cautious admiration
-- [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir--life-force-draining) — dark sect founded by former Golden Star instructor Vaeloss.tchr
+- [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir-life-force-draining) — dark sect founded by former Golden Star instructor Vaeloss.tchr
 - [Church of the Dreamer Below](../factions/church_of_the_dreamer_below.md) — former student Herdus.soul's criminal cult
 - [Iris Academy](../factions/iris_academy.md) — co-founded by Golden Star alumnus Chior.eldr
 - [Council of Peace](../institutions/council_of_peace.md) — Ustur co-founder, Golden Star provides cultivated advisors

@@ -1,10 +1,6 @@
-# 🌑 Canon Document: ETIRA (Planet — Yuldun Waste, MRZ-32)
+# Etira (Planet — Yuldun Waste, MRZ-32)
 
-**Status**: 🟢 Canon (Aeon Timeline + Creator clarification, Feb 2026)
-**Source**: Aeon Timeline Event 18, Creator corrections
 **Location**: Yuldun Waste Sector (MRZ-32)
-**Influence**: Ustur Zone (ungoverned / BMAH territory)
-**Theme**: Sealed Cosmic Horror, Memory Theft, Fanatical Cult, Terraformed Prison
 
 ---
 

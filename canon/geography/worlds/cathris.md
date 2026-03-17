@@ -1,8 +1,5 @@
-# 👑 Canon Document: CATHRIS (Capital World of Pavo Passage)
+# Cathris (Capital World of Pavo Passage)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 01
-**Type**: Capital World
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Seat of governance, bureaucratic power center
 **Named after**: Queen Cathris (Crumon Dynasty), who disappeared during "The Night"

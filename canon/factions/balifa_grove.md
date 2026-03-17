@@ -17,7 +17,8 @@
 > *"Every root I plant grew from the ash you left behind."*
 > â€” Andreza Liora, addressing Deacon Howard Dawn
 
-The **Balifa Grove** is the most radical and militaristic of all [ECOS](../factions/earth_conscious_ontological_society.md) sub-factions — a grove that has crossed from environmental activism into active ecological warfare. They believe industrial civilization is a disease upon the natural worlds of the galaxy, and that Iris’s ecological cycles will inevitably correct the imbalance — whether civilization cooperates or not.
+The **Balifa Grove** is the most radical and militaristic of all [ECOS](../factions/earth_conscious_ontological_society.md) sub-factions — a grove that has crossed from environmental activism into active ecological warfare. They believe industrial civilization is a disease upon the natural worlds of the galaxy, and that Iris’s ecological cycles will inevitably correct the imbalance — whether civilization cooperates or not.
+
 
 Named after **Balifa** â€” semi-sentient, territorial, and violently aggressive hybrid plants â€” the grove uses nature as a weapon. Where other groves lobby, petition, or study, Balifa Grove attacks, terraforms, and destroys. They are the reason ECOS is feared, not merely respected.
 
@@ -142,7 +143,8 @@ Of the three, **Martuce is the most interesting** to every intelligence service 
 
 The Balifa Grove's most controversial position: **ecological supremacy as absolute ideology.**
 
-Andreza’s theology holds that industrial civilization is a temporary aberration — a disease upon the natural worlds that Iris’s ecological cycles will inevitably correct. Every ecological catastrophe, every failed terraforming project, every dead world is, in Balifa’s view, **proof that nature punishes those who defy its laws.**
+Andreza’s theology holds that industrial civilization is a temporary aberration — a disease upon the natural worlds that Iris’s ecological cycles will inevitably correct. Every ecological catastrophe, every failed terraforming project, every dead world is, in Balifa’s view, **proof that nature punishes those who defy its laws.**
+
 
 This position places Balifa Grove in direct conflict with:
 
@@ -179,7 +181,7 @@ Holosim's conclusion: the Balifa Grove threat is **severe but containable** â�
 | [Ashroot Grove](../factions/ashroot_grove.md) | Ideological enemies â€” opposite interpretations of the Old Grove catastrophe. Ashroot sees it as ECOS's original sin; Balifa sees it as proof of nature's supremacy |
 | [Lumiro Grove](../factions/lumiro_grove.md) | Political rivals â€” Orra Windraft (The Mender) leads the moderate opposition to Andreza's radical agenda on the High Circle |
 | [COP](../institutions/council_of_peace.md) | Enemy â€” primary target of ecological warfare and Mourning Cycles |
-| [ONI](../species/oni.md) | Enemy â€” Seeikolobe's retaliation established a cycle of escalating violence |
+| **ONI** | Enemy â€” Seeikolobe's retaliation established a cycle of escalating violence |
 | [MUD](../species/human.md) | Enemy â€” Dawn's C11 Bombardment created Andreza. MUD considers this their greatest strategic failure |
 | [Fimbul ECOS](../factions/fimbul_ecos.md) | Operational partner â€” built the Superphoenix and supplies biomechanical technology |
 | All major factions | Enemy â€” Balifa Grove considers industrial civilization itself the adversary |

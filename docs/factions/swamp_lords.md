@@ -55,7 +55,7 @@ The Swamp Lords' claim to Glowhaven predates the dreams — they settled the sec
 
 ### The Causal Chain
 
-> War agitated [Iris](../geography/iris.md) → cosmic currents intensified → enabled Onato's signal (or what the Mierese interpret as Onato's signal)
+> War agitated **Iris** → cosmic currents intensified → enabled Onato's signal (or what the Mierese interpret as Onato's signal)
 
 | Phase | Date | Event |
 |-------|------|-------|
@@ -158,7 +158,7 @@ Their space fleet is minimal — patrol boats and a handful of armed corvettes. 
 
 ## The Punaab Incident
 
-Glowhaven also holds a dark memory: a [Punaab](../species/punaab.md) colony on a world in MRZ-31 once **destabilized its planetary core through experiments**, threatening catastrophic destruction. The [Ustur](../species/ustur.md) were the only species who offered rescue — an act of generosity that created a deep bond between the two species and ultimately led to the Ustur joining [Ogrika](../factions/ogrika.md). The Swamp Lords witnessed this event from neighboring worlds and drew a simple conclusion: outsiders bring ruin. Their isolationism intensified.
+Glowhaven also holds a dark memory: a [Punaab](../species/punaab.md) colony on a world in MRZ-31 once **destabilized its planetary core through experiments**, threatening catastrophic destruction. The [Ustur](../species/ustur.md) were the only species who offered rescue — an act of generosity that created a deep bond between the two species and ultimately led to the Ustur joining **Ogrika**. The Swamp Lords witnessed this event from neighboring worlds and drew a simple conclusion: outsiders bring ruin. Their isolationism intensified.
 
 ---
 
@@ -202,18 +202,6 @@ Glowhaven also holds a dark memory: a [Punaab](../species/punaab.md) colony on a
 - [Master Timeline](../meta/master_timeline.md) — ~2396 dreams, ~2522 Box discovery, ~2530 Dream Reach settlement, ~2595 Anchorage
 
 ---
-
-## 🔮 Open Questions
-
-- **The Box** — How can it be opened? What's inside? The galaxy's greatest locked puzzle sits in a swamp, guarded by warlords who answer to no one
-- **Was it Onato?** — Did the imprisoned god truly send the shared dreams, or was it collective imagination amplified by Iris's war-agitated cosmic currents? The canon intentionally never answers
-- **The explorer** — Who is the unnamed young female Mierese who found the Box? She's been added to the Grand Tale but feels crushed by expectations. Her story is Glowhaven's most personal narrative
-- **The mineral flora connection** — Is the bioluminescence connected to Onato, to Iris, or to both? The mineral formations respond to electromagnetic fields of living beings — is the entire landscape a divine signal?
-- **Gnurr's kingmaker role** — Blokk Kesh Gnurr doesn't care about the Box, but his vote decides every major policy. What happens if someone finds something that makes him care?
-- **The Lore Keepers' hidden knowledge** — Do the Keepers know things about the Onato Box that the Swamp Lords do not? If so, what obligation does that knowledge create — and what happens if the Lords discover they've been kept in the dark?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

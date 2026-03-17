@@ -1,7 +1,7 @@
-# 🌌 Canon Document: GALACTIC REGIONS & GEOPOLITICS
+# Galactic Regions & Geopolitics
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Source**: User Lore Dump (Post-War Vacuum)
+> After the Treaty of Peace, the major factions (MUD, ONI, Ustur) retreated to their home systems (Safe Zones) to rebuild.
+
 
 ---
 
@@ -78,13 +78,7 @@ The retreat left the **Medium** and **High Risk Zones** abandoned.
 
 ## 🔴 Cross-References
 
-- **Convergence War**: [convergence_war.md](/history/convergence_war.md) (The cause of the retreat).
+- **Convergence War**: [convergence_war.md](../history/convergence_war.md) (The cause of the retreat).
 - **Minor Factions**: `canon/factions/` (Pending creation).
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ **Q-GEO1**: List of Minor Factions (besides ECOS/Jorvik)?
-- ⏸️ **Q-GEO2**: Specific names of MRZ Regional Powers (Warlords/Trade Barons)?
-- ~~Q-GEO3: Location of specific ex-colonies (Redam, Mycenas)~~ ✅ RESOLVED: Both are MRZ sectors with detailed canon files

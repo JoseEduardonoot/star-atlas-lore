@@ -1,7 +1,5 @@
-# 🌀 Canon Document: IRIS ZODIAC — The Cosmic Currents
+# Iris Zodiac — The Cosmic Currents
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Iris Zodiac lore document
 **Category**: Cosmology / Game Mechanics / Lore Foundation
 **Related**: All sectors, all species, the Oxir Tribe (HRZ)
 
@@ -200,12 +198,12 @@ Events may trigger cosmic current effects. They can also occur **randomly** or f
 
 | Connection | Aspect | Reference |
 | --- | --- | --- |
-| Everstorm storms | Tempest (#10) | [everstorm.md](/geography/sectors/everstorm.md) |
-| Glowhaven dreams | Dreamer (#9) | [glowhaven.md](/geography/sectors/glowhaven.md) |
-| Punaabs turn black | Dusk (#7) | [punaab.md](/species/punaab.md) |
-| Order of Season | Dusk (#7) | [pavo_passage.md](/geography/sectors/pavo_passage.md) |
-| Tufa attracted | Tier 4+ | [tufa.md](/species/tufa.md) |
-| Mierese Onato dreams | Dreamer (#9) | [mierese.md](/species/mierese.md) |
+| Everstorm storms | Tempest (#10) | [everstorm.md](../geography/sectors/everstorm.md) |
+| Glowhaven dreams | Dreamer (#9) | [glowhaven.md](../geography/sectors/glowhaven.md) |
+| Punaabs turn black | Dusk (#7) | [punaab.md](../species/punaab.md) |
+| Order of Season | Dusk (#7) | [pavo_passage.md](../geography/sectors/pavo_passage.md) |
+| Tufa attracted | Tier 4+ | [tufa.md](../species/tufa.md) |
+| Mierese Onato dreams | Dreamer (#9) | [mierese.md](../species/mierese.md) |
 | Oxir Tribe | All aspects | HRZ civilization (TBD) |
 
 ---
@@ -221,11 +219,3 @@ Events may trigger cosmic current effects. They can also occur **randomly** or f
 - **Reality distortion** at Tier 5 = endgame-level content
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-IRI1: The Oxir Tribe — who are they? Species? Culture? HRZ location?
-- ⏸️ Q-IRI2: Why do Beast and Dusk have non-Oxian names (Avatena, Vinfid)?
-- ⏸️ Q-IRI3: Current aspect cycle — what aspect is "active" in the current timeline?
-- ⏸️ Q-IRI4: How do the aspects interact with The Cataclysm?
-- ⏸️ Q-IRI5: Do specific sectors have "fixed" aspects or do they all cycle?

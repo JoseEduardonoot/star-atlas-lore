@@ -1,10 +1,7 @@
-# ❄️ Canon Document: FROSTSUN (MRZ-30)
+# Frostsun (MRZ-30)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Frostsun lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-30)
-**Influence**: ONI (Punaab territory — formally an Akenat colony)
-**Theme**: Dying Farmed Star, Underground Civilization, Native Conflict, Lost Scouts
+> Frostsun is a sector locked in an eternal wintry embrace.
+
 
 ---
 

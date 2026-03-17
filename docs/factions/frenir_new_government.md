@@ -180,17 +180,6 @@ Before liberation, [Hopla Insurances](../factions/hopla_insurances.md) was caugh
 - [Master Timeline](../meta/master_timeline.md) — Ki'Prah (~2358), government collapse (~2533), liberation (~2624)
 
 ---
-
-## 🔮 Open Questions
-
-- **The Hikibashi secret** — Plirk Dosk Scarka sits on the Council as "Community Liaison" but is actually a Hikibashi intelligence operative. If the other Council members discover this — particularly Chair Senna, a freed slave who endured 40 years of bondage — what happens to the trust that holds the DAO together?
-- **The warlord return** — Escaped slavers are regrouping in Yuldun Waste and embedding in Jorvik networks. The COP garrison is drawing down. Can the militia — trained by Garadar DAC but numbering in thousands, not tens of thousands — hold against a coordinated slaver resurgence?
-- **The DAO question** — Token-weighted voting gives more voice to those who suffered most. But those who suffered most are also the most traumatized, the least experienced in governance, and the most vulnerable to manipulation. Is the system empowering them or setting them up?
-- **Frenir's children** — What happens to the generation born free after liberation? They carry no personal trauma of enslavement but grow up in a society defined by it. Do they build something new, or inherit their parents' scars?
-- **The Hopla precedent** — Financial institutions profited from Frenir's slavery for decades. Now those same institutions are participating in reconstruction. Is this redemption or brand management?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -18,7 +18,7 @@
 > *"Fate does not care if you believe in it."*
 > â€” Herald axiom
 
-The **Heralds of Vignus** are a group of itinerant oracles that serve the **God of Fate, Vignus**. Bound to travel through the [Galia Expanse](../geography/sectors/galia.md) and deliver prophecies to those who seek the secrets of the future. Legend says their prophecies will always come true â€” and in many places, they are denied entry for quackery.
+The **Heralds of Vignus** are a group of itinerant oracles that serve the **God of Fate, Vignus**. Bound to travel through the **Galia Expanse** and deliver prophecies to those who seek the secrets of the future. Legend says their prophecies will always come true â€” and in many places, they are denied entry for quackery.
 
 They are the only faction with **all Tier 10 Galactic Indices** â€” no military, no wealth, no political influence. On paper, the weakest faction in existence. In practice, they gave birth to the [Star Atlas](../institutions/star_atlas_blockchain.md) â€” the sentient blockchain that governs the galaxy's economy and created SAGE. Whether they understand what they did is one of the galaxy's most delicious ironies.
 

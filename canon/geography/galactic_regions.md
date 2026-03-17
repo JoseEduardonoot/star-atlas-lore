@@ -1,7 +1,7 @@
-# 🌌 Canon Document: GALACTIC REGIONS & GEOPOLITICS
+# Galactic Regions & Geopolitics
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Source**: User Lore Dump (Post-War Vacuum)
+> After the Treaty of Peace, the major factions (MUD, ONI, Ustur) retreated to their home systems (Safe Zones) to rebuild.
+
 
 ---
 

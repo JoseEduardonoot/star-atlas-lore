@@ -1,10 +1,7 @@
-# ☀️ Canon Document: SUMMER SEA (MRZ-21)
+# Summer Sea (MRZ-21)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-21)
-**Influence**: Ustur
-**Theme**: Extreme Heat, Underground Civilization, Resilient Ecosystems, Blue Giant Star
+> Upon their arrival in this sector, the Ustur grappled with capturing the essence of the searing heat emanating from the colossal blue giant star that dominated the expanse.
+
 
 ---
 

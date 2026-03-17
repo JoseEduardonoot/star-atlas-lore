@@ -1,10 +1,7 @@
-# 🪸 Canon Document: CORAL NEBULA (MRZ-18)
+# Coral Nebula (MRZ-18)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Coral Nebula lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-18)
-**Influence**: ONI
-**Theme**: Bio-mystery, Psychic Symbiosis, Pharma/Biotech, Hidden Horror
+> The Coral Nebula stands out in the galactic tapestry for its enigmatic flora, dominated by mesmerizing prismatic corals.
+
 
 ---
 

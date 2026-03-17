@@ -2,6 +2,7 @@
 
 The intelligent species that inhabit the Star Atlas universe.
 
+- [Crumon](crumon.md)
 - [Human](human.md)
 - [Mierese](mierese.md)
 - [Naming Conventions](naming_conventions.md)
@@ -13,3 +14,4 @@ The intelligent species that inhabit the Star Atlas universe.
 - [Species Master Guide](species_master_guide.md)
 - [Tufa](tufa.md)
 - [Ustur](ustur.md)
+

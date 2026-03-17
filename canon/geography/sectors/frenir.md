@@ -1,10 +1,5 @@
-# ⚖️ Canon Document: FRENIR (MRZ-19)
+# Frenir (MRZ-19)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Frenir lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-19)
-**Influence**: ONI
-**Theme**: Post-Dictatorship Reconstruction, DAO Experiment, Humanitarian Aid, Lurking Threat
 **Timeline**: One of the most recent canon events
 
 ---

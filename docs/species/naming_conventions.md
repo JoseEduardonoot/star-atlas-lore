@@ -1,7 +1,5 @@
-# 📛 Canon Document: SPECIES NAMING CONVENTIONS
+# Species Naming Conventions
 
-**Status**: 🟢 Canon (Established Rules, Feb 2026)
-**Source**: Creator-defined naming system
 **Usage**: All new character names MUST follow these conventions
 
 ---

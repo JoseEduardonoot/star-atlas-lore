@@ -120,7 +120,7 @@ The fundamental problem: **the Collective recruits from dissatisfaction.** As lo
 | [Garadar DAC](../factions/garadar_dac.md) | Grudging respect — "closest to anarchism that works" |
 | [Real Truth Network](../factions/the_real_truth_network.md) | Infrastructure ally — some RTN channels amplify Collective broadcasts |
 | [Sorkof Pirates](../factions/sorkof_pirates.md) | Philosophical contempt — piracy is exploitation, not liberation |
-| [BMAH](../factions/bmah.md) | Tactical use — black market channels for encrypted equipment |
+| [BMAH](../factions/black_market_auction_house.md) | Tactical use — black market channels for encrypted equipment |
 
 ---
 

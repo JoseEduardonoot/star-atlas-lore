@@ -1,8 +1,5 @@
-# 📜 Canon Document: CHAPTER 2 HOLOSIM — THE BALIFA GROVE CAMPAIGN
+# Chapter 2 Holosim — The Balifa Grove Campaign
 
-**Status**: 🟢 Canon (Feb 2026)
-**Source**: Chapter 2 Holosim campaign scripts (MUD, ONI, Ustur perspectives)
-**Type**: Historical Event — Holosim Simulation Scenario
 **Context**: Holosim-generated scenario. **Historical events referenced (Frenir, Old Grove, ECOS raids, Convergence War backstories) are confirmed as real.** The simulation reconstructs these events and projects future escalation scenarios.
 
 ---
@@ -93,7 +90,7 @@ Seeikolobe is a gruff, aging Punaab veteran of the Convergence War — a survivo
 
 > *"Perhaps enlightenment was never about climbing a ladder. Perhaps it is about realizing there is no ladder at all."*
 
-Nova.tchr is a high-ranking Ustur disciple of **Mother Craven**, tasked with evaluating the Captain for the **Golden Star Path**. Her personal arc — a crisis of faith that leads to genuine spiritual breakthrough — is the campaign's emotional backbone.
+Nova.tchr is a high-ranking Ustur disciple of **Mother Caven**, tasked with evaluating the Captain for the **Golden Star Path**. Her personal arc — a crisis of faith that leads to genuine spiritual breakthrough — is the campaign's emotional backbone.
 
 ### Key Narrative Beats
 
@@ -104,7 +101,7 @@ Nova.tchr is a high-ranking Ustur disciple of **Mother Craven**, tasked with eva
 - **Martuce's Interrogation**: Captured Martuce confronts Nova directly: *"You follow a path so wide it swallowed you. Your individuality is buried beneath obedience and dogma."* This shakes Nova deeply.
 - **Nova's Withdrawal**: After a costly battle, Nova isolates herself, unable to reconcile her crisis with her responsibilities. The Captain and SAGE lead the fleet alone through a multi-faction assault.
 - **Nova's Return**: When the Captain chooses to exchange Martuce for captured crew, Nova reappears and supports the decision: *"A civilization does not prove its strength by how much it can hold. It proves it by what it refuses to abandon."*
-- **The Breakthrough**: During the Crystal Lattice fabrication, Nova has an epiphany: *"Perhaps Mother Craven's Golden Star was not the truth, but a lens. One among many."* She realizes enlightenment is personally constructed, not prescribed.
+- **The Breakthrough**: During the Crystal Lattice fabrication, Nova has an epiphany: *"Perhaps Mother Caven's Golden Star was not the truth, but a lens. One among many."* She realizes enlightenment is personally constructed, not prescribed.
 - **Superphoenix Battle**: Nova achieves her spiritual breakthrough in the heat of battle — her core output spikes off every scale. *"Seems I finally stopped asking permission."* She requests time at Elder Spire for an ascension ritual.
 
 ### Thematic Core
@@ -158,9 +155,9 @@ The following events referenced in the Holosim simulation are **confirmed as rea
 
 ## Cross-References
 
-- Balifa Grove — [balifa_grove.md](/factions/balifa_grove.md)
-- ECOS — [ecos.md](/factions/earth_conscious_ontological_society.md)
-- Convergence War — [convergence_war.md](/history/convergence_war.md)
-- Deacon Howard Dawn — [deacon_howard_dawn.md](/characters/deacon_howard_dawn.md)
+- Balifa Grove — [balifa_grove.md](../factions/balifa_grove.md)
+- ECOS — [earth_conscious_ontological_society.md](../factions/earth_conscious_ontological_society.md)
+- Convergence War — [convergence_war.md](./convergence_war.md)
+- Deacon Howard Dawn — characters/deacon_howard_dawn.md *(not yet created)*
 - SAGE — referenced across multiple canon files
 - Holosim — referenced in meta/timeline documentation

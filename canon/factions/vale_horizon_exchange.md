@@ -1,4 +1,4 @@
-# Vale Horizon Exchange (VHE)
+# Vale Horizon Exchange (Vhe)
 
 > *"Meridian moves cargo. Vale keeps people alive."*
 > — Popular Pavo Passage saying

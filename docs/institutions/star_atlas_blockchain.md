@@ -1,7 +1,7 @@
-# 🔗 Canon Document: STAR ATLAS (The Sentient Blockchain)
+# Star Atlas (The Sentient Blockchain)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input via Sogmian/Maharog Q&A
+> Star Atlas is a sentient blockchain that governs the entire economy and commerce of the MRZ (Medium Risk Zone) and Safe Zone across Galia Expanse.
+
 
 ---
 
@@ -42,18 +42,8 @@ The Star Atlas created two key entities/systems to interact with the galaxy:
 - **Benevolent God-figure**: Worshipped by some as a deity due to its protective nature.
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-SA1: SAGE connection~~ ✅ RESOLVED: AGI daughter/guide.
-- ~~Q-SA2: Sentience origin~~ ✅ RESOLVED: Vignus oracles + HRZ materials.
-- ~~Q-SA3: ATLAS/POLIS relationship~~ — Tabled.
-- ~~Q-SA4: Worship~~ ✅ RESOLVED: Worshipped as benevolent god-figure.
-
----
-
 ## 🔴 Cross-References
 
-- Heralds of Vignus — [heralds_of_vignus.md](/factions/heralds_of_vignus.md) (Awakening origin — Vignus oracles infused HRZ materials)
-- SAGE — [star_atlas_blockchain.md](/institutions/star_atlas_blockchain.md) (AGI daughter)
-- Cataclysm / Iris — [the_cataclysm.md](/geography/the_cataclysm.md) (source of Awakening materials)
+- Heralds of Vignus — [heralds_of_vignus.md](../factions/heralds_of_vignus.md) (Awakening origin — Vignus oracles infused HRZ materials)
+- SAGE — [star_atlas_blockchain.md](./star_atlas_blockchain.md) (AGI daughter)
+- Cataclysm / Iris — [the_cataclysm.md](../geography/the_cataclysm.md) (source of Awakening materials)

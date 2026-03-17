@@ -1,7 +1,7 @@
-# 🌀 Canon Document: THE CATACLYSM
+# The Cataclysm
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input via Sogmian/Maharog Q&A
+> The Cataclysm is a territory within the High-Risk Zone (HRZ) where Iris influences reality itself.
+
 
 ---
 

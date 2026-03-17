@@ -1,10 +1,7 @@
-# 🌿 Canon Document: HANGING GARDENS (MRZ-16)
+# Hanging Gardens (MRZ-16)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Hanging Gardens lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-16)
-**Influence**: Ustur-aligned zone (ECOS settlement — survives because MUD can't reach them here)
-**Theme**: ECOS Sanctuary, Sentient Planets, Agricultural Power, COP Flashpoint
+> Hanging Gardens is the largest ECOS settlement outside Earth-Prime and the primary ECOS presence in the MRZ.
+
 
 ---
 
@@ -99,21 +96,12 @@ Hanging Gardens is the **largest ECOS settlement outside Earth-Prime** and the p
 
 ## Cross-References
 
-- Old Grove — ECOS's failed Eden, precursor to Hanging Gardens (`canon/geography/sectors/old_grove.md`)
+- Old Grove — ECOS's failed Eden, precursor to Hanging Gardens ([old_grove.md](./old_grove.md))
 - Earth Prime — ECOS true base in HRZ (TBD)
-- ECOS — human minor faction (`canon/species/human.md`)
-- Fimbul Industries — `canon/factions/fimbul_industries.md` (Superphoenix builder, neutral MRZ manufacturer)
-- CARY / Calico — MUD manufacturer civil branch (`canon/manufacturers/calico.md`)
-- COP vs ECOS — Pergamos invasion (`canon/geography/sectors/pergamos.md`)
-- Chior.eldr — opposes COP aggression (`canon/geography/sectors/zenith_door.md`)
+- ECOS — human minor faction ([human.md](../../species/human.md))
+- Fimbul Industries — [fimbul_industries.md](../../factions/fimbul_industries.md) (Superphoenix builder, neutral MRZ manufacturer)
+- CARY / Calico — MUD manufacturer civil branch ([calico.md](../../manufacturers/calico.md))
+- COP vs ECOS — Pergamos invasion ([pergamos.md](./pergamos.md))
+- Chior.eldr — opposes COP aggression ([zenith_door.md](./zenith_door.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-HNG1: CARY~~ → Civil branch of Calico (MUD manufacturer). Details TBD.
-- ✅ ~~Q-HNG4: High Garden~~ → IS Hanging Gardens (corrected in Old Grove)
-- ⏸️ Q-HNG2: Fimbul ECOS Superphoenix — capabilities, crew size?
-- ⏸️ Q-HNG3: ECOS political structure within Hanging Gardens — who governs?
-- ⏸️ Q-HNG4: Population and planet count?
-- ⏸️ Q-HNG5: CARY vs Hanging Gardens — specific trade routes/products?

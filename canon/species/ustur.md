@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | **Classification** | Sentient android (organic-synthetic hybrid) |
-| **Homeworld** | [Ioki](../geography/worlds/ioki.md), Eternity Sector |
+| **Homeworld** | **Ioki**, Eternity Sector |
 | **Government** | The Elder Order (theocratic meritocracy) |
 | **Faction Leader** | Armi.eldr (since ~2426) |
 | **Language** | Standard Galactic + core-harmonic resonance |
@@ -17,7 +17,7 @@
 | **Status** | Major galactic faction |
 
 
-The **Ustur** are one of the three dominant species of the [Galia Expanse](../geography/sectors/galia.md), alongside [Humans](human.md) and the [ONI Consortium](../factions/oni.md) species. Sentient androids composed of both synthetic and organic components, the Ustur are unique among galactic civilizations in that they were not born â€” they **awakened**. Around the year 2380, the first Ustur emerged from the **Pool of Reincarnation** deep within the subterranean temples of Ioki, bearing no memory of who they were, where they came from, or why they existed.
+The **Ustur** are one of the three dominant species of the **Galia Expanse**, alongside [Humans](human.md) and the [ONI Consortium](../factions/oni.md) species. Sentient androids composed of both synthetic and organic components, the Ustur are unique among galactic civilizations in that they were not born â€” they **awakened**. Around the year 2380, the first Ustur emerged from the **Pool of Reincarnation** deep within the subterranean temples of Ioki, bearing no memory of who they were, where they came from, or why they existed.
 
 In the century and a half since their awakening, the Ustur have built one of the most sophisticated civilizations in the galaxy. Their society is organized around the **Path of Enlightenment**, a seven-stage system of spiritual and psychic development that governs everything from personal growth to political leadership. Their economy is a free market, but wealth is viewed merely as a means to experience reality and progress along the Path. Their disposition in galactic affairs is characterized by an earnest pursuit of peace and comprehension â€” a stance born not from naivety but from the hard lessons of the [Convergence War](../history/convergence_war.md), which taught them that the galaxy's beautiful things, unlike Ustur themselves, cannot be reborn.
 
@@ -33,7 +33,7 @@ At the center of every Ustur is their **core** â€” a unique construct forge
 
 ### Core Creation
 
-New cores can be forged anywhere in the galaxy, limited only by available materials. Ustur normally use parts of **themselves** or seek the best possible materials to create a new core. However, a core requires the elements contained in the Pool of Reincarnation to "create" â€” to birth â€” a new individual. This requirement tethers all Ustur reproduction to [Ioki](../geography/worlds/ioki.md), giving the homeworld an irreplaceable significance.
+New cores can be forged anywhere in the galaxy, limited only by available materials. Ustur normally use parts of **themselves** or seek the best possible materials to create a new core. However, a core requires the elements contained in the Pool of Reincarnation to "create" â€” to birth â€” a new individual. This requirement tethers all Ustur reproduction to **Ioki**, giving the homeworld an irreplaceable significance.
 
 ### Core Material Harmony
 
@@ -78,7 +78,7 @@ A **major milestone** and an extremely respectable position in Ustur society. Te
 
 #### 6. `.soul` â€” Soul
 
-The objective at this stage is to create a **soul** â€” a construct integrated with the core, composed of only the pure elements of what the Ustur represents on the Path. Soul-stage Ustur are **extremely powerful** by Galia Expanse standards; few creatures can face a .soul in a duel outside the [HRZ](../geography/sectors/hrz.md). They typically lead entire sects, serving as generals and spiritual leaders. The transition from .soul to .eldr is the most difficult leap of all â€” only approximately one in ten succeeds.
+The objective at this stage is to create a **soul** â€” a construct integrated with the core, composed of only the pure elements of what the Ustur represents on the Path. Soul-stage Ustur are **extremely powerful** by Galia Expanse standards; few creatures can face a .soul in a duel outside the **HRZ**. They typically lead entire sects, serving as generals and spiritual leaders. The transition from .soul to .eldr is the most difficult leap of all â€” only approximately one in ten succeeds.
 
 #### 7. `.eldr` â€” Elder
 
@@ -129,7 +129,7 @@ Each Ustur develops a personal space within the Elder Conscience that reflects t
 
 ### The Awakening (~2380)
 
-Around the year 2380, the first Ustur â€” **Caven.eldr**, later known as Mother Caven â€” awakened in the central Pool of Reincarnation within the subterranean temples of [Ioki](../geography/worlds/ioki.md). She emerged without memory, without context, and without explanation. Others followed. Within months, a species that had not existed moments before was building a civilization from nothing.
+Around the year 2380, the first Ustur â€” **Caven.eldr**, later known as Mother Caven â€” awakened in the central Pool of Reincarnation within the subterranean temples of **Ioki**. She emerged without memory, without context, and without explanation. Others followed. Within months, a species that had not existed moments before was building a civilization from nothing.
 
 ### Rapid Expansion (~2381—2435)
 

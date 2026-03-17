@@ -143,7 +143,7 @@ The philosophical tension here runs deeper than tactics. The automatons bear sta
 
 ### What They Are
 
-The creatures infesting the Everstorm are **genesium hybrids** — bio-mechanical organisms created by a [Dark Photoli](../factions/dark_photoli.md) using [genesium](../technology/genesium.md) (the Izar biological-mechanical hybrid material) catalyzed with Dark Photoli essence. They combine organic tissue with inorganic components in configurations that violate known taxonomy.
+The creatures infesting the Everstorm are **genesium hybrids** — bio-mechanical organisms created by a [Dark Photoli](../factions/dark_photoli.md) using **genesium** (the Izar biological-mechanical hybrid material) catalyzed with Dark Photoli essence. They combine organic tissue with inorganic components in configurations that violate known taxonomy.
 
 ### Known Variants
 
@@ -233,16 +233,16 @@ In [Harkend](../geography/sectors/harkend.md), the [Relic Barons](../factions/re
 
 ## Cross-References
 
-- ECOS / Hanging Gardens — `canon/factions/earth_conscious_ontological_society.md`, `canon/factions/hanging_gardens_government.md` (High Circle Seat 6)
-- Dark Photoli — `canon/factions/dark_photoli.md` (Izar-248 experiments, Everstorm release ~2624)
-- Living Factories — `canon/factions/living_factories.md` (Harkend constructs, automaton containment)
-- Everstorm — `canon/geography/sectors/everstorm.md` (primary theater, genesium spawn, Nimbus Spheres)
-- Harkend — `canon/geography/sectors/harkend.md` (secondary theater, Relic Barons, pacifier device)
-- Nimrod Trackers — `canon/factions/nimrod_trackers.md` (close ally, Yeva's former organization)
-- Fimbul Industries — `canon/factions/fimbul_industries.md` (equipment, disruptors, storm-hardened tech)
-- Relic Barons — `canon/factions/relic_barons.md` (Harkend zone coordination)
-- Ashroot Grove — `canon/factions/ashroot_grove.md` (adjacent containment responsibility, Old Grove perimeter)
-- Iris Academy — `canon/factions/iris_academy.md` (xenobiological research data sharing)
+- ECOS / Hanging Gardens — [earth_conscious_ontological_society.md](./earth_conscious_ontological_society.md), [hanging_gardens_government.md](./hanging_gardens_government.md) (High Circle Seat 6)
+- Dark Photoli — [dark_photoli.md](./dark_photoli.md) (Izar-248 experiments, Everstorm release ~2624)
+- Living Factories — [living_factories.md](./living_factories.md) (Harkend constructs, automaton containment)
+- Everstorm — [everstorm.md](../geography/sectors/everstorm.md) (primary theater, genesium spawn, Nimbus Spheres)
+- Harkend — [harkend.md](../geography/sectors/harkend.md) (secondary theater, Relic Barons, pacifier device)
+- Nimrod Trackers — [nimrod_trackers.md](./nimrod_trackers.md) (close ally, Yeva's former organization)
+- Fimbul Industries — [fimbul_industries.md](./fimbul_industries.md) (equipment, disruptors, storm-hardened tech)
+- Relic Barons — [relic_barons.md](./relic_barons.md) (Harkend zone coordination)
+- Ashroot Grove — [ashroot_grove.md](./ashroot_grove.md) (adjacent containment responsibility, Old Grove perimeter)
+- Iris Academy — [iris_academy.md](./iris_academy.md) (xenobiological research data sharing)
 
 ---
 

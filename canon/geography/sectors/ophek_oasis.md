@@ -1,7 +1,7 @@
-# 🌌 Canon Document: OPHEK OASIS SECTOR (MRZ-8)
+# Ophek Oasis Sector (MRZ-8)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Sin Sector)
+> Glimmering at the edge of the known Galia Expanse, Ophek Oasis is the ultimate interstellar Sin Sector — hedonism meets high stakes, with thematic pleasure planets.
+
 
 ---
 

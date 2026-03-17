@@ -1,8 +1,5 @@
-# 👑 Canon Document: VESHMORA (Quiet World / Disappearance Refuge)
+# Veshmora (Quiet World / Disappearance Refuge)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 06
-**Type**: Quiet world / disappearance refuge
 **Sector**: Pavo Passage (MRZ-17)
 **Local Name**: Formerly called "Hushmoor" in corridor slang
 **Function**: Absence — where people go to stop being measured

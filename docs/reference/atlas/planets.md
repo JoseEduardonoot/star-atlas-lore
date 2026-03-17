@@ -115,7 +115,7 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Redam-VII** | Capital | Diplomatic capital. The Circle Hall — seat of the Exalted Lords | [Redam Government](../factions/redam_government.md) | Commerce nexus; Lord-Speaker Gareth Dravus |
+| **Redam-VII** | Capital | Diplomatic capital. The Circle Hall — seat of the Exalted Lords | [Redam Government](../../factions/redam_government.md) | Commerce nexus; Lord-Speaker Gareth Dravus |
 | **Eryndor** | Resource-rich | Agricultural and manufacturing; logistics hub | Exalted Lord Tsera Vyll | Trade network center |
 | **Korrath** | Frontier planet | Military advocate's seat; closest to contested MRZ space | Exalted Lord Rogan Veth | Xianyang Enforcer coordination point |
 | **Valthara** | Economic center | Financial infrastructure and banking regulation | Exalted Lord Maren Teyn (⚠️ MUD spy) | Economic planning seat |
@@ -125,7 +125,7 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Mycenas-V** | Fortress world | Isolationist. Force field technology protects the planet | [Mycenas Government](../factions/mycenas_government.md) | "The Horror" — ~80 years of raids/famines; HRZ artifact barrier |
+| **Mycenas-V** | Fortress world | Isolationist. Force field technology protects the planet | [Mycenas Government](../../factions/mycenas_government.md) | "The Horror" — ~80 years of raids/famines; HRZ artifact barrier |
 
 ### Abyd-IX (MRZ-3)
 
@@ -142,13 +142,13 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Pergamos-VIII** | Financial capital | Economic behemoth. Human aristocracy (10%) | [Pergamos New Government](../factions/pergamos_new_government.md) (COP-installed) | Former Shadow Banks HQ; COP Cradle deployed here |
+| **Pergamos-VIII** | Financial capital | Economic behemoth. Human aristocracy (10%) | [Pergamos New Government](../../factions/pergamos_new_government.md) (COP-installed) | Former Shadow Banks HQ; COP Cradle deployed here |
 
 ### Xianyang-VI (MRZ-5)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Xianyang-VI** | Military hub | Military powerhouse. Xianyang Enforcers HQ | [Xianyang Government](../factions/xyanyang_government.md) | Gate Garrison alumni network; Enforcer training grounds |
+| **Xianyang-VI** | Military hub | Military powerhouse. Xianyang Enforcers HQ | [Xianyang Government](../../factions/xyanyang_government.md) | Gate Garrison alumni network; Enforcer training grounds |
 
 ### Ilidae (MRZ-6)
 
@@ -160,19 +160,19 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Izar-248 Main** | Ruined world | Binary star salvage yards. Scrap economy | [Izarians](../factions/izarians.md) (underground survivors) | Gravitational catastrophe (~1965); Dark Photoli genesium experiments |
+| **Izar-248 Main** | Ruined world | Binary star salvage yards. Scrap economy | [Izarians](../../factions/izarians.md) (underground survivors) | Gravitational catastrophe (~1965); Dark Photoli genesium experiments |
 
 ### Ophek Oasis (MRZ-8)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Ophek Oasis** | Underground oasis | Water as currency. Underground oasis network | [Ophek](../factions/ophek.md) | Unique water-based economy |
+| **Ophek Oasis** | Underground oasis | Water as currency. Underground oasis network | [Ophek](../../factions/ophek.md) | Unique water-based economy |
 
 ### Bluvael (MRZ-9)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Bluvael Prime** | Illusion world | Appears as ocean from space; thriving worlds underneath | [Bluevael Mining Colonies](../factions/bluevael_mining_colonies.md) | Photoli illusion protects Ah'Rihvael family tombs; Dead Zone anomaly |
+| **Bluvael Prime** | Illusion world | Appears as ocean from space; thriving worlds underneath | [Bluevael Mining Colonies](../../factions/bluevael_mining_colonies.md) | Photoli illusion protects Ah'Rihvael family tombs; Dead Zone anomaly |
 | *5 additional worlds* | Tomb worlds | Each harbors an ancient Photoli tomb beneath oceans | — | Decommissioned spaceships as sarcophagi |
 
 ### Weeping Nebula (MRZ-10)
@@ -201,32 +201,32 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Crushspire** | Industrial planet | Arco Crystal mines, Spire Foundries | [TAPP](../factions/toll_authority_of_pavo_passage.md) / [VHE](../factions/vale_horizon_exchange.md) | Crystal extraction hub |
+| **Crushspire** | Industrial planet | Arco Crystal mines, Spire Foundries | [TAPP](../../factions/toll_authority_of_pavo_passage.md) / [VHE](../../factions/vale_horizon_exchange.md) | Crystal extraction hub |
 | **Okuto** | Dwarf planet | Neutral buffer, black market, Exchange Gate | Disputed | Buffer zone between Pavo factions |
 
 ### Frenir (MRZ-19)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Ki'Prah** | Former prison world | Sogmian prison planet (~2358), later slaver forced labor camp (~2533) | [Frenir New Government](../factions/frenir_new_government.md) (COP) | Balifa Grove biological warfare target; now partially reclaimed |
+| **Ki'Prah** | Former prison world | Sogmian prison planet (~2358), later slaver forced labor camp (~2533) | [Frenir New Government](../../factions/frenir_new_government.md) (COP) | Balifa Grove biological warfare target; now partially reclaimed |
 
 ### Summer Sea (MRZ-22)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Summer Sea** | Living world | Vegetation converts gaseous deposits into water | [Order of Seasons](../factions/order_of_seasons.md) | Unique atmospheric conversion biome |
+| **Summer Sea** | Living world | Vegetation converts gaseous deposits into water | [Order of Seasons](../../factions/order_of_seasons.md) | Unique atmospheric conversion biome |
 
 ### Free Harbors (MRZ-26)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Free Harbors Capital** | Capital planet | Multi-system Dock-DAO governance center | [Free Harbors](../geography/sectors/free_harbors.md) | Each harbor controls a system; DAO governance; species-linked docks |
+| **Free Harbors Capital** | Capital planet | Multi-system Dock-DAO governance center | [Free Harbors](../../geography/sectors/free_harbors.md) | Each harbor controls a system; DAO governance; species-linked docks |
 
 ### Kamec (MRZ-29)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Kamec** | Atheist Mierese colony | Founded ~2392 by atheist Mierese rejecting religious rules | [Kamec Democracy](../factions/kamec_democracy.md) | Free from Mierese religious hierarchy |
+| **Kamec** | Atheist Mierese colony | Founded ~2392 by atheist Mierese rejecting religious rules | [Kamec Democracy](../../factions/kamec_democracy.md) | Free from Mierese religious hierarchy |
 
 ### Glowhaven (MRZ-31)
 
@@ -238,31 +238,31 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **High Garden** | ECOS capital | ECOS MRZ stronghold. Hanging Gardens Government seat | [Hanging Gardens Government](../factions/hanging_gardens_government.md) | Superphoenix (military titan); Council of Seven Groves |
+| **High Garden** | ECOS capital | ECOS MRZ stronghold. Hanging Gardens Government seat | [Hanging Gardens Government](../../factions/hanging_gardens_government.md) | Superphoenix (military titan); Council of Seven Groves |
 
 ### Zenith Door (MRZ-36)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Carvum** | Academy planet | Abandoned mining world → Iris Academy headquarters | [Chior.eldr](../geography/sectors/zenith_door.md) | Ancient mines fund the Academy; Rural villages; Commander Goe's farm |
+| **Carvum** | Academy planet | Abandoned mining world → Iris Academy headquarters | [Chior.eldr](../../geography/sectors/zenith_door.md) | Ancient mines fund the Academy; Rural villages; Commander Goe's farm |
 
 ### Denebula Utopia (MRZ)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Denebula** | Luxury capital | Galaxy's zenith of desirability. Six founding Merchant Princes | [Merchant Princes](../factions/merchant_princes_of_denebula.md) | Caste system; mandatory surgical enhancements; spectrum-cycling architecture |
+| **Denebula** | Luxury capital | Galaxy's zenith of desirability. Six founding Merchant Princes | [Merchant Princes](../../factions/merchant_princes_of_denebula.md) | Caste system; mandatory surgical enhancements; spectrum-cycling architecture |
 
 ### Lumik (MRZ)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Lumik** | Knowledge repository | Home to the Scriptorium — largest information repository in the galaxy | [Scriptorium of the Lumikir](../factions/scriptorium_of_the_lumikir.md) | Library rivals the dimensions of a planet; Rank A–E classification system |
+| **Lumik** | Knowledge repository | Home to the Scriptorium — largest information repository in the galaxy | [Scriptorium of the Lumikir](../../factions/scriptorium_of_the_lumikir.md) | Library rivals the dimensions of a planet; Rank A–E classification system |
 
 ### Verbis Cluster (MRZ)
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Pertuam** | Contested world | Poacher raids (~2535); critical infrastructure attacks | [Sons of Patrah](../factions/sons_of_patrah.md) | Victory against poachers but at heavy cost |
+| **Pertuam** | Contested world | Poacher raids (~2535); critical infrastructure attacks | [Sons of Patrah](../../factions/sons_of_patrah.md) | Victory against poachers but at heavy cost |
 
 ---
 
@@ -280,16 +280,6 @@
 
 | Planet/Location | Type | Description | Faction Control | Notable Features |
 |-----------------|------|-------------|-----------------|-----------------|
-| **Etira** | Former criminal capital | Former BMAH capital planet | [BMAH](../factions/black_market_auction_house.md) (scattered) | Herdus.soul's base of operations until death (~2624) |
+| **Etira** | Former criminal capital | Former BMAH capital planet | [BMAH](../../factions/black_market_auction_house.md) (scattered) | Herdus.soul's base of operations until death (~2624) |
 
 ---
-
-## Open Questions
-
-- ⏸️ Q-PLN1: Full planet list for Exodus system (5 planets — only capital named)
-- ⏸️ Q-PLN2: Named worlds in Abyd sector beyond territories (how many systems total?)
-- ⏸️ Q-PLN3: Individual planet names for the 6 Bluvael tomb worlds
-- ⏸️ Q-PLN4: Planet names within Pavo Passage beyond Crushspire and Okuto
-- ⏸️ Q-PLN5: Hanging Gardens — planet count and named worlds per grove
-- ⏸️ Q-PLN6: Free Harbors — individual harbor system names
-- ⏸️ Q-PLN7: Eternity system — full planetary manifest beyond Eternity Prime and Vestigios

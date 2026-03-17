@@ -1,6 +1,5 @@
-# 📋 Canon Registry: NAMED CHARACTERS
+# Canon Registry: Named Characters
 
-**Status**: 🟢 Canon Reference (Living Document, Feb 2026)
 **Purpose**: Comprehensive list of all named characters across canon lore — quick-reference for name uniqueness, allegiance checks, and cross-file research.
 **Last Updated**: Feb 2026
 
@@ -606,7 +605,7 @@
 
 | Name | Species | Role | Allegiance | Source |
 |------|---------|------|------------|--------|
-| **Caven.eldr** (Mother Craven) | Ustur | The First Ustur — Mother of the species | Ustur (Elder Order) | `ustur.md` |
+| **Caven.eldr** (Mother Caven) | Ustur | The First Ustur — Mother of the species | Ustur (Elder Order) | `ustur.md` |
 | **Armi.eldr** | Ustur | Faction leader (~2426–2512+) | Ustur (Elder Order) | `ustur.md` |
 | **Chior.eldr** | Ustur | Elder — Leader of Zenith Door, voice for peace | Ustur / Zenith Door | `ustur.md`, `zenith_door.md` |
 | **Ponel.eldr** | Ustur | "First Citizen" of Anfoil State | Ustur / Anfoil State | `ustur.md` |
@@ -614,7 +613,7 @@
 | **Herdus.soul** | Ustur | Chior's disciple — went mad, founded Church of the Dreamer Below | Church of the Dreamer Below (deceased) | `ustur.md`, `church_of_the_dreamer_below.md` |
 | **Timpo.bod** / **Timpo** | Ustur | Historical heretic explorer | Ustur (historical) | `ustur.md`, `convergence_war.md` |
 | **Elder Ombra** | Ustur | Visionary Elder — architect of the "Inhabit" strategy | Ustur (Elder Order) | `ustur.md`, `convergence_war.md` |
-| **Nova.tcher** | Ustur | High-ranking disciple, Chapter 2 Holosim companion | Ustur | `ustur.md`, `chapter2_holosim_balifa_campaign.md` |
+| **Nova.tchr** | Ustur | High-ranking disciple, Chapter 2 Holosim companion | Ustur | `ustur.md`, `chapter2_holosim_balifa_campaign.md` |
 | **Faurrest.tcher** | Ustur | Named Ustur (Never Alone companion) | Ustur | `never_alone_campaign.md` |
 
 ---

@@ -1,12 +1,4 @@
-# ⚙️ Canon Document: ANFOIL STATES (MRZ-15)
-
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Anfoil sector lore + `anfoil_state.md` faction file + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-15)
-**Influence**: Ustur (Anfoil Dissidents — independent of Elder Order)
-**Theme**: Technocratic Secession, Emotion Suppression, The Seed, Meritocratic Technate
-
-> [!NOTE]
+# Anfoil States (MRZ-15)
 > This sector file complements the detailed faction file: `canon/factions/anfoil_state.md`
 
 ---

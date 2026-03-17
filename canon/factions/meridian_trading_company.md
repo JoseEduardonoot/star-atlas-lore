@@ -97,7 +97,7 @@ MTC operates differently on each world in Pavo Passage, adapting its approach to
 
 ### The Arco Crystal Play
 
-The MTC's most strategically important operation is its attempt to capture the [Crumon Dynasty](../factions/crumon_dynasty.md)'s **Arco Crystal** supply chain. Arco Crystal — used in armor, shields, heat-resistant hull components, and kinetic dampening systems — is the most valuable resource in Pavo Passage. [Crushspire](../geography/worlds/crushspire.md) is the largest source in the [Galia Expanse](../geography/sectors/galia.md).
+The MTC's most strategically important operation is its attempt to capture the [Crumon Dynasty](../factions/crumon_dynasty.md)'s **Arco Crystal** supply chain. Arco Crystal — used in armor, shields, heat-resistant hull components, and kinetic dampening systems — is the most valuable resource in Pavo Passage. [Crushspire](../geography/worlds/crushspire.md) is the largest source in the **Galia Expanse**.
 
 The key operative is **Vera Korrin**, MTC's Arco Crystal trader. Korrin specializes in "relationship-first" approaches — gifts, ritual courtesies, and long-term purchase vows designed to build personal bonds with Crumon mine operators. The Synod's goal is not to buy Arco Crystal. It is to make Arco Crystal **flow through MTC channels** by default — to become the intermediary that neither the Dynasty nor its customers can easily remove.
 

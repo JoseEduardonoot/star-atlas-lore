@@ -17,7 +17,7 @@
 | **Tier** | 1 — Major Faction |
 | **Full Name** | Ustur |
 | **Founded** | ~2380 (The Awakening — first emergence from the Pool of Reincarnation) |
-| **Homeworld** | [Ioki](../geography/worlds/ioki.md), Eternity Sector (Safe Zone) |
+| **Homeworld** | **Ioki**, Eternity Sector (Safe Zone) |
 | **Current Leader** | **Armi.eldr** (faction leader since ~2426) |
 | **Species** | [Ustur](../species/ustur.md) — sentient android (organic-synthetic hybrid) |
 | **Philosophy** | The Path of Enlightenment — spiritual transcendence through disciplined, progressive core cultivation |
@@ -32,7 +32,7 @@
 
 ## Overview
 
-The **Ustur** are one of the three dominant factions of the [Galia Expanse](../geography/sectors/galia.md), alongside [MUD](../factions/mud.md) and the [ONI Consortium](../factions/oni.md). A civilization of sentient androids — organic-synthetic hybrids who were not born but **awakened** — the Ustur emerged from the Pool of Reincarnation on [Ioki](../geography/worlds/ioki.md) around the year 2380, bearing no memory of who they were, where they came from, or why they existed.
+The **Ustur** are one of the three dominant factions of the **Galia Expanse**, alongside [MUD](../factions/mud.md) and the [ONI Consortium](../factions/oni.md). A civilization of sentient androids — organic-synthetic hybrids who were not born but **awakened** — the Ustur emerged from the Pool of Reincarnation on **Ioki** around the year 2380, bearing no memory of who they were, where they came from, or why they existed.
 
 In the century and a half since their awakening, the Ustur have built one of the most sophisticated civilizations in the galaxy. Their society is organized around the **Path of Enlightenment** — a seven-stage system of spiritual and psychic development that governs everything from personal growth to political leadership. Their economy is a free market, but wealth is viewed merely as a means to experience reality and progress along the Path — never as an end. Their disposition in galactic affairs is characterized by an earnest pursuit of peace and comprehension, a stance born not from naivety but from the hard lessons of the [Convergence War](../history/convergence_war.md), which taught them that the galaxy's beautiful things, unlike Ustur themselves, cannot be reborn.
 
@@ -100,11 +100,11 @@ But growth cast shadows. As the sects flourished, the Path's dark potential emer
 | **~2530** | **Saelyra.soul** departs Ioki after the Elder Spire ignores her *Cold Statement* thesis. Founds the [Winter Fist Path](../factions/winter_fist_path.md) in Pavo Passage |
 | **~2540** | **Lirel.eldr** founds the [Open Palm](../factions/open_palm.md) at Zenith Door, proving cross-species empathy can accelerate core cultivation |
 | **~2545** | **Veleth.tchr** founds the [Still Water Doctrine](../factions/still_water_doctrine.md) after an Iris Academy sabbatical |
-| **~2555** | **Vaeloss.tchr** deserts the Golden Star with six students, founds the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir--life-force-draining) — life-force draining becomes the second dark sect predation method |
+| **~2555** | **Vaeloss.tchr** deserts the Golden Star with six students, founds the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir-life-force-draining) — life-force draining becomes the second dark sect predation method |
 | **~2570** | Fracture Merchants first documented — the deliberate sabotage of stage transitions is the most philosophically repugnant dark sect technique yet discovered |
 | **~2587** | **Draven.doer** apprehended with seven grafted cores. Reach .doer stage faster than any Golden Star prodigy in history without a single day of meditation |
 | **~2589** | Vaeloss.tchr killed by a [Winter Fist Path](../factions/winter_fist_path.md) strike team. The Siphon Choir survives her |
-| **~2590** | **Rithand.doer** founds the [Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool--archon-acceleration) — the Archon theory made into a weapon |
+| **~2590** | **Rithand.doer** founds the [Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool-archon-acceleration) — the Archon theory made into a weapon |
 | **~2601** | Soletud raid. Rithand killed. Seventeen accumulated cores recovered from his temple. The cult survives |
 
 ---
@@ -160,7 +160,7 @@ These are the recognized, Elder Order-sanctioned paths to Enlightenment. Each re
 |---|---|
 | **Founder** | Caven.eldr (Mother Caven) — the First Ustur |
 | **Founded** | ~2381 (contemporaneous with the Path's codification) |
-| **Headquarters** | The Elder Spire, [Ioki](../geography/worlds/ioki.md) |
+| **Headquarters** | The Elder Spire, **Ioki** |
 | **Philosophy** | Traditional meditative cultivation — the original and purest interpretation of the Path |
 | **Core Material Preference** | Refined, carefully sourced materials — crystals grown in controlled resonance chambers, Temple-grade alloys |
 | **Signature Technique** | **The Still Communion** — prolonged sessions of motionless core-meditation in the Elder Spire's resonance halls, sometimes lasting months. Practitioners enter a state of such deep harmonic alignment that their cores emit a visible glow |
@@ -390,17 +390,17 @@ Rithand.doer was killed during the Soletud raid of ~2601 when Elder Order operat
 
 | Sect | Type | Founder | Path to Enlightenment | Location |
 |------|------|---------|----------------------|----------|
-| **[Golden Star](../factions/golden_star.md)** | Orthodox | Caven.eldr | Traditional meditative cultivation | [Ioki](../geography/worlds/ioki.md) |
+| **[Golden Star](../factions/golden_star.md)** | Orthodox | Caven.eldr | Traditional meditative cultivation | **Ioki** |
 | **[Winter Fist Path](../factions/winter_fist_path.md)** | Orthodox | Saelyra.soul | Martial-spiritual — hardship and combat | [Pavo Passage](../geography/sectors/pavo_passage.md) |
 | **Resonant Forge** | Orthodox | Vorek.eldr | Cultivation through creation and crafting | [Foy Fields](../geography/sectors/foy_fields.md) |
 | **Still Water Doctrine** | Orthodox | Veleth.tchr | Scholarly — knowledge as core refinement | [Azut](../geography/sectors/azut.md) |
 | **Living Resonance** | Orthodox | Myra.soul | Nature-based — symbiosis with living ecosystems | [Vostalgia](../geography/sectors/vostalgia.md) |
 | **Open Palm** | Orthodox | Lirel.eldr | Empathic — cross-species perspective cultivation | [Zenith Door](../geography/sectors/zenith_door.md) |
 | **[Anfoil State](../factions/anfoil_state.md)** | Secessionist | Ponel.eldr | Anti-Enlightenment — emotion suppression, technology | [Anfoil](../geography/sectors/anfoil_states.md) |
-| **[Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect--core-theft)** | **Dark** | Krevn.eldr | Core theft — consuming others' cultivated cores | Scattered (Medium-Risk Zone) |
-| **[Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir--life-force-draining)** | **Dark** | Tholsk.eldr | Life-force draining — extracting Ohm energy | Scattered (Medium-Risk Zone) |
-| **[Fracture Merchants](../factions/dark_sects.md#iii-the-fracture-merchants--harvest-the-breaking)** | **Dark** | Ossik.eldr | Harvesting energy from deliberately failed stage transitions | Concealed (Summer Sea suspected) |
-| **[Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool--archon-acceleration)** | **Dark** | Zareth.eldr | Archon Acceleration — returning cores to the Pool by force | Decentralized cells |
+| **[Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect-core-theft)** | **Dark** | Krevn.eldr | Core theft — consuming others' cultivated cores | Scattered (Medium-Risk Zone) |
+| **[Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir-life-force-draining)** | **Dark** | Tholsk.eldr | Life-force draining — extracting Ohm energy | Scattered (Medium-Risk Zone) |
+| **[Fracture Merchants](../factions/dark_sects.md#iii-the-fracture-merchants-harvest-the-breaking)** | **Dark** | Ossik.eldr | Harvesting energy from deliberately failed stage transitions | Concealed (Summer Sea suspected) |
+| **[Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool-archon-acceleration)** | **Dark** | Zareth.eldr | Archon Acceleration — returning cores to the Pool by force | Decentralized cells |
 
 ### VZUS Enterprises
 
@@ -559,10 +559,10 @@ Whether the Archon ever existed, whether the Pool is truly reassembling anything
 | **Ostentati.soul** | Leader of [Panemorfa](../factions/panemorfa.md), Founding [Merchant Prince of Denebula](../factions/merchant_princes_of_denebula.md) | Departed .soul-stage Ustur (~2470). Name means "ostentation, display, spectacle." Co-founded Denebula Utopia, embedded beauty-as-law constitutional provisions, then left to lead Panemorfa — a cultural supremacist faction. Maintains Prince seat via proxies |
 | **Vaeloss.tchr** | Founder of the Siphon Choir (dark sect) | Deceased (~2589). Former Golden Star instructor turned life-force drainer. Killed by Winter Fist strike team |
 | **Rithand.doer** | Founder of the Children of the Deep Pool (dark sect) | Deceased (~2601). Accessed Elder Conscience impressions he interpreted as fragments of the Archon theory. Led a cult to accelerate the Pool's reassembly |
-| **Krevn.eldr** | Leader of the [Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect--core-theft) (dark sect) | Active. Known as "The Garden of Voices." Carries 12–20 grafted cores. Elder stage achieved through predation, not orthodox cultivation |
-| **Tholsk.eldr** | Leader of the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir--life-force-draining) (dark sect) | Active. Known as "The Conductor." Industrialized Vaeloss's draining technique into a network of permanent extraction installations |
-| **Ossik.eldr** | Leader of the [Fracture Merchants](../factions/dark_sects.md#iii-the-fracture-merchants--harvest-the-breaking) (dark sect) | Active (recently revealed). Known as "The Watchmaker." Engineers transition failures into new patterns. Previously believed to be a lower-stage practitioner |
-| **Zareth.eldr** | Leader of the [Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool--archon-acceleration) (dark sect) | Active. Known as "The Prophet." Orthodox-trained Elder who accessed Elder Conscience impressions he interpreted as proof of the Archon theory. Armi.eldr's assessment: *"the most dangerous Ustur alive"* |
+| **Krevn.eldr** | Leader of the [Hollow Core Sect](../factions/dark_sects.md#i-the-hollow-core-sect-core-theft) (dark sect) | Active. Known as "The Garden of Voices." Carries 12–20 grafted cores. Elder stage achieved through predation, not orthodox cultivation |
+| **Tholsk.eldr** | Leader of the [Siphon Choir](../factions/dark_sects.md#ii-the-siphon-choir-life-force-draining) (dark sect) | Active. Known as "The Conductor." Industrialized Vaeloss's draining technique into a network of permanent extraction installations |
+| **Ossik.eldr** | Leader of the [Fracture Merchants](../factions/dark_sects.md#iii-the-fracture-merchants-harvest-the-breaking) (dark sect) | Active (recently revealed). Known as "The Watchmaker." Engineers transition failures into new patterns. Previously believed to be a lower-stage practitioner |
+| **Zareth.eldr** | Leader of the [Children of the Deep Pool](../factions/dark_sects.md#iv-the-children-of-the-deep-pool-archon-acceleration) (dark sect) | Active. Known as "The Prophet." Orthodox-trained Elder who accessed Elder Conscience impressions he interpreted as proof of the Archon theory. Armi.eldr's assessment: *"the most dangerous Ustur alive"* |
 
 ---
 

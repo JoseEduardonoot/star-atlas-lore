@@ -1,7 +1,4 @@
-# 🌌 Canon Document: VALIANT SECTOR (MUD 2)
-
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (MUD 2)
+# Valiant Sector (MUD 2)
 
 ---
 

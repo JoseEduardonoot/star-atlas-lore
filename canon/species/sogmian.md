@@ -1,7 +1,9 @@
-# ⚔️ Canon Document: SOGMIAN
+# Sogmian
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Full Sogmian Lore Chapters + Q&A
+> - Enormous construction spanning thousands of kilometers in the Segal Sector
+- Where every Sogmian is trained after infancy
+- Strict hierarchy reflected in accommodations, food, and rights
+
 
 ---
 

@@ -1,11 +1,4 @@
-# ⚗️ Canon Document: HRZ METAGENIC MATERIALS
-
-**Status**: 🟡 Theory-Craft (Creator Lore Keepers Brew, Mar 2026)
-**Source**: Direct Creator input — Lore Keepers Brew (metagenic materials theory-crafting session)
-**Type**: Technology / Crafting System — High-Risk Zone Resources
-**Zone**: High-Risk Zone (primary), Medium-Risk Zone (secondary)
-
-> [!NOTE]
+# HRZ Metagenic Materials
 > This document captures **creator-confirmed lore direction** for HRZ materials. The specific gameplay mechanics are theory-crafting — they may evolve during game design implementation. The underlying lore (metagenic properties, Tufa-derived materials, environmental hazards) is canon.
 
 ---
@@ -153,17 +146,9 @@ Different species have natural advantages in HRZ environments:
 
 ## 🔴 Cross-References
 
-- Tufa (Metagenic Biology) — [tufa.md](/species/tufa.md)
-- Ember Coil (HRZ Dungeon) — [living_factories.md](/factions/living_factories.md) (Harkend Legacy section)
-- Iris / Cataclysm — [the_cataclysm.md](/geography/the_cataclysm.md)
+- Tufa (Metagenic Biology) — [tufa.md](../species/tufa.md)
+- Ember Coil (HRZ Dungeon) — [living_factories.md](../factions/living_factories.md) (Harkend Legacy section)
+- Iris / Cataclysm — [the_cataclysm.md](../geography/the_cataclysm.md)
 - Core Saga (Polei reference) — `canon/narratives/` (TBD)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-MAT1: Full list of manufacturer specializations beyond Gria (warping) and Pierce (firepower)?
-- ⏸️ Q-MAT2: How does the Polei component from the Core Saga relate to Tufa-derived materials?
-- ⏸️ Q-MAT3: Are there metagenic materials NOT derived from Tufas? (e.g., Living Factories technology, Ustur cybernetic materials)
-- ⏸️ Q-MAT4: What synthesis skills are required? Is this tied to crew member species or training?
-- ⏸️ Q-MAT5: Can metagenic materials be traded between players, or are they soulbound on acquisition?

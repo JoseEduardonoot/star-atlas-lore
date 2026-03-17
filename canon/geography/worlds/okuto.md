@@ -1,8 +1,5 @@
-# 👑 Canon Document: OKUTO (Dwarf Planet / Neutral Gray Exchange)
+# Okuto (Dwarf Planet / Neutral Gray Exchange)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 05
-**Type**: Dwarf planet / neutral gray exchange
 **Sector**: Pavo Passage (MRZ-17)
 **Local Name**: Formerly known as "Riftmarket"
 **Function**: Pressure valve — where opportunity moves at a price

@@ -1,7 +1,7 @@
-# ✨ Canon Document: PHOTOLI
+# Photoli
 
-**Status**: 🟢 Canon (Lore Dump Integrated, Feb 2026)
-**Source**: Creator Input (Lore Dump)
+> Photoli society lacks a central government.
+
 
 ---
 
@@ -72,7 +72,7 @@ Photoli society lacks a central government. They are highly self-sufficient.
 - **Why they don't unite**: Arrogance and paranoia. They fear being drained by each other.
 - **Weakness**: Born weaker than traditional Photoli (due to lack of natural light), so they cannot yet openly challenge the Photoli/Galia.
 - **Status**: 7 known individuals, functioning as dangerous loners/outcasts.
-- **~2558**: A **powerful Photoli turns dark** and begins plotting the **conquest of Iris** for himself. He later strikes a deal with Ingbus (`canon/geography/sectors/ka_dara.md`) (~2569)
+- **~2558**: A **powerful Photoli turns dark** and begins plotting the **conquest of Iris** for himself. He later strikes a deal with Ingbus ([ka_dara.md](../geography/sectors/ka_dara.md)) (~2569)
 
 ---
 
@@ -124,18 +124,10 @@ Photoli society lacks a central government. They are highly self-sufficient.
 
 ## 🔴 Cross-References
 
-- **ONI Consortium**: `canon/species/sogmian.md`
-- **Denebula**: `canon/geography/denebula_utopia.md`
-- **HRZ**: `canon/geography/the_cataclysm.md`
-- **Lumik / Lumikir**: `canon/geography/sectors/lumik.md` (Om's connection, uplifted species)
-- **Ka-dara**: `canon/geography/sectors/ka_dara.md` (Dark Photoli fight in Om's youth led to Lumikir encounter)
+- **ONI Consortium**: [sogmian.md](./sogmian.md)
+- **Denebula**: [denebula_utopia.md](../geography/sectors/denebula_utopia.md)
+- **HRZ**: [the_cataclysm.md](../geography/the_cataclysm.md)
+- **Lumik / Lumikir**: [lumik.md](../geography/sectors/lumik.md) (Om's connection, uplifted species)
+- **Ka-dara**: [ka_dara.md](../geography/sectors/ka_dara.md) (Dark Photoli fight in Om's youth led to Lumikir encounter)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-PH8: ONI Paradox~~ ✅ RESOLVED: Hidden Agenda (Long game for Iris).
-- ~~Q-PH9: Dawnbreak Survival~~ ✅ RESOLVED: Hidden in HRZ, but outside Cataclysm (no access to Iris yet).
-- ~~Q-PH10: Dark Photoli Cabal?~~ ✅ RESOLVED: No, arrogant loners.
-- ~~Q-PH11: Ascension Mechanics~~ ✅ RESOLVED: Gradual transmutation.
-- ~~Q-PH12: Inter-species Essence Trading~~ ✅ RESOLVED: Possible but inefficient/costly.

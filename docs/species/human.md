@@ -1,7 +1,8 @@
-# 🌍 Canon Document: HUMAN (MUD)
+# Human (MUD)
 
-**Status**: 🟢 Canon (Integrated Book I + Lore Dump + Archon Truth, Feb 2026)
-**Source**: Creator Input (The Promised Paradise + MUD Lore Dump + Ahr Origin)
+> - Name: Manus Ultima Divina (MUD)
+- Nature: A unified government of humanity, rooted in divine revelation and led by the Holy Family.
+
 
 ---
 
@@ -120,16 +121,8 @@ The discovery of the Cataclysm turned MUD's unity into an arena:
 
 ## 🔴 Cross-References
 
-- **Convergence War**: `canon/history/convergence_war.md`
-- **Sogmian Interaction**: `canon/species/sogmian.md`
-- **Photoli Interaction**: `canon/species/photoli.md` (Ahr is one of them)
+- **Convergence War**: [convergence_war.md](../history/convergence_war.md)
+- **Sogmian Interaction**: [sogmian.md](./sogmian.md)
+- **Photoli Interaction**: [photoli.md](./photoli.md) (Ahr is one of them)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-H1: Leadership~~ ✅ RESOLVED: Gotti Lineage.
-- ~~Q-H4: Earth Exodus~~ ✅ RESOLVED: **God Ahr** (Photoli) -> Meteor Doom -> Solar Punk Stagnation vs Survival.
-- ~~Q-H5: Human Superpower~~ ✅ RESOLVED: **Divine Fervor + Adaptability**.
-- ~~Q-H6: ECOS Origin~~ ✅ RESOLVED: Rejected "Alien Domination" and resource stripping.
-- ~~Q-H7: Who is God Ahr?~~ ✅ RESOLVED: **Photoli Traveler**.

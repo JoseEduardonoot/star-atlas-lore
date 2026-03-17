@@ -1,8 +1,5 @@
-# 📜 Canon Document: CHAPTER 2 HOLOSIM — THE BALIFA GROVE CAMPAIGN
+# Chapter 2 Holosim — The Balifa Grove Campaign
 
-**Status**: 🟢 Canon (Feb 2026)
-**Source**: Chapter 2 Holosim campaign scripts (MUD, ONI, Ustur perspectives)
-**Type**: Historical Event — Holosim Simulation Scenario
 **Context**: Holosim-generated scenario. **Historical events referenced (Frenir, Old Grove, ECOS raids, Convergence War backstories) are confirmed as real.** The simulation reconstructs these events and projects future escalation scenarios.
 
 ---
@@ -161,6 +158,6 @@ The following events referenced in the Holosim simulation are **confirmed as rea
 - Balifa Grove — `canon/factions/balifa_grove.md`
 - ECOS — `canon/factions/earth_conscious_ontological_society.md`
 - Convergence War — `canon/history/convergence_war.md`
-- Deacon Howard Dawn — `canon/characters/deacon_howard_dawn.md`
+- Deacon Howard Dawn — characters/deacon_howard_dawn.md *(not yet created)*
 - SAGE — referenced across multiple canon files
 - Holosim — referenced in meta/timeline documentation

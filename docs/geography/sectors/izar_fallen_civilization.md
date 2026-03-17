@@ -1,9 +1,7 @@
-# 🏛️ Canon Document: THE FALLEN CIVILIZATION OF IZAR-248
+# The Fallen Civilization of Izar-248
 
-**Status**: 🟢 Canon (Aeon Timeline, Feb 2026)
-**Source**: Aeon Timeline JSON — Events 6-7
-**Zone**: Medium Risk Zone (MRZ-7)
-**Theme**: Hubris, Lost Technology, Gravitational Catastrophe
+> Long before the factions of Galia Expanse turned their eyes to the stars, an ancient civilization thrived in the sector now known as Izar-248.
+
 
 ---
 
@@ -42,7 +40,7 @@ Long before the factions of Galia Expanse turned their eyes to the stars, an **a
 - The **debris ring** — a permanent reminder visible from across the sector
 - **Deformed surface creatures** — mutated by the gravitational event, they roam during daylight and retreat underground at night
 - A **single safe route** through the system — now a Jorvik hunting ground
-- The **underground survivors** — see `canon/geography/sectors/izar_survivors.md`
+- The **underground survivors** — see [izar_survivors.md](./izar_survivors.md)
 
 ### What Was Lost
 
@@ -55,16 +53,9 @@ Long before the factions of Galia Expanse turned their eyes to the stars, an **a
 
 ## Cross-References
 
-- Izar-248 Sector — `canon/geography/sectors/izar.md` (current state of the sector)
-- Izar Survivors — `canon/geography/sectors/izar_survivors.md` (underground descendants)
-- Ka-raviam Empire — `canon/geography/sectors/ka_dara.md` (another ancient collapse, ~1940)
+- Izar-248 Sector — [izar.md](./izar.md) (current state of the sector)
+- Izar Survivors — [izar_survivors.md](./izar_survivors.md) (underground descendants)
+- Ka-raviam Empire — [ka_dara.md](./ka_dara.md) (another ancient collapse, ~1940)
 - Soletud — another sector with ancient ruins (distinct civilization)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-IFC1: Did the Izar civilization have contact with the Ka-raviam or other ancient powers?
-- ⏸️ Q-IFC2: Were their gravitational experiments intentional weapons research or peaceful science gone wrong?
-- ⏸️ Q-IFC3: Do any artifacts or technology fragments survive in the underground depths?
-- ⏸️ Q-IFC4: What species were they? Any relation to known Galia species?

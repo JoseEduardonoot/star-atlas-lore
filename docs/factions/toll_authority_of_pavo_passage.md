@@ -28,7 +28,7 @@ The result is the most powerful regulatory body in Pavo Passage — an instituti
 
 ### Why Pavo Passage Matters
 
-[Pavo Passage](../geography/sectors/pavo_passage.md) exists because of geography. The sector sits on the primary trade highway between MUD and [Ustur](../species/ustur.md) space — the busiest commercial route in the [Galia Expanse](../geography/sectors/galia.md). Every ship carrying cargo between the two largest galactic powers passes through this corridor.
+[Pavo Passage](../geography/sectors/pavo_passage.md) exists because of geography. The sector sits on the primary trade highway between MUD and [Ustur](../species/ustur.md) space — the busiest commercial route in the **Galia Expanse**. Every ship carrying cargo between the two largest galactic powers passes through this corridor.
 
 The **Tollstrand** is the navigable route through the corridor — a chain of monitored waypoints, toll stations, and escort-protected lanes that channels all transit through TAPP's infrastructure. Ships cannot bypass the Tollstrand without entering unmonitored MRZ space, where piracy, navigation hazards, and the absence of emergency services make the risk prohibitive for commercial operations.
 
@@ -182,17 +182,6 @@ The system works — TAPP has never experienced a leadership cult or a director 
 - [Velloris](../geography/worlds/velloris.md) — Proof/credential dependency
 
 ---
-
-## 🔮 Open Questions
-
-- **Who are the directors?** — TAPP's anonymous leadership prevents public accountability. Has the system been compromised by any faction without the Conclave's knowledge?
-- **The Order of Seasons' influence** — Elias Dorn steers Conclave appointments, which steers TAPP directors. How deep does the Order's indirect control over toll infrastructure go?
-- **The Quota Office power** — Could TAPP use extraction quotas as economic warfare against the Crumon Dynasty? Has this already happened quietly?
-- **The next Crushspire** — TAPP's enforcement overreach in the Lockdown damaged its legitimacy. If a similar situation arises, does TAPP restrain itself — or escalate?
-- **Slot auction manipulation** — MTC's Synod backing gives it persistent bidding advantages. At what point does unfair bidding destabilize the auction system itself?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -1,7 +1,7 @@
-# 🌌 Canon Document: ABYD-IX SECTOR (MRZ-3)
+# Abyd-ix Sector (MRZ-3)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD Ex-Colony — Civil War)
+> The last expansion of MUD's empire toward Iris in the medium zone, Abyd-IX remains a testament to hurried colonization — underdeveloped infrastructure and incomplete settlement.
+
 
 ---
 
@@ -17,7 +17,7 @@ The last expansion of MUD's empire toward Iris in the medium zone, **Abyd-IX** r
 - **Multiple backers**: Human factions with **alien support** in some cases, each backed by MRZ and MUD Safe Zone entities seeking Abyd's resources.
 - **COP Intervention**: Repeatedly attempted peace brokering, continually hampered by volatile politics.
 - **~2553**: A **provisional government** is formed but **quickly collapses** due to the interference of other political groups in the medium zone
-- **~2553**: **Pergamos-VIII** starts **financing different warring factions** in Abyd-IX's conflict, making **tons of ATLAS** from war profiteering (`canon/geography/sectors/pergamos.md`)
+- **~2553**: **Pergamos-VIII** starts **financing different warring factions** in Abyd-IX's conflict, making **tons of ATLAS** from war profiteering ([pergamos.md](./pergamos.md))
 - **Complicating Factors**: Jorvik and ECOS factions further destabilize the region.
 - **~2596**: The dust settles provisionally — the sector remains divided into **small clusters of power** in an **ice-thin truce**. No unified government, just exhausted factions holding fragile territory.
 
@@ -63,8 +63,8 @@ During the **Convergence War**, the Abyd-IX system hosted a MUD military outpost
 ## Cross-References
 
 - Jorvik: Minor faction (pirate raiders)
-- ECOS: Minor faction (eco-radicals) — `canon/factions/earth_conscious_ontological_society.md`
-- Council of Peace: `canon/institutions/council_of_peace.md`
-- Balifa Grove: `canon/factions/balifa_grove.md` (Ashlara-3 origin of Andreza Liora)
-- Deacon Howard Dawn: `canon/characters/deacon_howard_dawn.md` (C11 Bombardment, Ashlara-3)
-- Chapter 2 Holosim: `canon/history/chapter2_holosim_balifa_campaign.md`
+- ECOS: Minor faction (eco-radicals) — [earth_conscious_ontological_society.md](../../factions/earth_conscious_ontological_society.md)
+- Council of Peace: [council_of_peace.md](../../institutions/council_of_peace.md)
+- Balifa Grove: [balifa_grove.md](../../factions/balifa_grove.md) (Ashlara-3 origin of Andreza Liora)
+- Deacon Howard Dawn: characters/deacon_howard_dawn.md *(not yet created)* (C11 Bombardment, Ashlara-3)
+- Chapter 2 Holosim: [chapter2_holosim_balifa_campaign.md](../../history/chapter2_holosim_balifa_campaign.md)

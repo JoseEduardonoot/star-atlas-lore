@@ -1,7 +1,7 @@
-# ⏳ Canon Document: ERAS OF STAR ATLAS
+# Eras of Star Atlas
 
-**Status**: 🟢 Canon (Compiled from all canon sources, Feb 2026)
-**Source**: Comprehensive synthesis of Aeon Timeline + Canon Files
+> The origins of the galaxy's sentient species.
+
 
 ---
 

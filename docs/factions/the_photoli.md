@@ -10,7 +10,7 @@
 | **Leader** | None — governance through essence sacrifice and collective decision |
 | **Tiers** | **Sih Rihim** (The Ascended — pure light) and **Alumni** (The Students — still learning) |
 | **Sub-faction** | **The Travelers** — observers who reject ascension orthodoxy |
-| **HQ** | Dawnbreak — hidden fortress in the [HRZ](../geography/sectors/hrz.md) (outside the Cataclysm) |
+| **HQ** | Dawnbreak — hidden fortress in the **HRZ** (outside the Cataclysm) |
 | **Origin** | Andromeda galaxy — crossed into Galia through the Night Window Sector (~2080) |
 | **Key Feature** | Every Photoli knows **exactly when they will die** |
 | **Exiles** | [Dark Photoli](../factions/dark_photoli.md) — 10 ever born, 5 believed alive |
@@ -143,28 +143,6 @@ The [Dark Photoli](../factions/dark_photoli.md) are treated separately as a gala
 
 ---
 
-## The Unanswered Questions
-
-> *"The Photoli give freely. They ask nothing. They claim nothing. And in five hundred years of shared history, no one has asked: what do beings of infinite patience want?"*
-> — Extracted from a Hikibashi Undertow intelligence briefing, classification RESTRICTED
-
-The Photoli's membership in ONI creates observations that resist easy explanation:
-
-**Direct conflict between Photoli is forbidden** — a rule from the Andromeda era that cannot be revoked. The Photoli cannot compete openly for resources, territory, or power. They can only act through **others**.
-
-Scholars who study the Photoli have noted a constellation of facts that, individually, mean nothing — and together, form a shape:
-
-- The Photoli built their fortress at the edge of the Cataclysm, facing inward
-- Every Photoli counsel on ONI strategy has favored expansion toward the HRZ
-- A faction of Photoli sacrifices disproportionate lifespan to influence expansion votes
-- The technology gift that created the Titan — the weapon that made ONI a galactic power — came from an anonymous Photoli whose motives remain unknown
-- The Photoli left Andromeda. They have never said why. They have never expressed interest in returning
-- They are the galaxy's oldest beings. They are running out of essence. They know exactly when they will die
-
-The other ONI species — who genuinely benefited from Photoli gifts — have no reason to question the arrangement. The relationship looks like generosity. It is generosity. But the Travelers — the Photoli sub-faction that rejects orthodoxy — have distanced themselves from these patterns. When asked why, they say only: *"Not all light illuminates. Some light searches."*
-
----
-
 ## Known Characters
 
 | Name | Tier | Role | Notes |
@@ -172,7 +150,7 @@ The other ONI species — who genuinely benefited from Photoli gifts — have no
 | **Om** | Sih Rihim / Traveler | Elder — uplifted the Lumikir | Saved by primitive creatures in MRZ-27 (~2086). Visits Lumik incognito via light-shaping. Fought a Dark Photoli in his youth |
 | **Ahr** | Unknown | "The Guide" — God of MUD | Visited Earth (~2120). Inspired Vincenzo Gotti. Left MUD at Exodus (~2400). His appearance catalyzed humanity's founding religion |
 | **Fah** | Unknown | Wandering Pilgrim — founder of the [Order of Light](../factions/order_of_light.md) | Journeyed through the MRZ inspiring populations with miracles. Founded a cult on MUD's holiest moon (Bilguese, Verzan) |
-| **Gel** | Alumni | Financial Aristocrat | Part of Ayevat's [Denebula](../geography/denebula_utopia.md) finance kingdom. **Killed** — Photoli generally don't care about money; Gel was an exception |
+| **Gel** | Alumni | Financial Aristocrat | Part of Ayevat's [Denebula](../geography/sectors/denebula_utopia.md) finance kingdom. **Killed** — Photoli generally don't care about money; Gel was an exception |
 
 ---
 

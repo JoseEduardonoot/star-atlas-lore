@@ -46,7 +46,7 @@ It went catastrophically wrong.
 
 The terraforming experiments accelerated evolutionary processes beyond ECOS's ability to control. The native ecosystem â€” which included at least one pre-existing civilization â€” spiraled into hyper-growth. Organisms mutated faster than researchers could catalogue them. The native civilization was destroyed â€” whether by direct ECOS action or by the ecological cascade remains one of the faction's deepest shames.
 
-By ~2439, Old Grove had become a death trap. ECOS abandoned the planet and fled to the [High-Risk Zone](../geography/sectors/hrz.md), where they founded **Earth Prime** â€” a hidden world that remains their true seat of power. They also established a presence in the MRZ at the [Hanging Gardens](../geography/sectors/hanging_gardens.md), which became their public-facing headquarters.
+By ~2439, Old Grove had become a death trap. ECOS abandoned the planet and fled to the **High-Risk Zone**, where they founded **Earth Prime** â€” a hidden world that remains their true seat of power. They also established a presence in the MRZ at the [Hanging Gardens](../geography/sectors/hanging_gardens.md), which became their public-facing headquarters.
 
 The Old Grove disaster taught ECOS two lessons:
 
@@ -153,7 +153,7 @@ The grove system is ECOS's signature innovation: each grove is self-sufficient, 
 
 ## Earth Prime
 
-ECOS's true seat of power â€” a hidden world in the [High-Risk Zone](../geography/sectors/hrz.md) that no outsider has ever visited and returned to report. Earth Prime is where the original ECOS dissidents fled after the Old Grove catastrophe, and it remains the faction's final refuge.
+ECOS's true seat of power â€” a hidden world in the **High-Risk Zone** that no outsider has ever visited and returned to report. Earth Prime is where the original ECOS dissidents fled after the Old Grove catastrophe, and it remains the faction's final refuge.
 
 What is known:
 

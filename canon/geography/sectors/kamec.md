@@ -1,10 +1,7 @@
-# 🤖 Canon Document: KAMEC (MRZ-29)
+# Kamec (MRZ-29)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Kamec lore document + Archon Deep-Dive + Origin lore nuggets
-**Zone**: Medium Risk Zone (MRZ-29)
-**Influence**: ONI
-**Theme**: Clone Democracy, Alien Technology, Hidden Divergence, Elegant Dystopia
+> The Kamec Sector, presided over by the Democratic Order of Kamec, is a bastion of two unwavering principles: Democracy and Order.
+
 
 ---
 

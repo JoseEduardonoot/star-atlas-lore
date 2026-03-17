@@ -1,7 +1,7 @@
-# 🔧 Canon Document: OPAL INDUSTRIES
+# Opal Industries
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (MUD/Ustur Collaboration)
+> Opal is the galaxy's youngest manufacturer, forged from a remarkable synthesis of MUD firepower and flawless Ustur engineering.
+
 
 ---
 

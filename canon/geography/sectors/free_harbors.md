@@ -1,10 +1,7 @@
-# 🏴 Canon Document: THE FREE HARBORS (MRZ-26)
+# The Free Harbors (MRZ-26)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Free Harbors lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-26)
-**Influence**: ONI (geographic) / Multi-Faction (political reality)
-**Theme**: Dock-DAO Governance, Neutrality Under Strain, Powder Keg, Shadow Politics
+> The Free Harbors stand as the informal heart of the medium zone, embodying the intricate dance of light and shadow.
+
 
 ---
 

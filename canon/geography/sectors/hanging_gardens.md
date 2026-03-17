@@ -1,10 +1,7 @@
-# 🌿 Canon Document: HANGING GARDENS (MRZ-16)
+# Hanging Gardens (MRZ-16)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Hanging Gardens lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-16)
-**Influence**: Ustur-aligned zone (ECOS settlement — survives because MUD can't reach them here)
-**Theme**: ECOS Sanctuary, Sentient Planets, Agricultural Power, COP Flashpoint
+> Hanging Gardens is the largest ECOS settlement outside Earth-Prime and the primary ECOS presence in the MRZ.
+
 
 ---
 

@@ -15,7 +15,7 @@
 | **Motto** | *Kwe Vadis Jurath* |
 | **Status** | Active |
 
-The **Gate Garrison** is a bounty hunters' guild born in the aftermath of the [Convergence War](../history/convergence_war.md), tasked with **containing High-Risk Zone artifacts** that threaten the fragile peace of the [Galia Expanse](../geography/sectors/galia.md). Neutral and unwavering, they serve any who honor their code â€” their bracelets a testament to their unity and their pursuit of Iris.
+The **Gate Garrison** is a bounty hunters' guild born in the aftermath of the [Convergence War](../history/convergence_war.md), tasked with **containing High-Risk Zone artifacts** that threaten the fragile peace of the **Galia Expanse**. Neutral and unwavering, they serve any who honor their code â€” their bracelets a testament to their unity and their pursuit of Iris.
 
 What the galaxy sees is a professional guild of artifact hunters and fugitive trackers. What it does not see is the truth: the Gate Garrison was founded by an **Awakened Tufa** â€” one of the rarest beings in existence â€” with a single, absolute directive: **ensure no one ever reaches Iris again.** Every bounty, every artifact seizure, every HRZ patrol serves this hidden prime directive. The guild's members fight for coin, honor, and survival. Their founder fights for the fate of [Iris](../cosmology/iris_zodiac.md) herself.
 
@@ -37,7 +37,7 @@ He founded the Gate Garrison â€” initially a small band of HRZ survivors an
 
 ### Formalization and Growth (~2530)
 
-By 2530, the Gate Garrison had evolved from a ragged band of survivors into a formally organized multi-species bounty-hunter organization, operating from improvised bases throughout the [HRZ](../geography/sectors/hrz.md). Recruits arrived from across Galia â€” some drawn by coin, others by purpose, and a few by the peculiar magnetism of a guild whose leader refused to show his face.
+By 2530, the Gate Garrison had evolved from a ragged band of survivors into a formally organized multi-species bounty-hunter organization, operating from improvised bases throughout the **HRZ**. Recruits arrived from across Galia â€” some drawn by coin, others by purpose, and a few by the peculiar magnetism of a guild whose leader refused to show his face.
 
 ### The Xianyang Alliance (~2547—2554)
 
@@ -100,7 +100,7 @@ Cataclysm-rank hunters, upon return from a deep HRZ mission, observe a mandatory
 
 ## The Drift Bastion
 
-The Drift Bastion is the Gate Garrison's mobile stronghold â€” a repurposed warship-fortress that patrols the [HRZ](../geography/sectors/hrz.md) border zone. Its hull hums at a sub-audible frequency that visitors describe as "grief made physical" â€” a property believed to derive from its HRZ-sourced construction materials. The Bastion is built to endure, not to attack; its weapons are defensive, its purpose to serve as an anchor point.
+The Drift Bastion is the Gate Garrison's mobile stronghold â€” a repurposed warship-fortress that patrols the **HRZ** border zone. Its hull hums at a sub-audible frequency that visitors describe as "grief made physical" â€” a property believed to derive from its HRZ-sourced construction materials. The Bastion is built to endure, not to attack; its weapons are defensive, its purpose to serve as an anchor point.
 
 ### Internal Structure
 

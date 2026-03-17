@@ -1,8 +1,5 @@
-# 👑 Canon Document: VESHMORA (Quiet World / Disappearance Refuge)
+# Veshmora (Quiet World / Disappearance Refuge)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 06
-**Type**: Quiet world / disappearance refuge
 **Sector**: Pavo Passage (MRZ-17)
 **Local Name**: Formerly called "Hushmoor" in corridor slang
 **Function**: Absence — where people go to stop being measured
@@ -123,9 +120,9 @@ A sealed access point in an abandoned utility complex. Some say it leads to smug
 
 ## Cross-References
 
-- Velloris — [velloris.md](/geography/worlds/velloris.md) (proof erasure → Disappeared Chapel)
-- Tollhaven — [tollhaven.md](/geography/worlds/tollhaven.md) (Reedvault supplies when throughput stalls)
-- Order of Seasons — [order_of_seasons.md](/factions/order_of_seasons.md) (Listening Marsh + Sublevel Door rumors)
-- MTC — [mtc.md](/factions/meridian_trading_company.md) (predatory supply contracts in remote settlements)
-- VHE — [vhe.md](/factions/vale_horizon_exchange.md) (trusted fair-employment presence)
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- Velloris — [velloris.md](./velloris.md) (proof erasure → Disappeared Chapel)
+- Tollhaven — [tollhaven.md](./tollhaven.md) (Reedvault supplies when throughput stalls)
+- Order of Seasons — [order_of_seasons.md](../../factions/order_of_seasons.md) (Listening Marsh + Sublevel Door rumors)
+- MTC — [meridian_trading_company.md](../../factions/meridian_trading_company.md) (predatory supply contracts in remote settlements)
+- VHE — [vale_horizon_exchange.md](../../factions/vale_horizon_exchange.md) (trusted fair-employment presence)
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

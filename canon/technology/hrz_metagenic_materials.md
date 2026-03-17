@@ -1,11 +1,4 @@
-# ⚗️ Canon Document: HRZ METAGENIC MATERIALS
-
-**Status**: 🟡 Theory-Craft (Creator Lore Keepers Brew, Mar 2026)
-**Source**: Direct Creator input — Lore Keepers Brew (metagenic materials theory-crafting session)
-**Type**: Technology / Crafting System — High-Risk Zone Resources
-**Zone**: High-Risk Zone (primary), Medium-Risk Zone (secondary)
-
-> [!NOTE]
+# HRZ Metagenic Materials
 > This document captures **creator-confirmed lore direction** for HRZ materials. The specific gameplay mechanics are theory-crafting — they may evolve during game design implementation. The underlying lore (metagenic properties, Tufa-derived materials, environmental hazards) is canon.
 
 ---

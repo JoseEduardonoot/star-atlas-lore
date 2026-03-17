@@ -88,7 +88,7 @@ When ships arrive at a crisis zone, they dock together in configurations called 
 - **Major Hearth**: 8+ ships. Full surgical capacity, long-term recovery. Used for extended deployments
 - **Sprint Hearth**: 2 ships. Rapid deployment for battles and pathogen outbreaks
 
-At any given time, fifteen to twenty Hearths are active across the [Galia Expanse](../geography/sectors/galia.md).
+At any given time, fifteen to twenty Hearths are active across the **Galia Expanse**.
 
 ### Patrah's Vault
 
@@ -139,7 +139,7 @@ Survivors released from [Ka-dara](../factions/ka_dara.md) captivity, including *
 
 ### The Frenir Liberation (~2624—Present)
 
-The largest active humanitarian operation in the [Galia Expanse](../geography/sectors/galia.md) and the Order's defining mission. A Major Hearth â€” eight vessels, the largest concentration in history â€” provides food, clothing, education, community building, infrastructure reconstruction, and mental health support for a population emerging from over a century of slavery. Coordinated with the [Frenir New Government](../factions/frenir_new_government.md), [Galia Medical Union](../factions/galia_medical_union.md), and [Garadar DAC](../factions/garadar_dac.md). The Order has committed to remaining "until Frenir can stand."
+The largest active humanitarian operation in the **Galia Expanse** and the Order's defining mission. A Major Hearth â€” eight vessels, the largest concentration in history â€” provides food, clothing, education, community building, infrastructure reconstruction, and mental health support for a population emerging from over a century of slavery. Coordinated with the [Frenir New Government](../factions/frenir_new_government.md), [Galia Medical Union](../factions/galia_medical_union.md), and [Garadar DAC](../factions/garadar_dac.md). The Order has committed to remaining "until Frenir can stand."
 
 ---
 

@@ -1,0 +1,47 @@
+# Crumon (Species)
+
+**Classification**: Sentient Species (Native to Pavo Passage region)
+**Homeworld**: Pavo Passage sector (MRZ-17)
+
+---
+
+## Overview
+
+The Crumon are a sentient species native to the Pavo Passage region, known primarily through the **Pavo royal dynasty** that once ruled the sector. Physically resembling polar bears, the Crumon are a rare species whose prominence in galactic affairs stems almost entirely from the dynasty that bears the name **Pavo**.
+
+> [!NOTE]
+> Detailed physical/cultural characteristics to be expanded in future sessions.
+
+---
+
+## Physical Description
+
+- **Appearance**: Resemble polar bears (details to be expanded)
+- **Native Environment**: Pavo Passage region (MRZ-17)
+- Species-specific traits: TBD
+
+---
+
+## Cultural Identity
+
+The Crumon are defined by their dynastic tradition. The **Pavo family** — the royal lineage of the Crumon — forged an empire along the MUD-Ustur trade highway, transforming their sector into a toll-powered realm. The Crumon concept of power is deeply tied to **lineage, commerce, and territorial control**.
+
+---
+
+## Notable Crumon
+
+| Name | Role | Status |
+|------|------|--------|
+| **Warlord Pavo** | Founder of the Crumon Dynasty, architect of Pavo Passage dominance | Historical (deceased) |
+| **Queen Cathris** | Last reigning queen; disappeared during "The Night" | Deceased (namesake of capital world Cathris) |
+| **Ike Pavo** | Head of the Pavo royal family; sole surviving direct heir | Alive (based on Crushspire) |
+| **Varn Crathis** | Branch family (pre-Cathris queen's side); High Consul of Ruling Conclave | Alive (based on Cathris) |
+
+---
+
+## Cross-References
+
+- Crumon Dynasty — [crumon_dynasty.md](../factions/crumon_dynasty.md)
+- Pavo Passage — [pavo_passage.md](../geography/sectors/pavo_passage.md)
+- Cathris — [cathris.md](../geography/worlds/cathris.md)
+- Crushspire — [crushspire.md](../geography/worlds/crushspire.md)

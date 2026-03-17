@@ -9,7 +9,7 @@
 | **Species** | Multi-species |
 | **Leader** | The Pirate King (Human/[Mierese](../species/mierese.md) hybrid) |
 | **HQ** | None â€” nomadic fleet |
-| **Origin** | [High-Risk Zone](../geography/sectors/hrz.md) (Convergence War era) |
+| **Origin** | **High-Risk Zone** (Convergence War era) |
 | **Territory** | HRZ â†’ MRZ â†’ Safe Zone harassment |
 | **Fleet** | Largest pirate fleet in the galaxy |
 | **Status** | Active â€” defeated at [Pergamos](../geography/sectors/pergamos.md) (~2623), regrouping |
@@ -18,7 +18,7 @@
 > *"He calls himself a king â€” not because he believes in kings, but because he understands what the word does to the people who do."*
 > â€” COP intelligence assessment of the Pirate King
 
-The **Jorvik** are the largest pirate organization in the [Galia Expanse](../geography/sectors/galia.md), having committed nearly every crime in the [Council of Peace](../institutions/council_of_peace.md) penal code. But they are not mere bandits. The Jorvik are ideological anarchists â€” their philosophy opposes centralized governance on principle, viewing laws and regulations as *"simply cowardice"* and institutions as *"structures of power dressed with the colors of legitimacy."*
+The **Jorvik** are the largest pirate organization in the **Galia Expanse**, having committed nearly every crime in the [Council of Peace](../institutions/council_of_peace.md) penal code. But they are not mere bandits. The Jorvik are ideological anarchists â€” their philosophy opposes centralized governance on principle, viewing laws and regulations as *"simply cowardice"* and institutions as *"structures of power dressed with the colors of legitimacy."*
 
 This ideology makes the Jorvik uniquely dangerous: they fight not for plunder alone, but for the destruction of order itself. And unlike most pirate groups that dissolve when their leader falls, the Jorvik's anarchist ideology gives them an identity that transcends any individual â€” even the Pirate King himself.
 

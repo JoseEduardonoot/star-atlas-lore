@@ -649,11 +649,11 @@ The Mierese Grand Tale — a living document updated by Lore Keepers across gene
 | [Iris Academy](../factions/iris_academy.md) | HQ in Zenith Door (Carvum). Project Starpath. Anchorage in Glowhaven |
 | [Scriptorium of the Lumikir](../factions/scriptorium_of_the_lumikir.md) | Lore Keeper partnership. Galactic archives |
 | [Galia Medical Union](../factions/galia_medical_union.md) | ONI-funded healthcare. Species-neutral medicine |
-| [Positive Union](../factions/positive_union.md) | Volunteer cooperatives. Frenir reconstruction |
+| **Positive Union** | Volunteer cooperatives. Frenir reconstruction |
 | [Hopla Insurances](../factions/hopla_insurances.md) | Actuarial data partner. Ethical tension between Sogmian/Punaab |
 | **Tier 1 Factions** | |
 | [MUD](../factions/mud.md) | Rival super-faction. COP co-founder. Next in Executive rotation |
-| [ECOS](../factions/ecos.md) | Ecological faction. Food monopoly. Biological weapons |
+| [ECOS](../factions/earth_conscious_ontological_society.md) | Ecological faction. Food monopoly. Biological weapons |
 | **MRZ Powers** | |
 | [Hanging Gardens](../factions/hanging_gardens_government.md) | Food monopoly standoff limiting COP's MRZ ambitions |
 | [Jorvik](../factions/jorvik.md) | Primary adversary. Operation Silt. Fleet interdiction |
@@ -670,7 +670,7 @@ The Mierese Grand Tale — a living document updated by Lore Keepers across gene
 | [Meridian Trading Company](../factions/meridian_trading_company.md) | MUD-aligned economic expansion. Punaab competitor |
 | [Graft Research](../factions/graft_research.md) | Cybernetic augmentation. Classified military contracts |
 | [Panemorfa](../factions/panemorfa.md) | Beauty ideology. Ostentati.soul. Denebula pipeline |
-| [Collective Anarchy](../factions/collective_anarchy.md) | Corra Vigil. Anti-government broadcasts. Youth radicalization |
+| [Collective Anarchy](../factions/the_collective_anarchy.md) | Corra Vigil. Anti-government broadcasts. Youth radicalization |
 | **ECOS Groves** | |
 | [Balifa Grove](../factions/balifa_grove.md) | Militant ECOS. Superphoenix. Biological weapons |
 | [Lumiro Grove](../factions/lumiro_grove.md) | Humanitarian ECOS. Emergency response |
@@ -680,7 +680,7 @@ The Mierese Grand Tale — a living document updated by Lore Keepers across gene
 | [Kamec Democracy](../factions/kamec_democracy.md) | Atheist Mierese. Clone democracy. Divergent clones |
 | **MUD Ex-Colonies** | |
 | [Redam Government](../factions/redam_government.md) | Free City. MRZ truce pressure. Synod asset |
-| [Xianyang Government](../factions/xianyang_government.md) | Military dictatorship. Three million Enforcers |
+| [Xianyang Government](../factions/xyanyang_government.md) | Military dictatorship. Three million Enforcers |
 | [Pergamos New Government](../factions/pergamos_new_government.md) | COP-installed regime. Shadow Banks persist |
 | [Abyd Government](../factions/abyd_government.md) | Sixty-year civil war. Multi-faction complicity |
 | **Sogmian Houses** | |
@@ -717,7 +717,7 @@ The Mierese Grand Tale — a living document updated by Lore Keepers across gene
 | [The Dreamer Below Crisis](../narratives/never_alone_campaign.md) | Scarka's Medium-Risk Zone pause. Black Market Auction House destruction. Herdus death |
 | [Heralds of Vignus](../factions/heralds_of_vignus.md) | Wandering oracles. Star Atlas awakening. Oral tradition parallel |
 | **Meta & Reference** | |
-| [Galactic Atlas](../reference/atlas/galactic_atlas.md) | ONI Safe Zone (5 sectors + HRZ), MRZ influence (11 sectors) |
+| **Galactic Atlas** | ONI Safe Zone (5 sectors + HRZ), MRZ influence (11 sectors) |
 | [Master Timeline](../meta/master_timeline.md) | Full ONI chronology |
 | [Named Characters](../meta/named_characters.md) | All ONI named characters |
 | [Calico (Manufacturer)](../manufacturers/calico.md) | MUD/ONI diplomacy-focused manufacturer |

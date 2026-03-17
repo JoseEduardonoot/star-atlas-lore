@@ -1,7 +1,7 @@
-# 🌌 Canon Document: VOSTALGIA SECTOR (Ustur 2)
+# Vostalgia Sector (Ustur 2)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Safe Zone Sector (Ustur 2 — First Expansion)
+> Vostalgia — the Ustur civilization's maiden voyage amongst the stars.
+
 
 ---
 

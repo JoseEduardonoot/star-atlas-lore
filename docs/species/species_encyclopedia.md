@@ -1,6 +1,5 @@
 # Star Atlas Species Encyclopedia (Consolidated)
 
-**Source**: 46 canon files from `star-atlas-lore/canon/` — Feb 2026
 **Canon Authority**: All data from direct Creator input, Archon-audited
 
 ---

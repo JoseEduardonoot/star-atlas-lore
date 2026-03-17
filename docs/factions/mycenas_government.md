@@ -325,17 +325,17 @@ But Virel is old — anomalously old, perhaps sustained by the artifact, perhaps
 
 ## Cross-References
 
-- Mycenas sector — `canon/geography/sectors/mycenas.md`
-- Redam Government — `canon/factions/redam_government.md` (coalition partner, shield agreement, diplomatic cover)
-- Xianyang Government — `canon/factions/xyanyang_government.md` (fellow coalition member)
-- Abyd Government — `canon/factions/abyd_government.md` (nominal coalition member)
-- Pergamos New Government — `canon/factions/pergamos_new_government.md` (COP intervention response)
-- COP — `canon/institutions/council_of_peace.md` (distrusted external authority)
-- MUD colonies — `canon/species/human.md` (~2426 expansion, ~2522 breakaway)
-- Timeline — `canon/meta/master_timeline.md` (~2426 colony, ~2440 Horror begins, ~2542 Virel rises, ~2544 meritocracy, ~2546 cleansing, ~2553 barrier)
-- Eras — `canon/history/eras_of_star_atlas.md` (Virel timeline)
-- Balifa Campaign — `canon/history/chapter2_holosim_balifa_campaign.md` (Virel's Rest reference)
-- Anfoil State — `canon/factions/anfoil_state.md` (meritocratic parallel)
-- HRZ materials — `canon/technology/hrz_metagenic_materials.md` (artifact context)
-- Galactic Atlas — `canon/reference/atlas/galactic_atlas.md` (MRZ-2)
-- Named Characters — `canon/meta/named_characters.md`
+- Mycenas sector — [mycenas.md](../geography/sectors/mycenas.md)
+- Redam Government — [redam_government.md](./redam_government.md) (coalition partner, shield agreement, diplomatic cover)
+- Xianyang Government — [xyanyang_government.md](./xyanyang_government.md) (fellow coalition member)
+- Abyd Government — [abyd_government.md](./abyd_government.md) (nominal coalition member)
+- Pergamos New Government — [pergamos_new_government.md](./pergamos_new_government.md) (COP intervention response)
+- COP — [council_of_peace.md](../institutions/council_of_peace.md) (distrusted external authority)
+- MUD colonies — [human.md](../species/human.md) (~2426 expansion, ~2522 breakaway)
+- Timeline — [master_timeline.md](../meta/master_timeline.md) (~2426 colony, ~2440 Horror begins, ~2542 Virel rises, ~2544 meritocracy, ~2546 cleansing, ~2553 barrier)
+- Eras — [eras_of_star_atlas.md](../history/eras_of_star_atlas.md) (Virel timeline)
+- Balifa Campaign — [chapter2_holosim_balifa_campaign.md](../history/chapter2_holosim_balifa_campaign.md) (Virel's Rest reference)
+- Anfoil State — [anfoil_state.md](./anfoil_state.md) (meritocratic parallel)
+- HRZ materials — [hrz_metagenic_materials.md](../technology/hrz_metagenic_materials.md) (artifact context)
+- Galactic Atlas — [galactic_atlas.md](../reference/atlas/galactic_atlas.md) (MRZ-2)
+- Named Characters — [named_characters.md](../meta/named_characters.md)

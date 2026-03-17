@@ -39,7 +39,7 @@ In the early decades of their exile from [MUD](../species/human.md), ECOS settle
 
 It went catastrophically wrong. The terraforming experiments accelerated evolutionary processes beyond ECOS's ability to control. The native ecosystem — which included at least one pre-existing civilization — spiraled into hyper-growth. Organisms mutated faster than researchers could catalogue them. The native civilization was destroyed — whether by direct ECOS action or by the ecological cascade remains one of the faction's deepest shames. By ~2439, [Old Grove](../geography/sectors/old_grove.md) had become a death trap: a verdant nightmare of uncontrolled mutation, where enormous mutant organisms spawned from forest-engulfed ruins and the very soil rejected attempts at habitation.
 
-ECOS abandoned the planet. The primary fleet journeyed deep into the [High-Risk Zone](../geography/sectors/hrz.md), founding **Earth Prime** — a hidden world that remains their true, secret seat of power. But satellite groves and support fleets remained behind in the MRZ. These remnants needed a home. They found one in MRZ-16 — a sector nestled within [Ustur](../species/ustur.md)-influenced territory, far from MUD's vengeful reach.
+ECOS abandoned the planet. The primary fleet journeyed deep into the **High-Risk Zone**, founding **Earth Prime** — a hidden world that remains their true, secret seat of power. But satellite groves and support fleets remained behind in the MRZ. These remnants needed a home. They found one in MRZ-16 — a sector nestled within [Ustur](../species/ustur.md)-influenced territory, far from MUD's vengeful reach.
 
 They named it the **Hanging Gardens**, and it became the sanctuary the ECOS had always dreamed of — the second chance that Old Grove's ghosts demanded.
 

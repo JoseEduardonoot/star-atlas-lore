@@ -1,10 +1,7 @@
-# ⚔️ Canon Document: VEGA FALL (MRZ-24)
+# Vega Fall (MRZ-24)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Vega Fall lore document + Archon Deep-Dive + `sogmian.md`
-**Zone**: Medium Risk Zone (MRZ-24)
-**Influence**: ONI (Sogmian territory)
-**Theme**: Civil War, Tyranny, Shame, Redemption through Lutavira
+> Vega Fall is a grim chapter in the annals of Sogmian history.
+
 
 ---
 

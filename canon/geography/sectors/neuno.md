@@ -1,7 +1,7 @@
-# 🌌 Canon Document: NEUNO SECTOR (ONI 1)
+# Neuno Sector (ONI 1)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 1 — Mierese Homeland)
+> Neuno — "Living Home" in the Mierese tongue — is the enigmatic heart of the Mierese lineage.
+
 
 ---
 

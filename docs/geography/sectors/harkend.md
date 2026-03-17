@@ -1,10 +1,7 @@
-# 🔧 Canon Document: HARKEND (MRZ-33)
+# Harkend (MRZ-33)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-33)
-**Influence**: Ustur
-**Theme**: Artificial Star System, Mechanical Life Forms, Ustur Parallels, Relic Hunting
+> Harkend was first explored by Ustur scouts around ~2442, who found only an unremarkable void.
+
 
 ---
 
@@ -64,18 +61,11 @@ The sector's unique properties gave birth to the **Relic Barons** — a group of
 
 ## Cross-References
 
-- Ustur — `canon/species/ustur.md` (physiological parallels, Relic Barons origin)
-- The Living Factory — `canon/factions/living_factory.md` (Harkend's origin, HRZ faction — pending)
-- Relic Barons — `canon/factions/relic_barons.md` (exploration/colonization faction)
+- Ustur — [ustur.md](../../species/ustur.md) (physiological parallels, Relic Barons origin)
+- The Living Factory — [living_factories.md](../../factions/living_factories.md) (Harkend's origin, HRZ faction — pending)
+- Relic Barons — [relic_barons.md](../../factions/relic_barons.md) (exploration/colonization faction)
 - Convergence War — appeared at the close of the war
-- Duskbloom Grove — `canon/factions/duskbloom_grove.md` (ECOS anomaly containment — hostile automaton containment beyond pacified zones)
+- Duskbloom Grove — [duskbloom_grove.md](../../factions/duskbloom_grove.md) (ECOS anomaly containment — hostile automaton containment beyond pacified zones)
 - ATLAS — investment currency for exploration
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-HAR1: What is the precise connection between The Living Factory and Harkend?
-- ⏸️ Q-HAR2: How do the mechanical life forms on Harkend's moons behave? Hostile, neutral, or welcoming?
-- ⏸️ Q-HAR3: What specific relics have the Relic Barons discovered?
-- ⏸️ Q-HAR4: What triggered Harkend's appearance at the end of the Convergence War specifically?

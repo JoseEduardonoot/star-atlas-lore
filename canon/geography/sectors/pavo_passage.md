@@ -1,10 +1,5 @@
-# 👑 Canon Document: PAVO PASSAGE (MRZ-17)
+# Pavo Passage (MRZ-17)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Pavo Passage Deep-Dive (7 Canon Sheets + World Sheet)
-**Zone**: Medium Risk Zone (MRZ-17)
-**Influence**: Ustur (Ustur/MUD border — commerce nexus)
-**Theme**: Fallen Dynasty, Façade Democracy, Assassin Cult, Toll Machine, Iris Aspect Dusk
 **Native Species**: Crumon (polar bear-like)
 **Capital**: Cathris (named after the vanished queen)
 **Trade Corridor**: The Tollstrand
@@ -194,17 +189,6 @@ The sector exists in **managed imbalance**:
 > *"In Pavo Passage, success looks like: nothing burning today."*
 
 ---
-## Remaining Open Questions
-
-- ⏸️ Q-PAV7: Tollhaven world details (World Sheet pending)
-- ⏸️ Q-PAV8: Crushspire world details (World Sheet pending)
-- ⏸️ Q-PAV9: Velloris world details (World Sheet pending)
-- ⏸️ Q-PAV10: Okuto world details (World Sheet pending)
-- ⏸️ Q-PAV11: Scriptharbor — what is it? (location TBD)
-- ⏸️ Q-PAV12: Crumon species physical/cultural details (expand later)
-
----
-
 ## Cross-References
 
 - Crumon Species — `canon/species/crumon.md`

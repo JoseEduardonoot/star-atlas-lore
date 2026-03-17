@@ -305,17 +305,17 @@ Xianyang has built the perfect machine for the post-war chaos. But the chaos wil
 
 ## Cross-References
 
-- Xianyang sector — `canon/geography/sectors/xianyang.md`
-- Gate Garrison — `canon/factions/gate_garrison.md` (strategic alliance, HQ since ~2554, Stommtharic)
-- Xianyang Enforcers — `canon/factions/xianyang_enforcers.md` (mercenary legion, Executor Rhenn Kyung)
-- Redam Government — `canon/factions/redam_government.md` (coalition partner, diplomatic cover)
-- Mycenas Government — `canon/factions/mycenas_government.md` (fellow coalition member, shield provider)
-- Abyd Government — `canon/factions/abyd_government.md` (pacification theater)
-- Pergamos New Government — `canon/factions/pergamos_new_government.md` (COP intervention response)
-- Never Alone Campaign — `canon/narratives/never_alone_campaign.md` (Enforcers + Gate Garrison bounty hunters appear)
-- COP — `canon/institutions/council_of_peace.md` (antagonistic)
-- MUD colonies — `canon/species/human.md` (~2426 expansion, ~2522 breakaway)
-- Tufa — `canon/species/tufa.md` (Stommtharic origin, metagenic technology)
-- Timeline — `canon/meta/master_timeline.md` (~2426 colony, ~2524 independence, ~2529 military pivot, ~2543 Rite of Passage, ~2547 Gate Garrison alliance, ~2554 HQ relocation, ~2569 Enforcers formalized)
-- Galactic Atlas — `canon/reference/atlas/galactic_atlas.md` (MRZ-5)
-- Named Characters — `canon/meta/named_characters.md`
+- Xianyang sector — [xianyang.md](../geography/sectors/xianyang.md)
+- Gate Garrison — [gate_garrison.md](./gate_garrison.md) (strategic alliance, HQ since ~2554, Stommtharic)
+- Xianyang Enforcers — [xianyang_enforcers.md](./xianyang_enforcers.md) (mercenary legion, Executor Rhenn Kyung)
+- Redam Government — [redam_government.md](./redam_government.md) (coalition partner, diplomatic cover)
+- Mycenas Government — [mycenas_government.md](./mycenas_government.md) (fellow coalition member, shield provider)
+- Abyd Government — [abyd_government.md](./abyd_government.md) (pacification theater)
+- Pergamos New Government — [pergamos_new_government.md](./pergamos_new_government.md) (COP intervention response)
+- Never Alone Campaign — [never_alone_campaign.md](../narratives/never_alone_campaign.md) (Enforcers + Gate Garrison bounty hunters appear)
+- COP — [council_of_peace.md](../institutions/council_of_peace.md) (antagonistic)
+- MUD colonies — [human.md](../species/human.md) (~2426 expansion, ~2522 breakaway)
+- Tufa — [tufa.md](../species/tufa.md) (Stommtharic origin, metagenic technology)
+- Timeline — [master_timeline.md](../meta/master_timeline.md) (~2426 colony, ~2524 independence, ~2529 military pivot, ~2543 Rite of Passage, ~2547 Gate Garrison alliance, ~2554 HQ relocation, ~2569 Enforcers formalized)
+- Galactic Atlas — [galactic_atlas.md](../reference/atlas/galactic_atlas.md) (MRZ-5)
+- Named Characters — [named_characters.md](../meta/named_characters.md)

@@ -18,11 +18,11 @@
 > *"People ask if I feel bad stripping a dead civilization's bones. I ask them how they think their hab-station got its hull plating."*
 > — **Rig Boss Fennek**
 
-The **Exile Scavengers** are not a faction in the traditional sense — they are a galactic lifestyle. Across every region of the [Galia Expanse](../geography/sectors/galia.md), from the most lawless MRZ border sectors to the fringes of civilized space, millions of sentient beings have turned to scavenging as a way of life. Some fell into it out of desperation — refugees, debtors, war orphans. Others chose it for the promise of fortune. And some simply need to disappear.
+The **Exile Scavengers** are not a faction in the traditional sense — they are a galactic lifestyle. Across every region of the **Galia Expanse**, from the most lawless MRZ border sectors to the fringes of civilized space, millions of sentient beings have turned to scavenging as a way of life. Some fell into it out of desperation — refugees, debtors, war orphans. Others chose it for the promise of fortune. And some simply need to disappear.
 
 They are not pirates — they do not attack the living. They are not archaeologists — they do not preserve what they find. They are pragmatic vultures, converting the remnants of tragedy into tradeable salvage — the raw material that keeps the MRZ's fragile economy from collapsing entirely.
 
-What makes the Exile Scavengers significant is not what they take — it is what their existence proves. Every artifact they recover from the [HRZ](../geography/sectors/galia.md) proves the dangerous zones contain wealth. Every scavenger who returns alive proves those zones can be navigated. The [Malkabaets](../factions/malkabaets.md) COP movement uses this as its strongest argument for organized colonization. The scavengers themselves, ironically, oppose it — organized colonization would end their monopoly on HRZ salvage.
+What makes the Exile Scavengers significant is not what they take — it is what their existence proves. Every artifact they recover from the **HRZ** proves the dangerous zones contain wealth. Every scavenger who returns alive proves those zones can be navigated. The [Malkabaets](../factions/malkabaets.md) COP movement uses this as its strongest argument for organized colonization. The scavengers themselves, ironically, oppose it — organized colonization would end their monopoly on HRZ salvage.
 
 ---
 
@@ -99,7 +99,7 @@ While the Akalma Deep is the profession's center of gravity, scavenger crews ope
 |---------|-----------------|
 | **[Izar-248](../geography/sectors/izar.md) depths** | Crews explored underground ruins — discovered an [Izarian](../factions/izarians.md) city with active defenses. Never penetrated deep enough for contact. The Izarians don't know the galaxy exists above them |
 | **HRZ border sectors** | Illegal but profitable — the most dangerous runs yield the rarest artifacts. The scavenger paradox: their success proves HRZ colonization is viable, but they oppose it to protect their monopoly |
-| **[Twilight Nebula](../geography/sectors/twilight_nebula.md) periphery** | [Umbral Court](../factions/umbral_court.md) territory — crews operating near the nebula risk encounter with plasmatic essence-weavers seeking hosts |
+| ****Twilight Nebula** periphery** | [Umbral Court](../factions/umbral_court.md) territory — crews operating near the nebula risk encounter with plasmatic essence-weavers seeking hosts |
 | **War wreck fields** | Convergence War debris — **Rig Boss Hasp's "The Corroded"** specializes exclusively in war wreck salvage |
 
 ---

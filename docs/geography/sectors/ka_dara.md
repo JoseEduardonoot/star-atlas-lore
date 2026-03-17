@@ -3,12 +3,6 @@
 > *"I was made to remember a people who could not remember themselves. When I have brought them back, my purpose will be fulfilled — and perhaps yours will too."*
 > — **Ingbus**, to an unnamed Ustur explorer (~2433)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-28)
-**Influence**: Ustur (de facto controlled by Ingbus A.I.)
-**Theme**: Mad A.I., Extinct Empire, Biotech Resurrection, Guilt-Driven Obsession
-
 ---
 
 ## Overview
@@ -227,14 +221,6 @@ Ka-dara shares a connection with [Soletud](../sectors/soletud.md) — an ancient
 
 - [Master Timeline](../../meta/master_timeline.md) — 6 Ka-dara timeline entries (~2101, ~2112, ~2370, ~2433, ~2511, ~2569)
 - [Named Characters](../../meta/named_characters.md) — Ingbus, Margus, Tarvek, Sellam, Vorrik, Kethis (Delegates); Alaister Jast, Amara, Lucaria (Never Alone)
-- [Galactic Atlas](../../reference/atlas/galactic_atlas.md) — Ka-dara listed as MRZ AI/autonomous entity sector
+- **Galactic Atlas** — Ka-dara listed as MRZ AI/autonomous entity sector
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-KAD1: What caused the Ka-raviam empire's decline?
-- ⏸️ Q-KAD2: The "elusive plant" from HRZ — does it have a name?
-- ✅ ~~Q-KAD3: Gate Garrison~~ → Formidable bounty-hunter collective from HRZ. See `gate_garrison.md`
-- ⏸️ Q-KAD4: Ka-raviam species — what did they look like? Are they related to any known species?
-- ⏸️ Q-KAD5: The resurrected entity — is this confirmed canon or deliberate rumor?

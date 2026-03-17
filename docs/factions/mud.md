@@ -1,4 +1,4 @@
-# ⛪ Manus Ultima Divina (MUD)
+# Manus Ultima Divina (MUD)
 
 > *"While there is life, there is hope."*
 > — Vincenzo Assis Gotti, The First Patriarch
@@ -186,8 +186,8 @@ MUD's military is commanded by the Pearce Council from **Amora Station** (orbita
 | **Pearce T1 Titan** | Titan-class warship built ~2557 — one of the most powerful vessels in the galaxy, rivaled only by the COP Cradle and ONI's capital ships |
 | **Amora Station** | Orbital fortress — Pearce Council HQ, fleet coordination center |
 | **Valiant Shipyards** | Valiant-I industrial complex — primary warship production |
-| **[Pearce](../reference/atlas/galactic_atlas.md) (Manufacturer)** | MUD's internal military-industrial corporation. Angular, intimidating ship designs |
-| **[Calico](../reference/atlas/galactic_atlas.md)** | MUD/ONI diplomacy-focused manufacturer. Stealth, exotic sciences, agriculture. CARY civilian division |
+| ****Pearce** (Manufacturer)** | MUD's internal military-industrial corporation. Angular, intimidating ship designs |
+| ****Calico**** | MUD/ONI diplomacy-focused manufacturer. Stealth, exotic sciences, agriculture. CARY civilian division |
 
 ### COP Military Contribution
 
@@ -758,11 +758,11 @@ ECOS was born from MUD. The original schism on Earth — was Ahr a god or an ali
 | [Pergamos New Government](../factions/pergamos_new_government.md) | Ex-colony, COP-installed, Synod target |
 | [Abyd Government](../factions/abyd_government.md) | Ex-colony, warzone, Synod proxy operations |
 | [Free Cities of Humanity](../factions/redam_government.md) | Alliance of 5 ex-colonies |
-| [Galactic Atlas](../reference/atlas/galactic_atlas.md) | MUD Safe Zone (5 sectors), MRZ influence map |
+| **Galactic Atlas** | MUD Safe Zone (5 sectors), MRZ influence map |
 | [Photoli](../species/photoli.md) | God Ahr — Photoli Traveler |
 | [Order of Light](../factions/order_of_light.md) | Bilguese Moon sovereignty dispute (Verzan-III) |
-| [Pearce (Manufacturer)](../reference/atlas/galactic_atlas.md) | Military-industrial ship manufacturer |
-| [Calico (Manufacturer)](../reference/atlas/galactic_atlas.md) | Diplomacy-focused manufacturer |
+| **Pearce (Manufacturer)** | Military-industrial ship manufacturer |
+| **Calico (Manufacturer)** | Diplomacy-focused manufacturer |
 | [Star Atlas Blockchain](../institutions/star_atlas_blockchain.md) | Economic infrastructure, Starpath Warp Gates |
 | [Iris / The Cataclysm](../geography/the_cataclysm.md) | The "Promised Paradise" — sentient planet, Tufa genocide |
 | [Fimbul Industries](../factions/fimbul_industries.md) | Founded by Ben Y (Human/MUD) in Free Harbors |

@@ -1,10 +1,7 @@
-# ⚔️ Canon Document: VEGA FALL (MRZ-24)
+# Vega Fall (MRZ-24)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Vega Fall lore document + Archon Deep-Dive + `sogmian.md`
-**Zone**: Medium Risk Zone (MRZ-24)
-**Influence**: ONI (Sogmian territory)
-**Theme**: Civil War, Tyranny, Shame, Redemption through Lutavira
+> Vega Fall is a grim chapter in the annals of Sogmian history.
+
 
 ---
 
@@ -95,17 +92,11 @@ Vega Fall is a **grim chapter** in the annals of Sogmian history. A tale so hear
 
 ## Cross-References
 
-- House Akalma — `canon/species/sogmian.md` (Banished house)
-- House Lutavira — `canon/species/sogmian.md` (Violet, Leaders, fundamentalist Du Prah)
-- House Outro — `canon/species/sogmian.md` (Journalist origin)
-- Akalma Exile — `canon/geography/sectors/akalma_exile.md` (MRZ-12)
-- Du Prah — `canon/species/sogmian.md` (Philosophy)
-- Convergence War — `canon/history/convergence_war.md`
+- House Akalma — [sogmian.md](../../species/sogmian.md) (Banished house)
+- House Lutavira — [sogmian.md](../../species/sogmian.md) (Violet, Leaders, fundamentalist Du Prah)
+- House Outro — [sogmian.md](../../species/sogmian.md) (Journalist origin)
+- Akalma Exile — [akalma_exile.md](./akalma_exile.md) (MRZ-12)
+- Du Prah — [sogmian.md](../../species/sogmian.md) (Philosophy)
+- Convergence War — [convergence_war.md](../../history/convergence_war.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-VEG1: Name of the House Outro journalist?
-- ⏸️ Q-VEG2: Did Lutavira discover anything significant when reforming the citadel?
-- ⏸️ Q-VEG3: Named Lutavira leaders currently operating from Vega Fall?

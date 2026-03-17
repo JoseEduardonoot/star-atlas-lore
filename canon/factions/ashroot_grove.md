@@ -36,7 +36,7 @@ The experiment failed catastrophically.
 
 ECOS terraforming accelerated evolutionary processes beyond any ability to control. The native ecosystem — which included **at least one pre-existing civilization** — spiraled into hyper-growth. Organisms mutated faster than researchers could catalogue them. The native civilization was destroyed — whether by direct ECOS action or by the ecological cascade remains one of the faction's deepest, most contested shames.
 
-By ~2439, Old Grove had become a death trap. Enormous verdant monsters spawned from forest-engulfed ruins. ECOS could not contain what they had created. They abandoned the planet and fled — first to the [Hanging Gardens](../geography/sectors/hanging_gardens.md) in the MRZ, then to **Earth Prime** in the [High-Risk Zone](../geography/sectors/hrz.md).
+By ~2439, Old Grove had become a death trap. Enormous verdant monsters spawned from forest-engulfed ruins. ECOS could not contain what they had created. They abandoned the planet and fled — first to the [Hanging Gardens](../geography/sectors/hanging_gardens.md) in the MRZ, then to **Earth Prime** in the **High-Risk Zone**.
 
 They left behind a planet that was no longer a world, but a warning.
 

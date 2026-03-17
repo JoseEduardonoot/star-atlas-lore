@@ -28,7 +28,7 @@ Today, the Dynasty survives through lineage claims, loyalist networks, and resou
 
 Warlord Pavo forged dynastic dominance along the MUD-[Ustur](../species/ustur.md) trade highway, transforming [Pavo Passage](../geography/sectors/pavo_passage.md) into a toll-powered realm. The Dynasty's leverage grew by playing outside powers against each other â€” MUD needed the route, Ustur needed the route, and the Crumon taxed both.
 
-At the height of Crumon arrogance, the Dynasty built the **Spire Foundries** on Crushspire â€” enormous monument-factories modeled after the Ustur Elder Spire on [Ioki](../geography/worlds/ioki.md). They were built less for efficiency and more to impress the galaxy with power made permanent.
+At the height of Crumon arrogance, the Dynasty built the **Spire Foundries** on Crushspire â€” enormous monument-factories modeled after the Ustur Elder Spire on **Ioki**. They were built less for efficiency and more to impress the galaxy with power made permanent.
 
 ### The Night
 
@@ -66,7 +66,7 @@ Their relationship is alliance and rivalry simultaneously: they share the object
 
 > *"Arco Crystal has the ability to retain its sturdiness under high temperatures while also being efficient in dissipating kinetic energy."*
 
-The primary asset of the Dynasty. **Arco Crystal** is used in armor, shields, heat-resistant hull components, and kinetic dampening systems. [Crushspire](../geography/worlds/crushspire.md) is the largest source of Arco Crystal in the [Galia Expanse](../geography/sectors/galia.md) â€” not exclusive, but dominant. Whoever influences Arco supply influences shipbuilding, bargaining, and survival across the corridor. The [MTC](../factions/meridian_trading_company.md) trader **Vera Korrin** specializes in securing Arco through relationship-first approaches â€” gifts, ritual courtesies, and long-term purchase vows.
+The primary asset of the Dynasty. **Arco Crystal** is used in armor, shields, heat-resistant hull components, and kinetic dampening systems. [Crushspire](../geography/worlds/crushspire.md) is the largest source of Arco Crystal in the **Galia Expanse** â€” not exclusive, but dominant. Whoever influences Arco supply influences shipbuilding, bargaining, and survival across the corridor. The [MTC](../factions/meridian_trading_company.md) trader **Vera Korrin** specializes in securing Arco through relationship-first approaches â€” gifts, ritual courtesies, and long-term purchase vows.
 
 ### Spire Foundries
 

@@ -1,7 +1,4 @@
-# 🌌 Canon Document: VERZAN SECTOR (MUD 4)
-
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (MUD 4)
+# Verzan Sector (MUD 4)
 
 ---
 

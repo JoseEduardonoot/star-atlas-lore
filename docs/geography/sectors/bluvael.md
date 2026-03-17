@@ -1,7 +1,7 @@
-# 🌌 Canon Document: BLUVAEL SECTOR (MRZ-9)
+# Bluvael Sector (MRZ-9)
 
-**Status**: 🟢 Canon (Deep-Dive Expansion, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Enigmatic)
+> Bluvael is bathed in an enigmatic aura.
+
 
 ---
 
@@ -130,8 +130,8 @@ The **Iris Academy** (HQ: Zenith Door) — led by **Prof. Exfeheros** (Punaab) �
 
 ## Cross-References
 
-- Bluevael Mining Colonies — `canon/factions/bluevael_mining_colonies.md` (full faction details, Drowned Vault dungeon)
-- Photoli — `canon/species/photoli.md` (created the veil ~2095 to protect the Ah'Rihvael family tombs)
-- Iris Academy — `canon/factions/iris_academy.md` (preparing deep-sea expedition)
-- Scriptorium of the Lumikir — `canon/factions/scriptorium_of_the_lumikir.md` (Catholk-ix embedded with mining expedition)
-- Faction Classification — `canon/meta/faction_power_classification.md` (T4 — Local Power)
+- Bluevael Mining Colonies — [bluevael_mining_colonies.md](../../factions/bluevael_mining_colonies.md) (full faction details, Drowned Vault dungeon)
+- Photoli — [photoli.md](../../species/photoli.md) (created the veil ~2095 to protect the Ah'Rihvael family tombs)
+- Iris Academy — [iris_academy.md](../../factions/iris_academy.md) (preparing deep-sea expedition)
+- Scriptorium of the Lumikir — [scriptorium_of_the_lumikir.md](../../factions/scriptorium_of_the_lumikir.md) (Catholk-ix embedded with mining expedition)
+- Faction Classification — [faction_power_classification.md](../../meta/faction_power_classification.md) (T4 — Local Power)

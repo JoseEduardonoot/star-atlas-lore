@@ -1,10 +1,5 @@
-# 🚪 Canon Document: ZENITH DOOR (MRZ-36)
+# Zenith Door (MRZ-36)
 
-**Status**: 🟢 Canon (Creator-provided + Archon Cross-Reference Enrichment, Mar 2026)
-**Source**: Direct Creator input — Zenith Door lore document + cross-referenced from `ustur.md`, `iris_academy.md`, `church_of_the_dreamer_below.md`, `bmah.md`, `never_alone_campaign.md`, `punaab.md`, `anfoil_states.md`, `eras_of_star_atlas.md`, `weeping_nebula.md`, `lumik.md`, `eol_garadar.md`, `bluevael_mining_colonies.md`
-**Zone**: Medium Risk Zone (MRZ-36)
-**Influence**: ONI (ONI/Ustur border — closest ONI territory to HRZ)
-**Theme**: Diplomatic Capital, Iris Academy HQ, Dawn Vanguard, Chior's Peace
 **Scale**: T2 — Sector Power (Chior.eldr governs the entire sector via diplomatic consensus)
 
 ---

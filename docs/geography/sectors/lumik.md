@@ -1,10 +1,7 @@
-# 📚 Canon Document: LUMIK (MRZ-27)
+# Lumik (MRZ-27)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-27)
-**Influence**: Ustur (neutral sector)
-**Theme**: Knowledge Repository, Ancient Wisdom, Photoli Legacy, Galactic Memory, SDU Classification
+> Lumik is etched in cosmic history through its evocative name, derived from its ruling inhabitants, the Lumikir.
+
 
 ---
 
@@ -173,19 +170,10 @@ As gratitude, Om imbued the Lumikir with **wisdom and profound clarity** — a g
 
 ## Cross-References
 
-- Photoli Om — `canon/species/photoli.md` (uplifted the Lumikir; visits incognito)
-- Iris Academy / Zenith Door — `canon/geography/sectors/zenith_door.md` (cooperation agreement)
-- Velloris — `canon/geography/worlds/velloris.md` (proof erasure vs. knowledge preservation)
+- Photoli Om — [photoli.md](../../species/photoli.md) (uplifted the Lumikir; visits incognito)
+- Iris Academy / Zenith Door — [zenith_door.md](./zenith_door.md) (cooperation agreement)
+- Velloris — [velloris.md](../worlds/velloris.md) (proof erasure vs. knowledge preservation)
 - Jorvik — referenced in Rank A SDU example
 - CARY Farming / Exodus — referenced in Rank C SDU example
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-LUM1: What is the "due price" for knowledge?~~ → Depends on SDU Rank (D-X). Paid in ATLAS, knowledge trade, or missions. See `canon/systems/sdu_classification.md`
-- ✅ ~~Q-LUM2: What was the Photoli Om crisis the Lumikir helped with?~~ → Young Om fought a Dark Photoli, nearly died, crashed in Lumikir system. They nursed him.
-- ✅ ~~Q-LUM3: Lumikir physical description?~~ → Twitch-like (LoL), slightly bulkier, four arms and four legs.
-- ✅ ~~Q-LUM4: Relationship between Scriptorium and Iris Academy?~~ → Cooperation agreement. Lumikir store, Academy researches.
-- ⏸️ Q-LUM5: Population — is Lumik exclusively Lumikir or multi-species?
-- ⏸️ Q-LUM6: Erruts — force size, command structure, notable operations?

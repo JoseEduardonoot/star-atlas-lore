@@ -1,7 +1,7 @@
-# 🦎 Canon Document: MIERESE
+# Mierese
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Full Mierese Lore Keeper chapters + Q&A
+> Every Mierese has THREE names:
+
 
 ---
 

@@ -1,10 +1,7 @@
-# 🌟 Canon Document: VERBIS CLUSTER (MRZ-22)
+# Verbis Cluster (MRZ-22)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-22)
-**Influence**: Ustur
-**Theme**: Binary Star System, Eternal Daylight, Photosynthetic Life, Near-Sentient Species
+> - ~2489: The Ustur discover the twin-star system of the Verbis Cluster
+
 
 ---
 

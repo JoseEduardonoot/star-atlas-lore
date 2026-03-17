@@ -1,10 +1,7 @@
-# 📜 Canon Document: NEVER ALONE CAMPAIGN — Part 1
+# Never Alone Campaign — Part 1
 
-**Status**: 🟢 Canon (Campaign Narrative, Feb 2026)
-**Source**: Star Atlas "Never Alone" Campaign — SAGE Escape Velocity interactive quest series
-**Type**: Canon Narrative / Campaign Quest Series
-**Era**: Golden Era (~2620s) — During the Council of Peace MRZ Incursion
-**Protagonists**: The Captain (player character) and **Saand** (amnesiac Punaab)
+> The campaign follows the player character (a spacefaring captain) who rescues Saand, a white-furred Punaab who has lost all memories of his past.
+
 
 ---
 
@@ -684,50 +681,30 @@ Memory Revelation — the full truth:
 
 ---
 
-- ✅ ~~Q-NA1: Who or what is Etira?~~ → Planet in Yuldun Waste, premier illegal trading hub, dual atmosphere inside gas giant storm
-- ⏸️ Q-NA2: How did Saand live during the Convergence War? — Possibly Church memory implants of others' memories making him *feel* like he lived then. Or genuine longevity?
-- ✅ ~~Q-NA3: What is "The Light" Commander Goe accuses Saand of stealing?~~ → The **Photoli key/map** to the Dreamer's prison. Saand was sent by the Church to steal it from Goe
-- ⏸️ Q-NA4: What is the **purple compound** at Ahkavorah? Connection to the Dreamer Below?
-- ⏸️ Q-NA5: Who are the **Wandering Caravan**? What do the numbered symbols mean? They host the Golden Carnival
-- ⏸️ Q-NA7: Connection between Saand's Convergence War memories and the CORE narrative? — Possibly implanted memories from the Church
-- ⏸️ Q-NA9: Who hired the Scriptorium ambush attackers? — Possibly Church agents trying to prevent Saand from reaching Etira independently?
-- ⏸️ Q-NA10: What is the **Order of Seasons**? (Lethal organization)
-- ⏸️ Q-NA11: What is **Panemorfa**? How connected to the Church?
-- ✅ ~~Q-NA12: Who is Saand searching for?~~ → A **High Punaab** female, now a waitress at Madame Jaffa's. Connected to "Etira" tree carving on Superphoenix
-- ⏸️ Q-NA13: Fimbul splinter companies — which uncles, which factions do they specifically serve?
-- ✅ ~~Q-NA14: What happened during Saand's Part 2 Memory Revelation?~~ → Part 3 reveals: Church of the Dreamer Below memories returned. Saand was their vessel
-- ⏸️ Q-NA15: Did Saand successfully steal the Photoli key from Goe? Does the Church have it?
-- ⏸️ Q-NA16: Who is the High Punaab girl? What is her relationship to Saand? Why is she at Jaffa's?
-- ⏸️ Q-NA17: What is the Dreamer Below's true nature? Ancient being or specific species?
-- ⏸️ Q-NA18: How did Saand end up crashing on Anueyeu? Failed mission? Escape attempt? Church betrayal?
-- ⏸️ Q-NA19: What are the Photoli's true capabilities? They imprisoned the Dreamer but couldn't destroy it
-- ⏸️ Q-NA20: Part 4 — awaiting content
-- ⏸️ Q-NA21: What is Madame Jaffa's true nature? Supernatural strength, musical voice, heat generation
-- ⏸️ Q-NA22: Amara — is she knowingly serving the Church or unknowingly manipulated via memory wipe?
 
 ---
 
 ## Cross-References
 
-- ECOS / Superphoenix — [ecos.md](/factions/earth_conscious_ontological_society.md) (Titan ship interior, "Etira" tree carving)
-- Fimbul Industries — [fimbul_industries.md](/factions/fimbul_industries.md) (Ben Y founder, Smids, Mamba, Lowbie, BYOS Earp, Airbike, family split)
-- Jorvik — [jorvik.md](/factions/jorvik.md) (Fimbul Mamba raiders, BYOS partnership)
-- Scriptorium of Lumikir — [scriptorium_of_the_lumikir.md](/factions/scriptorium_of_the_lumikir.md) (Kiki AI, SDU economy, Ehandra/Kuradora)
-- Iris Academy — [iris_academy.md](/factions/iris_academy.md) (Carvum campus, Commander Goe — Photoli key holder)
-- Council of Peace — [council_of_peace.md](/institutions/council_of_peace.md) (MRZ incursion, SSRD, Townhalls, cease-fire, COPBRA)
-- Convergence War — [convergence_war.md](/history/convergence_war.md) (Ahkavorah compound, CORE, Church origins)
-- Punaab species — [punaab.md](/species/punaab.md) (Saand, Ekip formal lace, High Punaab, Akenat references)
-- Volant Station — [volant_station.md](/geography/worlds/volant_station.md) (MUD Central harbor, racing track, Wandering Caravan)
-- Free Harbors / Smids — [free_harbors.md](/geography/sectors/free_harbors.md) (Fimbul HQ, Ben Y founding location)
-- Ka-dara / MRZ-28 — [ka_dara.md](/geography/sectors/ka_dara.md) (Ingbus AI, crew experimentation)
-- Harkend — [harkend.md](/geography/sectors/harkend.md) (Relic Barons, construct cores)
-- Zavijava Zone — [zavijava_zone.md](/geography/sectors/zavijava_zone.md) (Time distortion fields, Amara's base)
-- Yuldun Waste / Etira — [yuldun_waste.md](/geography/sectors/yuldun_waste.md) (Etira underworld city, Dreamer Below prison)
+- ECOS / Superphoenix — [earth_conscious_ontological_society.md](../factions/earth_conscious_ontological_society.md) (Titan ship interior, "Etira" tree carving)
+- Fimbul Industries — [fimbul_industries.md](../factions/fimbul_industries.md) (Ben Y founder, Smids, Mamba, Lowbie, BYOS Earp, Airbike, family split)
+- Jorvik — [jorvik.md](../factions/jorvik.md) (Fimbul Mamba raiders, BYOS partnership)
+- Scriptorium of Lumikir — [scriptorium_of_the_lumikir.md](../factions/scriptorium_of_the_lumikir.md) (Kiki AI, SDU economy, Ehandra/Kuradora)
+- Iris Academy — [iris_academy.md](../factions/iris_academy.md) (Carvum campus, Commander Goe — Photoli key holder)
+- Council of Peace — [council_of_peace.md](../institutions/council_of_peace.md) (MRZ incursion, SSRD, Townhalls, cease-fire, COPBRA)
+- Convergence War — [convergence_war.md](../history/convergence_war.md) (Ahkavorah compound, CORE, Church origins)
+- Punaab species — [punaab.md](../species/punaab.md) (Saand, Ekip formal lace, High Punaab, Akenat references)
+- Volant Station — canon/geography/worlds/volant_station.md *(not yet created)* (MUD Central harbor, racing track, Wandering Caravan)
+- Free Harbors / Smids — [free_harbors.md](../geography/sectors/free_harbors.md) (Fimbul HQ, Ben Y founding location)
+- Ka-dara / MRZ-28 — [ka_dara.md](../geography/sectors/ka_dara.md) (Ingbus AI, crew experimentation)
+- Harkend — [harkend.md](../geography/sectors/harkend.md) (Relic Barons, construct cores)
+- Zavijava Zone — [zavijava_zone.md](../geography/sectors/zavijava_zone.md) (Time distortion fields, Amara's base)
+- Yuldun Waste / Etira — [yuldun_waste.md](../geography/sectors/yuldun_waste.md) (Etira underworld city, Dreamer Below prison)
 - Anfoil sector — Golden Carnival location (Wandering Caravan event)
-- Church of the Dreamer Below — [church_of_the_dreamer.md](/factions/church_of_the_dreamer.md) (Memory manipulation, imprisoned god, Herdus.soul)
-- Black Market Auction House — [bmah.md](/factions/black_market_auction_house.md) (Rules Etira, three pillars)
-- Slavers of Frenir — [slavers_of_frenir.md](/factions/slavers_of_frenir.md) (Slave trade, Lumanite bracers, weakened by COP)
-- Bankers of Pergamos — [bankers_of_pergamos.md](/factions/bankers_of_pergamos.md) (Shadow banking, weakened by COP)
+- Church of the Dreamer Below — [church_of_the_dreamer_below.md](../factions/church_of_the_dreamer_below.md) (Memory manipulation, imprisoned god, Herdus.soul)
+- Black Market Auction House — [black_market_auction_house.md](../factions/black_market_auction_house.md) (Rules Etira, three pillars)
+- Slavers of Frenir — [slavers_of_frenir.md](../factions/slavers_of_frenir.md) (Slave trade, Lumanite bracers, weakened by COP)
+- Bankers of Pergamos — canon/factions/bankers_of_pergamos.md *(not yet created)* (Shadow banking, weakened by COP)
 - Panemorfa — underworld artifact recovery organization (Amara's employer, Church-aligned?)
 - Order of Seasons — lethal organization (brief mention)
 - Order of Patrah — Ustur humanitarian order (Lucaria joins)
@@ -738,5 +715,5 @@ Memory Revelation — the full truth:
 - ZINIZ — VR technology company (digital reality builder)
 - CARY farming industries — imperishable vegetable research (Verkofa VR)
 - Bounty Bar — (Carmonayole, Blo Dyoni)
-- CORE — [core_episodes.md](/history/core_episodes.md) (Gyun, Huricanno, Timpo)
+- CORE — canon/history/core_episodes.md *(not yet created)* (Gyun, Huricanno, Timpo)
 - Photoli — imprisoned the Dreamer Below. Key hidden, map given to Commander Goe

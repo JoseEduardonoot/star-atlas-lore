@@ -1,7 +1,7 @@
-# ⚖️ Canon Document: COUNCIL OF PEACE (COP)
+# Council of Peace (COP)
 
-**Status**: 🟢 Canon (Comprehensive Lore Dump, Feb 2026)
-**Source**: Direct Creator input — Sogmian/Maharog Q&A + COP Lore Dump + MRZ Audit
+> The Council of Peace (COP) is the cornerstone of interstellar governance in the Galia Expanse.
+
 
 ---
 
@@ -102,18 +102,11 @@ Leadership rotates every **galactic cycle (~5 Old Earth years)**. Each faction a
 
 ## Cross-References
 
-- Maharog Week IV (The Accord) — [sogmian.md](/species/sogmian.md)
-- Star Atlas blockchain — [star_atlas_blockchain.md](/institutions/star_atlas_blockchain.md)
-- Vaor Scarka (ONI/Mierese) — [mierese.md](/species/mierese.md)
-- Charon Gotti Jr (MUD) — [human.md](/species/human.md)
-- Opos.eldr (Ustur) — [ustur.md](/species/ustur.md)
-- Pergamos Offensive — [pergamos.md](/geography/sectors/pergamos.md)
+- Maharog Week IV (The Accord) — [sogmian.md](../species/sogmian.md)
+- Star Atlas blockchain — [star_atlas_blockchain.md](./star_atlas_blockchain.md)
+- Vaor Scarka (ONI/Mierese) — [mierese.md](../species/mierese.md)
+- Charon Gotti Jr (MUD) — [human.md](../species/human.md)
+- Opos.eldr (Ustur) — [ustur.md](../species/ustur.md)
+- Pergamos Offensive — [pergamos.md](../geography/sectors/pergamos.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-COP1: Full structure~~ ✅ RESOLVED: 3 branches (Executive/Legislative/Legal), rotational leadership.
-- ~~Q-COP2: Faction relationships~~ ✅ RESOLVED: Scarka (militarist) vs Opos (pacifist) vs Charon (silent diplomat).
-- ~~Q-COP3: Golden Era policies~~ ✅ PARTIALLY: Starpath gates (~2526 construction start), Cradle (~2526 construction start), trade regulation, peacekeeping. Details TBD.
-- ~~Q-COP4: ECOS membership~~ ✅ RESOLVED: ~2527, admitted as non-voting member after MUD lobby blocked major faction status.

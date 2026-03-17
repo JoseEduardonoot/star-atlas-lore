@@ -1,7 +1,5 @@
-# 📊 Canon Document: FACTION POWER CLASSIFICATION
+# Faction Power Classification
 
-**Status**: 🟢 Canon (Feb 2026)
-**Type**: Meta — Classification System
 **Purpose**: Standardized scale for categorizing faction power and territorial scope across Galia
 
 ---
@@ -69,5 +67,5 @@ The classification is supplementary to the existing **Galactic Indices** (GFI, G
 ## Cross-References
 
 - Galactic Indices — defined per-faction in individual canon documents
-- Council of Peace — [council_of_peace.md](/institutions/council_of_peace.md) (T1 factions hold COP seats)
+- Council of Peace — [council_of_peace.md](../institutions/council_of_peace.md) (T1 factions hold COP seats)
 - Sector geography — `canon/geography/sectors/` (T2 factions typically map to one sector)

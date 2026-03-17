@@ -1,7 +1,7 @@
-# 🌀 Canon Document: THE CATACLYSM
+# The Cataclysm
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input via Sogmian/Maharog Q&A
+> The Cataclysm is a territory within the High-Risk Zone (HRZ) where Iris influences reality itself.
+
 
 ---
 
@@ -39,15 +39,8 @@ The **Cataclysm** is a territory within the **High-Risk Zone (HRZ)** where **Iri
 
 ## Cross-References
 
-- Tufa species — [tufa.md](/species/tufa.md)
-- Sogmian protection of Tufa — [sogmian.md](/species/sogmian.md)
-- Treaty of Peace — [council_of_peace.md](/institutions/council_of_peace.md)
+- Tufa species — [tufa.md](../species/tufa.md)
+- Sogmian protection of Tufa — [sogmian.md](../species/sogmian.md)
+- Treaty of Peace — [council_of_peace.md](../institutions/council_of_peace.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-CAT1: Iris nature~~ ✅ RESOLVED: Sentient planet, fractured mind.
-- ~~Q-CAT2: Reality influence~~ ✅ RESOLVED: Cosmic currents = paranoid mind manifestations.
-- ~~Q-CAT3: Tufa value~~ ✅ RESOLVED: **Genesium** inside bodies (rarest material).
-- ~~Q-CAT4: Sealed access~~ ✅ RESOLVED: Illegal by COP law, tech guarded.

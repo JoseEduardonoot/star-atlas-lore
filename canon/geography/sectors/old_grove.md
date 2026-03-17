@@ -1,7 +1,7 @@
-# 🌌 Canon Document: OLD GROVE SECTOR (MRZ-11)
+# Old Grove Sector (MRZ-11)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — ECOS Cautionary Tale)
+> Old Grove stands as a stark testament to MUD's cautionary tales against ECOS.
+
 
 ---
 

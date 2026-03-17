@@ -119,7 +119,7 @@ Fimbul ECOS serves this doctrine by building the ships that carry the groves out
 
 ### Agricultural Competition
 
-The Hanging Gardens' agricultural prowess makes it a **linchpin for MRZ food distribution** — fierce competition with **CARY**, the civil branch of [Calico](../factions/calico.md) (MUD manufacturer). Both vie to expand influence through strategic trade and commerce. Whoever feeds the MRZ controls significant geopolitical leverage. Fimbul ECOS's agricultural engineering supports this competition — their ships are designed to transport, grow, and distribute food as well as wage war.
+The Hanging Gardens' agricultural prowess makes it a **linchpin for MRZ food distribution** — fierce competition with **CARY**, the civil branch of [Calico](../manufacturers/calico.md) (MUD manufacturer). Both vie to expand influence through strategic trade and commerce. Whoever feeds the MRZ controls significant geopolitical leverage. Fimbul ECOS's agricultural engineering supports this competition — their ships are designed to transport, grow, and distribute food as well as wage war.
 
 ---
 
@@ -153,7 +153,7 @@ The Brenneth-Virtin channel is the most significant bridge in the Fimbul schism 
 | [Iris Academy](../factions/iris_academy.md) | Research partner — bioengineering collaboration |
 | [MUD](../factions/mud.md) | Enemy by proxy — ECOS schism. MUD cannot reach Hanging Gardens |
 | [COP](../institutions/council_of_peace.md) | Scrutiny — ~2623 incursion raised tensions. Superphoenix is the deterrent |
-| CARY ([Calico](../factions/calico.md)) | Agricultural rival — MRZ food distribution competition |
+| CARY ([Calico](../manufacturers/calico.md)) | Agricultural rival — MRZ food distribution competition |
 
 ---
 

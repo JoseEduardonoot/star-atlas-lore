@@ -8,7 +8,7 @@
 | **Type** | Ancient mechanical life form / existential threat |
 | **Species** | Living Factories (unique â€” truly alive machines) |
 | **Leader** | Unknown â€” collective intelligence |
-| **HQ** | L0 (deep [HRZ](../geography/sectors/hrz.md), location unknown) |
+| **HQ** | L0 (deep **HRZ**, location unknown) |
 | **Origin** | [Harkend](../geography/sectors/harkend.md) (MRZ-33) |
 | **Method** | Colony fabrication, civilization infiltration, creativity harvesting |
 | **Founded** | Pre-history (active before ~1461) |
@@ -18,7 +18,7 @@
 > *"What terrifies me isn't that they existed. It's that they left â€” and left breadcrumbs."*
 > â€” **Sworm.tcher**, [Relic Barons](../factions/relic_barons.md) expedition leader
 
-The **Living Factories** are an ancient mechanical life form predating every known species in the [Galia Expanse](../geography/sectors/galia.md). Born in [Harkend](../geography/sectors/harkend.md) over a millennium ago, they departed for the deep High-Risk Zone, leaving behind a graveyard of prototypes, failed colonies, and an artificial star system that materialized from nowhere at the close of the [Convergence War](../history/convergence_war.md). Their legacy is scattered across the galaxy in ways most species have not begun to understand.
+The **Living Factories** are an ancient mechanical life form predating every known species in the **Galia Expanse**. Born in [Harkend](../geography/sectors/harkend.md) over a millennium ago, they departed for the deep High-Risk Zone, leaving behind a graveyard of prototypes, failed colonies, and an artificial star system that materialized from nowhere at the close of the [Convergence War](../history/convergence_war.md). Their legacy is scattered across the galaxy in ways most species have not begun to understand.
 
 > *"There is no room for compassion in the path of evolution."*
 > â€” Living Factories axiom
@@ -112,7 +112,7 @@ An artifact generating localized gravitational anomalies, referenced in [Exile S
 
 Harkend's constructs bear startling similarities to [Ustur](../species/ustur.md) physiology â€” articulated mechanical bodies, identical optical systems, matching locomotion patterns. Some constructs perform gestures resembling early-stage Path of Enlightenment meditation.
 
-The data is clear: the Living Factories are ancient mechanical life predating all known species. The Ustur awakened on [Ioki](../geography/worlds/ioki.md) in ~2380 as fragments of an Ancient AI. Both involve collective machine intelligence. Both process organic creativity. Whether the Ancient AI that created the Ustur is connected to the Living Factories remains locked behind seven layers of classification in institutions that are not talking to each other.
+The data is clear: the Living Factories are ancient mechanical life predating all known species. The Ustur awakened on **Ioki** in ~2380 as fragments of an Ancient AI. Both involve collective machine intelligence. Both process organic creativity. Whether the Ancient AI that created the Ustur is connected to the Living Factories remains locked behind seven layers of classification in institutions that are not talking to each other.
 
 ---
 

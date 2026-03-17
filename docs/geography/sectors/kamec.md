@@ -1,10 +1,7 @@
-# 🤖 Canon Document: KAMEC (MRZ-29)
+# Kamec (MRZ-29)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Kamec lore document + Archon Deep-Dive + Origin lore nuggets
-**Zone**: Medium Risk Zone (MRZ-29)
-**Influence**: ONI
-**Theme**: Clone Democracy, Alien Technology, Hidden Divergence, Elegant Dystopia
+> The Kamec Sector, presided over by the Democratic Order of Kamec, is a bastion of two unwavering principles: Democracy and Order.
+
 
 ---
 
@@ -101,18 +98,10 @@ The Kamec Sector, presided over by the **Democratic Order of Kamec**, is a basti
 
 ## Cross-References
 
-- Atheist Mierese — contrast with mainstream (`canon/species/mierese.md`)
+- Atheist Mierese — contrast with mainstream ([mierese.md](../../species/mierese.md))
 - HRZ collapsed empires — lost civilizations in the High Risk Zone
 - Clone technology — unique origin, HRZ alien tech
 - Democratic governance — contrast with Frenir DAO, Free Harbors DAO, Everstorm democracy
-- Potential crisis — parallel to Free Harbors powder keg (`canon/geography/sectors/free_harbors.md`)
+- Potential crisis — parallel to Free Harbors powder keg ([free_harbors.md](./free_harbors.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-KAM1: Which collapsed HRZ empire created the clone technology?
-- ⏸️ Q-KAM2: Are the clones developing independent consciousness or just drifting algorithmically?
-- ⏸️ Q-KAM3: What specific materials/crystals does Kamec produce? (Deferred)
-- ⏸️ Q-KAM4: Has any faction attempted espionage to audit the Kamec system?
-- ⏸️ Q-KAM5: What would the clones do if exposed — resist? Negotiate? War?

@@ -249,7 +249,7 @@ The COP could technically challenge Denebula's mandatory aesthetic surgery and c
 | [Panemorfa](../factions/panemorfa.md) | Deep pipeline via Ostentati.soul â€” shared founder. Denebula wealth fuels Panemorfa operations |
 | [Fimbul BYOS](../factions/fimbul_byos.md) | Aspirant nexus â€” Torben Y lives on Denebula, plotting Prince status |
 | [Ophek](../factions/ophek.md) | Ophek Revel holds Prince title â€” rare non-founding member |
-| [ONI Consortium](../species/oni.md) | Formal tax relationship â€” grants ONI protection. De facto sovereignty |
+| **ONI Consortium** | Formal tax relationship â€” grants ONI protection. De facto sovereignty |
 | [COP](../institutions/council_of_peace.md) | Nominal compliance â€” COP has little real enforcement power in MRZ. The Princes' wealth insulates them |
 | [Pergamos Shadow Banks](../factions/pergamos_shadow_banks.md) | Complicated â€” some Princes use shadow banking services; others compete. Both wary of MUD Synod's advance |
 | [Relic Barons](../factions/relic_barons.md) | Trade partners â€” Denebula's markets are a primary distribution channel for Harkend relic goods |

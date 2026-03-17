@@ -1,8 +1,7 @@
-# 🌌 Canon Document: ETERNITY SECTOR (Ustur 1)
+# Eternity Sector (Ustur 1)
 
-**Status**: 🟢 Canon (Consolidated, Feb 2026)
-**Source**: Creator Input (Eternity Lore Doc + Archon Audit)
-**Type**: Safe Zone Sector (Ustur 1 — Ustur Birthworld)
+> Geographic lore entry for the Eternity Sector (Ustur 1) sector.
+
 
 ---
 
@@ -65,7 +64,7 @@
 
 ## Season 0 (Tufa Invasion of Ioki)
 
-- **Attacker**: Chalbok Brood (see `canon/species/tufa.md`)
+- **Attacker**: Chalbok Brood (see [tufa.md](../../species/tufa.md))
 - **Objective**: Seize the Reincarnation Pool (Chalbok sensed residual energy)
 - **Key Events**:
   - Vzus Belt **sabotaged** by mercenary infiltrators → Tufa landed
@@ -83,7 +82,7 @@
 
 ## Cross-References
 
-- Ancient AI Origin: `canon/species/ustur.md`
-- Tufa Invasion: `canon/species/tufa.md`
-- VZUS: `canon/manufacturers/vzus.md`
-- Opal: `canon/manufacturers/opal.md`
+- Ancient AI Origin: [ustur.md](../../species/ustur.md)
+- Tufa Invasion: [tufa.md](../../species/tufa.md)
+- VZUS: [vzus.md](../../manufacturers/vzus.md)
+- Opal: [opal.md](../../manufacturers/opal.md)

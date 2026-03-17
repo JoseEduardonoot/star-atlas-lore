@@ -1,10 +1,5 @@
-# ⚖️ Canon Document: FRENIR (MRZ-19)
+# Frenir (MRZ-19)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Frenir lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-19)
-**Influence**: ONI
-**Theme**: Post-Dictatorship Reconstruction, DAO Experiment, Humanitarian Aid, Lurking Threat
 **Timeline**: One of the most recent canon events
 
 ---
@@ -97,7 +92,7 @@ Before the COP intervention, Frenir suffered one of the most devastating **ecolo
 
 - **~2624**: A **provisional transition government** is formed — a five-seat Transition Council overseeing the DAO experiment
 - **Chair Grokk Senna Valel** (Mierese, freed slave), **Ehr** (Photoli, DAO architect), **Commandant Nopeenfree** (Punaab, security), **Tolvak 𐎘 Outro** (Sogmian, humanitarian), **Plirk Dosk Scarka** (Mierese, Hikibashi intelligence)
-- Full details in `canon/factions/frenir_new_government.md`
+- Full details in [frenir_new_government.md](../../factions/frenir_new_government.md)
 
 ### Ki'Prah — From Prison to Factory
 
@@ -113,7 +108,7 @@ Before the COP intervention, Frenir suffered one of the most devastating **ecolo
 - He **died helping victims** during the Convergence War
 - Became a **symbol of a more united and empathetic Galia**
 - The **Sons of Patrah** — the Order that bears his name — now provides frontline humanitarian aid to Frenir's freed population
-- Full details in `canon/factions/sons_of_patrah.md`
+- Full details in [sons_of_patrah.md](../../factions/sons_of_patrah.md)
 
 ### House Outro Emissaries
 
@@ -166,28 +161,20 @@ Before the COP intervention, Frenir suffered one of the most devastating **ecolo
 
 ## Cross-References
 
-- House Outro — `canon/species/sogmian.md` (Humanitarian, Snow White)
-- Frenir New Government — `canon/factions/frenir_new_government.md` (Transition Council, DAO experiment, full details)
-- ONI Consortium — `canon/factions/oni.md` (direct patron, resource provider)
-- Sons of Patrah — `canon/factions/sons_of_patrah.md` (frontline humanitarian aid)
-- Garadar DAC — `canon/factions/garadar_dac.md` (border patrols against slaver resurgence)
-- Galia Medical Union — `canon/factions/galia_medical_union.md` (trauma and healthcare)
-- Vaor Skarca — `canon/institutions/council_of_peace.md` (COP leadership)
-- Jorvik — `canon/factions/jorvik.md` (criminal faction, some elements harbor former slavers)
+- House Outro — [sogmian.md](../../species/sogmian.md) (Humanitarian, Snow White)
+- Frenir New Government — [frenir_new_government.md](../../factions/frenir_new_government.md) (Transition Council, DAO experiment, full details)
+- ONI Consortium — [oni.md](../../factions/oni.md) (direct patron, resource provider)
+- Sons of Patrah — [sons_of_patrah.md](../../factions/sons_of_patrah.md) (frontline humanitarian aid)
+- Garadar DAC — [garadar_dac.md](../../factions/garadar_dac.md) (border patrols against slaver resurgence)
+- Galia Medical Union — [galia_medical_union.md](../../factions/galia_medical_union.md) (trauma and healthcare)
+- Vaor Skarca — [council_of_peace.md](../../institutions/council_of_peace.md) (COP leadership)
+- Jorvik — [jorvik.md](../../factions/jorvik.md) (criminal faction, some elements harbor former slavers)
 - Yuldun Waste — lawless sector (dedicated file TBD)
-- Star Atlas DAO — `canon/institutions/star_atlas_blockchain.md`
-- Convergence War — `canon/history/convergence_war.md`
-- Tufa myth status — `canon/species/tufa.md`
-- Balifa Grove — `canon/factions/balifa_grove.md` (ecological terror attack on Frenir)
+- Star Atlas DAO — [star_atlas_blockchain.md](../../institutions/star_atlas_blockchain.md)
+- Convergence War — [convergence_war.md](../../history/convergence_war.md)
+- Tufa myth status — [tufa.md](../../species/tufa.md)
+- Balifa Grove — [balifa_grove.md](../../factions/balifa_grove.md) (ecological terror attack on Frenir)
 - Commander Seeikolobe Mineefastu — ONI veteran stationed during Balifa attack
-- Chapter 2 Holosim — `canon/history/chapter2_holosim_balifa_campaign.md` (Frenir trauma drives ONI campaign)
+- Chapter 2 Holosim — [chapter2_holosim_balifa_campaign.md](../../history/chapter2_holosim_balifa_campaign.md) (Frenir trauma drives ONI campaign)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-FRE1: Full backstory of Patrah~~ → Documented in `sons_of_patrah.md`
-- ✅ ~~Q-FRE2: Order of Patrah structure~~ → Documented in `sons_of_patrah.md` (Hearth System, three branches)
-- ⏸️ Q-FRE3: Where exactly is Yuldun Waste? MRZ? HRZ?
-- ⏸️ Q-FRE4: Vaor Skarca — species, background, political motives
-- ⏸️ Q-FRE5: Named warlords who escaped?

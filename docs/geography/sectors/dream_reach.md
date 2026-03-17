@@ -1,10 +1,7 @@
-# 🌌 Canon Document: DREAM REACH (MRZ-35)
+# Dream Reach (MRZ-35)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-35)
-**Influence**: Ustur (dominant heritage)
-**Theme**: Celestial Phenomenon, Medicinal Flora, Spiritual Sanctuary, Retirement Haven
+> Dream Reach derives its name from a rare celestial event.
+
 
 ---
 
@@ -71,14 +68,8 @@ The spectacle draws diverse crowds:
 
 ## Cross-References
 
-- Summer Sea — `canon/geography/sectors/summer_sea.md` (medicinal flora connection possible)
-- Ka-dara — `canon/geography/sectors/ka_dara.md` (Ingbus seeks exotic biological materials)
-- SDU System — `canon/systems/sdu_classification.md` (retired captains as knowledge sources)
+- Summer Sea — [summer_sea.md](./summer_sea.md) (medicinal flora connection possible)
+- Ka-dara — [ka_dara.md](./ka_dara.md) (Ingbus seeks exotic biological materials)
+- SDU System — [sdu_classification.md](../../systems/sdu_classification.md) (retired captains as knowledge sources)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-DRM1: How frequent is the Ephemeral Nebula?~~ → Every six months, lasts one day.
-- ✅ ~~Q-DRM2: Medicinal flora specifics?~~ → Yes, many exist. To be explored in a future deep dive.
-- ⏸️ Q-DRM3: Is there a formal institution (hospital, retreat center, academy) for the psyche/healing traditions?

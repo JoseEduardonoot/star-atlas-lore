@@ -1,7 +1,7 @@
-# 🌌 Canon Document: FOY FIELDS SECTOR (Ustur 5)
+# Foy Fields Sector (Ustur 5)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Safe Zone Sector (Ustur 5 — Economic Nexus / VZUS HQ)
+> The planets of Foy Fields are uniquely imbued with natural electric fields that resonate harmoniously with Ustur physiology — comparable to the relaxation a MUD feels in a thermal pool.
+
 
 ---
 
@@ -48,6 +48,6 @@ The planets of **Foy Fields** are uniquely imbued with **natural electric fields
 
 ## Cross-References
 
-- VZUS: `canon/manufacturers/vzus.md`
-- Ancient AI: `canon/species/ustur.md` (Origin Secret)
-- Eternity: `canon/geography/sectors/eternity.md`
+- VZUS: [vzus.md](../../manufacturers/vzus.md)
+- Ancient AI: [ustur.md](../../species/ustur.md) (Origin Secret)
+- Eternity: [eternity.md](./eternity.md)

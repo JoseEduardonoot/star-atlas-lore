@@ -44,7 +44,7 @@ The creed's absolutism was tested when decorated Tracker **Colm Drexer** â€�
 
 ## The Bestiary
 
-The Lodge maintains the **Beast Archive** â€” the most comprehensive catalog of dangerous alien fauna in the [Galia Expanse](../geography/sectors/galia.md), rivaled only by the [Scriptorium of the Lumikir](../factions/scriptorium_of_the_lumikir.md).
+The Lodge maintains the **Beast Archive** â€” the most comprehensive catalog of dangerous alien fauna in the **Galia Expanse**, rivaled only by the [Scriptorium of the Lumikir](../factions/scriptorium_of_the_lumikir.md).
 
 ### Old Grove Mutants
 
@@ -60,11 +60,11 @@ Space-adapted megafauna that cluster around valuable mining sites. The *Drift Ma
 
 ### Izar Genesium Spawns
 
-Ancestor Machine creations â€” purpose-built predators generated from [genesium](../technology/genesium.md) deposits. The *Ironjaw* has a genesium-laced exoskeleton nearly impervious to kinetic rounds. The [Izarian](../factions/izarians.md) Keepers consider them sacred warnings from the ancestors â€” every hunt requires Council permission.
+Ancestor Machine creations â€” purpose-built predators generated from **genesium** deposits. The *Ironjaw* has a genesium-laced exoskeleton nearly impervious to kinetic rounds. The [Izarian](../factions/izarians.md) Keepers consider them sacred warnings from the ancestors â€” every hunt requires Council permission.
 
 ### HRZ Cataclysm Creatures
 
-Organisms beyond known taxonomy, found in [High-Risk Zone](../geography/sectors/hrz.md) border regions. Some appear to phase between physical states. The Trackers designate them by kill number â€” CC-001 through CC-017, representing seventeen confirmed kills over the DAC's entire history. Of the 342 names on the Wall, **89 died on HRZ border operations** â€” twenty-six percent of total losses from less than two percent of total contracts.
+Organisms beyond known taxonomy, found in **High-Risk Zone** border regions. Some appear to phase between physical states. The Trackers designate them by kill number â€” CC-001 through CC-017, representing seventeen confirmed kills over the DAC's entire history. Of the 342 names on the Wall, **89 died on HRZ border operations** â€” twenty-six percent of total losses from less than two percent of total contracts.
 
 ---
 

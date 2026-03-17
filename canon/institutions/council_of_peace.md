@@ -1,7 +1,7 @@
-# ⚖️ Canon Document: COUNCIL OF PEACE (COP)
+# Council of Peace (COP)
 
-**Status**: 🟢 Canon (Comprehensive Lore Dump, Feb 2026)
-**Source**: Direct Creator input — Sogmian/Maharog Q&A + COP Lore Dump + MRZ Audit
+> The Council of Peace (COP) is the cornerstone of interstellar governance in the Galia Expanse.
+
 
 ---
 

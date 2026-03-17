@@ -1,10 +1,7 @@
-# 🌀 Canon Document: BARROT GATEWAY (MRZ-14)
+# Barrot Gateway (MRZ-14)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Barrot Gateway lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-14)
-**Influence**: ONI
-**Theme**: Mystery, Tourism, Gambling, Cosmic Anomaly, Hidden Horror
+> The Barrot Gateway sits within the heart of the ONI medium zone.
+
 
 ---
 
@@ -136,19 +133,11 @@ The wormhole is a gateway to a **pocket dimension in the HRZ** controlled by a *
 
 ## Cross-References
 
-- Barrot (House Xictus) — `canon/species/sogmian.md` (Sogmian houses — 6+1)
-- Photoli pocket dimensions — `canon/species/photoli.md` (Dark Photoli? HRZ presence at Dawnbreak?)
-- ONI Consortium — `canon/species/mierese.md`, `canon/species/sogmian.md`
-- HRZ territory — `canon/geography/the_cataclysm.md`
-- ATLAS economy — `canon/institutions/star_atlas_blockchain.md`
-- COP jurisdiction in MRZ — `canon/institutions/council_of_peace.md`
+- Barrot (House Xictus) — [sogmian.md](../../species/sogmian.md) (Sogmian houses — 6+1)
+- Photoli pocket dimensions — [photoli.md](../../species/photoli.md) (Dark Photoli? HRZ presence at Dawnbreak?)
+- ONI Consortium — [mierese.md](../../species/mierese.md), [sogmian.md](../../species/sogmian.md)
+- HRZ territory — [the_cataclysm.md](../the_cataclysm.md)
+- ATLAS economy — [star_atlas_blockchain.md](../../institutions/star_atlas_blockchain.md)
+- COP jurisdiction in MRZ — [council_of_peace.md](../../institutions/council_of_peace.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-BAR1: Is the Photoli game master a Dark Photoli or mainstream? Named character?
-- ⏸️ Q-BAR2: House Xictus — is this a known Sogmian house or needs to be added to the canon? (Current canon: 6 named houses + House Gray = 7)
-- ⏸️ Q-BAR3: Does the temporal pendant work only for the wormhole or does it have broader applications?
-- ⏸️ Q-BAR4: Who are the major casino operators? (Deferred — Creator will develop later)
-- ⏸️ Q-BAR5: Are there any Galian authorities who suspect the true nature of the wormhole?

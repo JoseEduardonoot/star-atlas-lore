@@ -1,10 +1,7 @@
-# ⚡ Canon Document: EVERSTORM (MRZ-25)
+# Everstorm (MRZ-25)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Everstorm lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-25)
-**Influence**: ONI
-**Theme**: Iris Influence, Perpetual Storms, Engineering Frontier, Democratic Oasis
+> Everstorm stands as a testament to the profound power of Galia's galactic ecosystem.
+
 
 ---
 
@@ -93,17 +90,10 @@ Everstorm stands as a testament to the profound power of Galia's galactic ecosys
 
 ## Cross-References
 
-- Iris influence — `canon/geography/the_cataclysm.md`
-- Fimbul Industries — `canon/factions/fimbul_industries.md` (founded ~2471, ionic shields, Nimbus Spheres, Sky Fortress builder)
-- Duskbloom Grove — `canon/factions/duskbloom_grove.md` (ECOS anomaly containment grove — hunts Everstorm creatures)
-- Democratic experiments — parallel to Frenir's DAO (`canon/geography/sectors/frenir.md`)
-- Navigation hazards — comparable to Perpetual Belt (`canon/geography/sectors/perpetual_belt.md`)
+- Iris influence — [the_cataclysm.md](../the_cataclysm.md)
+- Fimbul Industries — [fimbul_industries.md](../../factions/fimbul_industries.md) (founded ~2471, ionic shields, Nimbus Spheres, Sky Fortress builder)
+- Duskbloom Grove — [duskbloom_grove.md](../../factions/duskbloom_grove.md) (ECOS anomaly containment grove — hunts Everstorm creatures)
+- Democratic experiments — parallel to Frenir's DAO ([frenir.md](./frenir.md))
+- Navigation hazards — comparable to Perpetual Belt ([perpetual_belt.md](./perpetual_belt.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-EVE1: Names of the 9 Nimbus Spheres?
-- ⏸️ Q-EVE2: What rare resources does Everstorm produce? (Deferred — Creator will detail)
-- ⏸️ Q-EVE3: Is the Iris influence growing or stable?
-- ⏸️ Q-EVE4: Fimbul's fuller history as a neutral MRZ manufacturer

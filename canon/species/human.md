@@ -1,7 +1,8 @@
-# 🌍 Canon Document: HUMAN (MUD)
+# Human (MUD)
 
-**Status**: 🟢 Canon (Integrated Book I + Lore Dump + Archon Truth, Feb 2026)
-**Source**: Creator Input (The Promised Paradise + MUD Lore Dump + Ahr Origin)
+> - Name: Manus Ultima Divina (MUD)
+- Nature: A unified government of humanity, rooted in divine revelation and led by the Holy Family.
+
 
 ---
 

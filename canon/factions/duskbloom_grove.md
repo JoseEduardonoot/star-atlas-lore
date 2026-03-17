@@ -143,7 +143,7 @@ The philosophical tension here runs deeper than tactics. The automatons bear sta
 
 ### What They Are
 
-The creatures infesting the Everstorm are **genesium hybrids** — bio-mechanical organisms created by a [Dark Photoli](../factions/dark_photoli.md) using [genesium](../technology/genesium.md) (the Izar biological-mechanical hybrid material) catalyzed with Dark Photoli essence. They combine organic tissue with inorganic components in configurations that violate known taxonomy.
+The creatures infesting the Everstorm are **genesium hybrids** — bio-mechanical organisms created by a [Dark Photoli](../factions/dark_photoli.md) using **genesium** (the Izar biological-mechanical hybrid material) catalyzed with Dark Photoli essence. They combine organic tissue with inorganic components in configurations that violate known taxonomy.
 
 ### Known Variants
 

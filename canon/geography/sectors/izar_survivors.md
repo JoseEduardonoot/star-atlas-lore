@@ -1,9 +1,7 @@
-# 🕳️ Canon Document: THE SURVIVORS OF IZAR-248
+# The Survivors of Izar-248
 
-**Status**: 🟢 Canon (Aeon Timeline, Feb 2026)
-**Source**: Aeon Timeline JSON — Events 7, 8, 17, 22, 237, 242
-**Zone**: Medium Risk Zone (MRZ-7) — Underground
-**Theme**: Post-Apocalyptic Survival, Knowledge Loss, Underground Civilization, Paclets Agriculture
+> When the gravitational catastrophe of ~1965 shattered the moons and devastated the surface of Izar-248, a handful of survivors fled into the deep underground of the main planet.
+
 
 ---
 

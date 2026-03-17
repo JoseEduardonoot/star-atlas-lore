@@ -1,7 +1,7 @@
-# 🌌 Canon Document: WEEPING NEBULA SECTOR (MRZ-10)
+# Weeping Nebula Sector (MRZ-10)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Hazardous / Crystal Mining)
+> - ~2483: The Weeping Nebula is discovered in MRZ-10 — the beautiful but deadly environmental phenomenon initially makes research in the sector impossible
+
 
 ---
 
@@ -47,7 +47,7 @@ The **Weeping Nebula** owes its evocative name to a singular molecular cloud cra
 
 ## Cross-References
 
-- Iris Academy / Exfeheros — `canon/geography/sectors/zenith_door.md`
+- Iris Academy / Exfeheros — [zenith_door.md](./zenith_door.md)
 
 ---
 

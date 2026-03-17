@@ -257,7 +257,7 @@ The **Dying World Incident** created a deep Punaab-Ustur bond: a Punaab colony i
 
 > *"Exists outside of species political order."*
 
-**Merchant Prince Ayevat** (~2471) discovered the [Denebula Sector](../geography/denebula_utopia.md) and founded a cross-species **kingdom of finance** with partners from across the galaxy:
+**Merchant Prince Ayevat** (~2471) discovered the [Denebula Sector](../geography/sectors/denebula_utopia.md) and founded a cross-species **kingdom of finance** with partners from across the galaxy:
 
 | Member | Species | Role |
 |--------|---------|------|
@@ -320,7 +320,7 @@ Beyond their charm and commercial instincts, Punaab possess traits that make the
 ### Geography
 
 - [Evernat Sector](../geography/sectors/evernat.md) — ONI 3, Punaab homeland
-- [Denebula](../geography/denebula_utopia.md) — Kingdom of Finance
+- [Denebula](../geography/sectors/denebula_utopia.md) — Kingdom of Finance
 - [Glowhaven](../geography/sectors/glowhaven.md) — Dying World Incident
 
 ### Factions

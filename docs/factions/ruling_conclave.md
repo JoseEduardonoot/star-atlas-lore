@@ -175,17 +175,6 @@ The Six Chambers — one per seat — surround a central Council Hall where vote
 - [Named Characters](../meta/named_characters.md) — Varn Crathis, Elias Dorn, Alina Morcant, Mara Vance, Korin.tchr, Silas Wren
 
 ---
-
-## 🔮 Open Questions
-
-- **Does Ike Pavo know about The Night?** If he discovers the Order of Seasons killed his family — and that the Order's agent sits on the Conclave — the political consequences would be catastrophic
-- **Dorn's loyalty erosion** — He is growing increasingly comfortable in political power. At what point does the infiltrator become the thing he infiltrates? The Order watches for this
-- **The Synod's endgame** — MTC controls two seats. What happens when they attempt to secure a third? The VHE and Crumon would unite against them — but could they?
-- **Vance's dual loyalty** — When VHE commercial interests and Ustur strategic stability finally conflict irreconcilably, which side does she choose?
-- **The Emergency Doctrine** — Has it been invoked secretly? What decisions have been made under its authority that the sector is unaware of?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

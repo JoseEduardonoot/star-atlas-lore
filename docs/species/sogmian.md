@@ -1,7 +1,9 @@
-# ⚔️ Canon Document: SOGMIAN
+# Sogmian
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Full Sogmian Lore Chapters + Q&A
+> - Enormous construction spanning thousands of kilometers in the Segal Sector
+- Where every Sogmian is trained after infancy
+- Strict hierarchy reflected in accommodations, food, and rights
+
 
 ---
 
@@ -279,21 +281,3 @@ The Du Prah are **absolute moral rules** designed to contain the Sogmians' innat
 - Now in the Golden Era — recalibrating between old beliefs and new galactic order
 
 ---
-
-## 🔴 Open Questions
-
-- ~~Q-S1: Convergence War~~ ✅ RESOLVED via Maharog chronicle
-- ~~Q-S5: Paizul gender~~ ✅ RESOLVED — female Sov Arei, Bekalu's wife
-- ~~Q-S6: Who killed Paizul~~ ✅ RESOLVED — unknown, Creator hasn't revealed
-- ~~Q-S7: Akalma attack timing~~ ✅ RESOLVED — end of Convergence War
-- ~~Q-S8: Children of Cataclysm~~ ✅ RESOLVED — the **Tufa**. Cataclysm = HRZ territory where **Iris** influences reality
-- ~~Q-S9: Photoli in ONI~~ ✅ RESOLVED — formal members but not deeply interested
-- ⏸️ Q-S2: Sogmian homeworld planet NAME (within Segal sector)?
-- ~~Q-S3: Bekalu's current status~~ ✅ RESOLVED — resigned as Sov Arei ~2528, pressed with guilt over the Akalma Reckoning (user input, Feb 2026)
-- ⏸️ Q-S4: Other notable Sogmian characters?
-
-> [!CAUTION]
-> **KI ARTIFACT ERRORS**: `master_lore.md` listed "Simian Vows" (correct: **Sogmian Vows/Du Prah**).
-> Listed Lutavira as "Arts" (correct: **Leadership/Success**).
-> Listed 7 houses without mentioning Akalma's banishment.
-> Listed Paizul as male (correct: **female**).

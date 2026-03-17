@@ -1,7 +1,7 @@
-# 🔧 Canon Document: OPAL INDUSTRIES
+# Opal Industries
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (MUD/Ustur Collaboration)
+> Opal is the galaxy's youngest manufacturer, forged from a remarkable synthesis of MUD firepower and flawless Ustur engineering.
+
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## Cross-References
 
-- Ustur species: [ustur.md](/species/ustur.md)
-- MUD: [human.md](/species/human.md)
-- Azut Sector: [azut.md](/geography/sectors/azut.md)
-- Eternity Sector: [eternity.md](/geography/sectors/eternity.md)
+- Ustur species: [ustur.md](../species/ustur.md)
+- MUD: [human.md](../species/human.md)
+- Azut Sector: [azut.md](../geography/sectors/azut.md)
+- Eternity Sector: [eternity.md](../geography/sectors/eternity.md)

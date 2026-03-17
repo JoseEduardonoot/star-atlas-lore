@@ -170,7 +170,7 @@ The galaxy's most sensitive internal conflict: the Hikibashi's Undertow monitors
 |------|-----------|--------|------|-------|
 | **Vaor Scarka** | Volmik Vaor Scarka | Eskscarka | ONI leader + COP Ruling Secretary | Hikibashi graduate (all three Currents). Former COP Admiral. The galaxy's most powerful diplomat was trained as an assassin |
 | **Ondara Valel** | TBD | Morvalel | Chief Lore Keeper | Guardian of the 3 Sealed Chapters. The most politically powerful cultural figure in Mierese society |
-| **Mevertrase** | TBD | Unknown | Mierese representative | Joined Ayevat's [Denebula](../geography/denebula_utopia.md) finance kingdom |
+| **Mevertrase** | TBD | Unknown | Mierese representative | Joined Ayevat's [Denebula](../geography/sectors/denebula_utopia.md) finance kingdom |
 | **Dosk Scarka** | Plirk Dosk Scarka | Eskscarka | Hikibashi Deep Current operative | Assigned to [Frenir](../geography/sectors/frenir.md) under cover as "Community Liaison" |
 | **Trill Yara** | TBD | Umbyara | Hikibashi Riptide operative | The only Hikibashi operative ever confirmed exposed (Pergamos Incident). Burned |
 | **Mirsk Eko** | TBD | Vireko | Hikibashi Undertow chief | Leads counterintelligence. Monitors the Lore Keepers for Sealed Chapters access |
@@ -255,7 +255,7 @@ The existence of three distinct Mierese polities — one presiding over the gala
 - [Pergamos](../geography/sectors/pergamos.md) — Shadow Banks conflict, COP incursion
 - [Zenith Door](../geography/sectors/zenith_door.md) — Chior vs Scarka ideological clash
 - [Coral Nebula](../geography/sectors/coral_nebula.md) — Early Mierese exploration (MRZ-18)
-- [Denebula](../geography/denebula_utopia.md) — Cross-species finance hub (Mevertrase)
+- [Denebula](../geography/sectors/denebula_utopia.md) — Cross-species finance hub (Mevertrase)
 
 ### History & Narratives
 

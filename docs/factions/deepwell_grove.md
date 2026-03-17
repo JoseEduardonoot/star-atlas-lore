@@ -273,12 +273,12 @@ Miara does not speculate publicly. She collects data. She has been collecting da
 
 ## Cross-References
 
-- ECOS — `canon/factions/earth_conscious_ontological_society.md` (parent, High Circle Seat 7)
-- Hanging Gardens — `canon/factions/hanging_gardens_government.md` (High Circle structure)
-- Iris Academy — `canon/factions/iris_academy.md` (The Nursery co-founders, Ilidae Project, Verdance College)
-- Ilidae sector — `canon/geography/sectors/ilidae.md` (HQ, Termik lore)
-- Ashroot Grove — `canon/factions/ashroot_grove.md` (research partnership, mutation data)
-- Duskbloom Grove — `canon/factions/duskbloom_grove.md` (biological data partnership)
-- Lumiro Grove — `canon/factions/lumiro_grove.md` (ecosystem analysis partnership)
-- Scriptorium — `canon/factions/scriptorium_of_the_lumikir.md` (monolith data exchange)
-- Master Timeline — `canon/meta/master_timeline.md` (intervention ~2501, Nursery ~2569)
+- ECOS — [earth_conscious_ontological_society.md](./earth_conscious_ontological_society.md) (parent, High Circle Seat 7)
+- Hanging Gardens — [hanging_gardens_government.md](./hanging_gardens_government.md) (High Circle structure)
+- Iris Academy — [iris_academy.md](./iris_academy.md) (The Nursery co-founders, Ilidae Project, Verdance College)
+- Ilidae sector — [ilidae.md](../geography/sectors/ilidae.md) (HQ, Termik lore)
+- Ashroot Grove — [ashroot_grove.md](./ashroot_grove.md) (research partnership, mutation data)
+- Duskbloom Grove — [duskbloom_grove.md](./duskbloom_grove.md) (biological data partnership)
+- Lumiro Grove — [lumiro_grove.md](./lumiro_grove.md) (ecosystem analysis partnership)
+- Scriptorium — [scriptorium_of_the_lumikir.md](./scriptorium_of_the_lumikir.md) (monolith data exchange)
+- Master Timeline — [master_timeline.md](../meta/master_timeline.md) (intervention ~2501, Nursery ~2569)

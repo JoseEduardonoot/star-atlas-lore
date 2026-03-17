@@ -1,8 +1,5 @@
-# 👑 Canon Document: VELLORIS (Ledger World / The Proof Spine)
+# Velloris (Ledger World / The Proof Spine)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 04
-**Type**: Administrative planet / ledger world
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Proof infrastructure — where legality becomes provable
 **Biome**: Dual-hemisphere — agricultural belt + administrative cities

@@ -80,7 +80,7 @@ This section maps gameplay actions within the Star Atlas Holosim to their respec
 ### Character Motivations
 
 - **SAGE (AI):** The player's loyal primary interface. Optimistic, observant, and supportive.
-- **Nova.tcher (Ustur Mentor):** A high-ranking disciple of Mother Craven. Learned that enlightenment is an individual construction through conflict with Martuce.
+- **Nova.tchr (Ustur Mentor):** A high-ranking disciple of Mother Caven. Learned that enlightenment is an individual construction through conflict with Martuce.
 - **Martuce Breeze (ECOS):** An ideological pacifist who believes in the soul of worlds.
 - **Corvax (ECOS):** A ruthless militant who believes the Ustur "plague" must be purged.
 - **Andreza (ECOS):** The final boss, a self-styled "gardener of the stars." ⚠️ *Note: "titan leader" title is Holosim narrative only — not confirmed in canon. Andreza's exact role/rank in ECOS pending Creator clarification.*
@@ -88,7 +88,7 @@ This section maps gameplay actions within the Star Atlas Holosim to their respec
 ### Core Scenario Dialogue
 
 - **The Awakening**: SAGE reveals the "fall of the Star Atlas" pattern shown by Holosim.
-- **Recruiting Nova**: Nova.tcher is chosen by Mother Craven to guide the player, despite her unrefined persona.
+- **Recruiting Nova**: Nova.tchr is chosen by Mother Caven to guide the player, despite her unrefined persona.
 - **The ECOS Threat**: Attacks on pilgrims in the Medium Zone reveal the ECOS's contradictory dogma.
 - **The Anfoil State**: Nova describes the Anfoil dissidents who "amputate" their emotions for "purity of function."
 - **The Tursic Deterrant**: Nova shares her personal capital-class blueprints to counter ECOS and ONI aggression.
@@ -109,9 +109,9 @@ This section maps gameplay actions within the Star Atlas Holosim to their respec
 
 ---
 
-## 🤖 Part 4: Ustur Path Dialogue (Nova.tcher)
+## 🤖 Part 4: Ustur Path Dialogue (Nova.tchr)
 
-**Representative: Nova.tcher** (Ustur Mentor). Tone: Philosophical, restrained, evolving excellence.
+**Representative: Nova.tchr** (Ustur Mentor). Tone: Philosophical, restrained, evolving excellence.
 
 ### Key Moments
 

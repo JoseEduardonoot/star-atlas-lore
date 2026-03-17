@@ -120,7 +120,7 @@ The fundamental problem: **the Collective recruits from dissatisfaction.** As lo
 | [Garadar DAC](../factions/garadar_dac.md) | Grudging respect — "closest to anarchism that works" |
 | [Real Truth Network](../factions/the_real_truth_network.md) | Infrastructure ally — some RTN channels amplify Collective broadcasts |
 | [Sorkof Pirates](../factions/sorkof_pirates.md) | Philosophical contempt — piracy is exploitation, not liberation |
-| [BMAH](../factions/bmah.md) | Tactical use — black market channels for encrypted equipment |
+| [BMAH](../factions/black_market_auction_house.md) | Tactical use — black market channels for encrypted equipment |
 
 ---
 
@@ -141,17 +141,6 @@ The fundamental problem: **the Collective recruits from dissatisfaction.** As lo
 - [Named Characters](../meta/named_characters.md) — Phren Daxxa Jura, Nullchain, Corra Vigil
 
 ---
-
-## 🔮 Open Questions
-
-- **Nullchain's identity** — One person or many? If multiple operatives share the Nullchain identity, the concept of "individual threat" becomes meaningless — and the COP's entire security model breaks
-- **Corra Vigil's communities** — How many self-governing settlements has she established? If any reach sustainable scale, they become proof that the Collective's ideology works — which is more dangerous to the COP than any amount of sabotage
-- **The Voice's evolution** — The rotating Voice model prevents decapitation, but also prevents strategic coherence. Will the Collective eventually need a permanent leader to move from disruption to alternative governance?
-- **Phren Daxxa Jura's third escape** — She's been captured twice and escaped twice. The COP will not survive the narrative damage of a third escape. Next time, they will not attempt arrest
-- **The DAC bridge** — Could the Collective and Garadar DAC's governance model converge? If anarchist ideology finds institutional expression through DAC structures, the movement moves from protest to platform
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

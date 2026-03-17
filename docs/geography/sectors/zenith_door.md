@@ -1,10 +1,5 @@
-# 🚪 Canon Document: ZENITH DOOR (MRZ-36)
+# Zenith Door (MRZ-36)
 
-**Status**: 🟢 Canon (Creator-provided + Archon Cross-Reference Enrichment, Mar 2026)
-**Source**: Direct Creator input — Zenith Door lore document + cross-referenced from `ustur.md`, `iris_academy.md`, `church_of_the_dreamer_below.md`, `bmah.md`, `never_alone_campaign.md`, `punaab.md`, `anfoil_states.md`, `eras_of_star_atlas.md`, `weeping_nebula.md`, `lumik.md`, `eol_garadar.md`, `bluevael_mining_colonies.md`
-**Zone**: Medium Risk Zone (MRZ-36)
-**Influence**: ONI (ONI/Ustur border — closest ONI territory to HRZ)
-**Theme**: Diplomatic Capital, Iris Academy HQ, Dawn Vanguard, Chior's Peace
 **Scale**: T2 — Sector Power (Chior.eldr governs the entire sector via diplomatic consensus)
 
 ---
@@ -189,8 +184,8 @@ An elite military force stationed in a pacifist's domain. Chior did not invite t
 > The "war" Chior opposes refers to **recent COP invasions of MRZ territories** — including Pergamos and Frenir. The peace-keeping body has become an aggressor.
 
 - The COP, under Vaor Scarka's influence, has **invaded MRZ sectors**:
-  - **Pergamos** — COP military intervention (`canon/geography/sectors/pergamos.md`)
-  - **Frenir** — COP-imposed order after warlord era (`canon/geography/sectors/frenir.md`)
+  - **Pergamos** — COP military intervention ([pergamos.md](./pergamos.md))
+  - **Frenir** — COP-imposed order after warlord era ([frenir.md](./frenir.md))
 - Scarka's declared milestones: Frenir slave traders destroyed, Jorvik influence disrupted, Pergamos agreements signed
 - Despite a declared cease-fire, the threat of escalation remains
 
@@ -244,36 +239,21 @@ Chior's centuries of diplomatic work have woven Zenith Door into a web of relati
 
 ## Cross-References
 
-- Vaor Scarka / COP — `canon/institutions/council_of_peace.md`
-- Dawn Vanguard — COP fleet (`canon/institutions/council_of_peace.md`)
-- Iris Academy — `canon/factions/iris_academy.md` (HQ at Carvum, Project Starpath, Council of Professors)
-- Prof. Exfeheros — `canon/factions/iris_academy.md`, `canon/species/punaab.md` (Punaab, Academy Headmaster)
-- Chior.eldr — `canon/species/ustur.md` (Notable Figures, born ~2391, trained by Armi.eldr)
-- Herdus.soul — `canon/factions/church_of_the_dreamer_below.md`, `canon/factions/black_market_auction_house.md` (co-founder turned cult prophet)
-- COP invasions — Pergamos (`canon/geography/sectors/pergamos.md`), Frenir (`canon/geography/sectors/frenir.md`)
-- Free Cities of Humanity — `canon/geography/sectors/redam.md`, `canon/history/eras_of_star_atlas.md`
-- Anfoil State / Ponel.eldr — `canon/geography/sectors/anfoil_states.md`, `canon/factions/anfoil_state.md`
-- Eol Garadar / Zagah.eldr — `canon/geography/sectors/eol_garadar.md`
-- Iris Academy branches — Glowhaven (`canon/geography/sectors/glowhaven.md`), Weeping Nebula (`canon/geography/sectors/weeping_nebula.md`)
-- Iris Academy partnerships — Scriptorium of Lumikir (`canon/geography/sectors/lumik.md`), Bluevael investigation (`canon/factions/bluevael_mining_colonies.md`)
-- Saand / Never Alone — `canon/narratives/never_alone_campaign.md` (Commander Goe on Carvum, Dawn Vanguard rescue)
-- Church of the Dreamer Below — `canon/factions/church_of_the_dreamer_below.md` (Herdus.soul's creation)
-- BMAH — `canon/factions/black_market_auction_house.md` (Herdus.soul as Leading Auctioneer)
-- Faction Classification — `canon/meta/faction_power_classification.md` (T2 — Sector Power)
+- Vaor Scarka / COP — [council_of_peace.md](../../institutions/council_of_peace.md)
+- Dawn Vanguard — COP fleet ([council_of_peace.md](../../institutions/council_of_peace.md))
+- Iris Academy — [iris_academy.md](../../factions/iris_academy.md) (HQ at Carvum, Project Starpath, Council of Professors)
+- Prof. Exfeheros — [iris_academy.md](../../factions/iris_academy.md), [punaab.md](../../species/punaab.md) (Punaab, Academy Headmaster)
+- Chior.eldr — [ustur.md](../../species/ustur.md) (Notable Figures, born ~2391, trained by Armi.eldr)
+- Herdus.soul — [church_of_the_dreamer_below.md](../../factions/church_of_the_dreamer_below.md), [black_market_auction_house.md](../../factions/black_market_auction_house.md) (co-founder turned cult prophet)
+- COP invasions — Pergamos ([pergamos.md](./pergamos.md)), Frenir ([frenir.md](./frenir.md))
+- Free Cities of Humanity — [redam.md](./redam.md), [eras_of_star_atlas.md](../../history/eras_of_star_atlas.md)
+- Anfoil State / Ponel.eldr — [anfoil_states.md](./anfoil_states.md), [anfoil_state.md](../../factions/anfoil_state.md)
+- Eol Garadar / Zagah.eldr — [eol_garadar.md](./eol_garadar.md)
+- Iris Academy branches — Glowhaven ([glowhaven.md](./glowhaven.md)), Weeping Nebula ([weeping_nebula.md](./weeping_nebula.md))
+- Iris Academy partnerships — Scriptorium of Lumikir ([lumik.md](./lumik.md)), Bluevael investigation ([bluevael_mining_colonies.md](../../factions/bluevael_mining_colonies.md))
+- Saand / Never Alone — [never_alone_campaign.md](../../narratives/never_alone_campaign.md) (Commander Goe on Carvum, Dawn Vanguard rescue)
+- Church of the Dreamer Below — [church_of_the_dreamer_below.md](../../factions/church_of_the_dreamer_below.md) (Herdus.soul's creation)
+- BMAH — [black_market_auction_house.md](../../factions/black_market_auction_house.md) (Herdus.soul as Leading Auctioneer)
+- Faction Classification — [faction_power_classification.md](../../meta/faction_power_classification.md) (T2 — Sector Power)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-ZEN1: Species/rank~~ → **Ustur Elder** (confirmed via `ustur.md`)
-- ✅ ~~Q-ZEN2: Chior.eldr full character deep-dive~~ → Full timeline compiled from birth (~2391) through COP crisis (~2623). Trained by Armi.eldr, twin pupil with Ponel.eldr
-- ✅ ~~Q-ZEN3: Iris Academy full structure and research areas~~ → Council of Professors, AI overseer, Project Starpath, Carvum details. Further department-level detail deferred for Creator
-- ✅ ~~Q-ZEN4: Dawn Vanguard — fleet composition, commander?~~ → C11 capital ship, Sogmian commander, missile barrages, tractor beams. Commander's name still unknown
-- ✅ ~~Q-ZEN5: Prof. Exfeheros — species, background?~~ → **Punaab**. Full name "Exfeheros Platinum Bar". Greatest scientist in Galia. Developed Weeping Nebula exploration tech
-- ⏸️ Q-ZEN6: COP invasions full timeline and details (partially enriched — Pergamos + Frenir confirmed, Scarka's truce milestones added)
-- ⏸️ Q-ZEN7: Dawn Vanguard commander's name?
-- ⏸️ Q-ZEN8: Does Chior know the full truth of what Herdus became? (Church of the Dreamer Below, BMAH)
-- ⏸️ Q-ZEN9: How does Chior feel about the Dawn Vanguard stationed in his sector?
-- ⏸️ Q-ZEN10: How many worlds/stations does Zenith Door have beyond Carvum? (Phase 2 — World Sheets)
-- ⏸️ Q-ZEN11: What is the sector's economy beyond the Iris Academy?
-- ⏸️ Q-ZEN12: What other factions operate in or pass through Zenith Door?

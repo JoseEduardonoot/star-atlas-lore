@@ -1,7 +1,5 @@
-# 👑 Canon Document: CRUMON (Species)
+# Crumon (Species)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Pavo Passage Deep-Dive
 **Classification**: Sentient Species (Native to Pavo Passage region)
 **Homeworld**: Pavo Passage sector (MRZ-17)
 

@@ -21,7 +21,7 @@
 
 **The Real Truth Network** (RTN) is the galaxy's largest independent media platform — a decentralized broadcast ecosystem where hundreds of independent channels compete for audience, influence, and advertising revenue. In a galaxy where [MUD](../factions/mud.md), [ONI](../factions/oni.md), and [Ustur](../species/ustur.md) each control their own media empires, the truth is whatever the strongest faction says it is. The RTN exists as the space where everything the factions do not want broadcast gets broadcast anyway — from explosive investigative journalism to unhinged conspiracy theories to war-zone live streams.
 
-What makes the RTN dangerous is not any single channel. It is the ecosystem itself. The platform is too decentralized to shut down, too popular to ignore, and too anarchic to predict. Factions have tried censoring, infiltrating, and co-opting it. All have failed — because the RTN's real power is in the fact that millions of beings across [Galia](../geography/sectors/galia.md) tune in every cycle to hear something other than what their faction tells them.
+What makes the RTN dangerous is not any single channel. It is the ecosystem itself. The platform is too decentralized to shut down, too popular to ignore, and too anarchic to predict. Factions have tried censoring, infiltrating, and co-opting it. All have failed — because the RTN's real power is in the fact that millions of beings across **Galia** tune in every cycle to hear something other than what their faction tells them.
 
 In a galaxy of controlled narratives, the RTN is the noise. And in the noise, sometimes, there is signal.
 
@@ -187,18 +187,6 @@ The [Pergamos Shadow Banks](../factions/pergamos_shadow_banks.md) are suspected 
 - [Faction Power Classification](../meta/faction_power_classification.md) — T4 Influence Network
 
 ---
-
-## 🔮 Open Questions
-
-- **Who runs The Veil Lifted?** — The most-watched conspiracy channel on the RTN is anonymous. Some theories about Iris and the Cataclysm are uncomfortably close to canon truths. Is the anonymous operator a faction plant, a rogue academic, or something else entirely?
-- **The Pergamos paradox** — The Shadow Banks may be funding RTN channels that investigate the Shadow Banks. Is this insurance, distraction, or controlled opposition? And what happens if the channels discover who's paying them?
-- **Kess — one or many?** — Reportedly killed three times by different factions, yet keeps broadcasting from conflict zones. Is Kess a single extremely durable Mierese, or has "Kess" become an identity passed between operators? If the latter, the RTN has accidentally invented immortal journalism
-- **The Tenth Cycle bias** — The purge mechanism rewards engagement over accuracy. Conspiracy channels thrive; careful investigative work dies in obscurity. Is the RTN's greatest threat the information it suppresses through economics rather than censorship?
-- **COP infiltration** — COP officially condemns the RTN while secretly leaking to it. At what point does the leak pipeline become so dependent that the RTN is effectively the COP's unofficial media arm — neutralized by integration rather than suppression?
-- **The Greth Voraan question** — A former ONI aide whose analysis is dangerously accurate. Does ONI want him silenced — or is he still serving ONI interests, leaking what they want the MRZ to know while concealing what they don't?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -1,7 +1,7 @@
-# 🌌 Canon Document: PERGAMOS-VIII SECTOR (MRZ-4)
+# Pergamos-viii Sector (MRZ-4)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Economic Behemoth)
+> Located at the heart of the MUD Medium Zone, Pergamos stands as a behemoth of economic prowess — derived from abundant natural resources and deep connections to Galia's shadowy recesses.
+
 
 ---
 
@@ -15,7 +15,7 @@ Located at the heart of the MUD Medium Zone, **Pergamos** stands as a behemoth o
 
 - **Accommodating stance** towards Jorvik and fringe entities.
 - **~2542**: Pergamos formally begins **forming alliances with major MRZ factions**, becoming a **major harbor for Jorvik, ECOS, and other outlaw groups**
-- **~2553**: Pergamos begins **financing warring factions** in the Abyd-IX conflict, making **tons of ATLAS** from war profiteering (`canon/geography/sectors/abyd.md`)
+- **~2553**: Pergamos begins **financing warring factions** in the Abyd-IX conflict, making **tons of ATLAS** from war profiteering ([abyd.md](./abyd.md))
 - **~2574**: The Merchants of Pergamos create the **Shadow Contracts** — a system of **illegal and untraceable trading and financing** instruments designed for the Medium Risk Zone's grey economy
 - Trades in the universal currency of **ATLAS** and remains **indifferent to its origins**.
 - Stark socioeconomic disparity: **10% of the population** (human aristocracy) controls the biggest share of wealth.
@@ -52,5 +52,5 @@ Located at the heart of the MUD Medium Zone, **Pergamos** stands as a behemoth o
 
 ## Cross-References
 
-- COP Offensive: `canon/institutions/council_of_peace.md`
-- Cradle (Titan): `canon/institutions/council_of_peace.md`
+- COP Offensive: [council_of_peace.md](../../institutions/council_of_peace.md)
+- Cradle (Titan): [council_of_peace.md](../../institutions/council_of_peace.md)

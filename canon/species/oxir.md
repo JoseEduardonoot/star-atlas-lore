@@ -1,7 +1,5 @@
-# 🌀 Canon Document: OXIR
+# Oxir
 
-**Status**: 🟡 Stub (Aeon Timeline data, Feb 2026)
-**Source**: Aeon Timeline Event + Creator clarification
 **Location**: High Risk Zone (HRZ)
 
 ---

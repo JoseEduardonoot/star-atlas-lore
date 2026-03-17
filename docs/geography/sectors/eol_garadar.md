@@ -1,10 +1,7 @@
-# ⚔️ Canon Document: EOL-GARADAR (MRZ-23)
+# Eol-garadar (MRZ-23)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-23)
-**Influence**: Ustur (but independently governed)
-**Theme**: Noble Heroes, Champions of Liberty, Anti-Slavery, Universal Rights
+> Eol-Garadar stands as a shining beacon, renowned as the home of noble heroes and champions of liberty.
+
 
 ---
 
@@ -81,20 +78,12 @@ This altruistic ethos magnetizes countless souls from diverse origins, each aspi
 
 ## Cross-References
 
-- Garadar DAC — `canon/factions/garadar_dac.md` (the DAC that governs and defends the sector — full deep-dive)
-- Council of Peace — `canon/institutions/council_of_peace.md` (Eol-Garadar operates outside COP jurisdiction)
-- Crumon Dynasty — `canon/factions/crumon_dynasty.md` (former Crumon oppressor, pre-liberation)
-- Lumiro Grove — `canon/factions/lumiro_grove.md` (ECOS terraformers who rescued the sector during the Moon Shattering)
-- Ustur — `canon/species/ustur.md` (MRZ Ustur-influenced space, Zagah's origin)
-- Frenir New Government — `canon/factions/frenir_new_government.md` (DAC patrols Frenir borders)
-- Slavers of Frenir — `canon/factions/slavers_of_frenir.md` (primary enemy target)
+- Garadar DAC — [garadar_dac.md](../../factions/garadar_dac.md) (the DAC that governs and defends the sector — full deep-dive)
+- Council of Peace — [council_of_peace.md](../../institutions/council_of_peace.md) (Eol-Garadar operates outside COP jurisdiction)
+- Crumon Dynasty — [crumon_dynasty.md](../../factions/crumon_dynasty.md) (former Crumon oppressor, pre-liberation)
+- Lumiro Grove — [lumiro_grove.md](../../factions/lumiro_grove.md) (ECOS terraformers who rescued the sector during the Moon Shattering)
+- Ustur — [ustur.md](../../species/ustur.md) (MRZ Ustur-influenced space, Zagah's origin)
+- Frenir New Government — [frenir_new_government.md](../../factions/frenir_new_government.md) (DAC patrols Frenir borders)
+- Slavers of Frenir — [slavers_of_frenir.md](../../factions/slavers_of_frenir.md) (primary enemy target)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-EOL1: Who leads Eol-Garadar?~~ → **Grand Master Zagah** (Ustur Elder) leads via DAC governance. See `garadar_dac.md`
-- ✅ ~~Q-EOL2: Species composition?~~ → Truly multi-species: Ustur monks, MUD settlers, Sogmian laborers, Mierese scouts, Punaab traders
-- ✅ ~~Q-EOL3: Military structure?~~ → Legions (500-2,000 multi-species), Gravity Patrols (20-50), Scout Wings, Matel Guard. See `garadar_dac.md`
-- ⏸️ Q-EOL4: Relationship with Chior.eldr / Zenith Door? (Both seek peace but through different means — Chior via diplomacy, Zagah via action)
-- ✅ ~~Q-EOL5: Specific slaver factions?~~ → Slavers of Frenir (remnants), Jorvik criminal networks. Active border patrols in Frenir (~2624+)

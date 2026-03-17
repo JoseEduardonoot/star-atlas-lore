@@ -1,10 +1,7 @@
-# ☀️ Canon Document: SUMMER SEA (MRZ-21)
+# Summer Sea (MRZ-21)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-21)
-**Influence**: Ustur
-**Theme**: Extreme Heat, Underground Civilization, Resilient Ecosystems, Blue Giant Star
+> Upon their arrival in this sector, the Ustur grappled with capturing the essence of the searing heat emanating from the colossal blue giant star that dominated the expanse.
+
 
 ---
 
@@ -49,9 +46,9 @@ Upon their arrival in this sector, the Ustur grappled with capturing the essence
 
 ### The Relic Barons Observatory (~2557)
 
-- **~2557**: The **Relic Barons** (`canon/factions/relic_barons.md`) install a **massive space observatory** at Summer Sea, powered by the **nearly infinite energy** of the sector's colossal blue giant star
+- **~2557**: The **Relic Barons** ([relic_barons.md](../../factions/relic_barons.md)) install a **massive space observatory** at Summer Sea, powered by the **nearly infinite energy** of the sector's colossal blue giant star
 - **Goal**: To observe **deep into the High Risk Zone** — the extreme energy source enables detection ranges far beyond conventional instruments
-- This marks the first major Relic Barons presence **outside Harkend** (`canon/geography/sectors/harkend.md`)
+- This marks the first major Relic Barons presence **outside Harkend** ([harkend.md](./harkend.md))
 
 ---
 
@@ -78,15 +75,7 @@ Upon their arrival in this sector, the Ustur grappled with capturing the essence
 
 ## Cross-References
 
-- Ustur — `canon/species/ustur.md`
-- Everstorm — `canon/geography/sectors/everstorm.md` (another extreme-environment MRZ sector)
+- Ustur — [ustur.md](../../species/ustur.md)
+- Everstorm — [everstorm.md](./everstorm.md) (another extreme-environment MRZ sector)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-SUM1: Names of major underground settlements?
-- ⏸️ Q-SUM2: What specific gaseous deposits does the vegetation convert?
-- ⏸️ Q-SUM3: Population — Ustur-dominant or multi-species?
-- ⏸️ Q-SUM4: Economic output — what does Summer Sea export?
-- ⏸️ Q-SUM5: Governance structure?

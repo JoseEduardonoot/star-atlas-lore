@@ -1,8 +1,5 @@
-# 👑 Canon Document: CRUSHSPIRE (Arco World / Dynastic Stronghold)
+# Crushspire (Arco World / Dynastic Stronghold)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 03
-**Type**: Industrial planet / dynastic stronghold
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Resource-backed power — where dynasty becomes infrastructure
 **Primary Export**: Arco Crystal
@@ -128,9 +125,9 @@ A sealed extraction shaft that "should" be decommissioned, yet sometimes shows s
 
 ## Cross-References
 
-- Crumon Dynasty — [crumon_dynasty.md](/factions/crumon_dynasty.md) (Ike Pavo base)
+- Crumon Dynasty — [crumon_dynasty.md](../../factions/crumon_dynasty.md) (Ike Pavo base)
 - Arco Crystal — primary mineral resource of the sector
 - Spire Foundries → Ustur Elder Spire on Ioki (architectural imitation)
-- TAPP — [tapp.md](/factions/toll_authority_of_pavo_passage.md) (Quota Office = extraction quotas)
-- Winter Fist Path — [winter_fist_path.md](/factions/winter_fist_path.md) (Hardship Shrine on Crushspire)
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- TAPP — [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md) (Quota Office = extraction quotas)
+- Winter Fist Path — [winter_fist_path.md](../../factions/winter_fist_path.md) (Hardship Shrine on Crushspire)
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

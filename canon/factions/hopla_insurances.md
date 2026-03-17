@@ -62,7 +62,7 @@ The Relic alone could not run a galactic corporation. The **AI Oracle** translat
 > *"You break it, we fix it. You get blown up, we rebuild you."*
 > â€” **Vanic.doer**
 
-The revenue engine â€” insuring fleets, stations, and infrastructure against combat damage. Nova Division insures an estimated fifteen percent of all active ships in the [Galia Expanse](../geography/sectors/galia.md). Premium clients receive artifact-powered nano-swarms for mid-combat hull repair. War zone premiums are so accurate that competitors use them as a proxy for conflict intensity.
+The revenue engine â€” insuring fleets, stations, and infrastructure against combat damage. Nova Division insures an estimated fifteen percent of all active ships in the **Galia Expanse**. Premium clients receive artifact-powered nano-swarms for mid-combat hull repair. War zone premiums are so accurate that competitors use them as a proxy for conflict intensity.
 
 ### Echo Branch
 

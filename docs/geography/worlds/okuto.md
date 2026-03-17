@@ -1,8 +1,5 @@
-# 👑 Canon Document: OKUTO (Dwarf Planet / Neutral Gray Exchange)
+# Okuto (Dwarf Planet / Neutral Gray Exchange)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 05
-**Type**: Dwarf planet / neutral gray exchange
 **Sector**: Pavo Passage (MRZ-17)
 **Local Name**: Formerly known as "Riftmarket"
 **Function**: Pressure valve — where opportunity moves at a price
@@ -150,9 +147,9 @@ Industrial lanes where salvage is stripped, melted, and repurposed. It's where e
 ## Cross-References
 
 - BMAH (Black Market Auction House) — galactic gray/black market network
-- Tollhaven — [tollhaven.md](/geography/worlds/tollhaven.md) (throughput counterpart)
-- Velloris — [velloris.md](/geography/worlds/velloris.md) (proof/credential counterpart)
-- MTC — [mtc.md](/factions/meridian_trading_company.md) (predatory financing through intermediaries)
-- Crumon Dynasty — [crumon_dynasty.md](/factions/crumon_dynasty.md) (deniable supply chains)
-- Order of Seasons — [order_of_seasons.md](/factions/order_of_seasons.md) (rumored "information that kills")
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- Tollhaven — [tollhaven.md](./tollhaven.md) (throughput counterpart)
+- Velloris — [velloris.md](./velloris.md) (proof/credential counterpart)
+- MTC — [meridian_trading_company.md](../../factions/meridian_trading_company.md) (predatory financing through intermediaries)
+- Crumon Dynasty — [crumon_dynasty.md](../../factions/crumon_dynasty.md) (deniable supply chains)
+- Order of Seasons — [order_of_seasons.md](../../factions/order_of_seasons.md) (rumored "information that kills")
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

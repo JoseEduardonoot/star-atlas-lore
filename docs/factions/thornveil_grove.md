@@ -209,11 +209,11 @@ Station Verdura maintains a strict 800-person cap. But what happens when a crisi
 
 ## Cross-References
 
-- Coral Nebula sector — `canon/geography/sectors/coral_nebula.md`
-- Coral Dwellers — `canon/factions/coral_dwellers.md`
-- ECOS (parent) — `canon/factions/earth_conscious_ontological_society.md`
-- Hanging Gardens — `canon/factions/hanging_gardens_government.md` (High Circle Seat 4)
-- Lumiro Grove — `canon/factions/lumiro_grove.md` (joint reef restoration)
-- Deepwell Grove — `canon/factions/deepwell_grove.md` (Species Monitoring Network)
-- Iris Academy — `canon/factions/iris_academy.md` (research exchange)
-- History — `canon/meta/master_timeline.md` (est. ~2493)
+- Coral Nebula sector — [coral_nebula.md](../geography/sectors/coral_nebula.md)
+- Coral Dwellers — [coral_dwellers.md](./coral_dwellers.md)
+- ECOS (parent) — [earth_conscious_ontological_society.md](./earth_conscious_ontological_society.md)
+- Hanging Gardens — [hanging_gardens_government.md](./hanging_gardens_government.md) (High Circle Seat 4)
+- Lumiro Grove — [lumiro_grove.md](./lumiro_grove.md) (joint reef restoration)
+- Deepwell Grove — [deepwell_grove.md](./deepwell_grove.md) (Species Monitoring Network)
+- Iris Academy — [iris_academy.md](./iris_academy.md) (research exchange)
+- History — [master_timeline.md](../meta/master_timeline.md) (est. ~2493)

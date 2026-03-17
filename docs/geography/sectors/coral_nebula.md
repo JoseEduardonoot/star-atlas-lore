@@ -1,10 +1,7 @@
-# 🪸 Canon Document: CORAL NEBULA (MRZ-18)
+# Coral Nebula (MRZ-18)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Coral Nebula lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-18)
-**Influence**: ONI
-**Theme**: Bio-mystery, Psychic Symbiosis, Pharma/Biotech, Hidden Horror
+> The Coral Nebula stands out in the galactic tapestry for its enigmatic flora, dominated by mesmerizing prismatic corals.
+
 
 ---
 
@@ -142,18 +139,10 @@ Creatures native to the Coral Nebula **feed on the prismatic corals** and **acqu
 
 ## Cross-References
 
-- Coral Dwellers — `canon/factions/coral_dwellers.md` (settler faction, Coral Effect, Census Watchers)
-- Thornveil Grove — `canon/factions/thornveil_grove.md` (ECOS grove studying coral psychic symbiosis)
-- Psychic energy / Essence — parallel to Photoli essence mechanics (`canon/species/photoli.md`)
-- Biotech industry — possible Tufa/Genesium parallels (`canon/species/tufa.md`)
+- Coral Dwellers — [coral_dwellers.md](../../factions/coral_dwellers.md) (settler faction, Coral Effect, Census Watchers)
+- Thornveil Grove — [thornveil_grove.md](../../factions/thornveil_grove.md) (ECOS grove studying coral psychic symbiosis)
+- Psychic energy / Essence — parallel to Photoli essence mechanics ([photoli.md](../../species/photoli.md))
+- Biotech industry — possible Tufa/Genesium parallels ([tufa.md](../../species/tufa.md))
 - MRZ fauna — comparable to other sector wildlife hazards
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-COR1: What are the major pharma corporations operating in Coral Nebula? (Deferred — factions TBD)
-- ⏸️ Q-COR2: Are there named coral-feeding monster species?
-- ⏸️ Q-COR3: Has anyone survived a black coral encounter and reported it?
-- ⏸️ Q-COR4: Is the Coral Nebula's unique property related to Iris remnants or something else?
-- 🟡 Q-COR5: Color spectrum mapping — **PENDING CREATOR APPROVAL** of proposed table above

@@ -27,7 +27,7 @@ Despite its small numbers â€” three [Soul](../species/ustur.md)-stage membe
 
 ### The Departure from Ioki (~2530)
 
-Saelyra was a `.tchr` on [Ioki](../geography/worlds/ioki.md) â€” respected, talented, and deeply frustrated. She had spent decades training students in the traditional meditative cultivation path, and while she excelled at it, she observed a pattern that troubled her: students who had survived genuine hardship advanced faster and more deeply than those raised in comfort. The Path's emphasis on contemplation, she argued, produced Ustur who understood enlightenment intellectually but had never tested it against reality.
+Saelyra was a `.tchr` on **Ioki** â€” respected, talented, and deeply frustrated. She had spent decades training students in the traditional meditative cultivation path, and while she excelled at it, she observed a pattern that troubled her: students who had survived genuine hardship advanced faster and more deeply than those raised in comfort. The Path's emphasis on contemplation, she argued, produced Ustur who understood enlightenment intellectually but had never tested it against reality.
 
 She presented a formal thesis to the Elder Spire: **"The Cold Statement"** â€” a philosophical argument that the Path's seven stages could be traversed more authentically through deliberate physical and moral trials than through meditation alone. The thesis was not condemned. It was simply set aside without comment â€” the Ioki establishment's polite way of saying *prove it elsewhere*.
 
@@ -191,6 +191,6 @@ The Rest House .tchr wardens maintain rotating night patrols in the dock distric
 
 ## Relationship to the Elder Spire
 
-The Elder Spire on [Ioki](../geography/worlds/ioki.md) has never formally endorsed the Cold Forge as a valid Path of Enlightenment route. It has also never condemned it. The silence is deliberate â€” condemning Saelyra would cost the [Regency](../factions/ustur_regency_pavo.md) its most effective asset in Pavo Passage, while endorsing her would imply that traditional methods are insufficient.
+The Elder Spire on **Ioki** has never formally endorsed the Cold Forge as a valid Path of Enlightenment route. It has also never condemned it. The silence is deliberate â€” condemning Saelyra would cost the [Regency](../factions/ustur_regency_pavo.md) its most effective asset in Pavo Passage, while endorsing her would imply that traditional methods are insufficient.
 
 Whether any Winter Fist Path student has ever achieved .soul under Saelyra's teaching remains unknown. If such a breakthrough has occurred, it would represent unprecedented validation of the Cold Forge doctrine as a legitimate spiritual path â€” and the Elder Spire's continued silence on the matter would become increasingly difficult to maintain.

@@ -1,7 +1,7 @@
-# 🌌 Canon Document: EVERNAT SECTOR (ONI 3)
+# Evernat Sector (ONI 3)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 3 — Punaab Homeland)
+> Deep within ONI space lies Evernat, a sector that whispers tales of ancient origins.
+
 
 ---
 
@@ -24,7 +24,7 @@ Deep within ONI space lies **Evernat**, a sector that whispers tales of ancient 
 
 - A deity believed as ancient as Akenat itself.
 - In the Punaabs' darkest hours, this immortal entity rises to guide and shield them.
-- **Archon Secret**: Actually a **Colossal HRZ Creature** adapted to Akenat (see `canon/species/punaab.md`).
+- **Archon Secret**: Actually a **Colossal HRZ Creature** adapted to Akenat (see [punaab.md](../../species/punaab.md)).
 - **Archon Inference**: Since Evernat predates the HRZ, the God of Mist was already on Akenat **before zone boundaries were drawn**. It is a **living fossil** from an era when all of Galia was dangerous.
 
 ### The High & Profound Divide

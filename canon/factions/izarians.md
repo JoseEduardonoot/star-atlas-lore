@@ -11,7 +11,7 @@
 | **HQ** | No capital — scattered deep-crust settlements |
 | **Location** | [Izar-248](../geography/sectors/izar.md) (MRZ-7), deep underground |
 | **Ancestral Technology** | Gravitational mastery — now entirely lost |
-| **Ancestral Resource** | [Genesium](../technology/genesium.md) — reality-warping substance found in Izar's crust |
+| **Ancestral Resource** | **Genesium** — reality-warping substance found in Izar's crust |
 | **Core Resource** | Paclets — subterranean plant, foundation of all agriculture |
 | **Known to Galaxy** | Unknown — most of Galia has no idea they exist |
 | **Status** | Uncertain — post-Genesium Horror survival unknown |
@@ -165,7 +165,7 @@ The surface bears no sign of the civilization beneath — the moon debris pulver
 
 ### Technology
 
-- [Genesium](../technology/genesium.md) — Reality-warping substance, ancestral connection
+- **Genesium** — Reality-warping substance, ancestral connection
 
 ### Meta
 

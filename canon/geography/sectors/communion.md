@@ -1,7 +1,7 @@
-# 🌌 Canon Document: COMMUNION SECTOR (ONI 2)
+# Communion Sector (ONI 2)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 2 — Melting Pot)
+> - ~2498: Communion is formed as the first multi-species colony sector in Galia, composed of Punaabs, Miereses, Photoli, and Sogmians — setting the seeds for the formation of the ONI Faction
+
 
 ---
 

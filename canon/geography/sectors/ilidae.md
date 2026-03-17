@@ -1,7 +1,7 @@
-# 🌌 Canon Document: ILIDAE SECTOR (MRZ-6)
+# Ilidae Sector (MRZ-6)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Mysterious)
+> Situated deep within the Medium Zone, Ilidae is immediately identifiable by its distinct amber luminescence emitted from its star.
+
 
 ---
 

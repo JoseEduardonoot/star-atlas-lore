@@ -79,12 +79,16 @@ nav:
     - Punaab: species/punaab.md
     - Photoli: species/photoli.md
     - Human: species/human.md
+    - Crumon: species/crumon.md
+    - Oxir: species/oxir.md
+    - Tufa: species/tufa.md
     - Naming Conventions: species/naming_conventions.md
     - Species Encyclopedia: species/species_encyclopedia.md
+    - Species Master Guide: species/species_master_guide.md
   - Factions:
     - factions/index.md
     - Superpowers:
-      - Manus Ultima Divina (MUD): factions/mud.md
+      - Manus Ultima Divina: factions/mud.md
       - ONI Consortium: factions/oni.md
       - Ustur: factions/ustur.md
       - Council of Peace: factions/council_of_peace.md
@@ -98,7 +102,7 @@ nav:
     - Government & Institutional:
       - Abyd Government: factions/abyd_government.md
       - Anfoil State: factions/anfoil_state.md
-      - Council of Peace Administration: factions/cop_administration.md
+
       - Frenir New Government: factions/frenir_new_government.md
       - Hanging Gardens Government: factions/hanging_gardens_government.md
       - Kamec Democracy: factions/kamec_democracy.md
@@ -120,8 +124,8 @@ nav:
       - Bluevael Mining Colonies: factions/bluevael_mining_colonies.md
       - Crumon Dynasty: factions/crumon_dynasty.md
       - Fimbul Industries: factions/fimbul_industries.md
-      - Fimbul BYOS (Build Your Own Ship): factions/fimbul_byos.md
-      - Fimbul ECOS (Earth Conscious Ontological Society): factions/fimbul_ecos.md
+      - Fimbul BYOS: factions/fimbul_byos.md
+      - Fimbul ECOS: factions/fimbul_ecos.md
       - Galia Medical Union: factions/galia_medical_union.md
       - Hopla Insurances: factions/hopla_insurances.md
       - Jorvik: factions/jorvik.md
@@ -167,7 +171,7 @@ nav:
       - Swamp Lords: factions/swamp_lords.md
     - Research & Knowledge:
       - Graft Research: factions/graft_research.md
-      - Earth Conscious Ontological Society (ECOS): factions/earth_conscious_ontological_society.md
+      - Earth Conscious Ontological Society: factions/earth_conscious_ontological_society.md
     - Nature & Environment:
       - Ashroot Grove: factions/ashroot_grove.md
       - Balifa Grove: factions/balifa_grove.md
@@ -177,11 +181,9 @@ nav:
       - Izarians: factions/izarians.md
       - Lumiro Grove: factions/lumiro_grove.md
       - Thornveil Grove: factions/thornveil_grove.md
-      - Garadar DAC (Decentralized Autonomous Community): factions/garadar_dac.md
+      - Garadar DAC: factions/garadar_dac.md
     - Other:
       - Ruling Conclave: factions/ruling_conclave.md
-      - Stardust Collective: factions/stardust_collective.md
-      - Tufa Species Group: factions/tufa_species_group.md
       - Xianyang Enforcers: factions/xianyang_enforcers.md
   - Geography:
     - geography/index.md
@@ -213,6 +215,8 @@ nav:
       - Harkend: geography/sectors/harkend.md
       - Ilidae: geography/sectors/ilidae.md
       - Izar: geography/sectors/izar.md
+      - Izar Fallen Civilization: geography/sectors/izar_fallen_civilization.md
+      - Izar Survivors: geography/sectors/izar_survivors.md
       - Ka-dara: geography/sectors/ka_dara.md
       - Kamec: geography/sectors/kamec.md
       - Lumik: geography/sectors/lumik.md
@@ -248,20 +252,52 @@ nav:
       - Velloris: geography/worlds/velloris.md
       - Veshmora: geography/worlds/veshmora.md
     - Articles:
+      - C4 Lore Layer — Exodus: geography/c4_lore_layer.md
       - Eternity System: geography/eternity_system.md
       - Galactic Regions: geography/galactic_regions.md
       - Ka-dara Sector: geography/ka_dara_sector.md
       - The Cataclysm: geography/the_cataclysm.md
   - History:
     - history/index.md
+    - Eras of Star Atlas: history/eras_of_star_atlas.md
+    - The Convergence War: history/convergence_war.md
+    - Chapter 2 — Holosim Balifa Campaign: history/chapter2_holosim_balifa_campaign.md
   - Narratives:
     - narratives/index.md
+    - Never Alone Campaign: narratives/never_alone_campaign.md
   - Cosmology:
     - cosmology/index.md
+    - Iris Zodiac: cosmology/iris_zodiac.md
   - Technology:
     - technology/index.md
+    - HRZ Metagenic Materials: technology/hrz_metagenic_materials.md
+  - Institutions:
+    - Council of Peace: institutions/council_of_peace.md
+    - Star Atlas Blockchain: institutions/star_atlas_blockchain.md
+  - Manufacturers:
+    - Calico: manufacturers/calico.md
+    - Opal: manufacturers/opal.md
+    - VZUS: manufacturers/vzus.md
+  - Systems:
+    - SDU Classification: systems/sdu_classification.md
+  - Quests:
+    - Holosim Complete Archive: quests/holosim_complete_archive.md
   - Reference:
     - reference/index.md
     - Named Characters: meta/named_characters.md
     - Master Timeline: meta/master_timeline.md
-    - Planets & Worlds: reference/atlas/planets.md
+    - Consistency Audit: meta/consistency_audit.md
+    - Faction Power Classification: meta/faction_power_classification.md
+    - Galia Sector Depth Audit: meta/galia_sector_depth_audit.md
+    - Master Asset Guide: reference/master_asset_guide.md
+    - Atlas:
+      - Planets & Worlds: reference/atlas/planets.md
+      - Galactic Atlas: reference/atlas/galactic_atlas.md
+      - Galia Expanse Atlas: reference/atlas/galia_expanse_atlas.md
+      - Galia Expanse Descriptions: reference/atlas/galia_expanse_descriptions.md
+    - Crafting:
+      - Crafted Items Descriptions: reference/crafting/crafted_items_descriptions.md
+      - Recipes: reference/crafting/recipes_extracted.md
+    - Resources:
+      - Galia Expanse Resources: reference/resources/galia_expanse_resources.md
+      - Resource Analysis: reference/resources/resource_analysis.md

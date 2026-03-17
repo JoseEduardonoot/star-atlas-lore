@@ -1,7 +1,4 @@
-# 🦠 Canon Document: TUFA
-
-**Status**: 🟢 Canon (Lore Dump Integrated, Feb 2026)
-**Source**: Creator Input (Lore Dump + Season 0)
+# Tufa
 
 ---
 

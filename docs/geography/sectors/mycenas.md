@@ -1,7 +1,7 @@
-# 🌌 Canon Document: MYCENAS-V SECTOR (MRZ-2)
+# Mycenas-v Sector (MRZ-2)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD Ex-Colony — Isolationist)
+> Once a beacon of prosperity and scientific research within MUD territory, Mycenas-V was deliberately abandoned by MUD during the Convergence War to preserve their own resources.
+
 
 ---
 

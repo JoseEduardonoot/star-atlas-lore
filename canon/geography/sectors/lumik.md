@@ -1,10 +1,7 @@
-# 📚 Canon Document: LUMIK (MRZ-27)
+# Lumik (MRZ-27)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-27)
-**Influence**: Ustur (neutral sector)
-**Theme**: Knowledge Repository, Ancient Wisdom, Photoli Legacy, Galactic Memory, SDU Classification
+> Lumik is etched in cosmic history through its evocative name, derived from its ruling inhabitants, the Lumikir.
+
 
 ---
 

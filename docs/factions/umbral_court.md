@@ -19,7 +19,7 @@
 
 > *"The Umbral Court is what happens when a parasite develops ambition."*
 
-The **Umbral Court** is a stratified conclave of essence-weavers from the High-Risk Zones, bound to [Iris](../geography/iris.md)'s cosmic rhythms and driven to forge symbiotic unions across the [Galia Expanse](../geography/sectors/galia.md). From the veiled mists of the **Twilight Nebula**, near the Cataclysm's edge, the Court arose — a sophisticated hierarchy of plasmatic beings who evolved through instinctive mergers, from humble parasitic insects to sentient hosts during the [Convergence War](../history/convergence_war.md)'s chaos.
+The **Umbral Court** is a stratified conclave of essence-weavers from the High-Risk Zones, bound to **Iris**'s cosmic rhythms and driven to forge symbiotic unions across the **Galia Expanse**. From the veiled mists of the **Twilight Nebula**, near the Cataclysm's edge, the Court arose — a sophisticated hierarchy of plasmatic beings who evolved through instinctive mergers, from humble parasitic insects to sentient hosts during the [Convergence War](../history/convergence_war.md)'s chaos.
 
 Viewing themselves as noble governors — probably because their foundational consciousness came from a dying [Sogmian](../species/sogmian.md) colony — they stratify into castes mimicking Sogmian and ancient MUD feudal systems, where families vie for elite fusions to ascend in prestige before their leader. Rich in rare minerals like raianite and genesium, their domain drew war-era colonies whose inhabitants became the raw material for Umbral sentience. Now they navigate Galia as subtle influencers, demanding tributes of worthy specimens for their progeny, their synthesized essence a coveted resource for augmentations, all while plotting beneath the façade of unity.
 
@@ -290,25 +290,13 @@ The Twilight Lord subtly reaps overambitious houses with light bursts — mainta
 ### Geography
 
 - [The Cataclysm](../geography/the_cataclysm.md) — Proximity to HRZ core
-- [Iris](../geography/iris.md) — Cosmic rhythms governing Umbral biology and society
+- **Iris** — Cosmic rhythms governing Umbral biology and society
 
 ### Meta
 
 - [Named Characters](../meta/named_characters.md) — Vaul (Eclipse Sovereign), Lirax (Bouten), Seryth (Korousten), Thalor (Seta)
 
 ---
-
-## 🔮 Open Questions
-
-- **Vaul's awareness** — Does he suspect the truth? If the Photoli's control slips, even momentarily, the resulting fury could reshape the Court — or destroy it. His whispered quest to shatter his host's resistance suggests partial awareness
-- **The Korousten experiment** — If Seryth's symbiotic doctrine proves that willing hosts produce richer Confluence, the entire justification for domination collapses. Can parasitism evolve into genuine partnership — and would the result still be Umbral?
-- **House Seta's Photoli pursuit** — Thalor actively seeks a true Photoli fusion. If he succeeds where Vaul failed (or rather, where the Photoli chose to maintain the illusion), the power dynamic of the entire Court inverts
-- **The essence economy** — Synthesized Umbral essence fuels black-market augmentation across Galia. If demand grows, does the Court become the galaxy's most valuable — and most terrifying — natural resource?
-- **Expansion beyond the Nebula** — The Photoli-through-Vaul keeps the Umbral contained. If containment fails — if a faction breaks free of the Twilight Nebula with a breeding population and access to galactic host populations — mass parasitism becomes an existential threat no conventional defense can counter
-- **The Great Fusion artifacts** — War-era battlefields and ruined colonies in the Twilight Nebula may contain evidence of the original Great Fusions. What would the discovery of pre-sentient Umbral remains reveal about their true nature?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

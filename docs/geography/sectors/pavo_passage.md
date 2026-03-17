@@ -1,10 +1,5 @@
-# 👑 Canon Document: PAVO PASSAGE (MRZ-17)
+# Pavo Passage (MRZ-17)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Pavo Passage Deep-Dive (7 Canon Sheets + World Sheet)
-**Zone**: Medium Risk Zone (MRZ-17)
-**Influence**: Ustur (Ustur/MUD border — commerce nexus)
-**Theme**: Fallen Dynasty, Façade Democracy, Assassin Cult, Toll Machine, Iris Aspect Dusk
 **Native Species**: Crumon (polar bear-like)
 **Capital**: Cathris (named after the vanished queen)
 **Trade Corridor**: The Tollstrand
@@ -57,7 +52,7 @@ The sector is governed by the **Ruling Conclave**, an oligarchic council disguis
 
 ## Governance: The Ruling Conclave
 
-*(Full details: `canon/factions/ruling_conclave.md`)*
+*(Full details: [ruling_conclave.md](../../factions/ruling_conclave.md))*
 
 A small council of 6 seats + High Consul, operating from the **Gilded Citadel** on Cathris. Not a parliament — a **control board** that distributes choke points.
 
@@ -74,7 +69,7 @@ A small council of 6 seats + High Consul, operating from the **Gilded Citadel** 
 
 ## The Toll Machine (TAPP)
 
-*(Full details: `canon/factions/toll_authority_of_pavo_passage.md`)*
+*(Full details: [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md))*
 
 The sector runs on a 4-stage toll system: **Classify → Authorize → Route & Protect → Settle**. No faction controls all four stages.
 
@@ -86,14 +81,14 @@ The sector runs on a 4-stage toll system: **Classify → Authorize → Route & P
 
 | Faction | Type | Leader | Canon File |
 |---------|------|--------|------------|
-| **Crumon Dynasty** | Native dynastic power | Ike Pavo / Varn Crathis | `canon/factions/crumon_dynasty.md` |
-| **Ruling Conclave** | Sector government | Varn Crathis (High Consul) | `canon/factions/ruling_conclave.md` |
-| **MTC** | MUD/Synod front company | Talia Vrenn | `canon/factions/meridian_trading_company.md` |
-| **VHE** | People's trading company | Seraphine Vale | `canon/factions/vale_horizon_exchange.md` |
-| **Order of Seasons** | Iris Dusk assassin cult | Priestess Delura (Mierese) | `canon/factions/order_of_seasons.md` |
-| **TAPP** | Toll infrastructure | Faceless (Conclave-directed) | `canon/factions/toll_authority_of_pavo_passage.md` |
-| **Ustur Regency** | External stabilizer | Korin.tchr / Ord.eldr | `canon/factions/ustur_regency_pavo.md` |
-| **Winter Fist Path** | Ustur martial sect | Saelyra.soul | `canon/factions/winter_fist_path.md` |
+| **Crumon Dynasty** | Native dynastic power | Ike Pavo / Varn Crathis | [crumon_dynasty.md](../../factions/crumon_dynasty.md) |
+| **Ruling Conclave** | Sector government | Varn Crathis (High Consul) | [ruling_conclave.md](../../factions/ruling_conclave.md) |
+| **MTC** | MUD/Synod front company | Talia Vrenn | [meridian_trading_company.md](../../factions/meridian_trading_company.md) |
+| **VHE** | People's trading company | Seraphine Vale | [vale_horizon_exchange.md](../../factions/vale_horizon_exchange.md) |
+| **Order of Seasons** | Iris Dusk assassin cult | Priestess Delura (Mierese) | [order_of_seasons.md](../../factions/order_of_seasons.md) |
+| **TAPP** | Toll infrastructure | Faceless (Conclave-directed) | [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md) |
+| **Ustur Regency** | External stabilizer | Korin.tchr / Ord.eldr | [ustur_regency_pavo.md](../../factions/ustur_regency_pavo.md) |
+| **Winter Fist Path** | Ustur martial sect | Saelyra.soul | [winter_fist_path.md](../../factions/winter_fist_path.md) |
 
 ---
 
@@ -101,7 +96,7 @@ The sector runs on a 4-stage toll system: **Classify → Authorize → Route & P
 
 | World | Type | Function | Canon File |
 |-------|------|----------|------------|
-| **Cathris** | Capital world | Governance, bureaucratic power | `canon/geography/worlds/cathris.md` |
+| **Cathris** | Capital world | Governance, bureaucratic power | [cathris.md](../worlds/cathris.md) |
 | **Tollhaven** | Space station | Commerce hub, route auctions, inspections | TBD |
 | **Crushspire** | Industrial planet | Arco Crystal mines, Spire Foundries | TBD |
 | **Velloris** | Registry world | Attestations, Proof Spine, agriculture | TBD |
@@ -194,31 +189,10 @@ The sector exists in **managed imbalance**:
 > *"In Pavo Passage, success looks like: nothing burning today."*
 
 ---
-
-## Open Questions (Resolved)
-
-- ~~Q-PAV1: What is "Dusk" as an Iris aspect?~~ ✅ Resolved — 7th aspect, cosmic current period
-- ~~Q-PAV2: Who leads the Order of Season?~~ ✅ Priestess Delura (Mierese)
-- ~~Q-PAV3: Are surviving Pavo family members active?~~ ✅ Ike Pavo (Crushspire), Varn Crathis (Cathris)
-- ~~Q-PAV4: Who actually controls behind the façade?~~ ✅ 6-seat Conclave + TAPP + MTC/VHE competition
-- ~~Q-PAV5: What species mix?~~ ✅ Crumon (native), MUD majority, Ustur presence, Mierese (Delura)
-- ~~Q-PAV6: Military presence?~~ ✅ Winter Fist Path (Ustur sect), Conclave militia, MTC/VHE security
-
-## Remaining Open Questions
-
-- ⏸️ Q-PAV7: Tollhaven world details (World Sheet pending)
-- ⏸️ Q-PAV8: Crushspire world details (World Sheet pending)
-- ⏸️ Q-PAV9: Velloris world details (World Sheet pending)
-- ⏸️ Q-PAV10: Okuto world details (World Sheet pending)
-- ⏸️ Q-PAV11: Scriptharbor — what is it? (location TBD)
-- ⏸️ Q-PAV12: Crumon species physical/cultural details (expand later)
-
----
-
 ## Cross-References
 
-- Crumon Species — `canon/species/crumon.md`
-- Iris Zodiac — `canon/cosmology/iris_zodiac.md` (Dusk = 7th aspect)
+- Crumon Species — [crumon.md](../../species/crumon.md)
+- Iris Zodiac — [iris_zodiac.md](../../cosmology/iris_zodiac.md) (Dusk = 7th aspect)
 - Galia Expanse — galactic region containing Pavo Passage
 - Starpath — warp gate chain linking Galia Expanse regions
 - The Synod — MUD merchant DAO (MTC's true patron)

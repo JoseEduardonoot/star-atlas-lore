@@ -3,10 +3,6 @@
 > *"In Denebula, the currency is ambition. The exchange rate is talent. And the transaction fee is everything you thought you knew about your own limits."*
 > — Attributed to **Merchant Prince Ayevat**
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Denebula lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-13)
-**Influence**: ONI (formally — pays taxes to ONI Consortium)
 **De Facto Status**: Independent financial enclave ("Galactic Switzerland")
 
 ---
@@ -186,7 +182,7 @@ The most significant shadow operation in Denebula's history: **Ostentati.soul's*
 
 - [Master Timeline](../../meta/master_timeline.md) — Panemorfa founding (~2470), Denebula founding (~2471/~2495), Gel's death (~2511), Albiron's rise (~2526)
 - [Named Characters](../../meta/named_characters.md) — 6 Merchant Princes + Torben Y + Ophek Revel
-- [Galactic Atlas](../../reference/atlas/galactic_atlas.md) — MRZ cross-species finance kingdom
+- **Galactic Atlas** — MRZ cross-species finance kingdom
 - [Faction Power Classification](../../meta/faction_power_classification.md) — T2 classification (single-sector dominance)
 
 ---

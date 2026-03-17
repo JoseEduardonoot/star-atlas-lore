@@ -1,7 +1,7 @@
-# 🌌 Canon Document: AKALMA EXILE SECTOR (MRZ-12)
+# Akalma Exile Sector (MRZ-12)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Haunted Sogmian Ruins)
+> Akalma Exile is a somber shadow of its former glory — the sector where the disgraced House of Akalma (Sogmian) was banished following their failed coup during the Vega Fall upheaval.
+
 
 ---
 
@@ -60,7 +60,7 @@
 
 ## Cross-References
 
-- House of Akalma: `canon/species/sogmian.md` (Vega Fall, 6+1 Houses)
-- Paizul's death: `canon/species/sogmian.md`
-- Bekalu: `canon/species/sogmian.md`
+- House of Akalma: [sogmian.md](../../species/sogmian.md) (Vega Fall, 6+1 Houses)
+- Paizul's death: [sogmian.md](../../species/sogmian.md)
+- Bekalu: [sogmian.md](../../species/sogmian.md)
 - The Last Stand (Sogmian Titan): Not as powerful as COP's Cradle. Cradle > all 3 faction titans combined. (Titans TBD)

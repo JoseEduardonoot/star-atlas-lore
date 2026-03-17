@@ -81,17 +81,6 @@ His relationship with House Xictus — Barrot's Sogmian noble house — is contr
 | [Ophek](../factions/ophek.md) | Competitive respect — Barrot's Folly and the Oasis are the galaxy's two premier entertainment destinations |
 
 ---
-
-## 🔮 Open Questions
-
-- **Where did Barrot go?** — The galaxy's most famous unsolved mystery. What lies on the other side of the wormhole — and why did Barrot choose to return to it permanently?
-- **The artifacts** — What are they made of? Their material composition matches nothing known. Are they manufactured, grown, or something else entirely?
-- **Buccharaano's endgame** — Is the park purely commercial, or is Buccharaano funding wormhole research through park revenue? A successful entry into the wormhole would either make the park obsolete or infinitely more valuable
-- **House Xictus's knowledge** — Does Barrot's noble house know more than it has shared? The exhibition license suggests cooperation, but Sogmian noble houses are known for strategic information management
-- **The wormhole's selectivity** — Why did it admit Barrot and reject everything else? Is entry based on criteria no one has identified — or did Barrot possess a key that died with him?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

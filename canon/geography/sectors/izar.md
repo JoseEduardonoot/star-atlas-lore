@@ -1,7 +1,7 @@
-# 🌌 Canon Document: IZAR-248 SECTOR (MRZ-7)
+# Izar-248 Sector (MRZ-7)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Hazardous)
+> Izar-248 bears the reputation of a perilous sector, officially recognized as such by the Council of Peace.
+
 
 ---
 

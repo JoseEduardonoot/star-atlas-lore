@@ -28,7 +28,7 @@ The result is the most powerful regulatory body in Pavo Passage — an instituti
 
 ### Why Pavo Passage Matters
 
-[Pavo Passage](../geography/sectors/pavo_passage.md) exists because of geography. The sector sits on the primary trade highway between MUD and [Ustur](../species/ustur.md) space — the busiest commercial route in the [Galia Expanse](../geography/sectors/galia.md). Every ship carrying cargo between the two largest galactic powers passes through this corridor.
+[Pavo Passage](../geography/sectors/pavo_passage.md) exists because of geography. The sector sits on the primary trade highway between MUD and [Ustur](../species/ustur.md) space — the busiest commercial route in the **Galia Expanse**. Every ship carrying cargo between the two largest galactic powers passes through this corridor.
 
 The **Tollstrand** is the navigable route through the corridor — a chain of monitored waypoints, toll stations, and escort-protected lanes that channels all transit through TAPP's infrastructure. Ships cannot bypass the Tollstrand without entering unmonitored MRZ space, where piracy, navigation hazards, and the absence of emergency services make the risk prohibitive for commercial operations.
 

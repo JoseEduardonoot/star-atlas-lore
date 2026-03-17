@@ -1,7 +1,5 @@
-# 📊 Canon Document: FACTION POWER CLASSIFICATION
+# Faction Power Classification
 
-**Status**: 🟢 Canon (Feb 2026)
-**Type**: Meta — Classification System
 **Purpose**: Standardized scale for categorizing faction power and territorial scope across Galia
 
 ---

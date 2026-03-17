@@ -10,7 +10,7 @@
 
 ### 1. Punaab Dying World — Sector Reference Mismatch
 
-- **File**: [punaab.md](/species/punaab.md) line 136
+- **File**: [punaab.md](../species/punaab.md) line 136
 - **Issue**: States the Dying World is in **"MRZ-3"** (unnamed sector between ONI and Ustur space)
 - **Correction**: User confirmed it should be **MRZ-31 (Glowhaven)**, not MRZ-3
 - **Note**: MRZ-3 is **Abyd-IX** (a MUD civil war sector, completely different)
@@ -18,20 +18,20 @@
 
 ### 2. Galactic Regions — Outdated Open Question
 
-- **File**: [galactic_regions.md](/geography/galactic_regions.md) line 84
+- **File**: [galactic_regions.md](../geography/galactic_regions.md) line 84
 - **Issue**: `Q-GEO3: Location of specific ex-colonies (Redam, Mycenas) - MRZ or HRZ?` is still listed as open
 - **Correction**: This has been fully resolved — both are MRZ sectors with detailed files
 - **Status**: 🟡 **Minor** — close the question
 
 ### 3. Galactic Regions — Incomplete Minor Factions List
 
-- **File**: [galactic_regions.md](/geography/galactic_regions.md) line 23 and 51
+- **File**: [galactic_regions.md](../geography/galactic_regions.md) line 23 and 51
 - **Issue**: Only lists "Jorvik, ECOS" as minor factions. Missing: **Anfoil State, Gate Garrison, House Akalma remnant**
 - **Status**: 🟡 **Minor** — update when minor factions are fully mapped
 
 ### 4. Galactic Regions — Safe Zone Sector Names
 
-- **File**: [galactic_regions.md](/geography/galactic_regions.md) lines 33-37
+- **File**: [galactic_regions.md](../geography/galactic_regions.md) lines 33-37
 - **Issue**: Lists "Akenat" and "Usturvana" as Safe Zone sector names
   - Akenat is a **planet** (homeworld), not a sector — the sector is **Evernat**
   - "Usturvana" is not confirmed as a sector name anywhere else in canon. The 5 Ustur Safe Zones are: Eternity, Vostalgia, Soletud, Azut, Foy Fields

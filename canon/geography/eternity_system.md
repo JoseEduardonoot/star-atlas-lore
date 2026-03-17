@@ -1,7 +1,4 @@
-# 🌌 Canon Document: ETERNITY SYSTEM (Ustur 1)
-
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Ustur I / Eternity lore document
+# Eternity System (Ustur 1)
 
 ---
 

@@ -1,13 +1,5 @@
-# ⚙️ Canon Document: ANFOIL STATES (MRZ-15)
-
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Anfoil sector lore + `anfoil_state.md` faction file + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-15)
-**Influence**: Ustur (Anfoil Dissidents — independent of Elder Order)
-**Theme**: Technocratic Secession, Emotion Suppression, The Seed, Meritocratic Technate
-
-> [!NOTE]
-> This sector file complements the detailed faction file: `canon/factions/anfoil_state.md`
+# Anfoil States (MRZ-15)
+> This sector file complements the detailed faction file: [anfoil_state.md](../../factions/anfoil_state.md)
 
 ---
 
@@ -109,7 +101,7 @@ The Anfoil States stand as a testament to **ideological divergence**. Governed b
 
 ## Hidden Agenda: The Seed
 
-*(Detailed in `canon/factions/anfoil_state.md`)*
+*(Detailed in [anfoil_state.md](../../factions/anfoil_state.md))*
 
 - **The Seed**: Pre-Ustur artifact — energy source capable of creating **Titan-class ships**
 - Ponel considers it more important than the entire sector
@@ -122,19 +114,10 @@ The Anfoil States stand as a testament to **ideological divergence**. Governed b
 
 ## Cross-References
 
-- Anfoil faction deep-dive — `canon/factions/anfoil_state.md`
-- Ponel.eldr — `canon/factions/anfoil_state.md`, `canon/species/ustur.md`
-- Elder Order / Conscience — `canon/species/ustur.md`
-- Iris Academy / Exfeheros — `canon/geography/sectors/zenith_door.md`
-- The Seed / Uru's Watch — `canon/factions/anfoil_state.md`
+- Anfoil faction deep-dive — [anfoil_state.md](../../factions/anfoil_state.md)
+- Ponel.eldr — [anfoil_state.md](../../factions/anfoil_state.md), [ustur.md](../../species/ustur.md)
+- Elder Order / Conscience — [ustur.md](../../species/ustur.md)
+- Iris Academy / Exfeheros — [zenith_door.md](./zenith_door.md)
+- The Seed / Uru's Watch — [anfoil_state.md](../../factions/anfoil_state.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ANF1: Specific technological specializations of each planet? *(deferred — faction session TBD)*
-- ⏸️ Q-ANF2: How does the Anfoil ritual (emotion/core suppression) work technically?
-- ⏸️ Q-ANF3: Did Ponel's plan to seize the Seed succeed or fail?
-- ⏸️ Q-ANF4: What is inside Uru's Watch?
-- ⏸️ Q-ANF5: Population and planet count *(deferred — faction session TBD)*
-- ⏸️ Q-ANF6: What happened to Armi.eldr? *(mystery — TBD)*

@@ -19,7 +19,7 @@
 
 > *"The Umbral Court is what happens when a parasite develops ambition."*
 
-The **Umbral Court** is a stratified conclave of essence-weavers from the High-Risk Zones, bound to [Iris](../geography/iris.md)'s cosmic rhythms and driven to forge symbiotic unions across the [Galia Expanse](../geography/sectors/galia.md). From the veiled mists of the **Twilight Nebula**, near the Cataclysm's edge, the Court arose — a sophisticated hierarchy of plasmatic beings who evolved through instinctive mergers, from humble parasitic insects to sentient hosts during the [Convergence War](../history/convergence_war.md)'s chaos.
+The **Umbral Court** is a stratified conclave of essence-weavers from the High-Risk Zones, bound to **Iris**'s cosmic rhythms and driven to forge symbiotic unions across the **Galia Expanse**. From the veiled mists of the **Twilight Nebula**, near the Cataclysm's edge, the Court arose — a sophisticated hierarchy of plasmatic beings who evolved through instinctive mergers, from humble parasitic insects to sentient hosts during the [Convergence War](../history/convergence_war.md)'s chaos.
 
 Viewing themselves as noble governors — probably because their foundational consciousness came from a dying [Sogmian](../species/sogmian.md) colony — they stratify into castes mimicking Sogmian and ancient MUD feudal systems, where families vie for elite fusions to ascend in prestige before their leader. Rich in rare minerals like raianite and genesium, their domain drew war-era colonies whose inhabitants became the raw material for Umbral sentience. Now they navigate Galia as subtle influencers, demanding tributes of worthy specimens for their progeny, their synthesized essence a coveted resource for augmentations, all while plotting beneath the façade of unity.
 
@@ -290,7 +290,7 @@ The Twilight Lord subtly reaps overambitious houses with light bursts — mainta
 ### Geography
 
 - [The Cataclysm](../geography/the_cataclysm.md) — Proximity to HRZ core
-- [Iris](../geography/iris.md) — Cosmic rhythms governing Umbral biology and society
+- **Iris** — Cosmic rhythms governing Umbral biology and society
 
 ### Meta
 

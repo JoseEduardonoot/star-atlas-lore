@@ -1,8 +1,7 @@
-# 🌌 Canon Document: ETERNITY SECTOR (Ustur 1)
+# Eternity Sector (Ustur 1)
 
-**Status**: 🟢 Canon (Consolidated, Feb 2026)
-**Source**: Creator Input (Eternity Lore Doc + Archon Audit)
-**Type**: Safe Zone Sector (Ustur 1 — Ustur Birthworld)
+> Geographic lore entry for the Eternity Sector (Ustur 1) sector.
+
 
 ---
 

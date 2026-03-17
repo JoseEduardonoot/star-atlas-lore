@@ -1,7 +1,7 @@
-# 🌌 Canon Document: AZUT SECTOR (Ustur 4)
+# Azut Sector (Ustur 4)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Safe Zone Sector (Ustur 4 — Capital / Opal Industries)
+> Azut stands as a beacon of progress and harmony.
+
 
 ---
 
@@ -22,7 +22,7 @@
 - A **planet-wide city** aglow with billions of **Arco crystals**.
 - **Arco Crystals**: Both **functional** (power/processing) and **aesthetic** (visual splendor).
 - Cultural, spiritual, and technological center.
-- Houses the headquarters of **Opal Industries** (MUD/Ustur collaboration — see `canon/manufacturers/opal.md`).
+- Houses the headquarters of **Opal Industries** (MUD/Ustur collaboration — see [opal.md](../../manufacturers/opal.md)).
 
 ### Society
 
@@ -44,5 +44,5 @@
 
 ## Cross-References
 
-- Opal Industries: `canon/manufacturers/opal.md`
-- VZUS (relocated to Foy Fields): `canon/manufacturers/vzus.md`
+- Opal Industries: [opal.md](../../manufacturers/opal.md)
+- VZUS (relocated to Foy Fields): [vzus.md](../../manufacturers/vzus.md)

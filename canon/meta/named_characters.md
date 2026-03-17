@@ -1,6 +1,5 @@
-# 📋 Canon Registry: NAMED CHARACTERS
+# Canon Registry: Named Characters
 
-**Status**: 🟢 Canon Reference (Living Document, Feb 2026)
 **Purpose**: Comprehensive list of all named characters across canon lore — quick-reference for name uniqueness, allegiance checks, and cross-file research.
 **Last Updated**: Feb 2026
 
@@ -653,6 +652,77 @@
 
 ---
 
+## Exodus Sector NPCs (C4 Lore Layer)
+
+### Serene System (KING)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Harbinger Dorian Trent** | Human (MUD) | Synod — Grand Bazaar Master of Licenses | MUD / Synod | `c4_lore_layer.md` |
+| **Oprev.tchr** | Ustur (Teacher stage) | Ustur Diplomatic Mission Chief — 40-year tenure | Ustur | `c4_lore_layer.md` |
+| **Conservator Elara Gotti** | Human (MUD) | Holy Family — Earth Seed Vault Botanical Steward | MUD / Holy Family | `c4_lore_layer.md` |
+| **Warden-Priest Osian Bray** | Human (MUD) | Church — Reliquary Vaults Custodian, holds Vault Keys | MUD / Church | `c4_lore_layer.md` |
+| **Chancellor Lena Solano** | Human (MUD) | New Republic University — Dean of Faculty Senate | MUD / Senate | `c4_lore_layer.md` |
+| **Dr. Heron Vasques** | Human (MUD) | Scientia — Station Omega Director, Siqueira's protégé | MUD / Scientia | `c4_lore_layer.md` |
+| **Bishop Hadran Cortes** | Human (MUD) | Church — Archbishop of Pilgrim's Rest | MUD / Church | `c4_lore_layer.md` |
+
+### Ecclesia System (CORE)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Provost Ren Calloway** | Human (MUD) | Church — Grand Seminary Dean, 11 MRZ deployments | MUD / Church | `c4_lore_layer.md` |
+| **Inquisitor-General Marcos Delacroix** | Human (MUD) | Church — Inquisition Commander, former military chaplain | MUD / Church | `c4_lore_layer.md` |
+| **Commandant Isra Moreyin** | Human (MUD) | Church/Pearce — Missionary Field Division Commander | MUD / Church-Pearce | `c4_lore_layer.md` |
+| **Sister Anastasia Royce** | Human (MUD) | Church — Chief Priestess of the Baptismal Platform | MUD / Church | `c4_lore_layer.md` |
+| **Listener-Prior Demetrius Vael** | Human (MUD) | Church — Voice of God Observatory Director, distant cousin of High Prelate Vael | MUD / Church | `c4_lore_layer.md` |
+
+### Bastion System (CORE)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Commodore Brynn Haldane** | Human (MUD) | Pearce Council — Chief of Staff to Admiral Ashworth | MUD / Pearce Council | `c4_lore_layer.md` |
+| **Drill Commandant Kovan Dreck** | Human (MUD) | Pearce Council — Ground Forces Academy Senior Instructor | MUD / Pearce Council | `c4_lore_layer.md` |
+| **Director Ira Meran** | Human (MUD) | Scientia — Advanced Weapons Research Center Lead | MUD / Scientia | `c4_lore_layer.md` |
+| **Guild Master Hadrian Cole** | Human (MUD) | Munitions Workers' Union — Forge Master, Vulcanis | MUD / Senate (labor) | `c4_lore_layer.md` |
+
+### Forum System (SEC)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Magistrate Helena Vorn** | Human (MUD) | Senate — Chief Justice of the Exodus Civilian Courts | MUD / Senate | `c4_lore_layer.md` |
+| **Delegate Marisol Rivera** | Human (MUD) | Workers' Assembly — Elected Speaker, Ignavera | MUD / Senate | `c4_lore_layer.md` |
+| **Dean Archivist Conrad Yule** | Human (MUD) | Senate — Law Academy Chief Librarian | MUD / Senate | `c4_lore_layer.md` |
+
+> **Note**: Toreth-ann (Lumikir) is already listed under Scriptorium of the Lumikir — deployed to Paxara as Liaison Librarian. Head Archivist Lumin (Paxara Archive Director) is a new character sourced from c4_lore_layer.md.
+
+### Oasis System (SEC)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Harbormaster Josias Ketter** | Human (MUD) | Synod — Exodus Customs Authority Chief | MUD / Synod | `c4_lore_layer.md` |
+| **Pellaarikonn** | Punaab | Trading House Senior Factor, Meridia | ONI / Punaab | `c4_lore_layer.md` |
+| **Trovt.doer** | Ustur (Doer stage) | Trade Representative — Alien Merchant Quarter, Thalendis | Ustur | `c4_lore_layer.md` |
+
+### Laboris System (SEC)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Foreman Lev Torrance** | Human (MUD) | Industrial Workers' Union — Shop Floor Delegate, Fabrica | MUD / Senate (labor) | `c4_lore_layer.md` |
+| **Dr. Emil Varga** | Human (MUD) | Scientia — Geothermal Campus Director, Pyralis (public face) | MUD / Scientia | `c4_lore_layer.md` |
+| **Agronomist Neve Sorin** | Human (MUD) | Senate — Agricultural Cooperative Director, Sylvanis | MUD / Senate | `c4_lore_layer.md` |
+| **Commissioner Dara Okonkwo** | Human (MUD) | Senate — Exodus Immigration Processing Director, Terranova | MUD / Senate | `c4_lore_layer.md` |
+
+### Vigil System (SEC)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **Commander Petra Meydan** | Human (MUD) | Pearce Council — Vigil Station Commander | MUD / Pearce Council | `c4_lore_layer.md` |
+| **Sensor Chief Seren Krieg** | Human (MUD) | Pearce Council — Long-Range Array Operations | MUD / Pearce Council | `c4_lore_layer.md` |
+| **Colonel Brek Stanten** | Human (MUD) | Pearce Council — Desert Training Commandant, Khassar | MUD / Pearce Council | `c4_lore_layer.md` |
+| **Intelligence Officer Jael Ivanova** | Human (MUD) | Pearce/Scientia — Signals Intelligence Analyst, Alaris | MUD / Pearce-Scientia | `c4_lore_layer.md` |
+
+---
+
 ## Never Alone Campaign Characters
 
 ### Main Cast
@@ -753,6 +823,7 @@
 | Photoli Key Figures | 6 |
 | Tufa Key Figures | 4 |
 | Geography-Sourced | 3 |
+| Exodus Sector NPCs | 27 |
 | Never Alone Campaign | 24 |
 | Church of the Dreamer Below | 2 |
 | Gate Garrison | 5 |

@@ -1,10 +1,7 @@
-# 🏴 Canon Document: THE FREE HARBORS (MRZ-26)
+# The Free Harbors (MRZ-26)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Free Harbors lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-26)
-**Influence**: ONI (geographic) / Multi-Faction (political reality)
-**Theme**: Dock-DAO Governance, Neutrality Under Strain, Powder Keg, Shadow Politics
+> The Free Harbors stand as the informal heart of the medium zone, embodying the intricate dance of light and shadow.
+
 
 ---
 
@@ -118,17 +115,10 @@ The Free Harbors stand as the **informal heart of the medium zone**, embodying t
 
 ## Cross-References
 
-- Convergence War — `canon/history/convergence_war.md` (founding context)
-- Jorvik — criminal faction, also in Frenir (`canon/geography/sectors/frenir.md`)
-- Council of Peace — `canon/institutions/council_of_peace.md` (nominal authority)
-- Mierese discovery — `canon/species/mierese.md` (original explorers)
-- DAO governance — parallel to Frenir (`canon/geography/sectors/frenir.md`) but organic, not COP-imposed
+- Convergence War — [convergence_war.md](../../history/convergence_war.md) (founding context)
+- Jorvik — criminal faction, also in Frenir ([frenir.md](./frenir.md))
+- Council of Peace — [council_of_peace.md](../../institutions/council_of_peace.md) (nominal authority)
+- Mierese discovery — [mierese.md](../../species/mierese.md) (original explorers)
+- DAO governance — parallel to Frenir ([frenir.md](./frenir.md)) but organic, not COP-imposed
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-FRH1: How many docks/harbors exist? Named docks?
-- ⏸️ Q-FRH2: Named founding figures from the Convergence War era?
-- ⏸️ Q-FRH3: Which dock(s) are most associated with Jorvik activity?
-- ⏸️ Q-FRH4: What specific inter-dock disputes are currently simmering?

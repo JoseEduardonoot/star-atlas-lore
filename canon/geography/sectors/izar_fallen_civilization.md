@@ -1,9 +1,7 @@
-# 🏛️ Canon Document: THE FALLEN CIVILIZATION OF IZAR-248
+# The Fallen Civilization of Izar-248
 
-**Status**: 🟢 Canon (Aeon Timeline, Feb 2026)
-**Source**: Aeon Timeline JSON — Events 6-7
-**Zone**: Medium Risk Zone (MRZ-7)
-**Theme**: Hubris, Lost Technology, Gravitational Catastrophe
+> Long before the factions of Galia Expanse turned their eyes to the stars, an ancient civilization thrived in the sector now known as Izar-248.
+
 
 ---
 

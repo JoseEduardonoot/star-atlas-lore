@@ -1,8 +1,5 @@
-# 👑 Canon Document: TOLLHAVEN (Orbital Gate-Station of Cathris)
+# Tollhaven (Orbital Gate-Station of Cathris)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 02
-**Type**: City-sized orbital station (mothership-scale)
 **Sector**: Pavo Passage (MRZ-17)
 **Orbits**: Cathris (capital world)
 **Function**: Gate-station — where law becomes motion

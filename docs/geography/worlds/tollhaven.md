@@ -1,8 +1,5 @@
-# 👑 Canon Document: TOLLHAVEN (Orbital Gate-Station of Cathris)
+# Tollhaven (Orbital Gate-Station of Cathris)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 02
-**Type**: City-sized orbital station (mothership-scale)
 **Sector**: Pavo Passage (MRZ-17)
 **Orbits**: Cathris (capital world)
 **Function**: Gate-station — where law becomes motion
@@ -142,12 +139,12 @@ A quiet shelter for injured workers and stranded crews. No violence inside. No b
 
 ## Cross-References
 
-- Cathris — [cathris.md](/geography/worlds/cathris.md) (Tollhaven orbits Cathris)
-- Velloris — [velloris.md](/geography/worlds/velloris.md) (proof/credential counterpart)
-- TAPP — [tapp.md](/factions/toll_authority_of_pavo_passage.md) (Starpath Auction Hall)
-- MTC — [mtc.md](/factions/meridian_trading_company.md) (Meridian Contract Pier)
-- VHE — [vhe.md](/factions/vale_horizon_exchange.md) (Workforce Commons)
-- Winter Fist Path — [winter_fist_path.md](/factions/winter_fist_path.md) (Rest House)
-- Crumon Dynasty — [crumon_dynasty.md](/factions/crumon_dynasty.md) (Gilded Concourse)
+- Cathris — [cathris.md](./cathris.md) (Tollhaven orbits Cathris)
+- Velloris — [velloris.md](./velloris.md) (proof/credential counterpart)
+- TAPP — [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md) (Starpath Auction Hall)
+- MTC — [meridian_trading_company.md](../../factions/meridian_trading_company.md) (Meridian Contract Pier)
+- VHE — [vale_horizon_exchange.md](../../factions/vale_horizon_exchange.md) (Workforce Commons)
+- Winter Fist Path — [winter_fist_path.md](../../factions/winter_fist_path.md) (Rest House)
+- Crumon Dynasty — [crumon_dynasty.md](../../factions/crumon_dynasty.md) (Gilded Concourse)
 - Starpath — chain of warp gates linking Galia Expanse regions
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

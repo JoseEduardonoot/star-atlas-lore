@@ -1,10 +1,7 @@
-# 🌀 Canon Document: BARROT GATEWAY (MRZ-14)
+# Barrot Gateway (MRZ-14)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Barrot Gateway lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-14)
-**Influence**: ONI
-**Theme**: Mystery, Tourism, Gambling, Cosmic Anomaly, Hidden Horror
+> The Barrot Gateway sits within the heart of the ONI medium zone.
+
 
 ---
 

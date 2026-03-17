@@ -1,8 +1,5 @@
-# 👑 Canon Document: CRUSHSPIRE (Arco World / Dynastic Stronghold)
+# Crushspire (Arco World / Dynastic Stronghold)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 03
-**Type**: Industrial planet / dynastic stronghold
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Resource-backed power — where dynasty becomes infrastructure
 **Primary Export**: Arco Crystal

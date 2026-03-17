@@ -1,7 +1,7 @@
-# 🌌 Canon Document: SEGAL SECTOR (ONI 4)
+# Segal Sector (ONI 4)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 4 — Sogmian Homeland)
+> The chronicles of the Segal sector are etched with the valor and heartaches of the Sogmian warriors.
+
 
 ---
 

@@ -18,11 +18,11 @@
 > *"People ask if I feel bad stripping a dead civilization's bones. I ask them how they think their hab-station got its hull plating."*
 > — **Rig Boss Fennek**
 
-The **Exile Scavengers** are not a faction in the traditional sense — they are a galactic lifestyle. Across every region of the [Galia Expanse](../geography/sectors/galia.md), from the most lawless MRZ border sectors to the fringes of civilized space, millions of sentient beings have turned to scavenging as a way of life. Some fell into it out of desperation — refugees, debtors, war orphans. Others chose it for the promise of fortune. And some simply need to disappear.
+The **Exile Scavengers** are not a faction in the traditional sense — they are a galactic lifestyle. Across every region of the **Galia Expanse**, from the most lawless MRZ border sectors to the fringes of civilized space, millions of sentient beings have turned to scavenging as a way of life. Some fell into it out of desperation — refugees, debtors, war orphans. Others chose it for the promise of fortune. And some simply need to disappear.
 
 They are not pirates — they do not attack the living. They are not archaeologists — they do not preserve what they find. They are pragmatic vultures, converting the remnants of tragedy into tradeable salvage — the raw material that keeps the MRZ's fragile economy from collapsing entirely.
 
-What makes the Exile Scavengers significant is not what they take — it is what their existence proves. Every artifact they recover from the [HRZ](../geography/sectors/galia.md) proves the dangerous zones contain wealth. Every scavenger who returns alive proves those zones can be navigated. The [Malkabaets](../factions/malkabaets.md) COP movement uses this as its strongest argument for organized colonization. The scavengers themselves, ironically, oppose it — organized colonization would end their monopoly on HRZ salvage.
+What makes the Exile Scavengers significant is not what they take — it is what their existence proves. Every artifact they recover from the **HRZ** proves the dangerous zones contain wealth. Every scavenger who returns alive proves those zones can be navigated. The [Malkabaets](../factions/malkabaets.md) COP movement uses this as its strongest argument for organized colonization. The scavengers themselves, ironically, oppose it — organized colonization would end their monopoly on HRZ salvage.
 
 ---
 
@@ -99,7 +99,7 @@ While the Akalma Deep is the profession's center of gravity, scavenger crews ope
 |---------|-----------------|
 | **[Izar-248](../geography/sectors/izar.md) depths** | Crews explored underground ruins — discovered an [Izarian](../factions/izarians.md) city with active defenses. Never penetrated deep enough for contact. The Izarians don't know the galaxy exists above them |
 | **HRZ border sectors** | Illegal but profitable — the most dangerous runs yield the rarest artifacts. The scavenger paradox: their success proves HRZ colonization is viable, but they oppose it to protect their monopoly |
-| **[Twilight Nebula](../geography/sectors/twilight_nebula.md) periphery** | [Umbral Court](../factions/umbral_court.md) territory — crews operating near the nebula risk encounter with plasmatic essence-weavers seeking hosts |
+| ****Twilight Nebula** periphery** | [Umbral Court](../factions/umbral_court.md) territory — crews operating near the nebula risk encounter with plasmatic essence-weavers seeking hosts |
 | **War wreck fields** | Convergence War debris — **Rig Boss Hasp's "The Corroded"** specializes exclusively in war wreck salvage |
 
 ---
@@ -197,17 +197,6 @@ The scavenger population is the galaxy's largest proof of concept and its most m
 - [Master Timeline](../meta/master_timeline.md) — ~2523 Bekalu's vengeance, ~2550 Flotsam Exchange
 
 ---
-
-## 🔮 Open Questions
-
-- **The Maw** — What is in the deepest tier of the Akalma Deep? No crew has completed a full run. The Cosmic Current effect there is unknown. The cries at Deep tier already address scavengers by name — what happens deeper?
-- **The Memory Core evidence** — If the Sogmian Memory Core proves Akalma's innocence, who framed them? And what happens to the Sogmian species when they discover Bekalu's vengeance was committed against the innocent?
-- **The Void Anchor** — Is it a Living Factories artifact? If so, why was it in a Cosmic Current cavity? The intersection of Iris's cosmic fabric and Living Factories technology suggests connections no one has mapped
-- **The Izarian near-contact** — Scavengers discovered an underground city with active defenses on Izar-248. The Izarians don't know the galaxy exists. What happens when someone penetrates deep enough for first contact?
-- **The scavenger paradox resolution** — If the Malkabaets succeed and the COP authorizes HRZ colonization, the scavengers lose their livelihood. Would they resist? Adapt? Or has a generation of HRZ survival already made them the galaxy's best frontier settlers?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

@@ -1,7 +1,7 @@
-# 🌌 Canon Document: IZAR-248 SECTOR (MRZ-7)
+# Izar-248 Sector (MRZ-7)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Hazardous)
+> Izar-248 bears the reputation of a perilous sector, officially recognized as such by the Council of Peace.
+
 
 ---
 
@@ -17,7 +17,7 @@
 - High-velocity debris ring = lethal to navigation.
 - Clouds of dust further obscure the environment.
 - **Cause**: An ancient civilization (**distinct** from Soletud/Ka-dara) destroyed itself experimenting with **groundbreaking gravitational technologies** (~1965).
-- **Survivors**: A handful fled underground, founding a subterranean civilization that persists to this day. See `canon/geography/sectors/izar_survivors.md`
+- **Survivors**: A handful fled underground, founding a subterranean civilization that persists to this day. See [izar_survivors.md](./izar_survivors.md)
 
 ### Surface Ecosystem
 
@@ -56,6 +56,6 @@
 
 ## Cross-References
 
-- Fallen Civilization — `canon/geography/sectors/izar_fallen_civilization.md` (the ancestral empire)
-- Underground Survivors — `canon/geography/sectors/izar_survivors.md` (the descendants)
+- Fallen Civilization — [izar_fallen_civilization.md](./izar_fallen_civilization.md) (the ancestral empire)
+- Underground Survivors — [izar_survivors.md](./izar_survivors.md) (the descendants)
 - Jorvik — pirates controlling the safe corridor

@@ -1,8 +1,5 @@
-# 📦 Canon Document: SURVEY DATA UNITS (SDU)
+# Survey Data Units (SDU)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Lumik / Scriptorium lore
-**Type**: Information classification system
 **Origin**: The Lumikir of Lumik (MRZ-27)
 **Institution**: The Scriptorium
 

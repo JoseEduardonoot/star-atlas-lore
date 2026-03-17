@@ -1,10 +1,7 @@
-# ❄️ Canon Document: FROSTSUN (MRZ-30)
+# Frostsun (MRZ-30)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Frostsun lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-30)
-**Influence**: ONI (Punaab territory — formally an Akenat colony)
-**Theme**: Dying Farmed Star, Underground Civilization, Native Conflict, Lost Scouts
+> Frostsun is a sector locked in an eternal wintry embrace.
+
 
 ---
 
@@ -102,19 +99,11 @@ Frostsun is a sector locked in an **eternal wintry embrace**. Its star was **har
 
 ## Cross-References
 
-- Profound Punaabs — `canon/species/punaab.md` (burrowing, spiritual branch)
-- Akenat — Punaab homeworld (`canon/geography/sectors/evernat.md`)
-- Evernat — native Punaab sector (`canon/geography/sectors/evernat.md`)
-- Convergence War — `canon/history/convergence_war.md` (scout mission context)
+- Profound Punaabs — [punaab.md](../../species/punaab.md) (burrowing, spiritual branch)
+- Akenat — Punaab homeworld ([evernat.md](./evernat.md))
+- Evernat — native Punaab sector ([evernat.md](./evernat.md))
+- Convergence War — [convergence_war.md](../../history/convergence_war.md) (scout mission context)
 - Ancient civilizations — parallel to Kamec's HRZ collapsed empire
 - Lt. Wenn Saga — storyline TBD (connects to Lost Scouts)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-FRO1: Identity of the ancient star-farming civilization?
-- ⏸️ Q-FRO2: Lt. Wenn Saga — full storyline (deferred)
-- ⏸️ Q-FRO3: Semi-sentient native creatures — species, culture, abilities (deferred — **TO CREATE**)
-- ⏸️ Q-FRO4: How many underground cities exist in Frostsun?
-- ⏸️ Q-FRO5: What happens when the star finally dies? Evacuation plan?

@@ -33,7 +33,7 @@ Since Revel's death (~2624), his children divide the empire between them, each r
 
 **Ophek Revel** was born human, died a legend, and spent the fifty years between the [Convergence War](../history/convergence_war.md) and his natural death building the most profitable entertainment empire in galactic history.
 
-His origin was not glamorous. During the final years of the Convergence War (~2513), Revel operated as a daring freighter pilot and the most sought-after **information broker** in the conflict zone. While other traders hauled cargo through collapsing supply lines, Revel hauled something far more valuable: knowledge. He traded [HRZ](../geography/sectors/hrz.md) intelligence — patrol routes, resource caches, faction movements — to anyone who could pay. He sold to all sides. He betrayed none — because information, unlike weapons, can be sold twice without anyone noticing.
+His origin was not glamorous. During the final years of the Convergence War (~2513), Revel operated as a daring freighter pilot and the most sought-after **information broker** in the conflict zone. While other traders hauled cargo through collapsing supply lines, Revel hauled something far more valuable: knowledge. He traded **HRZ** intelligence — patrol routes, resource caches, faction movements — to anyone who could pay. He sold to all sides. He betrayed none — because information, unlike weapons, can be sold twice without anyone noticing.
 
 By ~2522, Revel had amassed a fortune and a reputation. Both were dangerous. Information brokers who know too much tend to have short careers. Revel retired from the trade before his clients decided to retire him — but he kept every contact, every favor, every secret. These would become the invisible foundation of everything he built next.
 
@@ -126,7 +126,7 @@ The transition has produced a consortium governance model: the Revel Heirs meet 
 
 ### The Oasis Economy
 
-The Oasis uses [ATLAS](../reference/atlas_currency.md) as its base currency. The casino operates with **proprietary chips convertible to ATLAS** — a secondary currency system that generates additional revenue through conversion fees and creates a psychological separation between "real money" and "gaming money" that encourages spending.
+The Oasis uses **ATLAS** as its base currency. The casino operates with **proprietary chips convertible to ATLAS** — a secondary currency system that generates additional revenue through conversion fees and creates a psychological separation between "real money" and "gaming money" that encourages spending.
 
 Revenue streams include:
 
@@ -200,17 +200,6 @@ The key heir is **The Whisperer** — whoever controls Whisper Station and, by e
 - [Named Characters](../meta/named_characters.md) — Ophek Revel, the Revel Heirs
 
 ---
-
-## 🔮 Open Questions
-
-- **The Information Database** — Does it exist? Which heir controls it? How extensive is the compromising material?
-- **The Whisperer** — Who is this heir, and do they hold de facto control of the entire Oasis through information leverage?
-- **Graft Research Pipeline** — How deep does the bio-enhancement intermediation go? Are illegal modifications performed on Oasis territory through shell clinics?
-- **Succession Stability** — Can the consortium survive a dispute between heirs, or will the Oasis fragment into competing entertainment fiefdoms?
-- **Revel's Death** — Natural causes or assassination? If murdered, by whom — and did the information database fail to protect him, or did the killer have leverage the database couldn't counter?
-
----
-
 ## Galactic Indices
 
 | Index | Rating | Assessment |

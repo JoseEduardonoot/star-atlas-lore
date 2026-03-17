@@ -1,7 +1,7 @@
-# ⚔️ Canon Document: THE CONVERGENCE WAR
+# The Convergence War
 
-**Status**: 🟢 Canon (Consolidated from Sogmian/Maharog Q&A, Feb 2026)
-**Source**: Creator Input, Maharog Chronicle
+> The Convergence War was the pivotal galactic conflict that reshaped Galia Expanse, leading to the current Golden Era.
+
 
 ---
 
@@ -70,6 +70,6 @@ The **Convergence War** was the pivotal galactic conflict that reshaped Galia Ex
 
 ## 🔴 Cross-References
 
-- [sogmian.md](/species/sogmian.md) (Maharog Chronicle)
-- [tufa.md](/species/tufa.md) (Victims/Casus Belli)
-- [the_cataclysm.md](/geography/the_cataclysm.md) (The Prize)
+- [sogmian.md](../species/sogmian.md) (Maharog Chronicle)
+- [tufa.md](../species/tufa.md) (Victims/Casus Belli)
+- [the_cataclysm.md](../geography/the_cataclysm.md) (The Prize)

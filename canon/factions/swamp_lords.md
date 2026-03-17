@@ -55,7 +55,7 @@ The Swamp Lords' claim to Glowhaven predates the dreams — they settled the sec
 
 ### The Causal Chain
 
-> War agitated [Iris](../geography/iris.md) → cosmic currents intensified → enabled Onato's signal (or what the Mierese interpret as Onato's signal)
+> War agitated **Iris** → cosmic currents intensified → enabled Onato's signal (or what the Mierese interpret as Onato's signal)
 
 | Phase | Date | Event |
 |-------|------|-------|
@@ -158,7 +158,7 @@ Their space fleet is minimal — patrol boats and a handful of armed corvettes. 
 
 ## The Punaab Incident
 
-Glowhaven also holds a dark memory: a [Punaab](../species/punaab.md) colony on a world in MRZ-31 once **destabilized its planetary core through experiments**, threatening catastrophic destruction. The [Ustur](../species/ustur.md) were the only species who offered rescue — an act of generosity that created a deep bond between the two species and ultimately led to the Ustur joining [Ogrika](../factions/ogrika.md). The Swamp Lords witnessed this event from neighboring worlds and drew a simple conclusion: outsiders bring ruin. Their isolationism intensified.
+Glowhaven also holds a dark memory: a [Punaab](../species/punaab.md) colony on a world in MRZ-31 once **destabilized its planetary core through experiments**, threatening catastrophic destruction. The [Ustur](../species/ustur.md) were the only species who offered rescue — an act of generosity that created a deep bond between the two species and ultimately led to the Ustur joining **Ogrika**. The Swamp Lords witnessed this event from neighboring worlds and drew a simple conclusion: outsiders bring ruin. Their isolationism intensified.
 
 ---
 

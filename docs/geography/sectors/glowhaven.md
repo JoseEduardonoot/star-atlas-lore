@@ -1,10 +1,7 @@
-# ✨ Canon Document: GLOWHAVEN (MRZ-31)
+# Glowhaven (MRZ-31)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Glowhaven lore document + Archon Deep-Dive + Onato Dream Arc
-**Zone**: Medium Risk Zone (MRZ-31)
-**Influence**: ONI (eastern border — Mierese sacred site)
-**Theme**: Mineral Bioluminescence, Mierese Prophecy, Onato's Prison, Iris Academy
+> Glowhaven is far more than a luminous frontier.
+
 
 ---
 
@@ -123,20 +120,11 @@ Glowhaven is far more than a luminous frontier. On the surface: a sector where *
 
 ## Cross-References
 
-- Onato — Mierese god, imprisoned (`canon/species/mierese.md`)
-- Lore Keepers — Mierese religious order (`canon/species/mierese.md`)
+- Onato — Mierese god, imprisoned ([mierese.md](../../species/mierese.md))
+- Lore Keepers — Mierese religious order ([mierese.md](../../species/mierese.md))
 - Iris Academy — research institution, base at Anchorage (dedicated file TBD)
 - Mierese shared dreams — unique species-wide telepathic phenomenon
-- Convergence War — `canon/history/convergence_war.md` (timing of dreams)
-- Coral Nebula — parallel bio-reactive phenomenon (`canon/geography/sectors/coral_nebula.md`)
+- Convergence War — [convergence_war.md](../../history/convergence_war.md) (timing of dreams)
+- Coral Nebula — parallel bio-reactive phenomenon ([coral_nebula.md](./coral_nebula.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-GLO1: How can the box be opened? Any clues discovered?
-- ⏸️ Q-GLO2: **Name and character details of the female explorer** *(creator session TBD)*
-- ⏸️ Q-GLO3: What has the Iris Academy discovered at Anchorage so far?
-- ⏸️ Q-GLO4: Is the mineral luminescence connected to Onato, Iris, or both? *("Talvez...")*
-- ⏸️ Q-GLO5: Is the Iris Academy a broader institution or specific to Glowhaven?
-- ⏸️ Q-GLO6: Named nocturnal creatures unique to Glowhaven?

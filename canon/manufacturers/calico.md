@@ -1,7 +1,7 @@
-# 🔧 Canon Document: CALICO INDUSTRIES
+# Calico Industries
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (MUD/ONI Collaboration)
+> Calico Industries emerged from a visionary union of MUD and ONI innovators who diverged from traditional militaristic paths to champion cultural integration, diplomacy, and cooperative growth.
+
 
 ---
 

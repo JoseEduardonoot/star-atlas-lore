@@ -1,7 +1,7 @@
-# 🌌 Canon Document: XIANYANG-VI SECTOR (MRZ-5)
+# Xianyang-vi Sector (MRZ-5)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD Ex-Colony — Military Powerhouse)
+> The most powerful ex-colony in terms of military might, Xianyang-VI survived post-war turmoil through a pivotal alliance with the Gate Garrison, a formidable bounty-hunter collective from the High-...
+
 
 ---
 

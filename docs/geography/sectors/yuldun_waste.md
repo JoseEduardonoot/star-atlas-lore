@@ -1,10 +1,7 @@
-# 💀 Canon Document: YULDUN WASTE (MRZ-32)
+# Yuldun Waste (MRZ-32)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-32)
-**Influence**: Ustur (lawless / ungoverned)
-**Theme**: Barren Wasteland, Criminal Haven, Ancient Space Station, Shadow Economy
+> The Yuldun Waste, to the uninitiated, appears to be a barren expanse within Galia.
+
 
 ---
 
@@ -72,7 +69,7 @@ Yet while its surface seems vacant, the sector isn't entirely desolate. Some pla
 - The **COP invaded Etira** post-Never Alone, destroying the BMAH's subsurface bunkers
 - The Church of the Dreamer Below — a memory-stealing cult founded by **Herdus.soul** — is **destroyed**
 - Etira is now effectively **abandoned**
-- Full details: `canon/geography/worlds/etira.md`
+- Full details: [etira.md](../worlds/etira.md)
 
 ---
 
@@ -88,18 +85,11 @@ Yet while its surface seems vacant, the sector isn't entirely desolate. Some pla
 
 ## Cross-References
 
-- Etira — `canon/geography/worlds/etira.md` (former BMAH capital, Dreamer Below destroyed, Bah's looting)
-- Church of the Dreamer Below — `canon/factions/church_of_the_dreamer_below.md` (destroyed cult)
-- Dark Photoli / Bah — `canon/factions/dark_photoli.md` (looted the Dreamer's corpse)
-- BMAH — `canon/factions/black_market_auction_house.md` (former Etira operations, now in transit)
-- SDU System — `canon/systems/sdu_classification.md` (shadow information trade likely uses SDU rankings)
-- Gate Garrison — `canon/geography/sectors/xianyang.md` (HRZ bounty hunters may pass through here)
+- Etira — [etira.md](../worlds/etira.md) (former BMAH capital, Dreamer Below destroyed, Bah's looting)
+- Church of the Dreamer Below — [church_of_the_dreamer_below.md](../../factions/church_of_the_dreamer_below.md) (destroyed cult)
+- Dark Photoli / Bah — [dark_photoli.md](../../factions/dark_photoli.md) (looted the Dreamer's corpse)
+- BMAH — [black_market_auction_house.md](../../factions/black_market_auction_house.md) (former Etira operations, now in transit)
+- SDU System — [sdu_classification.md](../../systems/sdu_classification.md) (shadow information trade likely uses SDU rankings)
+- Gate Garrison — [xianyang.md](./xianyang.md) (HRZ bounty hunters may pass through here)
 
 ---
-
-## 🔴 Open Questions
-
-- ✅ ~~Q-YUL1: Ancient station origins?~~ → Flavor text for now, no deep lore yet.
-- ✅ ~~Q-YUL2: Governance?~~ → Legitimate planets follow Ustur domain; criminal ops coordinated by BMAH.
-- ✅ ~~Q-YUL3: Salvage yards?~~ → Everything disassembled + reassembled for resale.
-- ✅ ~~Q-YUL4: BMAH connection?~~ → Yes, BMAH coordinates the criminal side of Yuldun Waste.

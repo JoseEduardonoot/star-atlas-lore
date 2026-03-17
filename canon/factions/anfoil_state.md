@@ -204,7 +204,7 @@ The irony is deliberate: the galaxy's most emotionally suppressed faction provid
 
 - [Master Timeline](../meta/master_timeline.md) â€” 6+ Anfoil entries (~2391 through ~2579)
 - [Named Characters](../meta/named_characters.md) â€” Ponel.eldr listed under Ustur / Anfoil State
-- [Galactic Atlas](../reference/atlas/galactic_atlas.md) â€” MRZ-15 sovereign Meritocratic Technate
+- **Galactic Atlas** â€” MRZ-15 sovereign Meritocratic Technate
 - [Faction Power Classification](../meta/faction_power_classification.md) â€” T2 classification (single-sector dominance)
 
 ---
@@ -218,12 +218,3 @@ The irony is deliberate: the galaxy's most emotionally suppressed faction provid
 | **GPI** (Political) | 5 | Sovereign but isolationist. Uses mercenaries and intermediaries. Political influence limited by deliberate self-isolation â€” but The Seed, if acquired, would change every calculation |
 
 ---
-
-## ðŸ”´ Open Questions
-
-- â¸ï¸ Q-ANF1: Specific technological specializations of each planet?
-- â¸ï¸ Q-ANF2: How does the Anfoil ritual (emotion/core suppression) work technically?
-- â¸ï¸ Q-ANF3: Did Ponel's plan to seize the Seed succeed or fail?
-- â¸ï¸ Q-ANF4: What is inside Uru's Watch?
-- â¸ï¸ Q-ANF5: Population and planet count?
-- â¸ï¸ Q-ANF6: What happened to Armi.eldr?

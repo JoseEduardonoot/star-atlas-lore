@@ -1,10 +1,7 @@
-# ⚔️ Canon Document: EOL-GARADAR (MRZ-23)
+# Eol-garadar (MRZ-23)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-23)
-**Influence**: Ustur (but independently governed)
-**Theme**: Noble Heroes, Champions of Liberty, Anti-Slavery, Universal Rights
+> Eol-Garadar stands as a shining beacon, renowned as the home of noble heroes and champions of liberty.
+
 
 ---
 

@@ -21,7 +21,7 @@
 > *"Xianyang does not produce diplomats. It produces soldiers who survive, and then sends them everywhere."*
 > — Redam trade attaché, private dispatch
 
-The **Xianyang Enforcers** are the military enforcement arm of the [Xianyang Government](../factions/xyanyang_government.md), deployed when the [Free Cities of Humanity's](../factions/redam_government.md) diplomacy fails. They are not a conventional army — they are a **mercenary legion** modeled on [Gate Garrison](../factions/gate_garrison.md) methodology, present on most of the battlefronts of the [Galia Expanse](../geography/sectors/galia.md), funded by combat contracts that finance Xianyang's military apparatus back home.
+The **Xianyang Enforcers** are the military enforcement arm of the [Xianyang Government](../factions/xyanyang_government.md), deployed when the [Free Cities of Humanity's](../factions/redam_government.md) diplomacy fails. They are not a conventional army — they are a **mercenary legion** modeled on [Gate Garrison](../factions/gate_garrison.md) methodology, present on most of the battlefronts of the **Galia Expanse**, funded by combat contracts that finance Xianyang's military apparatus back home.
 
 What makes the Enforcers unique among galactic military forces is their dual nature: a professional standing army of three million **and** a distributed alumni network of twelve million trained reservists embedded across every conflict zone in settled space. The Enforcers are not just where Xianyang-VI stations them — they are everywhere a former citizen has traveled after completing their mandatory service.
 

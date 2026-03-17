@@ -1,10 +1,7 @@
-# ✨ Canon Document: GLOWHAVEN (MRZ-31)
+# Glowhaven (MRZ-31)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Glowhaven lore document + Archon Deep-Dive + Onato Dream Arc
-**Zone**: Medium Risk Zone (MRZ-31)
-**Influence**: ONI (eastern border — Mierese sacred site)
-**Theme**: Mineral Bioluminescence, Mierese Prophecy, Onato's Prison, Iris Academy
+> Glowhaven is far more than a luminous frontier.
+
 
 ---
 

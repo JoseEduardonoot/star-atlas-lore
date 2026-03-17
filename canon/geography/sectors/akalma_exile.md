@@ -1,7 +1,7 @@
-# 🌌 Canon Document: AKALMA EXILE SECTOR (MRZ-12)
+# Akalma Exile Sector (MRZ-12)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Haunted Sogmian Ruins)
+> Akalma Exile is a somber shadow of its former glory — the sector where the disgraced House of Akalma (Sogmian) was banished following their failed coup during the Vega Fall upheaval.
+
 
 ---
 

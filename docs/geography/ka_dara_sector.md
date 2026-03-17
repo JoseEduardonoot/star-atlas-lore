@@ -1,7 +1,9 @@
-# 🤖 Canon Document: KA-DARA SECTOR
+# Ka-dara Sector
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Q&A Session
+> - Type: Sector of Galia Expanse
+- Location: Within the Ustur zone of influence
+- Dominant Entity: Ingbus — an AI of profound intelligence
+
 
 ---
 

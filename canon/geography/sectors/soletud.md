@@ -1,7 +1,7 @@
-# 🌌 Canon Document: SOLETUD SECTOR (Ustur 3)
+# Soletud Sector (Ustur 3)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Safe Zone Sector (Ustur 3 — Cosmic Archaeology)
+> Soletud is marked by the presence of an immense carcass of a commander-class vessel situated a few light minutes from its primary star.
+
 
 ---
 

@@ -179,7 +179,7 @@ The products of that exploration range from genuinely beneficial (organ cloning 
 
 - [Master Timeline](../meta/master_timeline.md) â€” ~2600 network emergence
 - [Named Characters](../meta/named_characters.md) â€” 5 pseudonyms with suspected species identifications
-- [Galactic Atlas](../reference/atlas/galactic_atlas.md) â€” Decentralized MRZ research network
+- **Galactic Atlas** â€” Decentralized MRZ research network
 
 ---
 
@@ -192,11 +192,3 @@ The products of that exploration range from genuinely beneficial (organ cloning 
 | **GPI** (Political) | 5 | Their existence challenges species identity, bioethics, and COP regulatory authority. The network's "no restriction on knowledge" principle is a political statement that attracts sympathizers even among legitimate researchers who would never join |
 
 ---
-
-## ðŸ”´ Open Questions
-
-- â¸ï¸ Q-GRF1: Has any Grafter successfully obtained Ka-dara biotech fungus samples?
-- â¸ï¸ Q-GRF2: What happened to the extraction missions that entered Ka-dara space?
-- â¸ï¸ Q-GRF3: Is Xen0Graft still active, or has the pseudonym been adopted by a successor?
-- â¸ï¸ Q-GRF4: How close is C0rtexWyrm to a consciousness transfer breakthrough?
-- â¸ï¸ Q-GRF5: Are there Graft sympathizers within the GMU or other legitimate research institutions?

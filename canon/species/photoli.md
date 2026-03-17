@@ -1,7 +1,7 @@
-# ✨ Canon Document: PHOTOLI
+# Photoli
 
-**Status**: 🟢 Canon (Lore Dump Integrated, Feb 2026)
-**Source**: Creator Input (Lore Dump)
+> Photoli society lacks a central government.
+
 
 ---
 
@@ -125,7 +125,7 @@ Photoli society lacks a central government. They are highly self-sufficient.
 ## 🔴 Cross-References
 
 - **ONI Consortium**: `canon/species/sogmian.md`
-- **Denebula**: `canon/geography/denebula_utopia.md`
+- **Denebula**: `canon/geography/sectors/denebula_utopia.md`
 - **HRZ**: `canon/geography/the_cataclysm.md`
 - **Lumik / Lumikir**: `canon/geography/sectors/lumik.md` (Om's connection, uplifted species)
 - **Ka-dara**: `canon/geography/sectors/ka_dara.md` (Dark Photoli fight in Om's youth led to Lumikir encounter)

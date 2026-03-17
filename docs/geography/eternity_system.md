@@ -1,7 +1,4 @@
-# 🌌 Canon Document: ETERNITY SYSTEM (Ustur 1)
-
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Ustur I / Eternity lore document
+# Eternity System (Ustur 1)
 
 ---
 
@@ -47,7 +44,7 @@
 
 ### Colonization
 
-- First Ustur awakened from deep slumber, welcomed by Mother Craven
+- First Ustur awakened from deep slumber, welcomed by Mother Caven
 - Quickly evolved to space-faring civilization
 - Decades later: colonizing other star systems, implementing Elder Order
 

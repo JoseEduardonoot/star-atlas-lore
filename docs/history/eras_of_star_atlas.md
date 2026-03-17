@@ -1,7 +1,7 @@
-# ⏳ Canon Document: ERAS OF STAR ATLAS
+# Eras of Star Atlas
 
-**Status**: 🟢 Canon (Compiled from all canon sources, Feb 2026)
-**Source**: Comprehensive synthesis of Aeon Timeline + Canon Files
+> The origins of the galaxy's sentient species.
+
 
 ---
 
@@ -32,8 +32,8 @@ The origins of the galaxy's sentient species. Defined by primal struggle and the
 
 ### Cross-References
 
-- Sogmians: [sogmian.md](/species/sogmian.md)
-- Izar-248: [izar.md](/geography/sectors/izar.md)
+- Sogmians: [sogmian.md](../species/sogmian.md)
+- Izar-248: [izar.md](../geography/sectors/izar.md)
 
 ---
 
@@ -50,10 +50,10 @@ Civilizations develop, cultures are codified, and species begin to organize into
 
 ### Cross-References
 
-- Photoli / Dreamer Below: [photoli.md](/species/photoli.md), [church_of_the_dreamer_below.md](/factions/church_of_the_dreamer_below.md)
-- Ustur: [ustur.md](/species/ustur.md)
-- Mierese: [mierese.md](/species/mierese.md)
-- Sogmians: [sogmian.md](/species/sogmian.md)
+- Photoli / Dreamer Below: [photoli.md](../species/photoli.md), [church_of_the_dreamer_below.md](../factions/church_of_the_dreamer_below.md)
+- Ustur: [ustur.md](../species/ustur.md)
+- Mierese: [mierese.md](../species/mierese.md)
+- Sogmians: [sogmian.md](../species/sogmian.md)
 
 ---
 
@@ -88,11 +88,11 @@ Species reach the stars, colonize sectors, make first contact with other civiliz
 
 ### Cross-References
 
-- Sogmian history: [sogmian.md](/species/sogmian.md)
-- ECOS: [ecos.md](/factions/earth_conscious_ontological_society.md)
-- Coral Nebula: [coral_nebula.md](/geography/sectors/coral_nebula.md)
-- Vega Fall: [vega_fall.md](/geography/sectors/vega_fall.md)
-- Old Grove: [old_grove.md](/geography/sectors/old_grove.md)
+- Sogmian history: [sogmian.md](../species/sogmian.md)
+- ECOS: [earth_conscious_ontological_society.md](../factions/earth_conscious_ontological_society.md)
+- Coral Nebula: [coral_nebula.md](../geography/sectors/coral_nebula.md)
+- Vega Fall: [vega_fall.md](../geography/sectors/vega_fall.md)
+- Old Grove: [old_grove.md](../geography/sectors/old_grove.md)
 
 ---
 
@@ -100,7 +100,7 @@ Species reach the stars, colonize sectors, make first contact with other civiliz
 
 The pivotal galactic conflict that reshaped Galia Expanse. Fought primarily over the control of **Iris** and the exploitation of the **Tufa**.
 
-→ *See [convergence_war.md](/history/convergence_war.md) for detailed coverage*
+→ *See [convergence_war.md](./convergence_war.md) for detailed coverage*
 
 ### Major Events
 
@@ -117,9 +117,9 @@ The pivotal galactic conflict that reshaped Galia Expanse. Fought primarily over
 
 ### Cross-References
 
-- Convergence War details: [convergence_war.md](/history/convergence_war.md)
-- Sogmian perspective: [sogmian.md](/species/sogmian.md)
-- Council of Peace: [council_of_peace.md](/institutions/council_of_peace.md)
+- Convergence War details: [convergence_war.md](./convergence_war.md)
+- Sogmian perspective: [sogmian.md](../species/sogmian.md)
+- Council of Peace: [council_of_peace.md](../institutions/council_of_peace.md)
 
 ---
 
@@ -175,10 +175,10 @@ Post-war reconstruction, the rise of the Council of Peace, establishment of gala
 
 ### Cross-References
 
-- Council of Peace: [council_of_peace.md](/institutions/council_of_peace.md)
+- Council of Peace: [council_of_peace.md](../institutions/council_of_peace.md)
 - All sector files in `canon/geography/sectors/`
-- ECOS: [ecos.md](/factions/earth_conscious_ontological_society.md)
-- Church of the Dreamer Below: [church_of_the_dreamer_below.md](/factions/church_of_the_dreamer_below.md)
+- ECOS: [earth_conscious_ontological_society.md](../factions/earth_conscious_ontological_society.md)
+- Church of the Dreamer Below: [church_of_the_dreamer_below.md](../factions/church_of_the_dreamer_below.md)
 
 ---
 
@@ -215,16 +215,10 @@ The playable timeline of Star Atlas. The galaxy's political tensions, faction ri
 
 ### Cross-References
 
-- COP leadership: [council_of_peace.md](/institutions/council_of_peace.md)
-- Current conflicts: [pergamos.md](/geography/sectors/pergamos.md), [frenir.md](/geography/sectors/frenir.md)
-- Emerging threats: [izar.md](/geography/sectors/izar.md), [church_of_the_dreamer_below.md](/factions/church_of_the_dreamer_below.md)
-- Ilidae discovery: [ilidae.md](/geography/sectors/ilidae.md)
-- Everstorm creatures: [everstorm.md](/geography/sectors/everstorm.md)
+- COP leadership: [council_of_peace.md](../institutions/council_of_peace.md)
+- Current conflicts: [pergamos.md](../geography/sectors/pergamos.md), [frenir.md](../geography/sectors/frenir.md)
+- Emerging threats: [izar.md](../geography/sectors/izar.md), [church_of_the_dreamer_below.md](../factions/church_of_the_dreamer_below.md)
+- Ilidae discovery: [ilidae.md](../geography/sectors/ilidae.md)
+- Everstorm creatures: [everstorm.md](../geography/sectors/everstorm.md)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ERA1: Exact date boundaries for the Foundation Era — when did each species reach spacefaring status?
-- ⏸️ Q-ERA2: Are there named eras within Ustur, Mierese, or Punaab histories that align with this framework?
-- ⏸️ Q-ERA3: When exactly does the "playable" Current Age start in gameplay terms?

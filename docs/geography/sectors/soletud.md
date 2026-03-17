@@ -1,7 +1,7 @@
-# 🌌 Canon Document: SOLETUD SECTOR (Ustur 3)
+# Soletud Sector (Ustur 3)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Safe Zone Sector (Ustur 3 — Cosmic Archaeology)
+> Soletud is marked by the presence of an immense carcass of a commander-class vessel situated a few light minutes from its primary star.
+
 
 ---
 
@@ -16,7 +16,7 @@
 - **Origin**: From an **unidentified civilization** — the same one that existed in the **Ka-dara Sector** (details TBD — to be explored later).
 - **Condition**: Complex internal structures and inscriptions. Language and onboard systems remain **largely indecipherable**.
 - **Key Detail**: Shows **no signs of external damage, combat, or any prior inhabitants**. A pristine ghost.
-- **~2547**: Ustur researchers **uncover pivotal secrets** from the derelict's internal systems and inscriptions. This knowledge is used to construct the **Vzus Tenet** — a powerful Titan-class ship stationed at the Vzus Defensive Belt in the Eternity system (`canon/geography/sectors/eternity.md`).
+- **~2547**: Ustur researchers **uncover pivotal secrets** from the derelict's internal systems and inscriptions. This knowledge is used to construct the **Vzus Tenet** — a powerful Titan-class ship stationed at the Vzus Defensive Belt in the Eternity system ([eternity.md](./eternity.md)).
 
 ### Celestial Surveyors Syndicate
 
@@ -46,4 +46,4 @@
 
 ## Cross-References
 
-- Ka-dara Sector: `canon/geography/ka_dara_sector.md`
+- Ka-dara Sector: [ka_dara_sector.md](../ka_dara_sector.md)

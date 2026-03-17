@@ -1,10 +1,7 @@
-# 💀 Canon Document: YULDUN WASTE (MRZ-32)
+# Yuldun Waste (MRZ-32)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-32)
-**Influence**: Ustur (lawless / ungoverned)
-**Theme**: Barren Wasteland, Criminal Haven, Ancient Space Station, Shadow Economy
+> The Yuldun Waste, to the uninitiated, appears to be a barren expanse within Galia.
+
 
 ---
 

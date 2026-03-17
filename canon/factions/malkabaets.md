@@ -17,7 +17,7 @@
 > *"If Iris is dangerous, prove it with data. If it's not, then the COP is keeping the greatest resource in the galaxy locked away while billions struggle."*
 > — Senator Kessler, COP Assembly Address (~2619)
 
-The **Malkabaets** are an organized political movement within the [Council of Peace](../institutions/council_of_peace.md) that advocates for the abolition of [High-Risk Zone](../geography/sectors/hrz.md) access restrictions and the large-scale colonization of the HRZ — including, ultimately, [Iris](../cosmology/iris_zodiac.md) itself.
+The **Malkabaets** are an organized political movement within the [Council of Peace](../institutions/council_of_peace.md) that advocates for the abolition of **High-Risk Zone** access restrictions and the large-scale colonization of the HRZ — including, ultimately, [Iris](../cosmology/iris_zodiac.md) itself.
 
 They are not a fringe cult. They are elected representatives, appointed bureaucrats, career diplomats, and military officers from all three major factions who share a conviction: that the [Cataclysm](../geography/the_cataclysm.md) is either exaggerated or manageable, and that the HRZ represents the only viable solution to Galia's growing crises.
 
@@ -167,7 +167,7 @@ Both claims are true. Neither is comforting.
 
 ### Geography
 
-- [High-Risk Zone](../geography/sectors/hrz.md) — The territory the movement seeks to open
+- **High-Risk Zone** — The territory the movement seeks to open
 
 ### Meta
 

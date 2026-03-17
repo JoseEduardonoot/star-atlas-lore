@@ -1,8 +1,5 @@
-# 📦 Canon Document: SURVEY DATA UNITS (SDU)
+# Survey Data Units (SDU)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Lumik / Scriptorium lore
-**Type**: Information classification system
 **Origin**: The Lumikir of Lumik (MRZ-27)
 **Institution**: The Scriptorium
 
@@ -94,17 +91,11 @@ Known only by a select few with high-level access. Can shift faction-level decis
 
 ## Cross-References
 
-- Lumik — [lumik.md](/geography/sectors/lumik.md) (home sector)
-- The Scriptorium — [lumik.md](/geography/sectors/lumik.md) (parent institution)
-- Iris Academy — [zenith_door.md](/geography/sectors/zenith_door.md) (cooperation agreement — knowledge exchange)
+- Lumik — [lumik.md](../geography/sectors/lumik.md) (home sector)
+- The Scriptorium — [lumik.md](../geography/sectors/lumik.md) (parent institution)
+- Iris Academy — [zenith_door.md](../geography/sectors/zenith_door.md) (cooperation agreement — knowledge exchange)
 - Jorvik — referenced in Rank A example
 - CARY Farming / Exodus — referenced in Rank C example
-- Iris / The Cataclysm — referenced in Rank X example ([the_cataclysm.md](/geography/the_cataclysm.md))
+- Iris / The Cataclysm — referenced in Rank X example ([the_cataclysm.md](../geography/the_cataclysm.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-SDU1: Are SDUs physical objects, digital tokens, or conceptual classifications?
-- ⏸️ Q-SDU2: Can SDU ranks change over time? (e.g., an S-rank secret becomes B-rank after it's publicly exposed)
-- ⏸️ Q-SDU3: Who are the primary Data Runners in the galaxy? Is that a formal profession?

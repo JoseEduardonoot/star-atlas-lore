@@ -1,8 +1,5 @@
-# 👑 Canon Document: VELLORIS (Ledger World / The Proof Spine)
+# Velloris (Ledger World / The Proof Spine)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — World Sheet 04
-**Type**: Administrative planet / ledger world
 **Sector**: Pavo Passage (MRZ-17)
 **Function**: Proof infrastructure — where legality becomes provable
 **Biome**: Dual-hemisphere — agricultural belt + administrative cities
@@ -135,9 +132,9 @@ A managed agricultural corridor built to stabilize the sector's baseline food su
 
 ## Cross-References
 
-- Tollhaven — [tollhaven.md](/geography/worlds/tollhaven.md) (physical throughput counterpart)
-- Cathris — [cathris.md](/geography/worlds/cathris.md) (law-authoring center)
-- TAPP — [tapp.md](/factions/toll_authority_of_pavo_passage.md) (proof/credential dependency)
-- MTC — [mtc.md](/factions/meridian_trading_company.md) (Contract Basin + escrow rails)
-- VHE — [vhe.md](/factions/vale_horizon_exchange.md) (compliance liaisons)
-- Pavo Passage — [pavo_passage.md](/geography/sectors/pavo_passage.md)
+- Tollhaven — [tollhaven.md](./tollhaven.md) (physical throughput counterpart)
+- Cathris — [cathris.md](./cathris.md) (law-authoring center)
+- TAPP — [toll_authority_of_pavo_passage.md](../../factions/toll_authority_of_pavo_passage.md) (proof/credential dependency)
+- MTC — [meridian_trading_company.md](../../factions/meridian_trading_company.md) (Contract Basin + escrow rails)
+- VHE — [vale_horizon_exchange.md](../../factions/vale_horizon_exchange.md) (compliance liaisons)
+- Pavo Passage — [pavo_passage.md](../sectors/pavo_passage.md)

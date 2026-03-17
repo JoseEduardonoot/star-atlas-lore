@@ -1,7 +1,7 @@
-# 🌌 Canon Document: NIGHT WINDOW SECTOR (ONI 5)
+# Night Window Sector (ONI 5)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 5 — The Dark Anomaly)
+> Located on the outermost rim of the recognized ONI territories, Night Window presents an intriguing anomaly.
+
 
 ---
 

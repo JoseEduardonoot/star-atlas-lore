@@ -1,7 +1,7 @@
-# 🌌 Canon Document: PERGAMOS-VIII SECTOR (MRZ-4)
+# Pergamos-viii Sector (MRZ-4)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Economic Behemoth)
+> Located at the heart of the MUD Medium Zone, Pergamos stands as a behemoth of economic prowess — derived from abundant natural resources and deep connections to Galia's shadowy recesses.
+
 
 ---
 

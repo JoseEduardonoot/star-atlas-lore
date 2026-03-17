@@ -1,9 +1,7 @@
-# 🕳️ Canon Document: THE SURVIVORS OF IZAR-248
+# The Survivors of Izar-248
 
-**Status**: 🟢 Canon (Aeon Timeline, Feb 2026)
-**Source**: Aeon Timeline JSON — Events 7, 8, 17, 22, 237, 242
-**Zone**: Medium Risk Zone (MRZ-7) — Underground
-**Theme**: Post-Apocalyptic Survival, Knowledge Loss, Underground Civilization, Paclets Agriculture
+> When the gravitational catastrophe of ~1965 shattered the moons and devastated the surface of Izar-248, a handful of survivors fled into the deep underground of the main planet.
+
 
 ---
 
@@ -100,17 +98,9 @@ When the gravitational catastrophe of **~1965** shattered the moons and devastat
 
 ## Cross-References
 
-- Izar-248 Sector — `canon/geography/sectors/izar.md` (current surface state)
-- Fallen Civilization — `canon/geography/sectors/izar_fallen_civilization.md` (the ancestral empire)
-- Dark Photoli — `canon/species/photoli.md` (responsible for genesium monsters on surface)
+- Izar-248 Sector — [izar.md](./izar.md) (current surface state)
+- Fallen Civilization — [izar_fallen_civilization.md](./izar_fallen_civilization.md) (the ancestral empire)
+- Dark Photoli — [photoli.md](../../species/photoli.md) (responsible for genesium monsters on surface)
 - Paclets — unique underground plant (no parallel in known canon)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-ISV1: What physical/mental changes did centuries underground cause?
-- ⏸️ Q-ISV2: Do any modern factions know the survivors exist?
-- ⏸️ Q-ISV3: Are the Paclets found anywhere else in Galia?
-- ⏸️ Q-ISV4: How many survived the genesium monster attacks?
-- ⏸️ Q-ISV5: Is there any connection between the underground survivors and the surface "deformed creatures" mentioned in the sector file?

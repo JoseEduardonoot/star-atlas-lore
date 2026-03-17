@@ -1,7 +1,7 @@
-# 🌌 Canon Document: ILIDAE SECTOR (MRZ-6)
+# Ilidae Sector (MRZ-6)
 
-**Status**: 🟢 Canon (User Input + Archon Audit, Feb 2026)
-**Type**: Medium Risk Zone (MUD-influenced — Mysterious)
+> Situated deep within the Medium Zone, Ilidae is immediately identifiable by its distinct amber luminescence emitted from its star.
+
 
 ---
 
@@ -40,7 +40,7 @@ Situated deep within the Medium Zone, **Ilidae** is immediately identifiable by 
 - **~2501**: The **ECOS Fleet rains down** over the groups attacking the Termiks
 - ECOS establishes a **permanent defensive base** in the sector for Termik protection
 - This aligns with the **Grove Doctrine** (~2493) — ECOS's mandate to protect galactic wildlife
-- **~2569**: In cooperation with the **Iris Academy** (`canon/geography/sectors/zenith_door.md`), ECOS establishes a **sustainable city** dedicated to the **research and protection** of the Termiks
+- **~2569**: In cooperation with the **Iris Academy** ([zenith_door.md](./zenith_door.md)), ECOS establishes a **sustainable city** dedicated to the **research and protection** of the Termiks
 
 ---
 

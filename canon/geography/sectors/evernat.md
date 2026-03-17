@@ -1,7 +1,7 @@
-# 🌌 Canon Document: EVERNAT SECTOR (ONI 3)
+# Evernat Sector (ONI 3)
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Safe Zone Sector (ONI 3 — Punaab Homeland)
+> Deep within ONI space lies Evernat, a sector that whispers tales of ancient origins.
+
 
 ---
 

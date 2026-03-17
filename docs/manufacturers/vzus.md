@@ -1,7 +1,7 @@
-# 🔧 Canon Document: VZUS
+# VZUS
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (Ustur)
+> VZUS is the leading Ustur manufacturer, owned and operated by the Ustur faction.
+
 
 ---
 
@@ -32,6 +32,6 @@
 
 ## Cross-References
 
-- Ustur species: [ustur.md](/species/ustur.md)
-- Eternity Sector: [eternity.md](/geography/sectors/eternity.md)
-- Foy Fields Sector: [foy_fields.md](/geography/sectors/foy_fields.md)
+- Ustur species: [ustur.md](../species/ustur.md)
+- Eternity Sector: [eternity.md](../geography/sectors/eternity.md)
+- Foy Fields Sector: [foy_fields.md](../geography/sectors/foy_fields.md)

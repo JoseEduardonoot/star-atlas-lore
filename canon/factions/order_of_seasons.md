@@ -10,17 +10,17 @@
 | **Leader** | Priestess Delura (Mierese) |
 | **Founded** | ~2515, during the Convergence War |
 | **Headquarters** | Duskreach (distributed sanctum network) |
-| **Region** | [Pavo Passage](../geography/sectors/pavo_passage.md) / [HRZ](../geography/sectors/hrz.md) |
+| **Region** | [Pavo Passage](../geography/sectors/pavo_passage.md) / **HRZ** |
 | **Strength** | Unknown â€” estimated dozens of operatives |
 | **Structure** | Navk—Nevk—Nivk—Novk—Nuvk hierarchy |
 | **Status** | Active |
 
 
-The **Order of Seasons** is perhaps the most feared organization operating in [Pavo Passage](../geography/sectors/pavo_passage.md) and one of the most enigmatic factions in all of [Galia](../geography/sectors/galia.md). Known publicly as a veiled brotherhood of assassins-for-hire, the Order's true nature is far more complex: it is a **devotional cult** sworn to the service of **Iris Dusk**, the seventh and most feared aspect of the cosmic entity [Iris](../cosmology/iris_zodiac.md).
+The **Order of Seasons** is perhaps the most feared organization operating in [Pavo Passage](../geography/sectors/pavo_passage.md) and one of the most enigmatic factions in all of **Galia**. Known publicly as a veiled brotherhood of assassins-for-hire, the Order's true nature is far more complex: it is a **devotional cult** sworn to the service of **Iris Dusk**, the seventh and most feared aspect of the cosmic entity [Iris](../cosmology/iris_zodiac.md).
 
 What separates the Order from common mercenary guilds is its theology. Every assassination â€” referred to as a *"harvest"* â€” is treated not as a commercial transaction but as a **sacrament**: a ritualized pruning of excess, mandated by the goddess herself. The Order does not kill for profit. It kills because the galaxy grows too loud, too swollen, too ambitious â€” and Iris Dusk demands restraint.
 
-The Order's most infamous act â€” the extermination of the entire Pavo royal family in a single night, an event known only as **"The Night"** â€” transformed it from an obscure HRZ guild into a galactic legend. In the decades since, the mere *rumor* of an Order contract has proven sufficient to destabilize factions, topple alliances, and redirect the flow of power across the [Medium-Risk Zone](../geography/sectors/mrz.md).
+The Order's most infamous act â€” the extermination of the entire Pavo royal family in a single night, an event known only as **"The Night"** â€” transformed it from an obscure HRZ guild into a galactic legend. In the decades since, the mere *rumor* of an Order contract has proven sufficient to destabilize factions, topple alliances, and redirect the flow of power across the **Medium-Risk Zone**.
 
 Everything documented about the Order in Galia refers only to its **Pavo Passage outpost**. The true body of the organization â€” its core leadership, its founding sanctums, its doctrinal heart â€” is believed to remain in the **High-Risk Zone**, beyond the reach of any known intelligence service. Whether the Pavo operation is one of many outposts or the only one that has ever crossed into civilized space remains unknown.
 
@@ -54,7 +54,7 @@ Internally, the Order transforms these folk beliefs into rigid theological doctr
 
 ### Origins in the HRZ (~2515)
 
-The Order of Seasons was born during the chaos of the **Convergence War** around 2515 â€” a period when death was so common and so widespread that a group of killers could organize, train, and develop religious doctrine without drawing meaningful attention. The founding members â€” whose names have been deliberately erased from all records â€” are believed to have been [HRZ](../geography/sectors/hrz.md) survivors who interpreted the unrelenting violence around them not as meaningless carnage but as **evidence of cosmic will**: the galaxy was overgrown, and someone had to cut it back.
+The Order of Seasons was born during the chaos of the **Convergence War** around 2515 â€” a period when death was so common and so widespread that a group of killers could organize, train, and develop religious doctrine without drawing meaningful attention. The founding members â€” whose names have been deliberately erased from all records â€” are believed to have been **HRZ** survivors who interpreted the unrelenting violence around them not as meaningless carnage but as **evidence of cosmic will**: the galaxy was overgrown, and someone had to cut it back.
 
 Little is known about the Order's earliest decades. Its founding sanctums remain in the High-Risk Zone, their locations never revealed to any outsider â€” and possibly unknown to the majority of the Order's own operatives.
 
@@ -159,7 +159,7 @@ There is no direct contact with the Order. No meeting, no intermediary, no publi
 
 ### The Offering Process
 
-A petitioner must write their contract â€” naming the target, the grievance, and the justification â€” in precise terms. They bind it with a payment proof, typically a pledge of [HRZ](../geography/sectors/hrz.md) technology or rare artifacts. Then they place it into a known **Season Box**: a hidden dead-drop structure rumored to exist in high-traffic areas across the sector.
+A petitioner must write their contract â€” naming the target, the grievance, and the justification â€” in precise terms. They bind it with a payment proof, typically a pledge of **HRZ** technology or rare artifacts. Then they place it into a known **Season Box**: a hidden dead-drop structure rumored to exist in high-traffic areas across the sector.
 
 Most Season Boxes are decoys, traps, or folklore. Real ones are rare â€” and they shift over time.
 
@@ -179,7 +179,7 @@ An accepted contract does not guarantee a swift death. It guarantees only that t
 |------|---------|------|------|
 | **Priestess Delura** | [Mierese](../species/mierese.md) | Priestess | Supreme authority of the Order. Cold, deliberate, patient. Communicates exclusively through ritualized "Dusk Prayers." Has never been seen by most of her own operatives. Not the founder but the inheritor â€” the current Priestess in a line of succession stretching to the HRZ origins |
 | **Elias Dorn** | [Human](../species/human.md) | Nivk (deep cover) | Holds the "Neutral Seat" on the [Ruling Conclave](../factions/ruling_conclave.md). Decades-long infiltration. Has never met Delura. Subtly steers Conclave decisions to maintain the factional imbalance the Order requires. Growing increasingly comfortable in political power â€” a potential vulnerability |
-| **Saevar** | [Sogmian](../species/sogmian.md) | Novk (elite) | The Order's deadliest operative, with over 40 confirmed harvests across three sectors. Known to the [Gate Garrison](../factions/gate_garrison.md) only by reputation â€” they call him "the one who doesn't bleed." Carries a personal grudge related to the [Dusk Chain](../factions/gate_garrison.md#the-dusk-chain) incident |
+| **Saevar** | [Sogmian](../species/sogmian.md) | Novk (elite) | The Order's deadliest operative, with over 40 confirmed harvests across three sectors. Known to the [Gate Garrison](../factions/gate_garrison.md) only by reputation â€” they call him "the one who doesn't bleed." Carries a personal grudge related to the [Dusk Chain](../factions/gate_garrison.md#the-dusk-chain-feud) incident |
 | **Ilyat** | [Punaab](../species/punaab.md) | Nivk (intelligence) | The Order's primary intelligence asset in Pavo Passage. Manages the Root Network for three Duskreach sanctums simultaneously. Appears publicly as a minor trade clerk on [Tollhaven](../geography/worlds/tollhaven.md) â€” the most dangerous person in any room she enters, and no one ever knows |
 | **Root-Watcher Ghaan** | [Ustur](../species/ustur.md) (.tchr) | Nuvk | Guardian of the Order's oldest Pavo sanctum. Maintains doctrinal records dating back to the HRZ founding. Trains Navk. Has not left his sanctum in over fifty years. The Order's institutional memory incarnate |
 
@@ -219,4 +219,4 @@ The Order of Seasons remains active and operational within Pavo Passage, its san
 
 Several developments, however, suggest that the coming years may test the Order's equilibrium as never before. Ike Pavo's consolidation of the [Crumon Dynasty](../factions/crumon_dynasty.md) continues â€” and his appetite for historical truth grows with his power. Elias Dorn's increasing comfort in his Conclave role raises the question of whether a Nivk can remain loyal to a cause he no longer *needs*. And the [Gate Garrison](../factions/gate_garrison.md)'s persistent pursuit of the Dusk Chain feud ensures that the Order's eastern flank remains a source of friction.
 
-The true extent of the Order's infrastructure beyond Pavo â€” whether other outposts exist in the [Medium-Risk Zone](../geography/sectors/mrz.md) or even the [High-Risk Zone](../geography/sectors/hrz.md) â€” remains one of the most fiercely guarded secrets in the galaxy. Those who have pursued the answer have, as a rule, not returned to share their findings.
+The true extent of the Order's infrastructure beyond Pavo â€” whether other outposts exist in the **Medium-Risk Zone** or even the **High-Risk Zone** â€” remains one of the most fiercely guarded secrets in the galaxy. Those who have pursued the answer have, as a rule, not returned to share their findings.

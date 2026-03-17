@@ -1,7 +1,7 @@
-# 🔧 Canon Document: VZUS
+# VZUS
 
-**Status**: 🟢 Canon (User Input, Feb 2026)
-**Type**: Ship Manufacturer (Ustur)
+> VZUS is the leading Ustur manufacturer, owned and operated by the Ustur faction.
+
 
 ---
 

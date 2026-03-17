@@ -1,6 +1,5 @@
-# 📊 Galia Expanse — Sector Depth Audit & Enrichment Blueprint
+# Galia Expanse — Sector Depth Audit & Enrichment Blueprint
 
-**Status**: 🟢 Active Reference Document
 **Purpose**: Comparative analysis of sector depth across Galia Expanse, using Pavo Passage as the gold standard. Guides future deep-dives to bring all sectors to equivalent narrative density.
 **Created**: Feb 2026
 **Updated**: Feb 2026

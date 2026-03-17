@@ -1,10 +1,7 @@
-# 🌌 Canon Document: PERPETUAL BELT (MRZ-20)
+# Perpetual Belt (MRZ-20)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — Perpetual Belt lore document + Archon Deep-Dive
-**Zone**: Medium Risk Zone (MRZ-20)
-**Influence**: ONI
-**Theme**: Gravitational Harmony, Rapid Seasons, Ecological Balance, Free Colonies
+> In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds.
+
 
 ---
 
@@ -85,16 +82,8 @@ In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds
 
 ## Cross-References
 
-- ONI Consortium — `canon/species/mierese.md`, `canon/species/sogmian.md`
+- ONI Consortium — [mierese.md](../../species/mierese.md), [sogmian.md](../../species/sogmian.md)
 - Free colony governance — contrast with Denebula's merchant princes and Frenir's DAO
-- Rapid-cycle biology — potential link to Coral Nebula pharma research (`canon/geography/sectors/coral_nebula.md`)
+- Rapid-cycle biology — potential link to Coral Nebula pharma research ([coral_nebula.md](./coral_nebula.md))
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-PER1: True origin of the gravitational harmony (deferred — unknown in-universe)
-- ⏸️ Q-PER2: Named colonies or settlements?
-- ⏸️ Q-PER3: Unique resources from rapid-cycle biology?
-- ⏸️ Q-PER4: Psychological effects on inhabitants — altered sense of time *(Creator wants to explore)*
-- ⏸️ Q-PER5: Named predator species?

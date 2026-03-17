@@ -1,10 +1,7 @@
-# 🌟 Canon Document: VERBIS CLUSTER (MRZ-22)
+# Verbis Cluster (MRZ-22)
 
-**Status**: 🟢 Canon (Creator-provided, Feb 2026)
-**Source**: Direct Creator input — MRZ Ustur sector population
-**Zone**: Medium Risk Zone (MRZ-22)
-**Influence**: Ustur
-**Theme**: Binary Star System, Eternal Daylight, Photosynthetic Life, Near-Sentient Species
+> - ~2489: The Ustur discover the twin-star system of the Verbis Cluster
+
 
 ---
 
@@ -85,15 +82,7 @@ While these stars are positioned at a safe distance (ensuring the planets aren't
 
 ## Cross-References
 
-- Ustur — `canon/species/ustur.md`
-- Summer Sea — `canon/geography/sectors/summer_sea.md` (another extreme-light MRZ sector, different mechanism)
+- Ustur — [ustur.md](../../species/ustur.md)
+- Summer Sea — [summer_sea.md](./summer_sea.md) (another extreme-light MRZ sector, different mechanism)
 
 ---
-
-## 🔴 Open Questions
-
-- ⏸️ Q-VER1: Janar population estimate and distribution?
-- ⏸️ Q-VER2: Are any factions already aware of the Janar's capabilities?
-- ⏸️ Q-VER3: What do the Janar's structures/tools look like?
-- ⏸️ Q-VER4: Other settlements in the cluster — who lives here besides the Janar?
-- ⏸️ Q-VER5: Is the binary system stable or decaying? (long-term narrative implications)
