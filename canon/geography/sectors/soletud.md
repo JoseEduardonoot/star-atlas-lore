@@ -1,49 +1,72 @@
-# Soletud Sector (Ustur 3)
+# Soletud Sector (Ustur 2)
 
-> Soletud is marked by the presence of an immense carcass of a commander-class vessel situated a few light minutes from its primary star.
-
+> *"The carcass contained biological and structural data unlike anything in known science."*
+> — Resonant Forge classified briefing
 
 ---
 
 ## Overview
 
-**Soletud** is marked by the presence of an immense carcass of a **commander-class vessel** situated a few light minutes from its primary star.
+**Soletud** is the [Ustur Regency](../factions/ustur.md)'s second colony, established **~2382** as part of the species' expansion beyond [Ioki](../geography/sectors/eternity.md). Marked by abundant natural resources and vast fertile landscapes, Soletud hosts several decentralized, autonomous Ustur colonies. But the sector's true significance lies beneath the surface — and in orbit.
 
-## Key Lore
-
-### The Derelict Vessel
-
-- **Origin**: From an **unidentified civilization** — the same one that existed in the **Ka-dara Sector** (details TBD — to be explored later).
-- **Condition**: Complex internal structures and inscriptions. Language and onboard systems remain **largely indecipherable**.
-- **Key Detail**: Shows **no signs of external damage, combat, or any prior inhabitants**. A pristine ghost.
-- **~2547**: Ustur researchers **uncover pivotal secrets** from the derelict's internal systems and inscriptions. This knowledge is used to construct the **Vzus Tenet** — a powerful Titan-class ship stationed at the Vzus Defensive Belt in the Eternity system (`canon/geography/sectors/eternity.md`).
-
-### Celestial Surveyors Syndicate
-
-- **Born from Discovery**: The derelict shaped the Ustur's archaeological interests.
-- **Role**: A leading **cosmic archaeology** research institution.
-- **Scope**: Conducts activities throughout all of Galia Expanse.
-- **Notable Member**: A **Photoli** serves as a senior member — a self-described nerd and archaeology aficionado. No institutional connection to Photoli faction, purely personal passion.
-
-### Economy & Colonies
-
-- **Resources**: Abundant natural resources. Vast, fertile landscapes.
-- **Settlement**: Several **decentralized, autonomous** Ustur colonies.
-- **Appeal**: Prime location for resource extraction or peaceful habitation.
+A few light minutes from its primary star sits the immense **carcass of a commander-class entity** — an ancient organism of unknown origin that has shaped Ustur civilization more than any other archaeological discovery.
 
 ---
 
-## Political Influence (To be defined)
+## The Carcass — Ustur's Greatest Discovery
+
+| Detail | Description |
+|--------|-------------|
+| **Discovery** | **~2547** — Ustur researchers uncover the carcass |
+| **Nature** | An immense organic entity (commander-class scale) from an unidentified civilization |
+| **Condition** | Complex internal structures and inscriptions. No signs of external damage, combat, or prior inhabitants. A pristine ghost |
+| **Language** | Internal systems and inscriptions remain **largely indecipherable** |
+| **Significance** | The most significant archaeological find in Ustur history |
+
+### The Vzus Tenet
+
+In ~2547, Ustur researchers **uncovered pivotal secrets** from the carcass's internal systems. This knowledge was channeled to the [Resonant Forge](../factions/resonant_forge.md) — the cultivation sect whose engineer-philosophers built it — to construct the **Vzus Tenet**, a powerful Titan-class ship completed ~2551. The Tenet is now stationed at the Vzus Defensive Belt in the [Eternity system](../geography/sectors/eternity.md), maintained by .doer-stage engineers in permanent readiness.
+
+### The Ka-dara Connection
+
+Soletud shares a deep archaeological connection with [Ka-dara](../geography/sectors/ka_dara.md) — another sector associated with an extinct civilization (the Ka-raviam). Whether the carcass builders are related to the Ka-raviam, or whether both drew on similar sources of ancient knowledge, remains one of Galia's deepest archaeological questions. Together with the [Izarian](../factions/izarians.md) ruins, Soletud represents one of **three known ancient civilizations** — each distinct, each destroyed, each leaving unanswered questions.
 
 ---
 
-## Systems & Locations
+## The Dark Sect Incident
 
-- [Derelict Vessel location]
-- [Colony worlds]
+### The Children of the Deep Pool (~2601)
+
+**Rithand.doer** — a [Resonant Forge](../factions/resonant_forge.md) dropout — accessed classified Elder Conscience impressions through an unauthorized Deep Reading session at an inadequately secured archive on Soletud. What he found convinced him of a radical interpretation of Ustur cosmology, and he founded the **Children of the Deep Pool** — a [dark sect](../factions/dark_sects.md) that accumulated stolen Ustur cores in a hidden temple.
+
+In **~2601**, Elder Order operatives stormed Rithand's hidden temple on Soletud, killing him and recovering **seventeen accumulated cores**. The cult survived him — it always survives. The theology is too compelling for Ustur who have glimpsed the truth and cannot unsee it.
+
+---
+
+## The Celestial Surveyors Syndicate
+
+Born from the carcass discovery, the **Celestial Surveyors Syndicate** is a leading **cosmic archaeology** research institution:
+
+- Conducts activities throughout all of Galia Expanse
+- A **Photoli** serves as a senior member — a self-described nerd and archaeology aficionado with no institutional connection to the Photoli faction (purely personal passion)
+- Investigates connections between the carcass, the Ka-raviam ruins, and the Izarian remnants
 
 ---
 
 ## Cross-References
 
-- Ka-dara Sector: `canon/geography/ka_dara_sector.md`
+### Factions
+
+- [Ustur Regency](../factions/ustur.md) — Parent faction
+- [Resonant Forge](../factions/resonant_forge.md) — Built the Vzus Tenet from carcass data
+- [Dark Sects](../factions/dark_sects.md) — Children of the Deep Pool incident (~2601)
+- [VZUS Enterprises](../factions/ustur.md) — Hull construction specialists who built the Tenet
+- [Ka-dara](../factions/ka_dara.md) — Archaeological connection
+- [Izarians](../factions/izarians.md) — Third ancient civilization
+
+### Geography
+
+- [Ka-dara](../geography/sectors/ka_dara.md) — Extinct civilization connection
+- [Eternity / Ioki](../geography/sectors/eternity.md) — Vzus Tenet stationed here
+
+---
