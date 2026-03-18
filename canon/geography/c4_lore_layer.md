@@ -1,9 +1,9 @@
-# C4 Lore Layer — The Exodus Sector
+# C4 Lore Layer — The Exodus Region
 
 > *"They could not save the Earth, but they saved what mattered most — themselves, their knowledge, their faith, and the seeds of everything they had ever built. And when they arrived — exhausted, grieving, and burning with purpose — they found seven star systems waiting like seven rooms in a house built by God."*
 > — From *The Revelation*, Church of the Holy Servants
 
-> The Exodus Sector is MUD's Safe Zone capital — the seat of the Holy Family, the heart of the Church, the forge of the Pearce Council, and the shadow throne of the Synod. Seven star systems, thirty worlds, and one Mothership that carries the living memory of Earth.
+> The Exodus Region is MUD's Safe Zone capital — the seat of the Holy Family, the heart of the Church, the forge of the Pearce Council, and the shadow throne of the Synod. Seven star systems, thirty worlds, and one Mothership that carries the living memory of Earth.
 
 ---
 
