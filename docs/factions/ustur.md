@@ -412,11 +412,11 @@ VZUS relocated its headquarters to Foy Fields in ~2416 — Ioki deemed too sacre
 
 ---
 
-## Territory — Six Core Worlds, Three Frontiers
+## Territory — Five Core Worlds, Four Frontiers
 
-### The Ustur Safe Zone (6 Sectors)
+### The Ustur Safe Zone (5 Sectors)
 
-The Ustur's core territory consists of six Safe Zone sectors — each an extension of the Elder Order's contemplative civilization, optimized for spiritual cultivation, research, and manufacturing rather than military dominance.
+The Ustur's core territory consists of five Safe Zone sectors — each an extension of the Elder Order's contemplative civilization, optimized for spiritual cultivation, research, and manufacturing rather than military dominance.
 
 | # | Sector | Key Features |
 |---|--------|-------------|
@@ -425,23 +425,23 @@ The Ustur's core territory consists of six Safe Zone sectors — each an extensi
 | UST 3 | **[Azut](../geography/sectors/azut.md)** | Administrative colony. Home to **Francor Metropolis** — the Regency's largest urban center outside Ioki, constructed ~2435. A hub of commerce, education, and transit connecting the inner colonies to the wider galaxy |
 | UST 4 | **[Foy Fields](../geography/sectors/foy_fields.md)** | VZUS Enterprises headquarters since ~2416. The Regency's economic engine — manufacturing, trade, and technological development converge here. What Foy Fields produces, the galaxy buys |
 | UST 5 | **[Vostalgia](../geography/sectors/vostalgia.md)** | Colony established ~2382. The sector where Ustur discovered a deep, unexplained connection to the native **Mantrah trees** — as if the trees were linked to their species' pre-awakening past. The connection remains one of the most tantalizing clues to Ustur origins and is studied by both the Golden Star sect and Iris Academy researchers |
-| UST 6 | **[Summer Sea](../geography/sectors/summer_sea.md)** | Discovered ~2432. Contains the **Noctual Caverns** — an underground biome of extraordinary biodiversity. The Caverns are used for advanced cultivation training by multiple sects, and their unique ecosystem has attracted [Galia Medical Union](../factions/galia_medical_union.md) researchers studying bioluminescent organisms with medical applications |
 
 ### Sphere of Influence — Medium-Risk Zone & Beyond
 
-Beyond its Safe Zone heartland, the Ustur's influence extends through three critical territories — each representing a different dimension of the Regency's galactic strategy: academic leadership, regulatory governance, and the deepest wound in their civilization.
+Beyond its Safe Zone heartland, the Ustur's influence extends through four critical territories — each representing a different dimension of the Regency's galactic strategy: academic leadership, regulatory governance, spiritual training, and the deepest wound in their civilization.
 
 | Sector | Zone | Classification | Ustur's Role | Key Dynamic |
 |--------|------|----------------|-------------|-------------|
 | [Zenith Door](../geography/sectors/zenith_door.md) | MRZ-36 | Academic capital | **Diplomatic nexus** — Chior.eldr's domain | Closest Ustur territory to the High-Risk Zone. Home to the [Iris Academy](../factions/iris_academy.md) headquarters on Planet Carvum — the galaxy's most prestigious research institution, co-founded by Chior.eldr and Professor Exfeheros. The Council of Peace **Dawn Vanguard** border fleet is stationed here. The sector represents the Ustur ideal: knowledge as service, diplomacy as strength. It also houses Uru's Watch — an ancient sealed temple connected to [The Seed](../factions/anfoil_state.md), over which Ponel.eldr and the Iris Academy are locked in a dangerous competition |
 | [Pavo Passage](../geography/sectors/pavo_passage.md) | MRZ | Regulated corridor | **Structural alignment** — audit-based governance | The Ustur answer to stabilizing a volatile corridor without occupying it. The [Ustur Regency (Pavo)](../factions/ustur_regency_pavo.md) operates through **Ord.eldr** (Regent) and **Korin.tchr** (Permits Chair) on the [Ruling Conclave](../factions/ruling_conclave.md). Two of six Conclave seats. Audit infrastructure detects the escalation from commercial influence to political capture. The [Winter Fist Path](../factions/winter_fist_path.md) provides the martial deterrent. Alliance with [Vale Horizon Exchange](../factions/vale_horizon_exchange.md) blocks [Meridian Trading Company](../factions/meridian_trading_company.md) monopoly. Red line: any attempt at formal MUD sovereignty triggers Ioki military response |
+| [Summer Sea](../geography/sectors/summer_sea.md) | MRZ-21 | Cultivation frontier | **Spiritual training ground** — extreme environment colonization | Discovered ~2432. A colossal blue giant star creates searing heat. Underground colonies built beneath the scorching surface. The **Noctual Caverns** — a vast underground biome of extraordinary biodiversity — are used for advanced cultivation training by multiple sects. [Galia Medical Union](../factions/galia_medical_union.md) researchers study bioluminescent organisms with medical applications. [Relic Barons](../factions/relic_barons.md) installed a massive space observatory (~2557) to observe deep into the HRZ. A suspected Fracture Merchants cell operates concealed within the Noctual Caverns |
 | [Anfoil States](../geography/sectors/anfoil_states.md) | MRZ-15 | Secessionist technate | **Lost progeny** — the deepest ideological fracture | **Ponel.eldr's** sovereign breakaway. Deliberately severed from the Elder Conscience. Emotions suppressed through the Anfoil ritual. Planets specialized by technological domain — the sector functions as a distributed computer. Diplomatic relations restored ~2579, but tension grows as cracks in the emotion suppression system multiply. Ponel's hidden agenda: **The Seed** — a pre-Ustur energy source for titan-class warships. His plan to seize it from the Iris Academy could trigger open warfare between two Ustur factions, forcing Chior to fight his oldest friend |
 
 #### The Panoramic View
 
-The Ustur's territorial philosophy is fundamentally different from their rivals'. Where MUD **permeates** through human settlers, missionaries, and shadow economies, and ONI **radiates** through four species' distinct contributions, the Ustur **deepen** — investing vertically in fewer territories rather than horizontally across many. Six core worlds, three frontier commitments, and a single Titan stored at Doers Harbor. The Regency does not seek to own the galaxy. It seeks to understand it — and to ensure that understanding is never again lost to war.
+The Ustur's territorial philosophy is fundamentally different from their rivals'. Where MUD **permeates** through human settlers, missionaries, and shadow economies, and ONI **radiates** through four species' distinct contributions, the Ustur **deepen** — investing vertically in fewer territories rather than horizontally across many. Five core worlds, four frontier commitments, and a single Titan stored at Doers Harbor. The Regency does not seek to own the galaxy. It seeks to understand it — and to ensure that understanding is never again lost to war.
 
-Combined with six Safe Zone sectors, three frontier territories, and the widest network of cultural partnerships in the galaxy, the Ustur's effective influence spans **nine territories** — the smallest of the three superpowers by geography, the largest by institutional depth.
+Combined with five Safe Zone sectors, four frontier territories, and the widest network of cultural partnerships in the galaxy, the Ustur's effective influence spans **nine territories** — the smallest of the three superpowers by geography, the largest by institutional depth.
 
 ---
 
