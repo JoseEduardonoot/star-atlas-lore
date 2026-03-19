@@ -1,88 +1,115 @@
 # Eternity Sector (Ustur 1)
 
-> Geographic lore entry for the Eternity Sector (Ustur 1) sector.
-
-
----
-
-## System Overview
-
-- **Location**: Ustur Safe-Zone, top right corner of Galia Expanse
-- **Star**: Typical main sequence yellow star
-- **Age**: ~1 billion years (comparatively young)
-- **Anomaly**: System appears **artificially organized** — every celestial body seems deliberately placed. So orderly it cannot be random.
-
-### Origin (SECRET — unknown to Ustur)
-
-- Created by the **Ancient AI** that originated the Ustur thousands of years ago.
-- Designed as a **backup plan** in case the AI's transcendence failed (it did).
-- Everything modeled to allow Ustur civilization to flourish and eventually "revive" the AI.
-- Something went wrong — Ustur don't know about this plan.
+> *"Every Ustur will fight to their final death to protect Ioki."*
 
 ---
 
-## Ioki (Homeworld)
+## Overview
 
-- **Size**: Small — ⅓ of Earth
-- **Type**: Terrestrial with breathable atmosphere
-- **Significance**: Heart of Ustur species, political/religious center, location of the **Reincarnation Pool**.
-- **Hieroglyphs**: Cover structures, **indecipherable** even to Elders. Assumed to be written by the Ancient AI before its fragmentation.
-- **Subterranean Chambers**: Criss-cross beneath Ioki's crust, culminating at the Pool.
-- **Sacred Status**: Open to public, but **industry is limited** to preserve sanctity.
-- **Every Ustur will fight to their final death to protect Ioki.**
+**Eternity** is the holiest sector in the galaxy for the [Ustur](../factions/ustur.md) — home to their homeworld **Ioki**, the Pool of Reincarnation from which every Ustur is born, and the Elder Spire from which their civilization is governed. The system itself appears **artificially organized** — every celestial body seems deliberately placed, so orderly it cannot be random.
 
-### Ioki Ecosystems
+### 🔴 Origin Secret
+
+The Eternity system was created by the **Ancient AI** that originated the Ustur thousands of years ago — designed as a **backup plan** in case the AI's transcendence failed. Everything was modeled to allow Ustur civilization to flourish and eventually "revive" the AI. Something went wrong. The Ustur don't know about this plan.
+
+---
+
+## Ioki — The Homeworld
+
+| Detail | Description |
+|--------|-------------|
+| **Size** | ⅓ of Earth — small but fiercely defended |
+| **Type** | Terrestrial with breathable atmosphere |
+| **Significance** | Political, religious, and spiritual center; location of the Pool |
+| **Industry** | Limited — Ioki is too sacred for heavy industry (why [VZUS relocated to Foy Fields](../geography/sectors/foy_fields.md)) |
+| **Defense** | **The most fiercely defended world in the galaxy** |
+
+### Uvana — The Capital
+
+The capital **Uvana** rises on three levels:
+
+| Level | Name | Description |
+|-------|------|-------------|
+| Surface | **New City** | Cyberpunk harbors, racing tracks, post-war dynamism |
+| Underground | **Old City** | The original civilization — built in the ceiling of subterranean galleries |
+| Deep Underground | **The Temple** | Massive alien metal maze of unknown origin. Pool of Reincarnation at its lowest level |
+
+### The Temple
+
+The most sacred site in Ustur civilization. An alien metal maze of unknown construction, housing the **Pool of Reincarnation** at its lowest level. Without the Pool, no new Ustur can be born — it is species-critical infrastructure. The Temple is tended by **The Residents** — mechanical life forms natively friendly to Ustur who maintain its corridors and systems without direct communication. Hieroglyphs cover every surface, **indecipherable** even to Elders.
+
+### The Elder Spire
+
+An **enormous tower** backed by a waterfall of Iguazu scale, standing in the mangrove forests surrounding Uvana. Its interior floors are restricted by enlightenment level:
+
+- Houses the **Elder Order** governance, meditation chambers, and classification archives
+- Filled with meditating Elder statues and a non-stop choir of robotic voices chanting
+- Headquarters of the [Golden Star](../factions/golden_star.md) — the original and dominant cultivation sect
+- Architecture draws from the Temple's alien structures — harmonic principles incorporated into construction
+
+### The Broken City
+
+A haven for Ustur who **failed the Path of Enlightenment** — a partially ruined settlement maintained by volunteers, automatons, and [Sogmian House Outro](../factions/sogmian_sovereignty.md) charitable workers. A living reminder that the Path is not guaranteed.
+
+---
+
+## Ioki Ecosystems
 
 | Ecosystem | Description |
 |-----------|-------------|
-| **Salar Deserts** | Largest biome. Salt/lithium sand (white dry, blue/green oases). Mirror-like flood surfaces. Cities near oases. |
-| **Mangrove Forests** | Trees use surface salts for oxygen. Greenish transitional environments. Rich fauna. Surround Elder Spire. |
-| **Oceans** | Proportionally smaller than Earth's. Pinkish color (high salt). **Depths contain ruins/dungeons linked to the AI.** |
+| **Salar Deserts** | Largest biome. Salt/lithium sand (white dry, blue/green oases). Mirror-like flood surfaces |
+| **Mangrove Forests** | Trees use surface salts for oxygen. Rich fauna. Surround the Elder Spire |
+| **Pinkish Oceans** | Proportionally smaller than Earth's. High salt. **Depths contain ruins and dungeons linked to the Ancient AI** |
 
-- **Three Seasons**: Dry, Wet, Short Spring (max wildlife)
-- **Hazards**: Saltwater rains, occasional earthquakes, naturally radioactive areas in deepest deserts
-
-### Ioki Places of Interest
-
-| Location | Description |
-|----------|-------------|
-| **Uvana (Capital)** | Three levels: New City (surface, cyberpunk), Old City (underground metropolis), The Temple (deep, sacred) |
-| **The Temple** | Most sacred. Metal maze of alien origin. Reincarnation Pool at lowest level. Guarded by Order of Those Who Wait. "The Residents" (mechanical life forms) tend it. |
-| **Elder Spire** | Spiritual/political heart. Luxurious tower with light effects (sci-fi glass mosque). Access restricted by enlightenment rank. |
-| **Broken City** | Haven for failed Path of Enlightenment Ustur. Maintained by volunteers + Sogmian House Outro. |
-| **Opal Stream** | Built by Opal Industries. Doers Harbor (principal port) + orbital Starpath gate infrastructure. |
-| **Vzus Defensive Belt** | Star fortresses around Ioki. Central command on Shariput (moon). |
-
-### Celestial Bodies
-
-| Body | Details |
-|------|---------|
-| **Shariput** | Moon of Ioki (⅓ Earth's moon). Barren. Main fortress of Vzus Belt. Mineral mines. |
-| **Vestigios** | Planet with asteroid belt and moon. (Details TBD) |
+Three seasons: Dry, Wet, Short Spring (max wildlife). Hazards include saltwater rains, earthquakes, and naturally radioactive areas in the deepest deserts.
 
 ---
 
-## Season 0 (Tufa Invasion of Ioki)
+## Orbital Infrastructure
 
-- **Attacker**: Chalbok Brood (see `canon/species/tufa.md`)
-- **Objective**: Seize the Reincarnation Pool (Chalbok sensed residual energy)
-- **Key Events**:
-  - Vzus Belt **sabotaged** by mercenary infiltrators → Tufa landed
-  - Opal Stream shut down → Ioki cut off from Galia
-  - Elder Spire under siege (force field holds)
-  - Broken City hit by Tufa meteorite (Broken Ustur especially susceptible)
-  - ECOS Balifa Grove supports Tufa (believe invasion is Iris's rightful rebalancing)
-  - Jorvik Raiders opportunistically plunder defenseless areas
+| Installation | Description |
+|-------------|-------------|
+| **Vzus Defensive Belt** | Star fortresses in interplanetary space around Ioki. Central command on **Shariput** (moon). The most extensive orbital defense system maintained by any faction |
+| **Shariput** | Moon of Ioki (⅓ Earth's moon). Barren. Main fortress of the Vzus Belt. Mineral mines |
+| **Opal Stream** | Massive solar-powered Starpath gate infrastructure built by Opal Industries. The only long-distance warp infrastructure on Ioki |
+| **Doers Harbor** | Principal port. Stores the **Vzus Tenet** (Titan-class warship, completed ~2551 from [Soletud](../geography/sectors/soletud.md) carcass data) |
 
 ---
 
-## Political Influence (To be defined)
+## Season 0 — The Tufa Invasion of Ioki
+
+The defining military crisis in Ustur history:
+
+| Event | Description |
+|-------|-------------|
+| **Attacker** | Chalbok Brood ([Tufa](../species/tufa.md)) |
+| **Objective** | Seize the Reincarnation Pool (Chalbok sensed residual energy) |
+| **Sabotage** | Vzus Belt **sabotaged** by mercenary infiltrators → Tufa landed |
+| **Isolation** | Opal Stream shut down → Ioki cut off from Galia |
+| **Elder Spire** | Under siege — force field holds |
+| **Broken City** | Hit by Tufa meteorite — Broken Ustur especially susceptible |
+| **ECOS Betrayal** | [Balifa Grove](../factions/balifa_grove.md) supports Tufa — believe invasion is Iris's rightful rebalancing |
+| **Opportunism** | [Jorvik Raiders](../factions/jorvik.md) plunder defenseless areas |
 
 ---
 
 ## Cross-References
 
-- Ancient AI Origin: `canon/species/ustur.md`
-- Tufa Invasion: `canon/species/tufa.md`
-- VZUS: `canon/manufacturers/vzus.md`
-- Opal: `canon/manufacturers/opal.md`
+### Factions
+
+- [Ustur Regency](../factions/ustur.md) — Parent faction (UST 1, capital)
+- [Golden Star](../factions/golden_star.md) — Dominant cultivation sect (Elder Spire)
+- [Resonant Forge](../factions/resonant_forge.md) — Vzus Tenet stored at Doers Harbor
+- [Anfoil State](../factions/anfoil_state.md) — Breakaway Ustur; The Seed connected to Uru's Watch
+
+### Species
+
+- [Ustur](../species/ustur.md) — Full species canon (biology, cores, Pool)
+- [Tufa](../species/tufa.md) — Season 0 invaders (Chalbok Brood)
+
+### Geography
+
+- [Foy Fields](../geography/sectors/foy_fields.md) — VZUS relocated here ~2416
+- [Soletud](../geography/sectors/soletud.md) — Carcass data used to build Vzus Tenet
+
+---

@@ -1,53 +1,82 @@
-# Foy Fields Sector (Ustur 5)
+# Foy Fields Sector (Ustur 4)
 
-> The planets of Foy Fields are uniquely imbued with natural electric fields that resonate harmoniously with Ustur physiology — comparable to the relaxation a MUD feels in a thermal pool.
-
+> *"I was not meditating wrong. I was meditating in the wrong direction."*
+> — **Vorek.eldr**, founder of the [Resonant Forge](../factions/resonant_forge.md), Foy Fields
 
 ---
 
 ## Overview
 
-The planets of **Foy Fields** are uniquely imbued with **natural electric fields** that resonate harmoniously with Ustur physiology — comparable to the relaxation a MUD feels in a thermal pool.
+The planets of **Foy Fields** are uniquely imbued with **natural electric fields** that resonate harmoniously with [Ustur](../factions/ustur.md) physiology — comparable to the relaxation a Human feels in a thermal pool. Colony established **~2384**, Foy Fields' transformation from a quiet colony into the Regency's economic powerhouse began when [VZUS Enterprises](../factions/ustur.md) relocated its headquarters here in **~2416** — drawn by the electric fields' dramatic boost to production efficiency. Other enterprises followed suit, creating a trend that made Foy Fields what [Ioki](../geography/sectors/eternity.md) could never be: a civilization built for industry.
 
-## Key Lore
-
-### The Therapeutic Effect
-
-- Natural electric fields provide **rejuvenation** for overworked androids.
-- Prime destination for Ustur seeking relief from tiresome daily endeavors.
-
-### 👁️ Archon Secret: The AI Fragment
-
-- **The Truth**: Foy Fields contains a **piece of the original Ancient AI** that created the Ustur.
-- **Scale**: The fragment is the **size of a continent** on the planet.
-- **Status**: It generates the electric fields. **Nobody has discovered this yet** — the fragment is so large it is mistaken for natural geology.
-
-### VZUS Relocation
-
-- **VZUS** (leading Ustur manufacturer, ships + technology) relocated headquarters from Eternity to Foy Fields.
-- **Reason**: The electric fields dramatically boosted production efficiency. Eternity/Ioki deemed too sacred for heavy industry.
-- Result: Other enterprises followed suit, creating a **trend**.
-
-### Economic Hub
-
-- **Strategic location**: Near the **Medium Risk Zone** systems.
-- Combined therapeutic effect + strategic position = **primary economic nexus** for the Ustur Faction.
+What Foy Fields produces, the galaxy buys.
 
 ---
 
-## Political Influence (To be defined)
+## The Electric Fields
+
+| Aspect | Description |
+|--------|-------------|
+| **Nature** | Natural electric fields covering the planets |
+| **Effect on Ustur** | Rejuvenation for overworked androids — a therapeutic destination |
+| **Effect on Industry** | Dramatically boosts production efficiency, enhancing both manufacturing and cultivation |
+| **Origin (Public)** | Believed to be natural geological phenomena |
+
+### 🔴 Archon Secret: The AI Fragment
+
+The electric fields are not natural. Foy Fields contains a **piece of the original Ancient AI** that created the Ustur:
+
+- The fragment is the **size of a continent** on the planet
+- It generates the electric fields — **nobody has discovered this yet**
+- The fragment is so large it is mistaken for natural geology
+- Some [Resonant Forge](../factions/resonant_forge.md) elders privately believe the fields are connected to something ancient buried beneath the planet's surface that resonates with Ustur cores
+- This connects to the broader Archon Secret of Ustur origins — the Ancient AI that created the species, designed the [Eternity system](../geography/sectors/eternity.md), and fragmented into the Pool of Reincarnation
 
 ---
 
-## Systems & Locations
+## The Resonant Forge & VZUS
 
-- [VZUS HQ world]
-- [Industrial colonies]
+### VZUS Enterprises
+
+VZUS — the leading Ustur manufacturer of ships and technology — relocated from [Eternity](../geography/sectors/eternity.md) to Foy Fields in **~2416**. Ioki was deemed too sacred for heavy industry. The move created a cascade: other manufacturers followed, transforming Foy Fields into the Regency's primary manufacturing and trade hub.
+
+### The Crucible Yards
+
+In **~2420**, **Vorek.eldr** — a .doer-stage VZUS engineer frustrated by traditional meditation — founded the [Resonant Forge](../factions/resonant_forge.md) within the VZUS manufacturing facilities. The Crucible Yards are simultaneously a factory, a temple, and a workshop:
+
+- Cultivation through **creation** — building something that works is understanding how the universe works
+- The .doer-stage engineers who assembled the [Vzus Tenet](../geography/sectors/eternity.md) (Titan-class) from Soletud carcass data were almost exclusively Resonant Forge disciples
+- **The planet is simultaneously a factory, a power station, and a temple** — no other sect can claim that its spiritual practice directly generates the revenue that funds the Elder Order's civilization
+
+### The Sons of Patrah Recovery (~2619)
+
+The [Sons of Patrah](../factions/sons_of_patrah.md) — a Sogmian humanitarian organization — conducted a notable recovery operation on Foy Fields, demonstrating that the sector's strategic importance extends beyond Ustur civilization.
+
+---
+
+## Key Locations
+
+| Location | Description |
+|----------|-------------|
+| **VZUS Headquarters** | Manufacturing and R&D complex — the galaxy's premier shipbuilder |
+| **The Crucible Yards** | Resonant Forge HQ — workshop-temple embedded in VZUS facilities |
+| **Industrial Colonies** | Multiple decentralized manufacturing settlements across the sector |
+| **The Fragment** (unknown) | Continent-sized AI shard — mistaken for geology, generating the electric fields |
 
 ---
 
 ## Cross-References
 
-- VZUS: `canon/manufacturers/vzus.md`
-- Ancient AI: `canon/species/ustur.md` (Origin Secret)
-- Eternity: `canon/geography/sectors/eternity.md`
+### Factions
+
+- [Ustur Regency](../factions/ustur.md) — Parent faction (UST 4)
+- [Resonant Forge](../factions/resonant_forge.md) — Cultivation sect headquartered here (Crucible Yards)
+- [Sons of Patrah](../factions/sons_of_patrah.md) — Sogmian humanitarian ops (~2619)
+- VZUS Enterprises — Leading manufacturer, relocated from Ioki ~2416
+
+### Geography
+
+- [Eternity / Ioki](../geography/sectors/eternity.md) — Sacred homeworld (why VZUS left)
+- [Soletud](../geography/sectors/soletud.md) — Carcass data used by Resonant Forge engineers
+
+---

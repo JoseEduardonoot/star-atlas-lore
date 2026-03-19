@@ -1,13 +1,12 @@
 # Perpetual Belt (MRZ-20)
 
-> In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds.
-
+> *"In the heart of the Perpetual Belt, an awe-inspiring choreography unfolds — planets, asteroids, moons, and debris fields glide seamlessly in a mesmerizing display of gravitational harmony."*
 
 ---
 
 ## Overview
 
-In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds. Planets, asteroids, moons, and debris fields glide seamlessly in a mesmerizing display of **gravitational harmony**, making it appear as though the cosmos itself composed their dance. The phenomenon **appears natural**, but nobody truly knows its origin.
+In the heart of the **Perpetual Belt** Sector, an awe-inspiring choreography unfolds. Planets, asteroids, moons, and debris fields glide seamlessly in a mesmerizing display of **gravitational harmony**, making it appear as though the cosmos itself composed their dance. The phenomenon **appears natural**, but nobody truly knows its origin — the sheer perfection invites speculation of ancient engineering, [Iris](../geography/the_cataclysm.md) influence, or something entirely new.
 
 ---
 
@@ -15,75 +14,61 @@ In the heart of the Perpetual Belt Sector, an awe-inspiring choreography unfolds
 
 ### Orbital Mechanics
 
-- Planets, asteroids, moons, and debris fields move in **synchronized gravitational harmony**
-- The choreography appears almost designed — cosmic bodies dancing in coordinated orbits
-- Origin: **Unknown** — appears natural, but the sheer perfection invites speculation
-- Navigation requires understanding the orbital rhythms — dangerous for the unprepared
+| Aspect | Description |
+|--------|-------------|
+| **Nature** | Synchronized gravitational harmony — cosmic bodies dance in coordinated orbits |
+| **Origin** | **Unknown** — appears natural, but perfection suggests design |
+| **Navigation** | Requires understanding orbital rhythms — dangerous for the unprepared |
+| **Seasons** | Rapid transitions — full cycle (spring → summer → autumn → winter) in **mere days** |
+| **Visual** | An ever-changing canvas of breathtaking landscapes |
 
-### Rapid Seasonal Transitions
+### Accelerated Biology
 
-- Swift orbital rhythms produce **rapid seasonal transitions**
-- Within **mere days**, travelers witness the full cycle:
-  - Crisp blossoms of spring → sultry hues of summer → autumn's golden embrace → winter's silent slumber
-- A breathtaking canvas of **ever-changing landscapes**
+The rapid orbital rhythms produce an ecology found nowhere else in Galia:
 
----
-
-## MRZ Hazards
-
-> [!NOTE]
-> Not every MRZ sector is inherently deadly — some are relatively stable. Perpetual Belt's dangers stem specifically from its accelerated cycles.
-
-### Accelerated Predators
-
-- Fauna evolved with the rapid seasons have **intense, compressed life cycles**
-- Predators adapted to these rhythms are highly aggressive during specific cycle phases
-- Can catch visitors **off guard** with sudden behavioral shifts tied to seasonal changes
-
-### Intense Climate Shifts
-
-- Seasons change in **days, not months**
-- A temperate afternoon can become a blizzard within hours
-- Unprepared travelers risk exposure, equipment failure, and navigation loss
-- Infrastructure must withstand constant thermal and atmospheric cycling
+- Flora that **blooms, fruits, withers, and regenerates within days**
+- Animals with **accelerated metabolic cycles** matching the rapid seasons
+- **Intensely aggressive predators** during specific cycle phases — catching visitors off guard with sudden behavioral shifts
+- A temperate afternoon can become a blizzard **within hours**
 
 ---
 
-## Native Ecology
+## Free ONI Colonies
 
-- Sprawling flora and agile fauna have **evolved in tandem** with rapid seasonal cycles
-- Their life rhythms form an **intricate ballet** synchronized to the celestial dance overhead
-- Plants that bloom, fruit, wither, and regenerate within days
-- Animals with accelerated metabolic cycles matching the rapid seasons
-- A unique biosphere found nowhere else in Galia
+The [ONI Consortium](../factions/oni.md) established **free colonies** here — akin to medieval free cities:
 
----
-
-## Settlements: Free ONI Colonies
-
-- **Free ONI colonies** — akin to **medieval free cities**
-- Still **linked to the ONI Consortium** (not fully independent), but enjoy significant autonomy
-- Recognized the sector's potential and established **numerous flourishing settlements**
-- Key principle: **harmonizing technology with the sector's natural cadence**
-- Adapted infrastructure to rapid seasonal cycles rather than fighting them
-- The celestial ballet serves as a testament to **balance and coexistence**
+| Aspect | Description |
+|--------|-------------|
+| **Status** | Still linked to ONI (not fully independent), but enjoy significant autonomy |
+| **Principle** | Harmonizing technology with the sector's natural cadence |
+| **Infrastructure** | Adapted to rapid seasonal cycles rather than fighting them |
+| **Culture** | The celestial ballet fosters a philosophy of balance and coexistence |
+| **Governance** | Self-governing within ONI framework — potential independence movements |
 
 ---
 
-## Narrative Hooks
+## Narrative Hooks & Potential
 
-- **The Mystery**: Perfect gravitational harmony with no known cause — ancient engineering? Iris? Something new?
-- **Temporal Psychology**: Living where seasons change in days — altered perception of time, aging, mortality *(to be explored further with Creator)*
-- **Accelerated Biology**: Rapid-cycle flora/fauna as research subjects — Coral Nebula pharma interest?
-- **Free Cities**: Political autonomy within ONI — potential friction, independence movements?
-- **Navigation Challenge**: Pilots who master the Belt's rhythms become elite navigators
+| Hook | Description |
+|------|-------------|
+| **The Mystery** | Perfect gravitational harmony with no known cause — ancient engineering? Iris? |
+| **Temporal Psychology** | Living where seasons change in days — altered perception of time, aging, mortality |
+| **Accelerated Biology** | Rapid-cycle flora/fauna as research subjects — pharmaceutical interest |
+| **Free Cities** | Political autonomy within ONI — friction, independence movements |
+| **Navigation Elite** | Pilots who master the Belt's rhythms become elite navigators across Galia |
 
 ---
 
 ## Cross-References
 
-- ONI Consortium — `canon/species/mierese.md`, `canon/species/sogmian.md`
-- Free colony governance — contrast with Denebula's merchant princes and Frenir's DAO
-- Rapid-cycle biology — potential link to Coral Nebula pharma research (`canon/geography/sectors/coral_nebula.md`)
+### Factions
+
+- [ONI Consortium](../factions/oni.md) — Free colonies linked to the consortium
+- [Coral Nebula](../geography/sectors/coral_nebula.md) — Potential pharmaceutical research connection (rapid-cycle biology)
+
+### Geography
+
+- [Denebula Utopia](../geography/sectors/denebula_utopia.md) — Contrasting governance model (Merchant Princes vs. free cities)
+- [Frenir](../geography/sectors/frenir.md) — Another autonomous ONI-adjacent territory (DAO model)
 
 ---
