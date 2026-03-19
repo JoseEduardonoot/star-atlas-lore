@@ -1,36 +1,70 @@
 # Valiant Sector (MUD 2)
 
+> *"The road ahead is paved with trials... But remember, you are resilient, you are strong. Your destiny is solely your own."*
+> — The Revelation
+
 ---
 
 ## Overview
 
-> *"The road ahead is paved with trials... But remember, you are resilient, you are strong. Your destiny is solely your own."*
-> — The Revelation.
+**Valiant** stands as a proud monument to human resilience. It was the **first expansion frontier** of MUD civilization beyond [Exodus](../geography/sectors/exodus.md), and its name reflects the courage required of its settlers. What they found nearly destroyed them — an alien disease hiding in ore veins — and what they survived defined them forever.
 
-**Valiant** stands as a proud monument to human resilience. It was the first expansion frontier of the MUD civilization.
+---
 
-## Key Lore
+## The Translucid Pox
 
-### The Translucid Pox
+The defining event in Valiant's history was the discovery and near-catastrophic spread of the **Translucid Pox** — an insidious alien disease hidden in ore veins:
 
-- **The Event**: An insidious alien disease hidden in ore veins ravaged the first settlers.
-- **The Toll**: 8% of the MUD population perished.
-- **The Cure**: MUD scientists ventured into the heart of affected planets to find a cure.
-- **The Legacy**: Survivors and their descendants are marked by **extreme paleness**, a badge of survival recognized across the sector.
-- **Archon Inference**: The Pox may be a **by-product of ancient civilization mining** that spread across multiple regions. The same civilization whose ruins lie in Amora may have left biological contamination in ores throughout the MUD sectors.
+| Detail | Description |
+|--------|-------------|
+| **Discovery** | Found in ore veins during initial mining operations |
+| **Toll** | **8% of the MUD population** perished |
+| **The Cure** | MUD scientists ventured into the heart of affected planets to find a cure |
+| **Legacy** | Survivors and descendants are marked by **extreme paleness** — a badge recognized across the sector |
+
+### 🔴 Archon Secret
+
+The Pox may be a **by-product of ancient civilization mining** that spread across multiple regions. The same civilization whose ruins lie in [Amora](../geography/sectors/amora.md) may have left biological contamination in ores throughout the MUD sectors — linking the Translucid Pox to something far older and more dangerous than a natural disease.
 
 ---
 
 ## Political Influence
 
-### Dominant Power: **Scientia (The Scientists)**
+### Dominant Power: Scientia (The Scientists)
 
-- The scientists who cured the Translucid Pox became the sector's heroes. Their legacy birthed a culture of **"science above dogma"**.
-- Valiant is the center of MUD research, medical innovation, and technological advancement.
-- **Tension with Verzan**: Scientia's rationalism clashes directly with the Church's faith-based orthodoxy. Valiant citizens tend to view Verzan pilgrims with suspicion.
+The scientists who cured the Translucid Pox became the sector's heroes. Their legacy birthed a culture of **"science above dogma"** that defines Valiant to this day.
+
+| Aspect | Description |
+|--------|-------------|
+| **Role** | Center of MUD research, medical innovation, and technological advancement |
+| **Faction** | [Scientia](../factions/mud.md) — MUD's research & technology branch |
+| **Leader** | **Dr. Selene Siqueira** — current Scientia head |
+| **Philosophy** | Rationalism over faith — evidence determines truth |
+| **Tension** | Direct clash with [Verzan](../geography/sectors/verzan.md)'s Church orthodoxy — the eternal war of faith vs. reason |
 
 ---
 
-## Systems & Locations (To be populated)
+## Key Locations
 
-- [System Name]
+| Location | Description |
+|----------|-------------|
+| **Scientia Research Complex** | MUD's premier research institution. Medical, technological, and applied science |
+| **Pox Memorial** | Monument to the 8% who died — and the scientists who saved the rest |
+| **Quarantine Vaults** | Sealed mines containing Pox ore samples for ongoing study |
+
+---
+
+## Cross-References
+
+### Factions
+
+- [MUD](../factions/mud.md) — Parent faction (MUD 2, Safe Zone)
+- [Scientia](../factions/mud.md) — Dominant political power in Valiant
+
+### Geography
+
+- [Exodus](../geography/sectors/exodus.md) — MUD capital
+- [Verzan](../geography/sectors/verzan.md) — Rival sector (faith vs. reason tension)
+- [Amora](../geography/sectors/amora.md) — Ancient ruins may link to the Translucid Pox's origin
+
+---

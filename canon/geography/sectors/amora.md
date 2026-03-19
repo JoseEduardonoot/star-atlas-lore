@@ -1,37 +1,68 @@
 # Amora Sector (MUD 5)
 
+> *"For foes, maintain your guard... let them face the consequences of their temerity."*
+> — The Revelation
+
 ---
 
 ## Overview
 
-> *"For foes, maintain your guard... let them face the consequences of their temerity."*
-> — The Revelation.
+**Amora** is the heart of humanity's martial industries — a reputation that resonates across the galaxy as the unparalleled masters of weapon crafting. Sprawling fortresses dominate planets that are wealthy in resources but virtually barren of life. This sector has served as the **training ground for MUD armies** since before the [Convergence War](../history/eras_of_star_atlas.md).
 
-**Amora** is the heart of humanity's martial industries. A reputation that resonates across the galaxy as the unparalleled masters of weapon crafting.
+But beneath the fortresses lies something far older and more dangerous than any weapon MUD has ever built.
 
-## Key Lore
+---
 
-- **Controller**: **The Pearce Council**.
-- **Environment**: Wealth of resources, rugged planets virtually barren of life. Sprawling fortresses.
-- **Role**: Training ground for MUD armies since before the Convergence War.
+## The Martial Heart
 
-### The Archon Secret
+| Aspect | Description |
+|--------|-------------|
+| **Controller** | **The [Pearce Council](../factions/mud.md)** — MUD's military branch |
+| **Commander** | **Admiral Darius Ashworth** |
+| **Environment** | Resource-rich, rugged planets virtually barren of life |
+| **Infrastructure** | Sprawling fortresses, weapons factories, training complexes |
+| **Military Products** | Pearce T1 Titan-class components, fleet weaponry, combat training |
+| **Role** | MUD's undisputed military domain — what the Pearce Council produces, the galaxy fears |
 
-- **The Facade**: Are the fortresses merely bases?
-- **The Truth**: They mask the **secrets of an Ancient Civilization** (incomprehensible ruins/tech) found in the sector. MUD keeps this hidden from ONI/Ustur at all costs.
+### Pearce Council Autonomy
+
+The Pearce Council's growing autonomy alarms the Senate, the [Scientia](../factions/mud.md) faction, and even the Gotti family. The question hanging over Amora is the oldest political question in history: **who really holds the power — the throne or the sword?**
+
+---
+
+## The Ancient Ruins
+
+### 🔴 Archon Secret
+
+| Detail | Description |
+|--------|-------------|
+| **The Facade** | The fortresses are merely military bases |
+| **The Truth** | They mask the **secrets of an Ancient Civilization** — incomprehensible ruins and technology found beneath the sector's surface |
+| **Classification** | MUD keeps this hidden from [ONI](../factions/oni.md) and [Ustur](../factions/ustur.md) at all costs |
+| **Implications** | The ruins may connect to the same civilizations discovered in [Soletud](../geography/sectors/soletud.md) (the carcass), [Ka-dara](../geography/sectors/ka_dara.md) (the Ka-raviam), and [Izar](../geography/sectors/izar.md) (the Izarian ancestors) |
+| **Connection to Pox** | The ancient mining contamination may have left biological traces (the [Translucid Pox](../geography/sectors/valiant.md)) across multiple MUD sectors |
 
 ---
 
 ## Political Influence
 
-### Dominant Power: **The Pearce Council (The Military)**
+### Dominant Power: The Pearce Council (The Military)
 
-- Amora is the Pearce Council's undisputed domain. They control the training grounds, weapons manufacturing, and the secret excavation of the Ancient Ruins.
-- The Pearce Council views itself as the true protector of MUD, arguing that military strength — not prayers or commerce — ensures survival.
-- **Tension with Exodus**: The Pearce Council's growing autonomy alarms the Senate and even the Gotti family. Who really holds the power — the throne or the sword?
+The Pearce Council views itself as the **true protector of MUD**, arguing that military strength — not prayers or commerce — ensures survival. Their vision of the [Cataclysm](../geography/the_cataclysm.md) is a **Strategic Singularity** — a resource that must be seized and held by force.
 
 ---
 
-## Systems & Locations (To be populated)
+## Cross-References
 
-- [System Name]
+### Factions
+
+- [MUD](../factions/mud.md) — Parent faction (MUD 5, Safe Zone)
+- [Pearce Council](../factions/mud.md) — Dominant political power in Amora
+
+### Geography
+
+- [Exodus](../geography/sectors/exodus.md) — MUD capital
+- [Valiant](../geography/sectors/valiant.md) — Translucid Pox may originate from same ancient civilization
+- [Soletud](../geography/sectors/soletud.md), [Ka-dara](../geography/sectors/ka_dara.md), [Izar](../geography/sectors/izar.md) — Potential ancient civilization connections
+
+---
