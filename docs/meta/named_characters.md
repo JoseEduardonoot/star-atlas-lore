@@ -139,6 +139,18 @@
 
 > **Also listed elsewhere**: Volmik Vaor Scarka (graduate — see COP, listed as Mierese Leader), Plirk Dosk Scarka (Deep Current — see Frenir)
 
+### Jorvik (Anarchist Pirate Fleet)
+
+| Name | Species | Role | Allegiance | Source |
+|------|---------|------|------------|--------|
+| **The Pirate King** | Human/Mierese hybrid | Supreme Commander — real name unknown; born ~2498 | Jorvik | `jorvik.md` |
+| **Captain Nyrra Fenn** | Mierese | Fleet Captain — Vanguard Squadron; commands the *Ashwake* | Jorvik | `jorvik.md` |
+| **Dalla "D" Vickers** | Human (MUD) | Supply Chain Operator — runs the Fimbul BYOS smuggling pipeline through Abyd | Jorvik | `jorvik.md`, `abyd_government.md` |
+| **Kezrik the Ash** | Punaab | Chief Navigator — designs "Ghost Drift" evasion routes | Jorvik | `jorvik.md` |
+| **"Spoke" Harlen** | Human (MUD) | Chief Engineer — Fleet Maintenance; ex-Fimbul Industries defector | Jorvik | `jorvik.md` |
+| **Garonthe** | Sogmian | Former Jorvik — now BMAH Auctioneer; bridges both worlds | Jorvik → BMAH | `jorvik.md`, `black_market_auction_house.md` |
+| **Mr. Sbugolz** | Punaab | Original Crew — Field Operative; serial escapist (*"KIKIKIKI!"*); entrusted with secret HRZ missions | Jorvik | `jorvik.md` |
+
 ### Sorkof Pirates (Jorvik Splinter)
 
 | Name | Species | Role | Allegiance | Source |
@@ -335,14 +347,6 @@
 | **Lucaria** | Sogmian | Lantern Bearer — former outlaw, joined after Ka-dara rescue | Sons of Patrah | `sons_of_patrah.md`, `never_alone_campaign.md` |
 
 ---
-
-## Sorkof Pirates
-
-| Name | Species | Role | Allegiance | Source |
-|------|---------|------|------------|--------|
-| **Captain Grael Sorkof** | Punaab | Founder & Fleet Captain | Sorkof Pirates | `sorkof_pirates.md` |
-| **Torvo Blackwake** | Human (MUD) | First Mate of *The Debt*, tactician | Sorkof Pirates | `sorkof_pirates.md` |
-| **Crix.bod** | Ustur (Bod stage) | Ship-breaker specialist | Sorkof Pirates | `sorkof_pirates.md` |
 
 ---
 

@@ -198,7 +198,7 @@ Those who have seen the Pirate King in person — and lived to speak of it — a
 
 The theories multiply. Some attribute it to his Mierese heritage — the species is known for slower biological aging, and a half-Mierese hybrid might inherit an amplified version of the trait. Others whisper of black-market biotechnology — regenerative treatments bought from ECOS bio-engineers or stolen from ONI research convoys. A darker theory, popular among Jorvik crews themselves, holds that the Pirate King is not one man but a *succession* of men, each adopting the crown and the legend when the previous King dies — though no evidence supports this, and those who have met him insist the charisma is singular and unmistakable. A rare few believe something stranger still: that whatever the Brand technology truly is, it was not the only gift the Pirate King brought out of the HRZ, and that the source of his youth is the same as the source of the Brand — unknown, unexplained, and best left unquestioned.
 
-The Pirate King, characteristically, has never addressed the subject.
+The Pirate King, characteristically, has never addressed the subject. He has, however, been observed laughing — genuinely, unguardedly laughing — exactly once in COP surveillance records: during a debriefing with **Mr. Sbugolz**, a [Punaab](../species/punaab.md) from the original fleet who holds the dubious distinction of having been imprisoned by more factions than any living pirate. Sbugolz — recognizable by his oily bravado and a signature rattling laugh (*"KIKIKIKI!"*) — has escaped every cell, survived every ambush, and bungled every clean operation he has ever been assigned. Yet the Pirate King keeps sending him on missions, each more improbable than the last — including, according to intercepted transmissions, classified retrieval operations deep in the HRZ that the King trusts to no one else. When asked why, the King reportedly said: *"Because he makes me remember why I started all this."*
 
 ---
 
@@ -212,6 +212,7 @@ The Pirate King, characteristically, has never addressed the subject.
 | **Kezrik the Ash** | [Punaab](../species/punaab.md) | Chief Navigator | Charts the nomadic fleet's movement patterns; credited with designing the "Ghost Drift" routes that evade COP patrols |
 | **"Spoke" Harlen** | [Human](../species/human.md) (MUD) | Chief Engineer — Fleet Maintenance | Former [Fimbul Industries](../factions/fimbul_industries.md) engineer who defected; keeps the aging fleet operational through salvage and improvisation |
 | **Garonthe** | [Sogmian](../species/sogmian.md) | Former Jorvik — now [BMAH](../factions/black_market_auction_house.md) Auctioneer | Left Jorvik on good terms; his origin gives him credibility in both worlds and facilitates Jorvik-BMAH trade |
+| **Mr. Sbugolz** | [Punaab](../species/punaab.md) | Original Crew — Field Operative | Member of the founding fleet; serial escapist (*"KIKIKIKI!"*); entrusted with secret HRZ retrieval missions despite a legendary talent for getting captured |
 
 ---
 
