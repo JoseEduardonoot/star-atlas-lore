@@ -160,6 +160,7 @@
 | **Crix.bod** | Ustur (Bod stage) | Ship-breaker specialist — mobile workshop aboard *The Debt* | Sorkof Pirates | `sorkof_pirates.md` |
 | **Velk** | Sogmian | Slave Master — manages *Gullet* and captive pipeline | Sorkof Pirates | `sorkof_pirates.md` |
 | **Nara Finn** | Human (MUD) | Navigator — COP deserter, pilot of *The Debt* | Sorkof Pirates | `sorkof_pirates.md` |
+| **"Scald" Marrex** | Punaab | Raid Coordinator — scout deployment and target identification | Sorkof Pirates | `sorkof_pirates.md` |
 
 ### Winter Fist Path
 
