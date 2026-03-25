@@ -267,8 +267,13 @@
 
 | Name | Species | Role | Allegiance | Source |
 |------|---------|------|------------|--------|
-| **Garonthe** | Unknown | Current Leading Auctioneer | BMAH | `bmah.md` |
-| **Eknok** | Unknown | BMAH Founder | BMAH (historical) | `bmah.md` |
+| **Garonthe** | Sogmian | Current Leading Auctioneer — retired Jorvik captain | BMAH | `black_market_auction_house.md` |
+| **Herdus.soul** | Ustur | Former Leading Auctioneer — Church of the Dreamer Below founder | BMAH (historical) | `black_market_auction_house.md` |
+| **Eknok** | Unknown | BMAH Founder — war criminal, visionary merchant | BMAH (historical) | `black_market_auction_house.md` |
+| **Saand** | Punaab | Saboteur — killed Herdus, triggered COP raids | BMAH / Independent | `black_market_auction_house.md` |
+| **Drenna Voss** | Human | Senior Auctioneer — artifact authentication specialist | BMAH | `black_market_auction_house.md` |
+| **Quiet Jeel** | Mierese | Logistics Coordinator — manages mobile auction schedule | BMAH | `black_market_auction_house.md` |
+| **Madame Jaffa** | Unknown | Proprietor — House of Relaxation, intelligence broker | BMAH (independent) | `black_market_auction_house.md` |
 
 ---
 
